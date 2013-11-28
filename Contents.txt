@@ -2,3 +2,4 @@
 
 chapter1.txt
 chapter-pie.txt
+chapter2.txt
