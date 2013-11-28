@@ -1,9 +1,3 @@
-### Welcome to your project!
+### About The New Kitchen Cookbook
 
-- Click the `Edit` button to start writing
-- Invite collaborators with the `Share` button
-
-### Need help?
-
-- Learn about Penflip: [penflip.com/help](http://www.penflip.com/help)
-- Talk to a person: support@penflip.com
+My recipes were living in SpringPad when I discovered Penflip.  I thought they needed a bit more organization than SpringPad was giving them (and I wanted my recipe descriptions back that SpringPad had dropped for no reason), so I decided to turn them into a book.  This is that book...
