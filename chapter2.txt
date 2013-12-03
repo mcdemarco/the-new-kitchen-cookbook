@@ -4,7 +4,7 @@ Yes, pie is its own chapter.
 
 ## Crust
 
-First, the crust.  My crusts all started from the basic crust recipe in my old Better Homes and Gardens Cookbook (which my sister said to use), but have been adjusted so I don't have to keep doing the math.  
+First, the crust.  My crusts all started from the basic  piecrust recipe in my old Better Homes and Gardens Cookbook (which my sister said to use), but have been adjusted so I don't have to keep doing the math.  
 
 I usually make a 9" pie with the 9" recipe, but if you're bad at rolling out dough (or you want leftovers), you should up it to the 10" recipe.
 
@@ -46,13 +46,29 @@ I usually make a 9" pie with the 9" recipe, but if you're bad at rolling out dou
 
 Mix flour & salt. Cut in shortening with a pastry cutter. When pieces are pea-sized, add water gradually until just damp. Squeeze into a ball.  For a double crust, divide in half.  Chill for about an hour. 
 
-Roll out bottom crust between parchment paper and plastic wrap.  (If making a double crust, use the larger half for the bottom crust.)  Peel off the parchment first (or don't, if using only parchment) and flip into pie plate.  Adjust carefully if necessary, then peel off the plastic wrap.  Fill with filling.
+Roll out bottom crust between parchment paper and plastic wrap.  (If making a double crust, use the larger half for the bottom crust.)  Peel off the parchment first (or don't, if using only parchment) and flip into pie plate.  Adjust carefully if necessary, then peel off the plastic wrap.  Fill with desired filling.
 
 For a top crust, roll out the remaining dough.  Prep the seam by rubbing shortening on the top edge of the bottom crust.  Peel off one sheet and center the top over the pie, then peel the other sheet off carefully and trim and/or roll overlap under as desired.  
 
-Pinch edge of crust to seal/decorate as desired.  (I do the fork thing.)  Cut vents into top crust.
+Pinch edge of crust to seal/decorate as desired.  (I do the fork thing.)  Cut vents into top crust.  Bake as directed.
 
 ## Pies
+
+### Apple Pie
+
+This started out as the Apple Pie recipe from the Better Homes and Gardens Cook Book (revised edition, 1951, ch. 15, p. 11). I reduced the water in the pastry dough, and Peter removed some filling ingredients he didn't approve of. Unfortunately, he didn't mention that the pie would need more time in the oven for the no-apple-gravy approach, so my first attempt came out a bit soggy. (Cooking times have been adjusted.)
+
+#### Ingredients
+
+* 1 8" or 9" double-crust pie shell (uncooked)
+* 6 Cortland apples 
+* 3/4 c. sugar 
+* 2 tsp. Vietnamese cinnamon 
+* 1/4 tsp. nutmeg
+
+#### Directions
+
+Slice apples thin. Toss with remaining ingredients. Preheat oven to 450 F.  Fill bottom pie crust with apples, top, and seal. Cut vents into top crust.  Optionally, sprinkle with cinnamon. Bake 10 minutes at 450. Bake 45-50 more minutes at 350. Cool.
 
 ### Blueberry Pie
 
@@ -60,7 +76,7 @@ This is a mix of the Better Homes and Gardens Blueberry Pie recipe and the Joy o
 
 #### Ingredients
 
-* 1 9" double crust
+* 1 9" double-crust pie shell (uncooked)
 * 20 oz. frozen blueberries
 * 1 scant c. sugar
 * 1/4 c. flour
@@ -79,7 +95,7 @@ I make pear pie with somewhat underripe pears from our backyard pear tree.  This
 
 #### Ingredients
 
-* 1 9" double pie crust
+* 1 9" double-crust pie shell (uncooked)
 * about 6 cups peeled, cored and sliced pears 
 * 1/2 c. sugar
 * 1/4 tsp nutmeg 
@@ -99,7 +115,7 @@ Peter likes lots of pecans in his pie, so I found a simple recipe with more peca
 
 #### Ingredients
 
-* single-crust pie shell, rolled out and fitted into a 9-inch pie plate 
+* 1 9" single-crust pie shell (uncooked)
 * 4 large eggs 
 * 1 cup light corn syrup 
 * 1/3 cup packed light-brown sugar 
