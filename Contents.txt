@@ -1,7 +1,4 @@
 > These files will be included in your book:
 
-chapter1.txt
-chapter-pie.txt
-chapter2.txt
 bread.txt
 pie.txt
