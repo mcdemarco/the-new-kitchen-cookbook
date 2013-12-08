@@ -1,12 +1,14 @@
 # Chicken
 
+Chicken is good base on which to express my cooking principle that everything is better with coriander.
+
 ## Roasted Chicken Quarters with Butternut Squash
 
-This is my first Penflip-only recipe.  It is a wacky combination of various chicken and squash recipies Google spit out, and was inspired by a package of diced butternut squash from Costco.
+This is the first recipe I entered directly into Penflip.  It's a combination of various baked chicken/squash recipies Google spit out, along with a Moroccan chicken and squash stew.  It was inspired by a two pound package of diced butternut squash from Costco.
 
 ### Ingredients
 
-* 3-4 chicken back quarters
+* 3 chicken back quarters
 * 1 lb diced butternut squash
 * 8 cloves garlic, unpeeled
 * 1/2 c. walnuts (optional)
@@ -23,8 +25,9 @@ This is my first Penflip-only recipe.  It is a wacky combination of various chic
 
 ### Directions
 
-1. Mix spices.  Rub chicken with oil and some of the spice.  Lay out in a baking dish skin side up.  Coat squash with oil and remaining spice.  Scatter among chicken.  Sprinkle with walnuts.
-2. Optionally, cover and refrigerate until dinnertime.
-3. Bake at 450 degrees for 45 minutes or until done.
+1. Mix spices.  Rub chicken with oil and some of the spice.  Lay out in a baking dish skin side up.  
+2. Coat squash with oil and remaining spice, and mix in walnuts.  Scatter squash-walnut mixture among chicken.
+3. Optionally, cover and refrigerate until dinnertime.
+4. Bake at 450 degrees for 45 minutes or until done.
 
 
