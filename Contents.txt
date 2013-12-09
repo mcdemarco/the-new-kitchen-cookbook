@@ -1,10 +1,10 @@
 > These files will be included in your book:
 
-appetizers.txt
 bread.txt
+appetizers.txt
+vegetable.txt
 pasta.txt
 chicken.txt
 fish.txt
 cookies.txt
 pie.txt
-vegetable.txt
