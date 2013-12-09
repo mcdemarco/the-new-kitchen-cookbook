@@ -1,9 +1,9 @@
 > These files will be included in your book:
 
+appetizers.txt
 bread.txt
-pie.txt
+pasta.txt
 chicken.txt
 fish.txt
 cookies.txt
-pasta.txt
-appetizers.txt
+pie.txt
