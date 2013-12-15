@@ -27,7 +27,7 @@ If dough squeezes out the sides of the iron, you've used too much.  Be sure to s
 
 ### Pizzelles by the Egg; Chocolate Pizzelles, Eggnog Pizzelles, etc.
 
-![eggnog pizzelle](http://springpad-user-data.s3.amazonaws.com/36d02/36d02002b5a1ca9c5731940f75b1424e/43371af3-e39f-4346-b398-d044147112b3.jpg)
+![eggnog pizzelle](http://mcdemarco.net/files/recipes/eggnog_pizzelle.jpg)
 
 I sometimes go up to 8 eggs or experiment with a couple, so I broke down the pizzelle recipe to a single egg.  Peter is responsible for the eggnog variant.
 
@@ -54,13 +54,13 @@ For gluten-free pizzelles, use buckwheat flour.
 
 See full pizzelle recipe for directions.
 
-![dough](https://springpad-user-data.s3.amazonaws.com/669e5/669e5bac3945bea02fad8e232b3c5f42/4335a080-f605-4195-b0f7-3d6a04a1b825.jpg)
+![dough](http://mcdemarco.net/files/recipes/dough.jpg)
 
 ### Pistachio Biscotti
 
 As I mentioned, I burned out my first pizzelle iron.  On the day that it gasped its last gasp, I had already made the cookie dough, so I had to find something else to do with it.  I got out my Italian cookbook and discovered that biscotti had almost the same ingredients, so I adjusted the flour and learned to make biscotti.
 
-![cooling](https://springpad-user-data.s3.amazonaws.com/080d9/080d94affd82e2bd62cd5e3098119c78/4336a3c6-93d6-4cf4-bb1a-05637f5b5a43.jpg)
+![biscotti cooling](http://mcdemarco.net/files/recipes/biscotti_cooling.jpg)
 
 This recipe is for non-dairy pistachio biscotti. The yield depends on how you form and cut the logs. I've never gotten as few as the 18 the original recipe alleged. These are my friend Sarah's favorite of my rather small cookie repertoire.  Based on Recipe #44360 on the now-defunct Recipezaar, which included butter, lemon zest, and an almond option. (I use #300513 for almond biscotti.)
 
@@ -83,17 +83,17 @@ Heat oven to 325°. Combine flour and baking powder and set aside. Whisk togethe
 
 Form dough into one or two long narrow logs on parchment paper on an insulated cookie sheet. Bake 30 minutes or until toothpick comes out clean. Cool 15 minutes. 
 
-![cooked log](https://springpad-user-data.s3.amazonaws.com/57508/57508ee6dc7cb27a2961696fac2733f4/433b2354-06f6-4bcc-bd9e-e3c205cb903e.jpg)
+![cooked log](http://mcdemarco.net/files/recipes/cooked_log.jpg)
 
 Cut log(s) on an angle into 1/2 inch slices using a very sharp or serrated knife. 
 
-![raw slices](https://springpad-user-data.s3.amazonaws.com/65f86/65f86869a196666dd933e06f639a82e6/43354ab3-65be-4281-8892-a686dc3f9b7a.jpg)
+![raw slices](http://mcdemarco.net/files/recipes/raw_slices.jpg)
 
 Lay slices flat on an uninsulated cookie sheet and bake 10-12 minutes or until golden on each side. (The recipe inconveniently makes about 1 1/4 toasting batches.) Cool on wire rack. 
 
 ### Anise Cookies
 
-![anise drop cookies](https://springpad.com/proxy/userdata/517b3/517b3ce5d6510e55ba8a64de13a09bc6/433cba47-6a73-46ef-8fb8-dd939ded8151.jpg)
+![anise drop cookies](http://mcdemarco.net/files/recipes/anise_drop_cookies.jpg)
 
 I cut this down from another recipe, [Auntie Mella’s Italian Cookies](http://theapronarchives.com/2012/04/05/auntie-mellas-italian-soft-anise-cookies/), because I only had two eggs. I also made it non-dairy and switched to anise oil.  Note that you can use a cake ball pan for these--the only use I've found yet for my cake-ball pan.
 
@@ -144,7 +144,7 @@ Bake 1 T. per cookie on a greased baking sheet at 350° for 12-14 minutes.  Cool
 
 ### Almond Butter Cutouts
 
-![cutout suns](https://springpad-user-data.s3.amazonaws.com/0b681/0b681c818a8e32fea6aef985d226abb1/433e637f-d158-4013-b0c3-36655b3fc978.jpg)
+![cutout suns](http://mcdemarco.net/files/recipes/cutout_suns.jpg)
 
 These are non-dairy almond butter cookie-cutter cookies I made for a solstice/Armageddon party. I cut them out with a sun-shaped cookie cutter from Tags. I started with the Peanut Butter Cutouts recipe from The King Arthur Flour Cookie Companion because I meant to make peanut butter cookies, but my jar of peanut butter was crunchy and the almond butter was smooth. I had the non-dairy almond cream hanging around. I tried to make the Vanilla Glaze from the cookie book using almond cream as well, but it came out too runny.
 
@@ -172,7 +172,7 @@ Preheat oven to 350 degrees. Roll dough out between two sheets of parchment pape
 
 ### Nan Berenji
 
-![Nan berenji](http://springpad-user-data.s3.amazonaws.com/ea032/ea032e57a937ff02c37dea9b107c8f3f/4336eef0-59c0-4efb-a0ed-4328a59ba427.jpg)
+![Nan berenji](http://mcdemarco.net/files/recipes/Nan_berenji.jpg)
 
 This is my classic rice flour cookie recipe that I've been making for years. It's from _Sephardic Cooking_ by Copeland Marks (p. 186).  I also experimented with a Nan Berenji recipe in the _New Food of Life_ cookbook, but that one failed.
 
@@ -193,7 +193,7 @@ Cream butter and sugar. Mix in eggs and water. Add dry ingredients (except poppy
 
 ### Red Bean Paste Hamantaschen
 
-![hamantaschen](http://springpad-user-data.s3.amazonaws.com/1ae40/1ae40df861f63887396361fbb149b46d/433ffce2-2f8b-4f4e-b7ad-3426d0e56b78.jpg)
+![hamantaschen](http://mcdemarco.net/files/recipes/hamantaschen.jpg)
 
 Peter had made red bean paste hamantaschen once before. I'm not a big fan of hamantaschen, but I am of red bean paste, so I tried it out. We also made a couple of refrigerator surprise hamantaschen; those are best left undocumented.
 
@@ -201,10 +201,10 @@ Peter had made red bean paste hamantaschen once before. I'm not a big fan of ham
 
 I followed the [chunky recipe](http://www.applepiepatispate.com/japanese/sweet-azuki-red-bean-paste/) (1 c. dried beans and 1 c. white sugar) for red bean paste, but stuck my blender stick in it to smooth it out quite a bit.
 
-![red bean paste](https://springpad-user-data.s3.amazonaws.com/441cd/441cd214f289ac513b3f02481bfbe76d/433e3d85-93cc-4023-8a65-c0bdbfbd2906.jpg)
+![red bean paste](http://mcdemarco.net/files/recipes/red_bean_paste.jpg)
 
 I tried to follow the hamantaschen recipe from my King Arthur cookie cookbook, but it came out too dry so I had to gradually add water like for pastry. I'll try a different recipe next year. 
 
-![hexagons](https://springpad-user-data.s3.amazonaws.com/1111e/1111e3a10ef09d48b50aef0d6886f8ae/43327558-5947-4ec2-8b27-41242975725a.jpg)
+![hexagons](http://mcdemarco.net/files/recipes/hexagons.jpg)
 
 I cut these out with hexagon cookie cutters (about 3 1/4 inch across), folded them up in the middle of 3 sides of the hexagon, and glued them with egg yolk as the recipe recommended. The outcome was more like tiny red bean paste pies than regular hamantaschen, but we liked them that way.
