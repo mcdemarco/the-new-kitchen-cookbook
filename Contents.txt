@@ -1,5 +1,6 @@
 > These files will be included in your book:
 
+About.txt
 bread.txt
 appetizers.txt
 vegetable.txt
