@@ -4,6 +4,12 @@
 
 Chicken is good base on which to express my cooking principle that everything is better with coriander.
 
+### Roasted Whole Chicken
+
+I roast chicken according to the 1942 Good Housekeeping Cookbook: 50 minutes per pound at 325°, covered with a greased cheesecloth (or just a bit of oil, if you don't mind spattering the whole oven with chicken grease).  Cut out 7 minutes per pound for chickens over 4 lbs., and 14 per pound for chickens over 5 lbs.
+
+You're supposed to use a wire rack in the roasting pan; if I ever acquire one I'll try it that way.
+
 ### Chicken Cacciatore
 
 I got this recipe from _Cucina Ebraica: Flavors of the Italian Jewish Kitchen_, by Joyce Goldstein, but it's also available [online](http://www.cyber-kitchen.com/rfcj/ITALIAN/Poultry_Chicken_Ezekiels_-_meat.html). The changes I tend to make are using whole, unpitted oil-cured olives in place of the chopped pitted ones (from a similar recipe in another cookbook), onions, and/or random quantities of dried spices in place of the fresh ones.
@@ -84,6 +90,7 @@ This is the first recipe I entered directly into Penflip.  It's a combination of
 2. Coat squash with oil and remaining spice, and mix in walnuts.  Scatter squash-walnut mixture among chicken.
 3. Optionally, cover and refrigerate until dinnertime.
 4. Bake at 450 degrees for 45 minutes or until done.
+
 
 ## Turkey
 
