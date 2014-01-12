@@ -9,8 +9,8 @@ pasta.txt
 meat.txt
 poultry.txt
 fish.txt
+sweets.txt
 cookies.txt
 pie.txt
 breakfast.txt
 drinks.txt
-sweets.txt
