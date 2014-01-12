@@ -1,8 +1,9 @@
 > These files will be included in your book:
 
 About.txt
-bread.txt
 appetizers.txt
+bread.txt
+soup.txt
 vegetable.txt
 rice.txt
 pasta.txt
@@ -14,4 +15,3 @@ cookies.txt
 pie.txt
 breakfast.txt
 drinks.txt
-soup.txt
