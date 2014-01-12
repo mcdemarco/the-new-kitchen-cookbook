@@ -4,6 +4,7 @@ About.txt
 bread.txt
 appetizers.txt
 vegetable.txt
+rice.txt
 pasta.txt
 meat.txt
 poultry.txt
@@ -12,4 +13,3 @@ cookies.txt
 pie.txt
 breakfast.txt
 drinks.txt
-rice.txt
