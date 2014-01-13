@@ -1,7 +1,5 @@
 # Drinks
 
-Peter is largely responsible for this chapter.
-
 ## Hot Toddy
 
 ![toddies](http://mcdemarco.net/files/recipes/toddies.jpg)
@@ -27,3 +25,17 @@ This is Peter's recipe for hot toddies. Measurements are approximate and may be 
 
 Simmer dry spices 15 minutes. Add ginger and fruit. Simmer 15 more minutes. Squish fruit through strainer and discard rind. Strain out spices and discard. Add honey and whiskey (1/2 shot per 6 oz). Serve hot. Note: the timings are by no means precise, but avoid cooking the citrus too long or the result will be bitter.
 
+
+## Pitúies
+
+Pitú is a brand of cachaça, a Brazilian "rum" made of sugar cane instead of molasses.  The name of the drink and the recipe are from my sister.
+
+### Ingredients
+
+* 1/2 lime
+* 1 T. powdered sugar
+* 1 oz. Pitú
+
+### Directions
+
+Squeeze lime and mix.
