@@ -18,7 +18,6 @@ bread/marble.md
 bread/healthy.md
 bread/challah.md
 bread/artisanIndex.md
-bread/naan.md
 quick-bread/blueberryPancakes.md
 quick-bread/pancakes.md
 quick-bread/crepes.md
@@ -27,6 +26,7 @@ quick-bread/branMuffins.md
 quick-bread/bananaCranberry.md
 quick-bread/carrotSpice.md
 quick-bread/zucchini.md
+quick-bread/naan.md
 vegetables/aboutVegetables.md
 vegetables/broccolini.md
 vegetables/rapini.md
