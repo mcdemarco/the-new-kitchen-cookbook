@@ -5,12 +5,14 @@ appetizers/devilled.md
 appetizers/chickpeas.md
 appetizers/toddy.md
 appetizers/pituie.md
-soup/soup.txt
 soup/aboutsoup.md
 soup/kale.md
 soup/cilantro.md
 soup/chickpea.md
 bread/bread.txt
+bread/aboutbread.md
+bread/cornstarch.md
+bread/caramel.md
 quick-bread/quickbread.txt
 vegetables/vegetables.txt
 rice/rice.txt
