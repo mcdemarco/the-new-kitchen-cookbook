@@ -10,6 +10,6 @@ preface/About.txt
 appetizers/appetizers.txt
 soup/soup.txt
 bread/bread.txt
-bread/rice.txt
 quick-bread/quickbread.txt
 vegetables/vegetables.txt
+vegetables/rice.txt
