@@ -1,6 +1,3 @@
-> These files will be included in your book:
-
-About.txt
 appetizers.txt
 soup.txt
 bread.txt
@@ -15,3 +12,4 @@ sweets.txt
 cookies.txt
 pie.txt
 drinks.txt
+preface/About.txt
