@@ -1,4 +1,3 @@
-meat.txt
 poultry.txt
 fish.txt
 sweets.txt
@@ -13,3 +12,4 @@ quick-bread/quickbread.txt
 vegetables/vegetables.txt
 rice/rice.txt
 pasta/pasta.txt
+meat/meat.txt
