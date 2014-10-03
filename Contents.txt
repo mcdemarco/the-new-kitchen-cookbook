@@ -3,9 +3,9 @@ appetizers/frico.md
 appetizers/devilled.md
 appetizers/chickpeas.md
 appetizers/toddy.md
-appetizers/appetizers.txt
-appetizers/drinks.txt
 appetizers/pituie.md
+appetizers/drinks.txt
+appetizers/appetizers.txt
 soup/soup.txt
 bread/bread.txt
 quick-bread/quickbread.txt
