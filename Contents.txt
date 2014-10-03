@@ -12,4 +12,4 @@ bread/bread.txt
 quick-bread/quickbread.txt
 vegetables/vegetables.txt
 rice/rice.txt
-rice/pasta.txt
+pasta/pasta.txt
