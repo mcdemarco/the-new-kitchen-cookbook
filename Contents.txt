@@ -13,6 +13,12 @@ bread/bread.txt
 bread/aboutbread.md
 bread/cornstarch.md
 bread/caramel.md
+bread/semolina.md
+bread/rosemary.md
+bread/marble.md
+bread/healthy.md
+bread/challah.md
+bread/artisanIndex.md
 quick-bread/quickbread.txt
 vegetables/vegetables.txt
 rice/rice.txt
