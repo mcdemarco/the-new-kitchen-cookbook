@@ -9,7 +9,6 @@ soup/aboutsoup.md
 soup/kale.md
 soup/cilantro.md
 soup/chickpea.md
-bread/bread.txt
 bread/aboutbread.md
 bread/cornstarch.md
 bread/caramel.md
@@ -19,6 +18,7 @@ bread/marble.md
 bread/healthy.md
 bread/challah.md
 bread/artisanIndex.md
+bread/naan.md
 quick-bread/blueberryPancakes.md
 quick-bread/pancakes.md
 quick-bread/crepes.md
@@ -56,4 +56,3 @@ fish/fish.txt
 sweets/sweets.txt
 cookies/cookies.txt
 pie/pie.txt
-naan.md
