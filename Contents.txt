@@ -12,4 +12,4 @@ preface/About.txt
 appetizers/appetizers.txt
 soup/soup.txt
 bread/bread.txt
-bread/quickbread.txt
+quick-bread/quickbread.txt
