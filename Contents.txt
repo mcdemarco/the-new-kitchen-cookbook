@@ -1,6 +1,7 @@
 preface/About.txt
 appetizers/appetizers.txt
 appetizers/drinks.txt
+appetizers/frico.md
 soup/soup.txt
 bread/bread.txt
 quick-bread/quickbread.txt
@@ -13,4 +14,3 @@ fish/fish.txt
 sweets/sweets.txt
 cookies/cookies.txt
 pie/pie.txt
-frico.md
