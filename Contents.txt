@@ -15,10 +15,10 @@ bread/caramel.md
 bread/semolina.md
 bread/rosemary.md
 bread/marble.md
+bread/naan.md
 bread/healthy.md
 bread/challah.md
 bread/artisanIndex.md
-bread/naan.md
 quick-bread/blueberryPancakes.md
 quick-bread/pancakes.md
 quick-bread/crepes.md
