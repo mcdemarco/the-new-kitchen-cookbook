@@ -1,8 +1,8 @@
 preface/About.txt
 appetizers/frico.md
 appetizers/devilled.md
-appetizers/appetizers.txt
 appetizers/chickpeas.md
+appetizers/appetizers.txt
 appetizers/drinks.txt
 soup/soup.txt
 bread/bread.txt
