@@ -1,7 +1,7 @@
 preface/About.txt
+appetizers/frico.md
 appetizers/appetizers.txt
 appetizers/drinks.txt
-appetizers/frico.md
 soup/soup.txt
 bread/bread.txt
 quick-bread/quickbread.txt
