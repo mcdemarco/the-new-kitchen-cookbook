@@ -5,6 +5,7 @@ appetizers/chickpeas.md
 appetizers/toddy.md
 appetizers/appetizers.txt
 appetizers/drinks.txt
+appetizers/pituie.md
 soup/soup.txt
 bread/bread.txt
 quick-bread/quickbread.txt
@@ -17,4 +18,3 @@ fish/fish.txt
 sweets/sweets.txt
 cookies/cookies.txt
 pie/pie.txt
-pituie.md
