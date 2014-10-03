@@ -19,7 +19,14 @@ bread/marble.md
 bread/healthy.md
 bread/challah.md
 bread/artisanIndex.md
-quick-bread/quickbread.txt
+quick-bread/blueberryPancakes.md
+quick-bread/pancakes.md
+quick-bread/crepes.md
+quick-bread/cornbread.md
+quick-bread/branMuffins.md
+quick-bread/bananaCranberry.md
+quick-bread/carrotSpice.md
+quick-bread/zucchini.md
 vegetables/vegetables.txt
 rice/rice.txt
 pasta/pasta.txt
