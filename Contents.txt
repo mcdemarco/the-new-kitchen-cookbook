@@ -39,7 +39,12 @@ vegetables/chickpeaFennel.md
 vegetables/cucumber.md
 vegetables/tomatoWatermelon.md
 vegetables/tomatoAvocado.md
-rice/rice.txt
+rice/riceSalad.md
+rice/stuffedPeppers.md
+rice/roz.md
+rice/aboutRisotto.md
+rice/saffronRisotto.md
+rice/tempehRisotto.md
 pasta/pasta.txt
 meat/meat.txt
 poultry/poultry.txt
