@@ -21,6 +21,6 @@ Yet another Recipezaar recipe, #149098.  Non-vegetarian Portuguese kale soup usu
 
 ## Directions
 
-In a large stockpot, fry the garlic, onions, turnips and carrots in the oil for 5 minutes. Add the kale, chorizo, bay leaves, parsley and thyme and mix well. Add the stock, beans and tomatoes. Bring to a boil, then simmer for 30 to 40 minutes.  You can cook the potatose separately or with the soup.
+In a large stockpot, fry the garlic, onions, turnips and carrots in the oil for 5 minutes. Add the kale, chorizo, bay leaves, parsley and thyme and mix well. Add the stock, beans and tomatoes. Bring to a boil, then simmer for 30 to 40 minutes.  You can cook the potatoes separately or with the soup.
 
 Remove the bay leaves to serve.
