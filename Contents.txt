@@ -1,5 +1,6 @@
 preface/About.txt
 appetizers/frico.md
+appetizers/devilled.md
 appetizers/appetizers.txt
 appetizers/drinks.txt
 soup/soup.txt
@@ -14,4 +15,3 @@ fish/fish.txt
 sweets/sweets.txt
 cookies/cookies.txt
 pie/pie.txt
-devilled.md
