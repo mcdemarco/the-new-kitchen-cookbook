@@ -6,6 +6,7 @@ appetizers/chickpeas.md
 appetizers/toddy.md
 appetizers/pituie.md
 soup/soup.txt
+soup/kale.md
 bread/bread.txt
 quick-bread/quickbread.txt
 vegetables/vegetables.txt
@@ -17,4 +18,3 @@ fish/fish.txt
 sweets/sweets.txt
 cookies/cookies.txt
 pie/pie.txt
-kale.md
