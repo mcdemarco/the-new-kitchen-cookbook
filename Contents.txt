@@ -1,4 +1,3 @@
-quickbread.txt
 vegetables.txt
 rice.txt
 pasta.txt
@@ -12,4 +11,5 @@ drinks.txt
 preface/About.txt
 appetizers/appetizers.txt
 soup/soup.txt
+soup/quickbread.txt
 bread/bread.txt
