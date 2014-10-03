@@ -6,10 +6,10 @@ appetizers/chickpeas.md
 appetizers/toddy.md
 appetizers/pituie.md
 soup/soup.txt
-soup/kale.md
-soup/cilantro.md
-soup/chickpea.md
 soup/aboutsoup.md
+soup/chickpea.md
+soup/cilantro.md
+soup/kale.md
 bread/bread.txt
 quick-bread/quickbread.txt
 vegetables/vegetables.txt
