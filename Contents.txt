@@ -45,7 +45,11 @@ rice/roz.md
 rice/aboutRisotto.md
 rice/saffronRisotto.md
 rice/tempehRisotto.md
-pasta/pasta.txt
+pasta/orzo.md
+pasta/orecchiette.md
+pasta/puttanesca.md
+pasta/chopsuey.md
+pasta/macncheese.md
 meat/meat.txt
 poultry/poultry.txt
 fish/fish.txt
