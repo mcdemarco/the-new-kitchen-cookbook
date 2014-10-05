@@ -24,3 +24,7 @@ Note you need a cast iron frying pan (or other durable pan) with a lid for this 
 9. Check the heat of the pan and re-oil before starting the next naan.
 
 The goal is to get burnt spots on the naan without burning it more thoroughly.
+
+## Variants
+
+You can mix fresh chopped spices in oil and brush them on late in the process: [](http://thecafesucraine
