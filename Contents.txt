@@ -48,9 +48,13 @@ rice/tempehRisotto.md
 rice/orzo.md
 pasta/orecchiette.md
 pasta/puttanesca.md
-pasta/chopsuey.md
 pasta/macncheese.md
-meat/meat.txt
+pasta/chopsuey.md
+pasta/bolognese.md
+pasta/meatsauce.md
+meat/meatballs.md
+meat/meatloaf.md
+meat/curry.md
 poultry/poultry.txt
 fish/fish.txt
 sweets/sweets.txt
