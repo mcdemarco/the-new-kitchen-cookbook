@@ -74,5 +74,14 @@ sweets/nutellaFudge.md
 sweets/easyFudge.md
 sweets/easyMints.md
 sweets/grapefruitPeels.md
-cookies/cookies.txt
+cookies/pizzelles.md
+cookies/pizzellesByTheEgg.md
+cookies/biscotti.md
+cookies/pistachioBiscotti.md
+cookies/aniseDrop.md
+cookies/lemonDrop.md
+cookies/chocolateChip.md
+cookies/almondButter.md
+cookies/riceFlour.md
+cookies/redBeanHamantaschen.md
 pie/pie.txt
