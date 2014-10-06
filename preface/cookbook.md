@@ -1,12 +1,4 @@
-# The New Kitchens
-
-The title refers to my new kitchen(s): the one I moved into when I got married and its new, renovated incarnation.
-
-## The Recipes
-
-I have made all the recipes in the cookbook, most of them more than once.  These are all the recipes that I make frequently now; a few old recipes haven't made it into the cookbook because it's been so long:  some Latin recipes from Cato, which are of mainly historical interest, my collection of ricotta pie and rice pudding recipes, and even my favorite recipe, *Dobrada com Grão*, long neglected due to the difficulty of obtaining tripe (not to mention the lack of general interest).
-
-## Using the Cookbook
+# Using the Cookbook
 
 Some notes about the cookbook:  the recipes are all kosher, and many are non-dairy that would otherwise be dairy; they have been altered for reasons of kashrut and/or lactose intolerance.  No recipes have been altered to avoid salt, fat, trans fat, white flour, or sugar. I do have a tendency to omit black pepper and to fail to peel tomatoes even when instructed to do so.  (Or I comply and then eat the peels raw.)  There is one intentionally gluten-free recipe; it requires a pizzelle iron.
 
