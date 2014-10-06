@@ -55,6 +55,7 @@ pasta/meatsauce.md
 meat/meatballs.md
 meat/meatloaf.md
 meat/curry.md
+meat/chili.md
 poultry/poultry.txt
 fish/fish.txt
 sweets/sweets.txt
