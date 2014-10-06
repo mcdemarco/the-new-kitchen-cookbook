@@ -73,6 +73,6 @@ sweets/tapioca.md
 sweets/nutellaFudge.md
 sweets/easyFudge.md
 sweets/easyMints.md
-sweets/grapefruitPeel.md
+sweets/grapefruitPeels.md
 cookies/cookies.txt
 pie/pie.txt
