@@ -11,7 +11,7 @@ soup/aboutsoup.md
 soup/kale.md
 soup/cilantro.md
 soup/chickpea.md
-bread/aboutbread.md
+bread/advice.md
 bread/cornstarch.md
 bread/caramel.md
 bread/semolina.md
