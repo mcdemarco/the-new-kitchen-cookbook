@@ -69,6 +69,10 @@ fish/costcoSalmon.md
 fish/mackerel.md
 fish/kuku.md
 fish/poke.md
-sweets/sweets.txt
+sweets/tapioca.md
+sweets/nutellaFudge.md
+sweets/easyFudge.md
+sweets/easyMints.md
+sweets/grapefruitPeel.md
 cookies/cookies.txt
 pie/pie.txt
