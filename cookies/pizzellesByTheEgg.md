@@ -1,4 +1,6 @@
-# Pizzelles by the Egg; Chocolate Pizzelles, Eggnog Pizzelles, etc.
+# Pizzelles by the Egg
+
+This version of the recipe is for cookie math as well as variants like chocolate pizzelles, eggnog pizzelles, etc.
 
 ![eggnog pizzelle](http://mcdemarco.net/files/recipes/eggnog_pizzelle.jpg)
 
