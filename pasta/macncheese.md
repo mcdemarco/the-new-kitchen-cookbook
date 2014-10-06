@@ -1,11 +1,3 @@
-# Pasta
-
-Pasta sides and one-pot pasta meals.  Meat sauces can be found in the Meat chapter.
-
-#
-#
-
-#
 # Mac and Cheese
 
 I haven't made this yet, but I wanted to get it down before the link disappeared. 
@@ -25,9 +17,12 @@ I haven't made this yet, but I wanted to get it down before the link disappeared
 
 ## Directions
 
-Process the bread into crumbs with half the butter, on pulse. 
-In the pasta pan or Dutch oven, on medium-high, heat 5 T. butter to foaming. Whisk in flour and spices. Whisk another minute. Whisk in milk slowly. Bring to full boil stirring constantly. Simmer on medium 5 minutes until the thickness of heavy cream. 
-Remove from heat and add cheese and salt. 
-Add pasta and return to medium-low heat for 6 minutes. 
-Transfer to 9x13 baking dish, top with crumbs, and broil 3-5 minutes. 
-Cool 5 minutes before serving. 
+1. Process the bread into crumbs with half the butter, on pulse. 
+2. In the pasta pan or Dutch oven, on medium-high, heat 5 T. butter to foaming. 
+3. Whisk in flour and spices. Whisk another minute. 
+4. Whisk in milk slowly. Bring to full boil stirring constantly. 
+5. Simmer on medium 5 minutes until the thickness of heavy cream. 
+6. Remove from heat and add cheese and salt. 
+7. Add pasta and return to medium-low heat for 6 minutes. 
+8. Transfer to 9x13 baking dish, top with crumbs, and broil 3-5 minutes. 
+9. Cool 5 minutes before serving. 
