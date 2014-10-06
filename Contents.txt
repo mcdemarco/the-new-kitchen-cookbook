@@ -84,6 +84,7 @@ cookies/chocolateChip.md
 cookies/almondButter.md
 cookies/riceFlour.md
 cookies/redBeanHamantaschen.md
+pie/advice.md
 pie/crust.md
 pie/apple.md
 pie/blueberry.md

@@ -1,7 +1,3 @@
-# Pie!
-
-Yes, pie is its own chapter.
-
 # Pecan Pie
 
 ![pecan pie](http://mcdemarco.net/files/recipes/pecan_pie.jpg)
