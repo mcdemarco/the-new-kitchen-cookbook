@@ -45,7 +45,7 @@ rice/roz.md
 rice/aboutRisotto.md
 rice/saffronRisotto.md
 rice/tempehRisotto.md
-pasta/orzo.md
+rice/orzo.md
 pasta/orecchiette.md
 pasta/puttanesca.md
 pasta/chopsuey.md
