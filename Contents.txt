@@ -46,6 +46,7 @@ rice/aboutRisotto.md
 rice/saffronRisotto.md
 rice/tempehRisotto.md
 rice/orzo.md
+rice/sushi.md
 pasta/orecchiette.md
 pasta/puttanesca.md
 pasta/macncheese.md
@@ -64,7 +65,10 @@ poultry/roastedWithSquash.md
 poultry/scaloppini.md
 poultry/crockpotTurkey.md
 poultry/turkeyballs.md
-fish/fish.txt
+fish/costcoSalmon.md
+fish/mackerel.md
+fish/kuku.md
+fish/poke.md
 sweets/sweets.txt
 cookies/cookies.txt
 pie/pie.txt
