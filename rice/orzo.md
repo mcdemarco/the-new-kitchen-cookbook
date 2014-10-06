@@ -1,5 +1,7 @@
 # Orzo
 
+Orzo is Italian for barley, though it sounds like rice and is made of pasta.  Orzo is sometimes called risoni (big rice), and is here in the rice chapter because it cooks like rice.
+
 ## Ingredients
 
 * 4 tbsp. olive oil
