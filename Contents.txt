@@ -29,7 +29,7 @@ quick-bread/branMuffins.md
 quick-bread/bananaCranberry.md
 quick-bread/carrotSpice.md
 quick-bread/zucchini.md
-vegetables/aboutVegetables.md
+vegetables/garlic.md
 vegetables/broccolini.md
 vegetables/rapini.md
 vegetables/fiddleheads.md
