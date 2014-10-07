@@ -1,4 +1,3 @@
-
 # Chickpea Fennel Salad
 
 I got this recipe ("Chickpea Salad with Fennel, Tomatoes and Olives") from my sister, who annotated it.  Further dialog is from her, with some edits for capitalization and the like.
