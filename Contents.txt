@@ -1,6 +1,5 @@
 about.md
 preface/kitchens.md
-preface/recipes.md
 preface/cookbook.md
 appetizers/frico.md
 appetizers/devilled.md
