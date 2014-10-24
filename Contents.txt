@@ -91,3 +91,4 @@ pie/apple.md
 pie/blueberry.md
 pie/pear.md
 pie/pecan.md
+rye.txt
