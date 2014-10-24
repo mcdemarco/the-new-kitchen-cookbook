@@ -19,15 +19,22 @@ One important scientific discovery was that my square Ikea glass baking dish is 
 
 ## Directions
 
-If making a free-form loaf, follow the Healthy Bread directions, but note that the dough is very sticky and airy so won't actually form a gluten cloak.
+### Free-Form
 
-If making in a loaf pan or square pan: mix the ingredients in the order listed, let rise 2 hours as usual, then:
+Follow the Healthy Bread directions, but note that the dough is very sticky and airy so won't actually form a gluten cloak, will stick to whatever you cover it with, and may spread if you fall asleep while it's rising.  Fortunately, you can just fold it in half again and pop it in the oven if it's gotten too wide.
 
-1. Line the bottom with parchment paper.  Insert dough.
-2. Let rise about 90 minutes.
+### Loaf Pan
+
+Mix the ingredients in the order listed and let rise 2 hours as usual.  Refrigerate until needed.
+
+1. Line the bottom with parchment paper.
+2. Dust dough with white flour, form into a ball, and put in pan.
+2. Let rise about 90 minutes, preferably covered with something that won't touch it; it's sticky.
 3. Preheat oven to 375° with the usual steam pan.
-4. Insert pan and 1 c hot water. 
+4. Insert loaf and 1 c hot water.
 5. Bake for 30 minutes.
-6. Remove, remove from pan, remove parchment paper.
-7. Increase heat to 425° and bake the loaf on the rack another 10 minutes.
+6. Remove from oven, remove from pan, remove parchment paper.  Caution: hot!
+7. Increase heat to 425° and bake the loaf on your oven rack another 10 minutes.
+
+Times approximate.
 
