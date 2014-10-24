@@ -14,6 +14,7 @@ bread/cornstarch.md
 bread/caramel.md
 bread/semolina.md
 bread/rosemary.md
+bread/rye.md
 bread/marble.md
 bread/naan.md
 bread/healthy.md
@@ -92,4 +93,3 @@ pie/blueberry.md
 pie/pear.md
 pie/pecan.md
 rye.txt
-rye.md
