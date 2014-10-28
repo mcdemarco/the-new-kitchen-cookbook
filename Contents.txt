@@ -66,7 +66,7 @@ poultry/roastedWithSquash.md
 poultry/scaloppini.md
 poultry/crockpotTurkey.md
 poultry/turkeyballs.md
-poultry/treda.txt
+poultry/treda.md
 fish/costcoSalmon.md
 fish/mackerel.md
 fish/kuku.md
