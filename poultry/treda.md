@@ -2,7 +2,7 @@
 
 I cut this down from Cooking at the Kasbah because my package of chicken quarters was only 1 1/2 lbs., instead of the recommended 2 1/2 lbs. of thighs. I also substituted various other forms of coriander for the fresh sprigs. 
 
-![Treda](../images/treda.jpg)
+![Treda](images/treda.jpg)
 
 
 The translated title is "Tagine of Chicken and Lentils with Fenugreek."
