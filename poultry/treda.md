@@ -2,9 +2,6 @@
 
 I cut this down from Cooking at the Kasbah because my package of chicken quarters was only 1 1/2 lbs., instead of the recommended 2 1/2 lbs. of thighs. I also substituted various other forms of coriander for the fresh sprigs. 
 
-![Treda](images/treda.png)
-
-
 The translated title is "Tagine of Chicken and Lentils with Fenugreek."
 
 ## Ingredients
@@ -34,3 +31,6 @@ Brown onions in oil.  Add tomatoes, first three spices, and chicken. Cook 5 minu
 I served this with macaroni (in addition to the bread) the first time, and Peter liked it that way.
 
 I substituted chicken broth for the water, 2 tsp powdered fenugreek for the whole fenugreek, 1tsp dried coriander and 1 tsp ground coriander for the frozen coriander, and 1 lb boneless thighs for the 1 1/2 lbs chicken quarters. 
+
+![Treda variant](images/treda.png)
+
