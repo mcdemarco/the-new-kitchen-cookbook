@@ -35,5 +35,9 @@ If you run low on broth and the rice is still too hard, add more broth or water 
 
 Leave a little broth in the rice at the end to keep it fairly loose.  If you have leftover broth, save it for reheating any leftover risotto.
 
+## Extras
+
+* A handful of raisins, along with turmeric, dill, basil, mustard seed, assafroa (safflower), and red wine.
+* Diced chicken thighs.
 
 
