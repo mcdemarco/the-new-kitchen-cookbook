@@ -16,6 +16,7 @@ bread/semolina.md
 bread/marble.md
 bread/rosemary.md
 bread/naan.md
+bread/baguette.md
 bread/healthy.md
 bread/rye.md
 bread/challah.md
@@ -58,6 +59,7 @@ meat/meatballs.md
 meat/meatloaf.md
 meat/chili.md
 meat/curry.md
+meat/molha.md
 poultry/roasted.md
 poultry/cacciatore.md
 poultry/turkeyChicken.md
@@ -92,4 +94,4 @@ pie/apple.md
 pie/blueberry.md
 pie/pear.md
 pie/pecan.md
-rye.txt
+
