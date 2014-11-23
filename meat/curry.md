@@ -15,18 +15,22 @@ The notion of beef curry is just so *wrong* I was reluctant to make this, but I 
 * 1/8 tsp. cinnamon
 * 1/4 tsp. ground ginger
 * 1/8 tsp. turmeric
-* cayenne pepper to taste
+* 2 arbol chiles, stemmed, or cayenne pepper to taste
 * 1 14 oz. can tomatoes
 * 1/3 of a small can of tomato paste
 * 4 small fresh tomatoes
-* 6 smallish red potatoes, diced
-* 2 1/2 c. frozen peas
+* 6 smallish red potatoes (about 1 lb.), diced
+* 2 1/2 c. or 1 14 oz. bag frozen peas
 
 
 ## Directions
 
-Cook the potatoes in the can of tomatoes with their juice.  Add water as necessary.
+Cook the potatoes in the can of tomatoes with their juice and the chilis.  Add water as necessary.
 
 Meanwhile, fry the onion in the oil.  Add garlic.  Add meat and brown.  Add spices.
 
 Add the potato mixture and any remaining ingredients to the meat and onions.  Heat through.
+
+## Variants
+
+Use ground turkey instead of ground beef.  Optionally,  substitute chicken broth for any water needed.
