@@ -15,9 +15,9 @@ This is close to the recipe that came with my original iron (which has long sinc
 
 Plug in pizzelle iron. Grease and heat according to manufacturer's instructions.
 
-Beat eggs. Beat in sugar. Add oil and anise. Mix baking powder in with the flour and gradually add it all to the dough. Bake in a pizzelle iron 30 seconds each or until the steam stops.  
+Beat eggs. Beat in sugar. Add oil and anise. Mix baking powder in with the flour and gradually add it all to the dough. Bake in a pizzelle iron 30 seconds each or until the steam stops.
 
-If dough squeezes out the sides of the iron, you've used too much.  Be sure to scrape it off (because it doesn't get cooked).  Too little dough will make seasonal snowflakey edges; it won't harm the cookie any.
+If dough squeezes out the sides of the iron, you've used too much.  Be sure to scrape it off (because it doesn't get cooked).  Too little dough will make seasonal snowflakey edges; it won't harm the cookie any.  If you experience sticking issues, unstick any crumbs with a toothpick and regrease.
 
 ## Variants
 
