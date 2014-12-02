@@ -37,6 +37,7 @@ vegetables/spinach.md
 vegetables/cauliflower.md
 vegetables/squash.md
 vegetables/spiceMix.md
+vegetables/carrotParsnip.md
 vegetables/chickpeaFennel.md
 vegetables/cucumber.md
 vegetables/tomatoWatermelon.md
