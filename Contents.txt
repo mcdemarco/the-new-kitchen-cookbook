@@ -66,10 +66,11 @@ poultry/cacciatore.md
 poultry/turkeyChicken.md
 poultry/bakedTurkeyChicken.md
 poultry/roastedWithSquash.md
+poultry/treda.md
+poultry/thighStew.md
 poultry/scaloppini.md
 poultry/crockpotTurkey.md
 poultry/turkeyballs.md
-poultry/treda.md
 fish/costcoSalmon.md
 fish/mackerel.md
 fish/kuku.md
