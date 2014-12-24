@@ -11,7 +11,7 @@ I was in the mood for soup with turkey meatballs.  This recipe is based on [Ital
 * 2 cloves garlic, minced
 * 1 T parsley, minced
 * 1/2 c. panko
-* 1/4 tsp salt
+* 1 tsp salt
 * 1/4 tsp pepper
 * 1 tsp sage
 * dash thyme
@@ -22,7 +22,7 @@ I was in the mood for soup with turkey meatballs.  This recipe is based on [Ital
 ### Soup
 
 * 2 T. olive oil
-* 1/4 c. onion, chopped
+* 1/2 c. onion, chopped
 * 1 clove garlic, chopped
 * 4 c. chicken stock
 * 1 c. water
@@ -36,6 +36,7 @@ I was in the mood for soup with turkey meatballs.  This recipe is based on [Ital
 ## Directions
 
 1. Mix meatball ingredients except oil.
+2. Roll meatballs as small as you can tolerate, possibly with the help of a tablespoon.
 2. Brown meatballs in oil in a heavy pot.
 3. Remove meatballs if you need the space, and brown onions and garlic in the same pot.
 4. Return meatballs to pan if they left.  Add stock and water.  Bring to a boil.
@@ -45,7 +46,7 @@ I was in the mood for soup with turkey meatballs.  This recipe is based on [Ital
 
 ## Variants
 
-You could make the meatballs out of another ground meat, though in that case you should adjust the meatball spices accordingly.
+You could make the meatballs out of another ground meat, though in that case you might (or might not) want to adjust the meatball spices.  E.g., for 1 lb. ground beef, replace the 1 tsp sage with 1 tsp basil and dash some marjoram, oregano, and/or the thyme.  (Italian seasoning is not an Italian thing, but you can use 1 tsp of that instead if you have it.)
 
-Any small pasta can be used in place of the orzo; adjust the cooking time for that step accordingly.
+Any small pasta can be used in place of the orzo; adjust the cooking time for that step accordingly.  Some people cook the pasta outside of the soup, but that seems like unnecessary work.
 
