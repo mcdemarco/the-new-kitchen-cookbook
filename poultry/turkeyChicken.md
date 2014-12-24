@@ -9,7 +9,7 @@
 * 1 tsp dried sage
 * 1 tsp dried marjoram
 * dash nutmeg
-* 1-3 cloves
+* 1-3 cloves garlic, minced or crushed
 * 1/3 c. olive oil
 * 1/2 c. white cooking wine
 * 3 1/2 - 4 lbs chicken legs
@@ -22,3 +22,7 @@ Roll in a mixture of the salt, spices and garlic. I do this in a big tupperware 
 ![cooking](http://mcdemarco.net/files/recipes/cooking.png)
 
 Cook at medium heat, stirring frequently, for 20 more minutes. Add wine. Reduce until you're really hungry, then serve.
+
+## Variants
+
+Substitute 1 T fresh spice for any of the 1 tsp dried spices.
