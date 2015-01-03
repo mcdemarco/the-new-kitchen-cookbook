@@ -1,6 +1,6 @@
 # Mac and Cheese
 
-I haven't made this yet, but I wanted to get it down before the link disappeared. 
+I've made this twice already, both times with about a cup of panko instead of fresh breadcrumbs.  The recipe was online briefly, but I assume is gone already.
 
 ## Ingredients
 
@@ -26,3 +26,9 @@ I haven't made this yet, but I wanted to get it down before the link disappeared
 7. Add pasta and return to medium-low heat for 6 minutes. 
 8. Transfer to 9x13 baking dish, top with crumbs, and broil 3-5 minutes. 
 9. Cool 5 minutes before serving. 
+
+## Variants
+
+Don't put the pan too close to the broiler if using panko as a substitute for fresh breadcrumbs.  Also, note that the original recipe said not to do that.
+
+I tried doubling the cayenne pepper, to little effect.  I may need some new cayenne pepper...
