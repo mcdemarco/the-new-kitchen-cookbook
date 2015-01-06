@@ -2,7 +2,7 @@
 
 This version of the recipe is for cookie math as well as variants like chocolate pizzelles, eggnog pizzelles, etc.
 
-![eggnog pizzelle](http://mcdemarco.net/files/recipes/eggnog_pizzelle.jpg)
+![eggnog pizzelle](../images/eggnog_pizzelle.jpg)
 
 I sometimes go up to 8 eggs or experiment with a couple, so I broke down the pizzelle recipe to a single egg.  Peter is responsible for the eggnog variant.
 
@@ -21,7 +21,7 @@ I tried a different chocolate pizzelle recipe from [King Arthur Flour](http://ww
 
 See full pizzelle recipe for directions.
 
-![dough](http://mcdemarco.net/files/recipes/dough.jpg)
+![dough](../images/dough.jpg)
 
 ## Variants
 

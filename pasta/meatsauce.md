@@ -1,7 +1,7 @@
 # Meat Sauce
 
-![with sausage](http://mcdemarco.net/files/recipes/with_sausage.jpg)
-![with sauce](http://mcdemarco.net/files/recipes/with_sauce.jpg)
+![with sausage](../images/with_sausage.jpg)
+![with sauce](../images/with_sauce.jpg)
 
 This is the sauce that goes with the meatballs (see Meat). More than a pound of meat can overwhelm the sauce, but it will still cook and be yummy. Served with rigatoni in the picture.
 

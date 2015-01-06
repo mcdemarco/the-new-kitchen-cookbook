@@ -1,6 +1,6 @@
 # Apple Pie
 
-![soggy apple pie](http://mcdemarco.net/files/recipes/soggy_apple_pie.jpg)
+![soggy apple pie](../images/soggy_apple_pie.jpg)
 
 This started out as the Apple Pie recipe from the Better Homes and Gardens Cook Book (revised edition, 1951, ch. 15, p. 11). I reduced the water in the pastry dough, and Peter removed some filling ingredients he didn't approve of. Unfortunately, he didn't mention that the pie would need more time in the oven for the no-apple-gravy approach, so my first attempt came out a bit soggy. (Cooking times have been adjusted.)
 

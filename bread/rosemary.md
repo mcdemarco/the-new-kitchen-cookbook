@@ -1,6 +1,6 @@
 # Rosemary Boule with Kalamata Olives
 
-![Rosemary boule](http://mcdemarco.net/files/recipes/Rosemary_boule.jpg)
+![Rosemary boule](../images/Rosemary_boule.jpg)
 
 This is just the standard 5-minute bread recipe (see link below) using both the herb and olive bread variants. I only rolled olives into my last loaf (out of the batch of four), since I was too busy for that step with the other three. The herb variant called for 1/2 teaspoon dried rosemary or 1 tsp fresh. I had extra fresh rosemary (which I chopped a bit) so I cut back on the dried thyme (from 1 tsp dried or 2 tsp fresh). 
 

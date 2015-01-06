@@ -21,10 +21,10 @@ Heat oven to 325°. Combine flour and baking powder and set aside. Whisk togethe
 
 Form dough into one or two long narrow logs on parchment paper on an insulated cookie sheet. Bake 30 minutes or until toothpick comes out clean. Cool 15 minutes. 
 
-![cooked log](http://mcdemarco.net/files/recipes/cooked_log.jpg)
+![cooked log](../images/cooked_log.jpg)
 
 Cut log(s) on an angle into 1/2 inch slices using a very sharp or serrated knife. 
 
-![raw slices](http://mcdemarco.net/files/recipes/raw_slices.jpg)
+![raw slices](../images/raw_slices.jpg)
 
 Lay slices flat on an uninsulated cookie sheet and bake 10-12 minutes or until golden on each side. (The recipe inconveniently makes about 1 1/4 toasting batches.) Cool on wire rack. 

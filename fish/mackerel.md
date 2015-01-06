@@ -1,6 +1,6 @@
 # Baked Mackerel
 
-![baked mackerel](http://mcdemarco.net/files/recipes/baked_mackerel.jpg)
+![baked mackerel](images/baked_mackerel.jpg)
 
 We got some frozen whole mackerel from Market Basket, but cleaning them was too much work for Peter.
 

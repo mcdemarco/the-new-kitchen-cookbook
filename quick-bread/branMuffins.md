@@ -1,6 +1,6 @@
 # Bran Muffins for Mom
 
-![bran muffins](http://mcdemarco.net/files/recipes/bran_muffins.jpg)
+![bran muffins](../images/bran_muffins.jpg)
 
 This is a slight alteration of "Raisin Bran Muffins That Work," Recipezaar recipe #73061, that my mother likes. I made it non-dairy. I've only made the blueberry version once or twice.  I also made a diced pear version once.
 

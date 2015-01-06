@@ -18,8 +18,8 @@
 
 Roll in a mixture of the salt, spices and garlic. I do this in a big tupperware container, then pour on about a third of a cup of olive oil. Marinate until you're hungry or out of time, then brown them. 
 
-![marinating](http://mcdemarco.net/files/recipes/marinating.jpg)
-![cooking](http://mcdemarco.net/files/recipes/cooking.png)
+![marinating](../images/marinating.jpg)
+![cooking](../images/cooking.png)
 
 Cook at medium heat, stirring frequently, for 20 more minutes. Add wine. Reduce until you're really hungry, then serve.
 

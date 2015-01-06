@@ -1,6 +1,6 @@
 # Orecchiette with Anchovy Sauce
 
-![bigoli](http://mcdemarco.net/files/recipes/bigoli.jpg)
+![bigoli](../images/bigoli.jpg)
 
 This recipe is derived from Bigoli in Salsa all'Ebraica con Acciuga from _The Book of Jewish Food_ by Claudia Rodin. I cut back on the anchovies (by half), but it's still a lot of anchovies for non-Italians. I usually forget or skip the pepper. I have never chopped the capers as instructed in the original recipe; maybe capers are bigger in Italy.
 

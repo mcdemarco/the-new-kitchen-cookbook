@@ -1,6 +1,6 @@
 # Nan Berenji
 
-![Nan berenji](http://mcdemarco.net/files/recipes/Nan_berenji.jpg)
+![Nan berenji](../images/Nan_berenji.jpg)
 
 This is my classic rice flour cookie recipe that I've been making for years. It's from _Sephardic Cooking_ by Copeland Marks (p. 186).  I also experimented with a Nan Berenji recipe in the _New Food of Life_ cookbook, but that one failed.
 

@@ -1,6 +1,6 @@
 # Anise Cookies
 
-![anise drop cookies](http://mcdemarco.net/files/recipes/anise_drop_cookies.jpg)
+![anise drop cookies](../images/anise_drop_cookies.jpg)
 
 I cut this down from another recipe, [Auntie Mella’s Italian Cookies](http://theapronarchives.com/2012/04/05/auntie-mellas-italian-soft-anise-cookies/), because I only had two eggs. I also made it non-dairy and switched to anise oil.  Note that you can use a cake ball pan for these--the only use I've found yet for my cake-ball pan.
 

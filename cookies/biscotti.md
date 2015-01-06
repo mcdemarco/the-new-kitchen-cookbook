@@ -2,7 +2,7 @@
 
 As I mentioned, I burned out my first pizzelle iron.  On the day that it gasped its last gasp, I had already made the cookie dough, so I had to find something else to do with it.  I got out my Italian cookbook and discovered that biscotti had almost the same ingredients, so I adjusted the flour and learned to make biscotti.
 
-![biscotti cooling](http://mcdemarco.net/files/recipes/biscotti_cooling.jpg)
+![biscotti cooling](../images/biscotti_cooling.jpg)
 
 I still have that cookbook, but the recipes I use now are from Recipezaar.  "Authentic" biscotti is half of Recipe #300513, by Summerlea; it uses anise seed and almonds.
 

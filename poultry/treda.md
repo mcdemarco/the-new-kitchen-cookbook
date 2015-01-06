@@ -32,5 +32,5 @@ I served this with macaroni (in addition to the bread) the first time, and Peter
 
 I substituted chicken broth for the water, 2 tsp powdered fenugreek for the whole fenugreek, 1tsp dried coriander and 1 tsp ground coriander for the frozen coriander, and 1 lb boneless thighs for the 1 1/2 lbs chicken quarters. 
 
-![Treda variant](images/treda.png)
+![Treda variant](../images/treda.png)
 

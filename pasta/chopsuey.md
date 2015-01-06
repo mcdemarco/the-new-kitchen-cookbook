@@ -1,7 +1,7 @@
 # Italian chop suey
 
-![with fusilli](http://mcdemarco.net/files/recipes/with_fusilli.jpg)
-![with shells](http://mcdemarco.net/files/recipes/with_shells.jpg)
+![with fusilli](../images/with_fusilli.jpg)
+![with shells](../images/with_shells.jpg)
 
 This is another recipe put together out of much Google for Peter; I personally believe that ground beef should be concentrated into meatballs, not put loosey-goosey into the sauce.
 

@@ -4,7 +4,7 @@ I wasn't looking for healthy rye *per se* but for rye-y rye.  I found a [lighter
 
 So I experimented and came up with a heavier, non-sourdough rye.  I don't know if it's good for you; the point was just to get a "healthy" quantity of rye into no-knead dough using vital wheat gluten.  The experiment is ongoing.  
 
-![looking healthy...](images/ryeno5.png)
+![looking healthy...](../images/ryeno5.png)
 
 One important scientific discovery was that my square Ikea glass baking dish is the perfect size for a free-form loaf that doesn't actually want to keep its form.  See the directions for more details.
 

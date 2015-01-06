@@ -1,5 +1,7 @@
 # Italian Wedding Soup
 
+![cooking](../images/wedding.jpg)
+
 I was in the mood for soup with turkey meatballs.  This recipe is based on [Italian Wedding Soup with Turkey Meatballs and Orzo](http://www.willcookforsmiles.com/2014/09/italian-wedding-soup-turkey-meatballs-orzo.html) by Lyuba, which I liked for its speed and lack of foreign roots like carrots and celery.  I altered the recipe significantly to make it non-dairy, spice up the meatballs a bit, and cut the stock down to a quantity that fits both my budget and my heavy soup pot.  As a consequence, I only got about four servings out of it.
 
 ## Ingredients

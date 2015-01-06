@@ -1,6 +1,6 @@
 # Blueberry Yogurt Pancakes
 
-![half pancakes](http://mcdemarco.net/files/recipes/half_pancakes.jpg)
+![half pancakes](../images/half_pancakes.jpg)
 
 This is the recipe we came up with after not finding anything particularly helpful online about substituting yogurt for buttermilk. (The Internet did tell me that yogurt juice is actually whey; I kept it for the tartness, but it's also good for you.) We started from the Buttermilk Pancakes recipe in _The Joy of Cooking_, and used Stonyfield Farms whole milk French Vanilla yogurt, and a few too many frozen blueberries, defrosted.
 
