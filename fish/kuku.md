@@ -1,6 +1,6 @@
 # Fish Kuku
 
-![fish kuku](images/../fish_kuku.jpg)
+![fish kuku](../images/fish_kuku.jpg)
 
 Fish quiche. This is a variant recipe from the _New Food of Life_ cookbook (Meat Kuku, p. 102), also adjusted in size to fit the amount of fish I had. The original recipe called for the equivalent of 1 1/2 c. fresh parsley, 2/3 c. fresh chives, 2/3 c. of oil, and yogurt on the side, but since I didn't have it with me at the store I didn't grab those. (It's always parsley; I should have known.)
 
