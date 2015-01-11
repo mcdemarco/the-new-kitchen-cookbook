@@ -15,3 +15,7 @@ This is an even easier easy fudge, with just the basic ingredients from [Eagle B
 Line an 8x8 pan as in the previous fudge recipe.  Mix all ingredients but extracts in a double boiler until melted and smooth.  Add extract.
 
 Pour into pan and smooth with a spatula.  Chill two hours.  Cut into desired size.
+
+## Variants
+
+Replace almond extract with peppermint extract for mint fudge.
