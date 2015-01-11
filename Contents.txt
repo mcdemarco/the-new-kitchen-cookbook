@@ -66,6 +66,7 @@ poultry/cacciatore.md
 poultry/turkeyChicken.md
 poultry/bakedTurkeyChicken.md
 poultry/roastedWithSquash.md
+poultry/tuscanChicken.md
 poultry/treda.md
 poultry/thighStew.md
 poultry/scaloppini.md
