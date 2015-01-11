@@ -1,5 +1,7 @@
 # Baguette
 
+![baguettes, top view](../images/baguettes1.png)
+
 These baguettes are a combination of the baguettes in the _Artisan Bread in 5_ book and the instructions on the back of [my birthday baguette pan](http://www.williams-sonoma.com/products/8175283/).  Beware of the nasty glue on that one; you might want to buy an [alternative baguette pan](http://www.chicagometallicbakeware.com/non-stick-perforated-baguette-pan.html).
 
 Oiling the non-stick baguette pan seems to be unnecessary.
@@ -23,4 +25,6 @@ Oiling the non-stick baguette pan seems to be unnecessary.
 7. Bake 25 minutes, turning the oven down to 425° if the baguettes get too brown.
 
 It's hard to slash baguettes when they're in the baguette pan (try lengthwise instead), or if the dough is very moist.  Fortunately, Peter likes the aliens-exploded-out-of-this-loaf look.
+
+![baguettes, alien style](../images/baguettes2.png)
 

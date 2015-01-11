@@ -1,5 +1,7 @@
 # Artisan Bread Index
 
+![probably a sweet bread](../images/mysterybreadwc.png)
+
 The original version of Artisan Bread in Five Minutes a Day didn't have a useful index of which breads could be made from which doughs, and I couldn't find one online either, so I compiled my own. The page numbers are in parentheses. The variants must be mixed up separately. I've left out the non-bread recipes for now, since I usually ignore them.  (I don't know what changed in the revised version; I haven't seen it in person.)
 
 ## BOULE (26) 

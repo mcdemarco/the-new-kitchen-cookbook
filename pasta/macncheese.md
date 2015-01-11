@@ -2,6 +2,8 @@
 
 I've made this twice already, both times with about a cup of panko instead of fresh breadcrumbs.  The recipe was online briefly, but I assume is gone already.
 
+![panko mac'n'cheese](../images/macNcheese3.png)
+
 ## Ingredients
 
 * 8 oz. Monterey Jack, shredded (2 c.)
@@ -17,6 +19,8 @@ I've made this twice already, both times with about a cup of panko instead of fr
 
 ## Directions
 
+![in the pot](../images/macNcheese1.png)
+
 1. Process the bread into crumbs with half the butter, on pulse. 
 2. In the pasta pan or Dutch oven, on medium-high, heat 5 T. butter to foaming. 
 3. Whisk in flour and spices. Whisk another minute. 
@@ -30,5 +34,7 @@ I've made this twice already, both times with about a cup of panko instead of fr
 ## Variants
 
 Don't put the pan too close to the broiler if using panko as a substitute for fresh breadcrumbs.  Also, note that the original recipe said not to do that.
+
+![panko closeup](../images/macNcheese2.png)
 
 I tried doubling the cayenne pepper, to little effect.  I may need some new cayenne pepper...

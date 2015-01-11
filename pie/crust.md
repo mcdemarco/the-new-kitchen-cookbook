@@ -1,5 +1,7 @@
 # Crust
 
+![watercolor pie](../images/piewc.png)
+
 First, the crust.  My crusts all started from the basic  piecrust recipe in my old Better Homes and Gardens Cookbook (which my sister said to use), but have been adjusted so I don't have to keep doing the math. 
 
 ## Ingredients 
