@@ -1,6 +1,6 @@
 # Cucumber Salad 
 
-![cucumber salad](images/cucumber_salad.jpg)
+![cucumber salad](../images/cucumber_salad.jpg)
 
 This is Peter's recipe that we brought to a potluck. Quantities are approximate.
 

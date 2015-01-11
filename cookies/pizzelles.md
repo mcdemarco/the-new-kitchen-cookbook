@@ -1,5 +1,7 @@
 # Pizzelles
 
+[!watercolor pizzelles](../images/pizzellewc.png)
+
 This is close to the recipe that came with my original iron (which has long since burned out), except for using oil in place of butter. I found the oil version on the Villaware web site back when they made pizzelle irons. My current iron is from Palmer. Virginia Dare makes anise oil. Two teaspoons is a LOT of anise oil. You may want to cut back when serving non-Italians.
 
 ## Ingredients
