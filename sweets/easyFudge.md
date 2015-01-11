@@ -1,6 +1,6 @@
-# Almond Easy Fudge
+# Tasty Easy Fudge
 
-This is an even easier easy fudge, with just the basic ingredients from [Eagle Brand](http://www.eaglebrand.com/recipes/details/?RecipeId=4139), along with my addition of some almond extract.
+This is an even easier easy fudge, with just the basic ingredients from [Eagle Brand](http://www.eaglebrand.com/recipes/details/?RecipeId=4139), along with my addition of some almond or peppermint extract.
 
 ## Ingredients
 
