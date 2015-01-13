@@ -1,6 +1,8 @@
 # Tasty Easy Fudge
 
-This is an even easier easy fudge, with just the basic ingredients from [Eagle Brand](http://www.eaglebrand.com/recipes/details/?RecipeId=4139), along with my addition of some almond or peppermint extract.
+[!one fudge](../images/fudge2.png)
+
+This is an even easier easy fudge, with just the basic ingredients from [Eagle Brand](http://www.eaglebrand.com/recipes/details/?RecipeId=4139), along with my addition of some almond or peppermint extract.  For more easy-fudge-making detail (not that there are many more details), see the Nutella fudge recipe.
 
 ## Ingredients
 
@@ -12,10 +14,22 @@ This is an even easier easy fudge, with just the basic ingredients from [Eagle B
 
 ## Directions
 
-Line an 8x8 pan as in the previous fudge recipe.  Mix all ingredients but extracts in a double boiler until melted and smooth.  Add extract.
+[!convenient receptacles, with fudge](../images/fudge1.png)
 
-Pour into pan and smooth with a spatula.  Chill two hours.  Cut into desired size.
+Line an 8x8 pan or 64 square inches of convenient rectangular receptacles with parchment paper.  Leave some overlap for later fudge extraction. 
+
+Mix all ingredients but extracts in a double boiler until melted and smooth.  Add extract.
+
+Pour into pan(s) and smooth with a spatula.  Chill two hours.
+
+[!fudge ready to chop](../images/fudge3.png)
+
+Lift out of pan(s) and cut to desired size.
+
+[!bite-sized fudge](../images/fudge4.png)
+
 
 ## Variants
 
 Replace almond extract with peppermint extract for mint fudge.
+
