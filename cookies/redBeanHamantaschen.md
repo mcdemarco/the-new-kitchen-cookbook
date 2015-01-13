@@ -1,6 +1,6 @@
 # Red Bean Paste Hamantaschen
 
-![hamantaschen](../images/hamantaschen.jpg)
+![hamantaschen](../images/hamantaschen.png)
 
 Peter had made red bean paste hamantaschen once before. I'm not a big fan of hamantaschen, but I am of red bean paste, so I tried it out. We also made a couple of refrigerator surprise hamantaschen; those are best left undocumented.
 
@@ -12,6 +12,6 @@ I followed the [chunky recipe](http://www.applepiepatispate.com/japanese/sweet-a
 
 I tried to follow the hamantaschen recipe from my King Arthur cookie cookbook, but it came out too dry so I had to gradually add water like for pastry. I'll try a different recipe next year. 
 
-![hexagons](../images/hexagons.jpg)
+![hexagons](../images/hexagons.png)
 
 I cut these out with hexagon cookie cutters (about 3 1/4 inch across), folded them up in the middle of 3 sides of the hexagon, and glued them with egg yolk as the recipe recommended. The outcome was more like tiny red bean paste pies than regular hamantaschen, but we liked them that way.

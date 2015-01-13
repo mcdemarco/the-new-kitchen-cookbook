@@ -2,7 +2,7 @@
 
 This version of the recipe is for cookie math as well as variants like chocolate pizzelles, eggnog pizzelles, etc.
 
-![eggnog pizzelle](../images/eggnog_pizzelle.jpg)
+![eggnog pizzelle](../images/eggnog_pizzelle.png)
 
 I sometimes go up to 8 eggs or experiment with a couple, so I broke down the pizzelle recipe to a single egg.  Peter is responsible for the eggnog variant.
 

@@ -1,9 +1,8 @@
 # Italian chop suey
 
-![with fusilli](../images/with_fusilli.jpg)
-![with shells](../images/with_shells.png)
-
 This is another recipe put together out of much Google for Peter; I personally believe that ground beef should be concentrated into meatballs, not put loosey-goosey into the sauce.
+
+![with shells](../images/with_shells.png)
 
 ## Ingredients
 
@@ -28,3 +27,5 @@ This is another recipe put together out of much Google for Peter; I personally b
 ## Directions
 
 Sauté the onion, green pepper, and garlic in olive oil until soft. Add the beef and remaining spices and brown. Add the tomatoes and wine. Simmer to taste. Parboil the pasta and add to the meat. Simmer al dente.
+
+![with fusilli](../images/with_fusilli.jpg)

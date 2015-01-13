@@ -1,6 +1,6 @@
 # Blueberry Pie
 
-![blueberry pie](../images/blueberry_pie.jpg)
+![blueberry pie](../images/blueberry2.png)
 
 This is a mix of the Better Homes and Gardens Blueberry Pie recipe and the Joy of Cooking Berry or Cherry Pie with Frozen Fruit recipe.  I found the optional spices [online](http://localfoods.about.com/od/piestarts/r/spicedblueberrypie.htm) and snuck them into my latest pie.
 
