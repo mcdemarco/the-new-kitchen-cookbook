@@ -1,6 +1,6 @@
 # Pecan Pie
 
-![pecan pie](../images/pecan_pie.jpg)
+![pecan pie](../images/pecan_pie.png)
 
 Peter likes lots of pecans in his pie, so I found a simple recipe with more pecans than most.  This one is from [Martha Stewart](http://www.marthastewart.com/312503/pecan-pie).
 
