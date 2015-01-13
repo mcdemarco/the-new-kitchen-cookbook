@@ -35,7 +35,7 @@ Preheat the oven (with the bread stone and steam pan) for 20 minutes at 425°. B
 
 Place in oven and add 1 c. hot water to the steam pan.  Bake 40 minutes, removing the parchment paper halfway through. Cool on a wire rack. 
 
-![cooling](../images/cooling.jpg)
+![cooling](../images/cooling.png)
 
 Since your remaining dough is now missing half a loaf, you may want to do this all again.
 
