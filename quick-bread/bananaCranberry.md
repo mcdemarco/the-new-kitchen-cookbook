@@ -7,7 +7,6 @@ This one is from allrecipes, also cut down to about 9 muffins.
 * 1 c. fresh or frozen cranberries
 * 1/2 c. sugar
 * 1 c. water
-
 * 1/3 c. sugar
 * 1/6 c. shortening
 * 1 egg
