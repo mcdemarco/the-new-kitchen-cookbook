@@ -6,6 +6,8 @@ This recipe is based on [Hearty Lemon Blueberry Corn Muffins](http://www.joyofko
 
 Some muffins are pictured in muffin cups, but muffin cups are counter-indicated.
 
+Makes twelve muffins.  (Some did not last long enough to be photographed.)
+
 ## Ingredients
 
 ### Wet
