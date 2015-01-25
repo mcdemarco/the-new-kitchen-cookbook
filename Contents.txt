@@ -26,6 +26,7 @@ quick-bread/pancakes.md
 quick-bread/crepes.md
 quick-bread/cornbread.md
 quick-bread/branMuffins.md
+quick-bread/blueberryCornMuffins.md
 quick-bread/bananaCranberry.md
 quick-bread/carrotSpice.md
 quick-bread/zucchini.md
