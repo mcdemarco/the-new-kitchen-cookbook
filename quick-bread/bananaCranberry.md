@@ -4,19 +4,19 @@ This one is from allrecipes, also cut down to about 9 muffins.
 
 ## Ingredients
 
-1 c. fresh or frozen cranberries
-1/2 c. sugar
-1 c. water
+* 1 c. fresh or frozen cranberries
+* 1/2 c. sugar
+* 1 c. water
 
-1/3 c. sugar
-1/6 c. shortening
-1 eggs
-7/8 c. all-purpose flour 
-1 tsp baking powder 
-1/4 tsp salt
-1/8 tsp baking soda
-1/2 c. mashed ripe banana 
-1/4 c. chopped walnuts
+* 1/3 c. sugar
+* 1/6 c. shortening
+* 1 egg
+* 7/8 c. all-purpose flour 
+* 1 tsp baking powder 
+* 1/4 tsp salt
+* 1/8 tsp baking soda
+* 1/2 c. mashed ripe banana 
+* 1/4 c. chopped walnuts
 
 ## Directions
 
