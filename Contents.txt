@@ -12,6 +12,7 @@ soup/chickpea.md
 bread/advice.md
 bread/cornstarch.md
 bread/caramel.md
+bread/math.md
 bread/semolina.md
 bread/marble.md
 bread/rosemary.md
