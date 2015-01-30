@@ -1,6 +1,6 @@
 # Broccolini
 
-This recipe is from [Mann's](http://www.veggiesmadeeasy.com/index.php/recipe/luca-broccolini®/).
+This recipe is from [Mann's](http://veggiesmadeeasy.com/site/index.php/recipe/luca-broccolini/).
 
 ## Ingredients
 

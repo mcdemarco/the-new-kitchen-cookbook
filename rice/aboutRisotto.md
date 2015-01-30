@@ -4,4 +4,4 @@ Risotto is more a style than a recipe; I have a favorite risotto style that I ma
 
 You also need a good pan: either enameled cast iron or a heavy-bottomed stainless steel pan works best.  If you don't have one, you had better know what you're doing.  My risotto pan is a somewhat wok-shaped enameled pan from Mario Batali that works well (but that I don't think they make anymore)--you can see it in some of the pasta pictures.
 
-You don't have to use fresh stock; I have used cubes as well as some nice organic powdered stocks.  [Better Than Boullion](http://www.superiortouch.com/retail/products/better-than-bouillon) is also good.
+You don't have to use fresh stock; I have used cubes as well as some nice organic powdered stocks.  [Better Than Boullion](http://www.betterthanbouillon.com/locator.aspx) is also good.
