@@ -13,9 +13,9 @@ This is a combination of [two](http://leitesculinaria.com/81989/recipes-roast-ch
 * 1/2 tsp sea salt
 * 3 cloves garlic, whole
 * 1/3 c. white wine
+* 2 T balsamic vinegar
 * 1-2 T capers
 * 12 Kalamata olives, optionally pitted and quartered
-* 2 T balsamic vinegar
 
 ## Directions
 
