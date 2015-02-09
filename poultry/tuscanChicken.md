@@ -21,9 +21,13 @@ This is a combination of [two](http://leitesculinaria.com/81989/recipes-roast-ch
 
 1. Preheat oven to 450°.
 2. Rub the chicken with a mix of the salt, spices, and oil (or sprinkle the oil on separately).
-3. Put chicken and garlic in a baking dish or deep baking sheet, skin-side up if it has sides. ![at step 3](../images/tuscanChicken1.png)
-4. Roast 20 minutes.  ![at step 4](../images/tuscanChicken2.png)
-5. Sprinkle with wine and vinegar and roast 8 more minutes. ![at step 5](../images/tuscanChicken3.png)
-6. Scatter olives and capers in dish and roast 15-20 more minutes until sufficiently crispy looking. ![at step 6](../images/tuscanChicken4.png)
+3. Put chicken and garlic in a baking dish or deep baking sheet, skin-side up if it has sides.
+   ![at step 3](../images/tuscanChicken1.png)
+4. Roast 20 minutes.    
+   ![at step 4](../images/tuscanChicken2.png)
+5. Sprinkle with wine and vinegar and roast 8 more minutes.
+   ![at step 5](../images/tuscanChicken3.png)
+6. Scatter olives and capers in dish and roast 15-20 more minutes until sufficiently crispy looking.
+   ![at step 6](../images/tuscanChicken4.png)
 7. Let rest 10 minutes before serving.
 
