@@ -61,6 +61,7 @@ pasta/meatsauce.md
 meat/meatballs.md
 meat/meatloaf.md
 meat/chili.md
+meat/cincinChili.md
 meat/curry.md
 meat/molha.md
 poultry/roasted.md
