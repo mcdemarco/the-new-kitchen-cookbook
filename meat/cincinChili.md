@@ -18,11 +18,11 @@ I did something very similar for my Beef and Bean chili, but didn't serve it wit
 * 1/2 tsp. salt
 * 1 1/2 T unsweetened cocoa powder
 * 1 15 ounce can tomato sauce or 3/5 of a 25 oz. jar, eyeballed
-* 1/4 c. water, optional
-* 1 15-16 ounce can beans, rinsed and drained (cannellini, kidney, or otherwise)
+* dollop tomato paste along with 1/4 c. water (optional)
 * 2 tsp. soy sauce
 * 1/4 teaspoon lemon juice
 * 1/4 teaspoon sugar
+* 1 15-16 ounce can beans, rinsed and drained (cannellini, kidney, or otherwise, also optional)
 * 1 lb short pasta, cooked *al dente*
 
 ## Directions
