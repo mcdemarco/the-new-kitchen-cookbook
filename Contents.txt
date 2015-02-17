@@ -78,6 +78,7 @@ poultry/crockpotTurkey.md
 poultry/turkeyballs.md
 poultry/italianWedding.md
 fish/costcoSalmon.md
+fish/salmonSteaks.md
 fish/mackerel.md
 fish/kuku.md
 fish/poke.md
