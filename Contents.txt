@@ -9,6 +9,7 @@ appetizers/pituie.md
 soup/kale.md
 soup/cilantro.md
 soup/chickpea.md
+soup/fazool.md
 bread/advice.md
 bread/cornstarch.md
 bread/caramel.md
