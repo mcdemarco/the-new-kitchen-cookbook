@@ -15,7 +15,7 @@ The notion of beef curry is just so *wrong* I was reluctant to make this, but I 
 * 1/8 tsp. cinnamon
 * 1/4 tsp. ground ginger
 * 1/8 tsp. turmeric
-* 2 arbol chiles, stemmed, or cayenne pepper to taste
+* 2--4 arbol chiles, stemmed, or cayenne pepper to taste
 * 1 14 oz. can tomatoes
 * 1/3 of a small can of tomato paste
 * 4 small fresh tomatoes
