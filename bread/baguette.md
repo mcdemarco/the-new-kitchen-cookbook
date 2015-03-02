@@ -28,3 +28,8 @@ It's hard to slash baguettes when they're in the baguette pan (try lengthwise in
 
 ![baguettes, alien style](../images/baguettes2.png)
 
+## Variants
+
+The book doesn't mention any other doughs that work as baguettes, but I was able to make them with the Light Whole Wheat dough (the one with 5 1/2 c. white and 1 c. whole wheat).
+
+I assume that the Peasant Bread dough (substitute 1/2 c. rye for 1/2 c. of the whole wheat) would also work, but I haven't tried it yet.
