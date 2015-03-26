@@ -50,5 +50,5 @@ I was in the mood for soup with turkey meatballs.  This recipe is based on [Ital
 
 You could make the meatballs out of another ground meat, though in that case you might (or might not) want to adjust the meatball spices.  E.g., for 1 lb. ground beef, replace the 1 tsp sage with 1 tsp basil and dash some marjoram, oregano, and/or the thyme.  (Italian seasoning is not an Italian thing, but you can use 1 tsp of that instead if you have it.)
 
-Any small pasta can be used in place of the orzo; adjust the cooking time for that step accordingly.  Some people cook the pasta outside of the soup, but that seems like unnecessary work.
+Any small pasta can be used in place of the orzo; adjust the cooking time for that step accordingly and use about half a pound.  Some people cook the pasta outside of the soup, but that seems like unnecessary work.
 
