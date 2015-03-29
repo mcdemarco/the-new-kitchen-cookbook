@@ -40,12 +40,14 @@ First, the crust.  My crusts all started from the basic  piecrust recipe in my o
 
 ## Directions (All Crusts)
 
-Mix flour & salt. Cut in shortening with a pastry cutter. When pieces are pea-sized, add water gradually until just damp. Squeeze into a ball.  For a double crust, divide in half.  Chill in plastic wrap for about an hour. 
+Mix flour & salt. Cut in shortening with a pastry cutter. When pieces are pea-sized, add water gradually (a teaspoon at a time) until just damp.  (You won't need all the water.)  Squeeze into a ball.  For a double crust, divide in half.  Chill in plastic wrap for about an hour. 
 
-Roll out bottom crust between parchment paper and the plastic wrap.  (If making a double crust, use the larger half for the bottom crust.)  Peel off the parchment first (or don't, if using only parchment) and flip into pie plate.  Adjust carefully if necessary, then peel off the paper/wrap.
+Roll out bottom crust between parchment paper or a silicone pie mat and the plastic wrap.  (If making a double crust, use the larger half for the bottom crust.)  Peel off the parchment first (or don't, if using only parchment) and flip into pie plate.  Adjust carefully if necessary, then peel off the paper/wrap.
 
 Fill with desired filling.
 
-For a top crust, roll out the remaining dough.  Prep the seam by rubbing shortening on the top edge of the bottom crust.  Peel off one sheet and center the top over the pie, then peel the other sheet off carefully and trim and/or roll overlap under as desired.
+For a top crust, roll out the remaining dough.  Prep the seam by rubbing shortening on the top edge of the bottom crust.  Peel off one sheet and center the top over the pie, then peel the other sheet off carefully.  Fold top crust under the bottom crust at the edge.  Crimp edge of crust or press with a fork to seal.  (I do the fork thing.)
 
-Pinch edge of crust to seal/decorate as desired.  (I do the fork thing.)  Cut vents into top crust.  Bake as directed.
+Optionally, brush top crust with milk, cream, or egg yolk, or use egg white and sprinkle with sanding sugar. 
+
+Cut vents into top crust and bake as directed.

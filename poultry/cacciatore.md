@@ -4,13 +4,13 @@ This recipe is a combination of the one in _Cucina Ebraica: Flavors of the Itali
 
 ## Ingredients
 
+* 4 tablespoons olive oil
+* 1 large onion, sliced thin
+* 3 cloves garlic, minced
 * 3-4 lbs chicken pieces
 * 1 tsp salt
 * 1/2 tsp black pepper
-* 4 tablespoons olive oil
 * 1/2 c oil-cured black olives 
-* 1 large onion, sliced thin
-* 3 cloves garlic, minced
 * 2 large tomatoes, coarsely chopped OR about 1/4 c tomato paste diluted in water
 * 1 T chopped fresh sage or 1 tsp dried, optional 
 * 1 T chopped fresh rosemary or 1 tsp dried, optional
@@ -19,7 +19,7 @@ This recipe is a combination of the one in _Cucina Ebraica: Flavors of the Itali
 
 ## Directions
 
-Sprinkle the chicken with salt and pepper. Warm the olive oil in a large saute pan over high heat. Add the chicken pieces and saute until golden on all sides. Add the olives, garlic, tomatoes and sage, rosemary and basil (if using). Cover, reduce heat to low and cook until the chicken is tender, about 25 minutes. Uncover the pan and add the red wine. Raise the heat to high and cook rapidly to reduce the pan juices. Adjust the seasonings. Transfer to a large warmed platter and sprinkle with more fresh herbs, if desired. Serve at once.
+Sprinkle the chicken with salt and pepper. Warm the olive oil in a large saute pan over high heat. Saute onions.  Add the chicken pieces and saute until golden on all sides. Add the olives, garlic, tomatoes and sage, rosemary and basil (if using). Cover, reduce heat to low and cook until the chicken is tender, about 25 minutes. Uncover the pan and add the red wine. Raise the heat to high and cook rapidly to reduce the pan juices. Adjust the seasonings. Transfer to a large warmed platter and sprinkle with more fresh herbs, if desired. Serve at once.
 
 ## Variants
 

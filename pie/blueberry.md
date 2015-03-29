@@ -7,7 +7,7 @@ This is a mix of the Better Homes and Gardens Blueberry Pie recipe and the Joy o
 ## Ingredients
 
 * 1 9" double-crust pie shell (uncooked)
-* 20 oz. frozen blueberries
+* 20 oz. frozen blueberries (about 6 c.)
 * 1 scant c. sugar
 * 1/4 c. flour
 * 1/8 tsp. salt
