@@ -45,6 +45,7 @@ vegetables/chickpeaFennel.md
 vegetables/cucumber.md
 vegetables/tomatoWatermelon.md
 vegetables/tomatoAvocado.md
+vegetables/breakfastLentils.md
 rice/riceSalad.md
 rice/stuffedPeppers.md
 rice/roz.md
