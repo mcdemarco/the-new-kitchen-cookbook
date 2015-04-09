@@ -77,6 +77,7 @@ poultry/thighStew.md
 poultry/scaloppini.md
 poultry/crockpotTurkey.md
 poultry/turkeyballs.md
+poultry/turkeyChili.md
 poultry/italianWedding.md
 fish/costcoSalmon.md
 fish/salmonSteaks.md
