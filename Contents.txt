@@ -83,6 +83,7 @@ poultry/turkeyballs.md
 poultry/turkeyChili.md
 poultry/italianWedding.md
 fish/costcoSalmon.md
+fish/pankoSalmon.md
 fish/salmonSteaks.md
 fish/mackerel.md
 fish/kuku.md
