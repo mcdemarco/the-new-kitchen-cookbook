@@ -1,6 +1,6 @@
 # Roasted Green Beans
 
-This recipe began life as [Oven Roasted Green Beans](http://www.foodnetwork.com/recipes/emeril-lagasse/oven-roasted-green-beans-recipe.html) by Emeril Lagasse.  But I think only the absence of garlic merits headline status in a vegetable recipe.
+This recipe began life as [Oven Roasted Green Beans](http://www.foodnetwork.com/recipes/emeril-lagasse/oven-roasted-green-beans-recipe.html) by Emeril Lagasse.  Green bean measurement is omitted because Peter is in charge of eyeballing them; Emeril had said 1 1/2 lbs for six people, with the same amount of spices.
 
 Serves 2.
 
