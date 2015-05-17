@@ -24,6 +24,10 @@ Preheat oven to 350°.  Grind the anise seed with a mortar and pestle.  Beat egg
 Mix in the remaining ingredients.  Lightly flour and roll the dough into one or two logs 2 inches in diameter.
 
 Place on a greased baking sheet or parchment paper.  Bake 25 minutes.
-Remove from the oven, slice diagonally into 1/2 inch thick slices.  Bake 10 minutes on sliced side, then flip and bake until slightly browned.  
+Remove from the oven, slice diagonally into 1/2 inch thick slices.  Bake 10 minutes on sliced side, then flip and bake until slightly browned.
 
 To harden further, dry in the oven at 250°.
+
+## Variants
+
+Use chocolate chips instead of almonds.  (According to [this recipe](http://www.foodnetwork.com/recipes/giada-de-laurentiis/chocolate-anise-cookies-recipe.html), you should be able to go as high as 1 1/2 c., but I didn't risk it.)
