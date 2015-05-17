@@ -16,3 +16,9 @@ I got this recipe from [The Joy of Kosher site](http://www.joyofkosher.com/recip
 ## Directions
 
 Preheat oven to 425°.  Mix dry ingredients.  Add in remaining ingredients.  Don't overmix.  Pour into a greased 8 inch square pan.  Bake 20-25 minutes.
+
+## Variants
+
+For a dairy cornbread or corn muffins, I use the recipe off the back of Indian Head cornmeal:  replace whole wheat flour with white flour, use 1/4 c. sugar, 1 tsp. salt, 1 c. lactose-free milk, and 1/4 c. oil.
+
+For a dozen muffins, grease and fill muffin tin 2/3 full per muffin.  Bake 15 minutes at 425° (400° with convection).
