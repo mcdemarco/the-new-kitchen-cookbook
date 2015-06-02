@@ -14,3 +14,7 @@ I used to make sushi rice with rice vinegar and mirin, but the price of real mir
 ### Directions
 
 Optionally, rinse the rice. (I forgot.) Bring the rice in the water to a boil.  Simmer 20 minutes. Meanwhile, heat the remaining ingredients in a small pan until they're mixed well. Mix it all together when done. Chill. 
+
+## Variants
+
+For real sushi rice with mirin, I recently consulted [this recipe](http://low-cholesterol.food.com/recipe/minados-perfect-sushi-rice-119373).  Cut down to my size, the changes are: reduce the water to 1 c. and replace the cooking wine with mirin.  Let cool instead of chilling.  (Omit the kelp leaf and the draining.)
