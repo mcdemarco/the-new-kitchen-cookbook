@@ -19,6 +19,6 @@ Preheat oven to 425°.  Mix dry ingredients.  Add in remaining ingredients.  Don
 
 ## Variants
 
-For a dairy cornbread or corn muffins, I use the recipe off the back of Indian Head cornmeal:  replace whole wheat flour with white flour, use 1/4 c. sugar, 1 tsp. salt, 1 c. lactose-free milk, and 1/4 c. oil.
+For a dairy cornbread or corn muffins, I use the recipe off the back of Indian Head cornmeal:  replace whole wheat flour (above) with white flour, use 1/4 c. sugar, 1 tsp. salt, 1 c. lactose-free milk, and 1/4 c. oil.
 
 For a dozen muffins, grease and fill muffin tin 2/3 full per muffin.  Bake 15 minutes at 425° (400° with convection).
