@@ -42,6 +42,7 @@ vegetables/squash.md
 vegetables/roastedPotatoes.md
 vegetables/roastedHaricots.md
 vegetables/roastedBroccoli.md
+vegetables/roastedOkra.md
 vegetables/spiceMix.md
 vegetables/carrotParsnip.md
 vegetables/chickpeaFennel.md
