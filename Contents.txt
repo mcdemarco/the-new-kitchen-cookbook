@@ -83,6 +83,7 @@ poultry/scaloppini.md
 poultry/crockpotTurkey.md
 poultry/turkeyballs.md
 poultry/turkeyChili.md
+poultry/bakedTurkeyTenders.md
 poultry/italianWedding.md
 fish/costcoSalmon.md
 fish/pankoSalmon.md
