@@ -1,6 +1,6 @@
 # Roasted Okra
 
-I bought some okra at H-Mart even though Peter hates the slime, then I found [a list of slime-free okra recipes](http://localfoods.about.com/od/okra/tp/5-Easy-Okra-Recipes.htm)).  I went with the [roasting recipe](http://localfoods.about.com/od/okra/r/Roasted-Okra.htm) because Peter enjoys roasted veggies even when I think I've roasted them a bit too long.
+I bought some okra at H-Mart even though Peter hates the slime, then I found [a list of slime-free okra recipes](http://localfoods.about.com/od/okra/tp/5-Easy-Okra-Recipes.htm).  I went with the [roasting recipe](http://localfoods.about.com/od/okra/r/Roasted-Okra.htm) because Peter enjoys roasted veggies even when I think I've roasted them a bit too long.
 
 I cut the recipe down and changed the oil because the okra was going with Japanese food.
 
