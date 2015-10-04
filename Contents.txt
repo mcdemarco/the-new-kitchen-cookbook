@@ -25,11 +25,13 @@ bread/challah.md
 bread/artisanIndex.md
 quick-bread/blueberryPancakes.md
 quick-bread/pancakes.md
+quick-bread/pancakesD.md
 quick-bread/crepes.md
 quick-bread/cornbread.md
 quick-bread/branMuffins.md
 quick-bread/blueberryCornMuffins.md
 quick-bread/bananaCranberry.md
+quick-bread/honeyPear.md
 quick-bread/carrotSpice.md
 quick-bread/zucchini.md
 vegetables/garlic.md
@@ -88,6 +90,7 @@ poultry/italianWedding.md
 fish/costcoSalmon.md
 fish/pankoSalmon.md
 fish/salmonSteaks.md
+fish/trout.md
 fish/mackerel.md
 fish/kuku.md
 fish/poke.md
