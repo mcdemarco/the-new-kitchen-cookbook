@@ -66,6 +66,7 @@ pasta/macncheese.md
 pasta/chopsuey.md
 pasta/bolognese.md
 pasta/meatsauce.md
+pasta/sobaSalad.md
 meat/meatballs.md
 meat/meatloaf.md
 meat/chili.md

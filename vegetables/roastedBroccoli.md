@@ -21,4 +21,6 @@ Serves 2--4.
 
 ## Variants
 
-Combine with roasted potatoes (during the last 20 minutes).
+Combine with roasted potatoes (started 5 minutes earlier).
+
+Use sesame oil and scallions in place of olive oil and garlic, and toss in some sesame seeds.
