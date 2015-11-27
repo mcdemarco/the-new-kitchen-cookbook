@@ -1,6 +1,8 @@
 # Parker House Rolls
 
-This is [Pioneer Woman's Parker House Roll recipe](http://thepioneerwoman.com/cooking/parker-house-rolls/), cut in half, which I made on request for Thanksgiving, with lactose-free milk and an overnight refrigerator rest.  Peter also liked the buttery butteriness, so I'm sure it will be back again.  I baked them on parchment paper, but there was so much butter everywhere that I doubt they could stick to a porcupine, never mind a baking dish.
+This is [Pioneer Woman's Parker House Roll recipe](http://thepioneerwoman.com/cooking/parker-house-rolls/), cut in half, which I made on request for Thanksgiving; everyone liked their buttery butteriness, so I'm sure they'll be back again.
+
+I chose this recipe out of the zillions of Parker House Roll recipes out there because I needed an overnight refrigerator rest and didn't want any of the butter-skimping, low-fat versions.  I used lactose-free milk, but otherwise followed the recipe despite some misgivings about the baking powder and baking soda.  I baked them on parchment paper, but there was so much butter everywhere that I doubt they could stick to a porcupine, never mind a baking dish.
 
 Makes about 36 rolls.
 
