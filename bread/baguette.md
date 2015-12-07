@@ -17,6 +17,12 @@ Oiling the non-stick baguette pan seems to be unnecessary.
 
 ## Directions
 
+![step 1](../images/baguette_step1.png)
+![step 2](../images/baguette_step2.png)
+![step 3](../images/baguette_step3.png)
+![step 4](../images/baguette_step4.png)
+
+
 1. Using plenty of flour, roll dough out into 1 or 2 cylinders, 2 inches in diameter.
 2. Dust the baguette pan with flour and place the proto-baguettes in there.
 3. Let baguettes rest for 20 minutes while preheating the oven to 450°, with a broiler pan for steam on a lower rack.
@@ -33,3 +39,4 @@ It's hard to slash baguettes when they're in the baguette pan (try lengthwise in
 The book doesn't mention any other doughs that work as baguettes, but I was able to make them with the Light Whole Wheat dough (the one with 5 1/2 c. white and 1 c. whole wheat).
 
 I assume that the Peasant Bread dough (substitute 1/2 c. rye for 1/2 c. of the whole wheat) would also work, but I haven't tried it yet.
+

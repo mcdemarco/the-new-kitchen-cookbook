@@ -1,6 +1,8 @@
 # Tempeh Risotto
 
-I like this one because it can be anything you want it to be: vegan, fowly, cheesy, etc.  Tempeh holds up to cooking the whole time (most risotto ingredients need to be added late in the process), and if it happens to fall apart then it looks just like the rest of the risotto and nobody knows.  You can toss extra stuff into this recipe, too.
+I like this one because it can be anything you want it to be: vegan, fowly, cheesy, etc.  Tempeh holds up to cooking the whole time (most risotto ingredients need to be added late in the process), and if it happens to fall apart then it looks just like the rest of the risotto and nobody knows.  You can toss extra stuff into this recipe, too, like knotweed:
+
+![knotweed risotto](../images/knotweed_risotto.png)
 
 ## Ingredients
 
@@ -39,5 +41,8 @@ Leave a little broth in the rice at the end to keep it fairly loose.  If you hav
 
 * A handful of raisins, along with turmeric, dill, basil, mustard seed, assafroa (safflower), and red wine.
 * Diced chicken thighs.
-* 2--3 c. short, fat sprouts of [Japanese knotweed](http://66squarefeetfood.blogspot.com/2012/05/japanese-knotweed-risotto.html), cut into 1/4 inch pieces
+* 2--3 c. short, fat sprouts of [Japanese knotweed](http://66squarefeetfood.blogspot.com/2012/05/japanese-knotweed-risotto.html), cut into 1/4 inch pieces:
+
+![knotweed harvest](../images/knotweed_harvest.png)
+
 
