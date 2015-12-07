@@ -9,8 +9,8 @@ Makes about 36 rolls.
 ## Ingredients
 
 * 2 cups whole milk
-* 2 sticks (1/2 c.) butter, separated
-* 1/2 c. Sugar
+* 2 sticks (1 c.) butter, separated
+* 1/2 c. sugar
 * 1/2 T. (1 1/2 tsp) salt
 * 4 1/2 tsp. yeast
 * 4 c. flour plus 1/2 c. flour
