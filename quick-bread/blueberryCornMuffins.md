@@ -8,6 +8,10 @@ Some muffins are pictured in muffin cups, but muffin cups are counter-indicated.
 
 Makes 12 regular or 24 mini muffins.  (Some did not last long enough to be photographed.)
 
+![blueberry corn mini-muffins in pan](../images/blueberry_mini_muffins_1.png)
+![blueberry corn mini-muffins](../images/blueberry_mini_muffins_2.png)
+
+
 ## Ingredients
 
 ### Wet

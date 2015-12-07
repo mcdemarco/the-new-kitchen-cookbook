@@ -22,6 +22,7 @@ bread/baguette.md
 bread/healthy.md
 bread/rye.md
 bread/challah.md
+bread/parkerHouseRolls.md
 bread/artisanIndex.md
 quick-bread/blueberryPancakes.md
 quick-bread/pancakes.md
@@ -93,6 +94,7 @@ fish/pankoSalmon.md
 fish/salmonSteaks.md
 fish/trout.md
 fish/mackerel.md
+fish/friedSmelt.md
 fish/kuku.md
 fish/poke.md
 sweets/tapioca.md
@@ -100,6 +102,7 @@ sweets/nutellaFudge.md
 sweets/easyFudge.md
 sweets/easyMints.md
 sweets/grapefruitPeels.md
+sweets/sonhos.md
 cookies/pizzelles.md
 cookies/pizzellesByTheEgg.md
 cookies/biscotti.md
@@ -107,6 +110,7 @@ cookies/pistachioBiscotti.md
 cookies/aniseDrop.md
 cookies/lemonDrop.md
 cookies/chocolateChip.md
+cookies/hermits.md
 cookies/almondButter.md
 cookies/riceFlour.md
 cookies/redBeanHamantaschen.md
@@ -116,5 +120,6 @@ pie/apple.md
 pie/blueberry.md
 pie/pear.md
 pie/pecan.md
+pie/blueberryTurnovers.md
 pie/spanakopita.md
 

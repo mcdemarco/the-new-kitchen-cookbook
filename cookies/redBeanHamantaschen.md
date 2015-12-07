@@ -15,3 +15,5 @@ I tried to follow the hamantaschen recipe from my King Arthur cookie cookbook, b
 ![hexagons](../images/hexagons.png)
 
 I cut these out with hexagon cookie cutters (about 3 1/4 inch across), folded them up in the middle of 3 sides of the hexagon, and glued them with egg yolk as the recipe recommended. The outcome was more like tiny red bean paste pies than regular hamantaschen, but we liked them that way.
+
+Another plan for next year is Nutella hamantaschen.
