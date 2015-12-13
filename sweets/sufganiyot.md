@@ -20,7 +20,7 @@ There are non-dairy ingredient options to make the doughnuts non-dairy, but my f
 ### Nuts
 
 * oil for frying
-* granulated or confectioner's sugar for dusting
+* granulated (1/3--1/2 c.) or confectioner's sugar for dusting
 * jelly for decorating (optional)
 
 ## Directions
