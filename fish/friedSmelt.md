@@ -27,4 +27,8 @@ Dip smelt in liquid ingredients, then dredge in flour mixture.  Fry the smelt in
 
 Remove smelt and deglaze the pan with the white wine and green parts of the scallions.  Pour over smelt.
 
+## Variants
 
+You can leave out the egg/milk step entirely.
+
+You can deep fry the smelts at 375° for a couple of minutes (at most), skipping the pepper, scallion, etc.  This is a much faster process, but they suffer from the lack of hot spice.
