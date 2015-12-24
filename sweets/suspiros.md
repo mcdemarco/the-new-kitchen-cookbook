@@ -11,7 +11,7 @@ Yield varies by cookie size.
 * 3 egg whites
 * 1/4 tsp. cream of tartar
 * 3/4 c. superfine sugar
-* 1/4 tsp. coffee extract
+* 1/4 tsp. coffee extract (or vanilla extract, or omit entirely)
 
 ## Directions
 

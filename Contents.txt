@@ -103,6 +103,8 @@ sweets/easyFudge.md
 sweets/easyMints.md
 sweets/grapefruitPeels.md
 sweets/sonhos.md
+sweets/suspiros.md
+sweets/pasteisDeNata.md
 cookies/pizzelles.md
 cookies/pizzellesByTheEgg.md
 cookies/biscotti.md
