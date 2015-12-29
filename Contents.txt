@@ -92,6 +92,7 @@ poultry/italianWedding.md
 fish/costcoSalmon.md
 fish/pankoSalmon.md
 fish/salmonSteaks.md
+fish/broiledSalmon.md
 fish/trout.md
 fish/mackerel.md
 fish/friedSmelt.md
