@@ -9,12 +9,12 @@ Note you need a cast iron frying pan (or other durable pan) with a lid for this 
 * 1 peach-sized chunk of an allowed dough (see the Artisan Bread Index) or olive oil dough
 * about 3 cloves garlic, diced
 * chopped garlic scapes, ground cumin, or ground coriander (optional)
-* canola oil
+* canola oil (for the pan)
 
 ## Directions
 
 1. Roll out each naan to about 1/8" thickness.  I used generous amounts of flour and a piece of parchment paper.
-2. Sprinkle naan with the remaining ingredients.  If they're wet and/or sticky, you can add some flour to make them more spreadable.  
+2. Sprinkle naan with the remaining ingredients (except oil).  If they're wet and/or sticky, you can add some flour to make them more spreadable.  
 3. Roll over the garlic again to make it stick to the dough better.
 4. Heat a 10" or larger cast iron pan on the stovetop until water dances on it.
 5. Add canola oil to the pan.
