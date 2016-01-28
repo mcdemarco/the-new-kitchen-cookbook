@@ -25,3 +25,6 @@ For real sushi rice with mirin, I recently consulted [this recipe](http://low-ch
 6. Mix everything together in a glass bowl.
 7. Chill or let cool at room temperature before serving.
 
+### Condiments
+
+For some spicy mayo to go with your sushi, combine 1 T. mayo and 1 tsp. Sriracha.  (Peter found this recipe online, probably [here](http://www.justonecookbook.com/how_to/spicy-mayo-recipe/).)
