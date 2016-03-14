@@ -19,7 +19,9 @@ This is my interpretation of a traditional dish my mother was craving.  Of the m
 
 Toast walnuts 5 minutes at 350°; let cool.  Core and chop apples to bite size, and mix with lemon juice in an airtight container.  Chop grapes and celery; mix all ingredients.
 
-## Variations
+## Variants
 
-Grapes are traditionally omitted.  Peter requests a substitution of allspice and clove for the cinnamon and nutmeg.  Some recipes substitute yogurt or cream for the mayonnaise.
+I used currants in place of raisins, but in traditional recipes only raisins appear, while in modern ones grapes entirely supplant the raisins.
+
+Peter requested a substitution of allspice and clove for the cinnamon and nutmeg, which I plan to try out next time.  Some recipes substitute yogurt or cream for the mayonnaise, which Peter might also appreciate.
 
