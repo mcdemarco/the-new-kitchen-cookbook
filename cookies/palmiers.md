@@ -22,13 +22,13 @@ Palmiers (also known as angel wings or elephant ears) are a traditional Purim ea
 8. Slice the log into 1/2 inch pieces.
 9. Rub the bottom of each slice in your leftover cinnamon sugar and place on parchment paper on an insulated cookie sheet.
 10. Optionally, sprinkle the tops of the slices with sanding sugar or cinnamon sugar.
-11. Bake 10--17 minutes, depending on your oven and desired tanning level.
+11. Bake 10--17 minutes, depending on your oven and desired tanning level.  Flip cookies halfway through.
 12. Transfer to a rack to cool (especially if you omitted the parchment paper step).
 
 
 ## Variants
 
-There are other opinions out there about how thin to roll out the dough and how to fold it up.
+There are other opinions out there about how thin to roll out the dough, how to fold it up, slice width, whether to flip, and baking time.
 
 The cinnamon and the insulated cookie sheet are, technically, also optional.
 
