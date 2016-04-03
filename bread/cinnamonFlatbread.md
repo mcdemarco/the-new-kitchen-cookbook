@@ -2,6 +2,10 @@
 
 I had some cinnamon sugar left over from making palmiers, so I went looking for a cinnamon flatbread to make with my refrigerator dough.  I took the spice idea from [this spelt flatbread recipe](http://www.food.com/recipe/cinnamon-flat-bread-156504) and the baking instructions from [this Martha recipe](http://www.marthastewart.com/349900/sweet-cinnamon-flatbread) (except that the oven temperature seemed to be in celsius for unknown reasons).
 
+They came out looking a bit more like breadsticks than flatbread:
+
+![cinnamon breadsticks](../images/cinnamonBreadsticks.png)
+
 ## Ingredients
 
 * 1 lb refrigerated [Master Recipe](http://www.artisanbreadinfive.com/2008/04/27/great-coverage-in-the-week-magazine-but-there-was-one-little-problem) or olive oil dough

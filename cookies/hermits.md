@@ -42,6 +42,8 @@ I forgot the currants until the last minute the first time and had to sprinkle t
 7. Cool completely in pan on a rack.
 8. Cut into bars.
 
+![rolling out the hermits](../images/rollingHermits.png)
+
 ## Variants
 
 It is possible to make these as drop cookies, though I haven't tried it.
