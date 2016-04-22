@@ -11,7 +11,7 @@ Brisket recipes run large but (despite having come from Costco), my brisket was 
 
 * 1 1/2--2 lb. brisket
 * 1--2 T. olive oil
-* 1/3 bottle red wine (or replace with more chicken broth)
+* 1/3 bottle red wine (or replace with 1 c. chicken broth)
 * some chicken broth
 
 * 2 cloves garlic, smashed
@@ -28,3 +28,16 @@ Brisket recipes run large but (despite having come from Costco), my brisket was 
 5. Top the beef with the crushed garlic cloves and the onions.  Cover with tin foil.
 6. Bake 1 hour.
 3. Turn beef over and bake 1 more hour.
+
+## Variants
+
+For a more slow-roasted brisket, reduce heat to 300° and bake about 1 hour per pound.
+
+Add carrots and celery (fry a bit first).
+
+Add tomatoes (optionally crushed).
+
+Marinate the brisket before cooking.
+
+Make it the day before serving.
+
