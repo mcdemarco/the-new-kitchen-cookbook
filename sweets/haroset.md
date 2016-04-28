@@ -4,9 +4,10 @@ This is a passover recipe based on [Traditional Apple-Walnut Charoset](http://ww
 
 ## Ingredients
 
-* 3 mixed apples (granny smith, gala/braeburn, fuji, macintosh, janathon), diced
+* 3 mixed apples (granny smith, gala/braeburn, fuji, macintosh, janathon), peeled and diced
 * 1 1/2 c. walnuts, toasted and chopped
-* 1/2 c. sweet red wine
+* handful pine nuts, toasted and chopped (optional)
+* 1/2 c. sweet red wine or sweet vermouth
 * 1 1/2 tsp. cinnamon
 * golden raisins (see variants for substitutions)
 * orange zest (optional)
