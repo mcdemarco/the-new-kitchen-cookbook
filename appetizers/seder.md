@@ -8,7 +8,7 @@ The main difficultly in putting together a seder plate is finding and rememberin
 2. Horseradish (prepared or fresh)
 3. Roasted eggs (one for the seder plate and optionally one for each guest)
 4. Chicken bone, shank bone, or a beet
-5. Ingredients for [haroset](sweets/haroset.md)
+5. Ingredients for [haroset](../sweets/haroset.md)
 6. Romaine lettuce (optional)
 
 Other non-meal items required for the seder are:
@@ -35,10 +35,10 @@ Most of the recipes mentioned serve 8.
 
 0. The seder plate (explained below), including haroset
 1. Gefilte fish (out of a jar, with prepared horseradish or any leftover seder horseradish)
-2. [Matzo ball soup](soup/matzaball.md) or matza ball mix and prepared broth.
-2. [Tzimmes](vegetables/tzimmes.md)
-3. [Briskette](meat/briskette.md) (about 1/3 lb. per person, more if you want any leftover)
-4. [Tapioca pudding](sweets/tapioca.md) with fruit
+2. [Matzo ball soup](../soup/matzaball.md) or matza ball mix and prepared broth.
+2. [Tzimmes](../vegetables/tzimmes.md)
+3. [Briskette](../meat/briskette.md) (about 1/3 lb. per person, more if you want any leftover)
+4. [Tapioca pudding](../sweets/tapioca.md) with fruit
 
 If possible, make the soup, brisket, and dessert a day ahead.
 
