@@ -7,7 +7,7 @@ I don't recall where I got the original version of this recipe, but I altered it
 * 1--2 lbs. ground beef or ground turkey
 * 1 onion
 * 1 clove garlic
-* 1/2 green bell pepper or 1/2 orange
+* 1/2 green bell pepper or 1/2 orange, chopped
 * 2 matzot crushed or 1 c. matzah farfel or up to 1/2 c. matzah meal
 * 1 egg, beaten
 * 4 oz. tomato sauce or 1 tomato, chopped (optional; if using, reduce the next ingredient to 1 T.)
