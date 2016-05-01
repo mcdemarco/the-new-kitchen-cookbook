@@ -44,4 +44,7 @@ If possible, make the soup, brisket, and dessert a day ahead.
 
 Warm up anything cooked ahead (except dessert, which can be served hot or cold) at the appropriate point of the seder.
 
+## Other Passover Recipes
+
+I also have recipes for [meatloaf](../meat/meatloaf.md) and [rice flour cookies](../cookies/riceFlour.md).
 
