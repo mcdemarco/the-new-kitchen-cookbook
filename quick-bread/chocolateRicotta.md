@@ -34,6 +34,18 @@ Makes about 36 mini-muffins.
 3. Mix wet ingredients in a smaller bowl, first beating the eggs into the ricotta individually, then as a free-for-all.
 4. Pour wet ingredients into dry and mix minimally.
 5. Fold in extra ingredients.
-6. Bake 15--20 minutes depending on size, or to the toothpick test.  (Beware of melted chocolate chips when testing.)
+6. Bake 12--20 minutes depending on size, or to the toothpick test.  (Beware of melted chocolate chips when testing.)
 7. Cool in pan until they're cool enough to twist and extract.
 
+## Variants
+
+I'm considering putting the mascarpone glaze from [these muffins](http://www.thechunkychef.com/bakery-style-thyme-blueberry-muffins-with-a-mascarpone-glaze/) on top, possibly with a change to the flavoring to make it more interesting--say, anise or orange extract.
+
+Cut in half, that would be:
+
+* 1/2 c. powdered sugar
+* 1/2 tsp. extract
+* 1 T. milk or half-and-half
+* 1 T. mascarpone
+
+Whisk until smooth and drizzle.
