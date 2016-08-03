@@ -32,13 +32,13 @@ I forgot the currants until the last minute the first time and had to sprinkle t
 
 1. Butter and flour a 9x13 baking pan.
 1. Mix the dry ingredients.
-1. Preheat oven to 350°.
+1. Preheat oven to 350° (with convection).
 2. Separately, cream the butter with the sugar, then beat in the egg and molasses.
 3. Mix the dry ingredients into the creamed ingredients.  Do not overmix.
 4. Mix in the currants.  Do not forget the currants.
 5. Pack the resulting mass into the baking pan.  (Plastic wrap is helpful here, and/or a little roller.)
 6. Optionally, top with sanding sugar.
-6. Bake 15--20 minutes until it tests clean.
+6. Bake 20--25 minutes or until it tests clean.
 7. Cool completely in pan on a rack.
 8. Cut into bars.
 
@@ -46,6 +46,10 @@ I forgot the currants until the last minute the first time and had to sprinkle t
 
 ## Variants
 
+Gooeyness varies with baking time.
+
 It is possible to make these as drop cookies, though I haven't tried it.
 
 Replace about 1/4 c. of the currants with chopped candied fruit, for even more of that scary-old-dessert-food flavor.
+
+It is possible to substitute baking powder for the baking soda, and I have tried it with no obvious ill effects.
