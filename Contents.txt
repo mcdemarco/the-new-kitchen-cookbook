@@ -126,4 +126,3 @@ pie/pear.md
 pie/pecan.md
 pie/blueberryTurnovers.md
 pie/spanakopita.md
-

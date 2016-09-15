@@ -22,4 +22,4 @@ These are non-dairy almond butter cookie-cutter cookies I made for a solstice/Ar
 
 Beat together first seven ingredients (up to the egg). Beat in egg. Beat in cornstarch, half the flour, and half the cream. Mix in remaining cream and flour. Divide dough and refrigerate 1 hour. 
 
-Preheat oven to 350 degrees. Roll dough out between two sheets of parchment paper to 1/4 to 1/8 inches thickness, depending on desired crunchiness. Cut out a dozen cookies and place on parchment paper on a cookie sheet. Bake 10 to 12 minutes. Cool on a rack. Repeat as necessary. Taste for almondy goodness and frost with almond-extract flavored icing if needed.
+Preheat oven to 350°. Roll dough out between two sheets of parchment paper to 1/4 to 1/8 inches thickness, depending on desired crunchiness. Cut out a dozen cookies and place on parchment paper on a cookie sheet. Bake 10 to 12 minutes. Cool on a rack. Repeat as necessary. Taste for almondy goodness and frost with almond-extract flavored icing if needed.

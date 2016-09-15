@@ -24,4 +24,4 @@ This is the first recipe I entered directly into Penflip.  It's a combination of
 1. Mix spices.  Rub chicken with oil and some of the spice.  Lay out in a baking dish skin side up.  
 2. Coat squash with oil and remaining spice, and mix in walnuts.  Scatter squash-walnut mixture among chicken.
 3. Optionally, cover and refrigerate until dinnertime.
-4. Bake at 450 degrees for 45 minutes or until done.
+4. Bake at 450° for 45 minutes or until done.

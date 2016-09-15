@@ -32,6 +32,6 @@ I cut this down from another recipe, [Auntie Mella’s Italian Cookies](http://t
 2. Add oil and milk.
 3. Add flour and baking powder.
 4. Roll out walnut-sized and place on parchment-paper lined cookie sheets (or drop into cake ball pan).
-5. Bake 10-12 minutes at 350 degrees.
+5. Bake 10-12 minutes at 350°.
 6. Mix icing.
 7. Dip cookies in icing and sprinkle.
