@@ -1,4 +1,4 @@
-# Risotto
+# About Risotto
 
 Risotto is more a style than a recipe; I have a favorite risotto style that I made up myself.  If you don't know what you're doing, though, I suggest starting with a basic mushroom & cheese risotto recipe (not included), instead of the no-cheese options below.  Do not substitute anything American for the rice unless you know it works; use Italian arborio rice.
 

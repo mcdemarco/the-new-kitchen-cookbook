@@ -19,23 +19,17 @@ I like this one because it can be anything you want it to be: vegan, fowly, chee
 
 ## Directions
 
-Start the stock and water (at least 3 cups total) boiling in a small pot on another burner.  
-
-If you are using an extra like mushrooms that needs some cooking outside of the risotto, fry them in the risotto pan first, then remove.  (Leave any juices behind for the risotto.)
-
-In your good risotto pan, fry the onion-like thing in olive oil at medium heat until (somewhat) transparent.  
-Add garlic and fry briefly.
-Chop tempeh into small cubes and add to onions.  Fry as patients permits; I have occasionally gotten them to look crispy.
-
-Add more oil if it's disappeared.
-Add rice and fry a few minutes until transparent.
-Optionally, add wine and fry away.
-
-Now begins the eternal night of the risotto.  Add a small amount of broth to the rice and cook it off.  Keep doing this until the rice is done.  This will take about half an hour; you should add your extras in time for them to get enough cooking or warming up on this schedule.  
-
-If you run low on broth and the rice is still too hard, add more broth or water to the broth pot.  Chicken stock can take some dilution; vegetable stock should probably be supplemented with more vegetable stock, which is simple to do with the powdered stuff or concentrate.
-
-Leave a little broth in the rice at the end to keep it fairly loose.  If you have leftover broth, save it for reheating any leftover risotto.
+1. Start the stock and water (at least 3 cups total) boiling in a small pot on another burner.
+2. If you are using an extra like mushrooms that needs some cooking outside of the risotto, fry them in the risotto pan first, then remove.  (Leave any juices behind for the risotto.)
+3. In your good risotto pan, fry the onion-like thing in olive oil at medium heat until (somewhat) transparent.  
+4. Add garlic and fry briefly.
+5. Chop tempeh into small cubes and add to onions.  Fry as patience permits; I have occasionally gotten them to look crispy.
+6. Add more oil if it's disappeared.
+7. Add rice and fry a few minutes until transparent.
+8. Optionally, add wine and fry away.
+9. Now begins the eternal night of the risotto.  Add a small amount of broth to the rice and cook it off.  Keep doing this until the rice is done.  This will take about half an hour; you should add your extras in time for them to get enough cooking or warming up on this schedule.
+10. If you run low on broth and the rice is still too hard, add more broth or water to the broth pot.  Chicken stock can take some dilution; vegetable stock should probably be supplemented with more vegetable stock, which is simple to do with the powdered stuff or concentrate.
+11. Leave a little broth in the rice at the end to keep it fairly loose.  (If you have leftover broth, save it for reheating any leftover risotto.)
 
 ## Extra Extras
 

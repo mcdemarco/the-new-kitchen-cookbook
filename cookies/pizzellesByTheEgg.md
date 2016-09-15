@@ -1,12 +1,10 @@
 # Pizzelles by the Egg
 
-This version of the recipe is for cookie math as well as variants like chocolate pizzelles, eggnog pizzelles, etc.
+This version of the recipe is for cookie math as well as variants like chocolate pizzelles, eggnog pizzelles, etc.  (I sometimes go up to 8 eggs or experiment with a couple, so I broke down the pizzelle recipe to a single egg.)
 
 ![eggnog pizzelle](../images/eggnog_pizzelle.png)
 
-I sometimes go up to 8 eggs or experiment with a couple, so I broke down the pizzelle recipe to a single egg.  Peter is responsible for the eggnog variant.
-
-I tried a different chocolate pizzelle recipe from [King Arthur Flour](http://www.kingarthurflour.com/recipes/chocolate-pizzelle-recipe), but it was too liquidy for my iron.  The two-toned pizzelles did work out, though.
+Peter is responsible for the eggnog variant.
 
 ## Ingredients
 
@@ -41,5 +39,4 @@ For gluten-free pizzelles, use buckwheat flour.
 
 To color pizzelles, use a few drops of food coloring.  The baked color will be lighter than the dough color.
 
-For two-toned pizzelles, use half a scoop each of two different colors (or chocolate and uncolored).  Put them side by side on the iron.
-
+For two-toned pizzelles, use half a scoop each of two different colors (or chocolate and uncolored).  Put them side by side on the iron.  (The two-toned pizzelle idea came from a different chocolate pizzelle recipe at [King Arthur Flour](http://www.kingarthurflour.com/recipes/chocolate-pizzelle-recipe), which was too liquidy for my iron.)

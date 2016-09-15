@@ -2,7 +2,7 @@
 
 Hermits were the first cookie, and are still a traditional New England cookie.  Mom got some in a nut-free, bar form somewhere and liked them, so I [read all about their history](http://www.newenglandrecipes.org/html/hermit-cookie.html) and then found a modern recipe [at Epicurious](http://www.epicurious.com/recipes/food/views/hermit-bars-12777) to adapt.
 
-I forgot the currants until the last minute the first time and had to sprinkle them on top and pack them down, which worked better than I expected.
+The first time I made them, I forgot the currants until the last minute and had to sprinkle them on top and pack them down, which worked out better than I expected.
 
 ## Ingredients
 

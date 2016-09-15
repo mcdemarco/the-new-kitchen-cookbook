@@ -16,4 +16,6 @@ This is a yummy Epicurious recipe.
 
 ## Directions
 
-Whisk the oil, vinegar, salt and pepper.  Mix other ingredients together, then dress with the mixture.
+1. Whisk the oil, vinegar, salt and pepper.
+2. Mix other ingredients together.
+3. Dress #2 with #1.

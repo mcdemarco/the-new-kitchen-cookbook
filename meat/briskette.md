@@ -8,12 +8,10 @@ Brisket recipes run large but (despite having come from Costco), my brisket was 
 * a generous dash mustard powder
 * a generous dash thyme 
 * 1 tsp. brown sugar (optional)
-
 * 1 1/2--2 lb. brisket
 * 1--2 T. olive oil
 * 1/3 bottle red wine (or replace with 1 c. chicken broth)
 * some chicken broth
-
 * 2 cloves garlic, smashed
 * 1 onion, diced
 

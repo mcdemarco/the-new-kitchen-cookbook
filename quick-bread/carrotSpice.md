@@ -2,6 +2,8 @@
 
 This is another Recipezaar recipe, #98447, cut down and otherwise adapted for my purposes.
 
+Sometimes I serve them as a vegetable.
+
 ## Ingredients
 
 * 3/4 c. whole wheat flour
@@ -25,8 +27,9 @@ This is another Recipezaar recipe, #98447, cut down and otherwise adapted for my
 
 ## Directions
 
-Preheat oven to 400°.
-Mix flour, leavening, and spices.
-Separately, mix remaining ingredients.  Stir the mixtures together until just moistened.
-Bake about 15 minutes, or to the toothpick test.
+1. Preheat oven to 400°.
+2. Mix flour, leavening, and spices.
+3. Separately, mix remaining ingredients.
+4. Stir the mixtures together until just moistened.
+5. Bake about 15 minutes, or to the toothpick test.
 

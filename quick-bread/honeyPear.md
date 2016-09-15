@@ -1,6 +1,6 @@
 # Honey Pear Muffins
 
-This is an optionally dairy muffin recipe from [The Crepes of Wrath](http://www.thecrepesofwrath.com/2013/05/09/honey-pear-muffins/), cut down by a third (because it just seemed like too much *stuff* and my home-grown pears are not the size of commercial pears), adjusted for salted butter, added pear spices, corrected typos, and (considering the typos) tossed in some baking powder just to be safe.
+This is an optionally dairy muffin recipe from [The Crepes of Wrath](http://www.thecrepesofwrath.com/2013/05/09/honey-pear-muffins/), cut down by a third (because it just seemed like too much *stuff* and my home-grown pears are not the size of commercial pears).  I adjusted for salted butter, added pear spices, corrected typos, and (considering the typos) tossed in some baking powder just to be safe.
 
 Makes a baker's dozen full-size or 36 mini muffins.
 

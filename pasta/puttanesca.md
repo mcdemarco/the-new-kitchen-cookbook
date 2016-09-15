@@ -1,6 +1,8 @@
 # Puttanesca
 
-This recipe is from [Wikibooks](http://en.wikibooks.org/wiki/Cookbook:Spaghetti_alla_Puttanesca), and so licensed under the GNU Free Documentation License and Creative Commons Attribution-ShareAlike 3.0 License.  Note that Puttanesca is not a traditional sauce but an Italian refrigerator-surprise recipe invented in the 1960's.
+This recipe is from [Wikibooks](http://en.wikibooks.org/wiki/Cookbook:Spaghetti_alla_Puttanesca), and so licensed under the GNU Free Documentation License and Creative Commons Attribution-ShareAlike 3.0 License.
+
+Note that puttanesca is not a traditional sauce but an Italian refrigerator-surprise recipe invented in the 1960's.
 
 ## Ingredients
 

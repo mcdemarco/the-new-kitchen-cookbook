@@ -31,3 +31,6 @@ This is a combination of [two](http://leitesculinaria.com/81989/recipes-roast-ch
    ![at step 6](../images/tuscanChicken4.png)
 7. Let rest 10 minutes before serving.
 
+## Variants
+
+I once tried the recipe with boneless chicken thighs, cutting it down to one step: put everything in the baking dish at once and bake slightly cooler for much less time.

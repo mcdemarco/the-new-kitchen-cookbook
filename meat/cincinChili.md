@@ -35,4 +35,4 @@ I did something very similar for my Beef and Bean chili, but didn't serve it wit
 
 ## Variants
 
-Traditionally, the chili and beans are spooned separately over spaghetti.  I would consider the spaghetti part of that tradition, though I'd still want to cook it in the chili a bit.
+Traditionally, the chili and beans are spooned separately over spaghetti, but I prefer to cook the spaghetti in the chili a bit.

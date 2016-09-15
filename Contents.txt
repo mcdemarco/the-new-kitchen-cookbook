@@ -34,6 +34,7 @@ quick-bread/blueberryCornMuffins.md
 quick-bread/bananaCranberry.md
 quick-bread/honeyPear.md
 quick-bread/carrotSpice.md
+quick-bread/carrotCorn.md
 quick-bread/zucchini.md
 vegetables/garlic.md
 vegetables/broccolini.md

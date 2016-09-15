@@ -2,7 +2,7 @@
 
 ![mostly cooked](../images/mostly_cooked.jpg)
 
-This was once the family meatball recipe. It may have been through some telephone or dumbing down before it came to me. In addition, I removed some ground pork and Romano cheese, and added onion and an extra egg. I made it gluten-free once (when I was out of gluten) by substituting crushed generic rice chex for the bread crumbs.
+This was once the family meatball recipe. It may have been through some game-of-telephone or dumbing down before it came to me. In addition, I removed some ground pork and Romano cheese, and added onion and an extra egg. I made it gluten-free once (when I was out of gluten) by substituting crushed generic rice chex for the bread crumbs.
 
 ## Ingredients
 
@@ -14,6 +14,7 @@ This was once the family meatball recipe. It may have been through some telephon
 * 2 eggs, beaten
 * 1 tsp salt
 * 1/4 tsp pepper
+* 2 tsp nutritional yeast (optional)
 * olive oil
 
 ## Directions

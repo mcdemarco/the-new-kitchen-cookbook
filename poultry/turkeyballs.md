@@ -13,6 +13,7 @@ This is another Recipezaar recipe, #33944.  Feel free to toss them into pasta sa
 * 1/2 tsp oregano
 * 1 egg, beaten
 * 1/2 c. breadcrumbs
+* 2 tsp nutritional yeast (optional)
 * olive oil
 
 

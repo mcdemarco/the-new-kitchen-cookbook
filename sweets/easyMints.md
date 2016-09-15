@@ -2,6 +2,8 @@
 
 This recipe came off a bag of Domino's sugar.
 
+Yield:  1 lb.
+
 ## Ingredients
 
 * 1/4 c. butter or margarine
@@ -19,5 +21,5 @@ If using food coloring, separate mixture for coloring and color each part with "
 
 Knead until smooth.  Mold with molds or roll and slice.  (I just rolled into balls instead.)
 
-Yield is 1 lb.  The directions are vague about whether they keep.
+The directions were vague about whether they keep.
 

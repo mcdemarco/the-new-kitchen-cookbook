@@ -23,6 +23,6 @@ Makes about 4 dozen.
 2. Mix in eggs and water.
 3. Add dry ingredients (except poppy seed).
 4. Optionally, refrigerate for 20 minutes to retard cookie spread.  (Also refrigerate between batches.)
-5. Roll 1 heaping tsp. at a time and press down onto greased or parchment-papered cookie sheet.
+5. Roll 1 heaping teaspoon at a time and press down onto greased or parchment-papered cookie sheet.
 6. Sprinkle with poppy seed.
 7. Bake 20 minutes at 350° (or 325° with convection).

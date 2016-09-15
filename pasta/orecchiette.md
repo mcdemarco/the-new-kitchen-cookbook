@@ -16,4 +16,9 @@ This recipe is derived from Bigoli in Salsa all'Ebraica con Acciuga from _The Bo
 
 ## Directions
 
-Boil pasta with a dash of salt and drain. In a saucepan, heat garlic in oil just until the aroma rises. Add anchovies with their oil and stir until they dissolve a bit. Freshen pasta and mix with the sauce in a large bowl (or in the sauce pan, if it's large enough). Add parsley, pepper, and capers. Serve hot or cold.
+1. Boil pasta with a generous amount of salt and drain.
+2. In a saucepan, heat garlic in oil just until the aroma rises.
+3. Add anchovies with their oil and stir until they dissolve a bit.
+4. Freshen pasta and mix with the sauce in a large bowl (or in the sauce pan, if it's large enough).
+5. Add parsley, pepper, and capers.
+6. Serve hot or cold.

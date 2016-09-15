@@ -10,7 +10,7 @@ Most of the variants I make from the book involve substituting a cup of somethin
 
 Other fast shapes include naan and baguettes (more details below), and za'atar bread, a nice flatbread with za'atar (spice mix) and olive oil. 
 
-The master recipe from the "healthy" sequel to _Artisan Bread in 5_ is a nice, heavy bread.  You can find it here or online.  I found some more recipes from the book (which I don't have) online at [King Arthur Flour](http://www.kingarthurflour.com/blog/2010/02/14/when-trends-collide-no-knead-meet-whole-grain/).
+The master recipe from the "healthy" sequel to _Artisan Bread in 5_ is a nice, heavy bread.  You can find it here or online.  I found some more recipes from the sequel (which I don't have) online at [King Arthur Flour](http://www.kingarthurflour.com/blog/2010/02/14/when-trends-collide-no-knead-meet-whole-grain/).
 
 This chapter also includes some non-bread things you may need for your bread.
 

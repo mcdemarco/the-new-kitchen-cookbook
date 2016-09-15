@@ -4,7 +4,7 @@ Although there's a crust variant to this recipe, I usually just use phyllo dough
 
 ## Ingredients
 
-* 8 oz phyllo dough
+* 8 oz. phyllo dough
 * extra virgin olive oil
 
 ### Filling
