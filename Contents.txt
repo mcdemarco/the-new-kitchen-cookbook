@@ -6,10 +6,13 @@ appetizers/devilled.md
 appetizers/chickpeas.md
 appetizers/toddy.md
 appetizers/pituie.md
+appetizers/seder.md
 soup/kale.md
 soup/cilantro.md
 soup/chickpea.md
 soup/fazool.md
+soup/matzaball.md
+soup/italianWedding.md
 bread/advice.md
 bread/cornstarch.md
 bread/caramel.md
@@ -23,6 +26,8 @@ bread/healthy.md
 bread/rye.md
 bread/challah.md
 bread/parkerHouseRolls.md
+bread/garlicBreadsticks.md
+bread/cinnamonFlatbread.md
 bread/artisanIndex.md
 quick-bread/blueberryPancakes.md
 quick-bread/pancakes.md
@@ -33,6 +38,7 @@ quick-bread/branMuffins.md
 quick-bread/blueberryCornMuffins.md
 quick-bread/bananaCranberry.md
 quick-bread/honeyPear.md
+quick-bread/chocolateRicotta.md
 quick-bread/carrotSpice.md
 quick-bread/carrotCorn.md
 quick-bread/zucchini.md
@@ -47,12 +53,15 @@ vegetables/roastedPotatoes.md
 vegetables/roastedHaricots.md
 vegetables/roastedBroccoli.md
 vegetables/roastedOkra.md
+vegetables/tzimmes.md
+vegetables/polenta.md
 vegetables/spiceMix.md
 vegetables/carrotParsnip.md
 vegetables/chickpeaFennel.md
 vegetables/cucumber.md
 vegetables/tomatoWatermelon.md
 vegetables/tomatoAvocado.md
+vegetables/waldorfSalad.md
 vegetables/breakfastLentils.md
 rice/riceSalad.md
 rice/stuffedPeppers.md
@@ -70,6 +79,8 @@ pasta/bolognese.md
 pasta/meatsauce.md
 pasta/sobaSalad.md
 meat/meatballs.md
+meat/bolognese.md
+meat/meatsauce.md
 meat/meatloaf.md
 meat/chili.md
 meat/cincinChili.md
@@ -84,6 +95,7 @@ poultry/roastedWithSquash.md
 poultry/tuscanChicken.md
 poultry/treda.md
 poultry/thighStew.md
+poultry/asianChicken.md
 poultry/scaloppini.md
 poultry/bakedTurkeyTenders.md
 poultry/crockpotTurkey.md
@@ -105,8 +117,7 @@ sweets/easyFudge.md
 sweets/easyMints.md
 sweets/grapefruitPeels.md
 sweets/sonhos.md
-sweets/suspiros.md
-sweets/pasteisDeNata.md
+sweets/sufganiyot.md
 cookies/pizzelles.md
 cookies/pizzellesByTheEgg.md
 cookies/biscotti.md
@@ -118,6 +129,7 @@ cookies/hermits.md
 cookies/almondButter.md
 cookies/riceFlour.md
 cookies/redBeanHamantaschen.md
+cookies/suspiros.md
 pie/advice.md
 pie/crust.md
 pie/apple.md
@@ -125,4 +137,5 @@ pie/blueberry.md
 pie/pear.md
 pie/pecan.md
 pie/blueberryTurnovers.md
+pie/pasteisDeNata.md
 pie/spanakopita.md
