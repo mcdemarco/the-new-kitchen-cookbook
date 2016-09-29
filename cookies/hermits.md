@@ -4,6 +4,10 @@ Hermits were the first cookie, and are still a traditional New England cookie.  
 
 The first time I made them, I forgot the currants until the last minute and had to sprinkle them on top and pack them down, which worked out better than I expected.
 
+Gooeyness varies somewhat unpredictably with baking time, thus the wide range of cooking time.  Mom apparently prefers them less gooey.
+
+Makes 9x13 inches of bar cookies.
+
 ## Ingredients
 
 ### Dry
@@ -38,7 +42,7 @@ The first time I made them, I forgot the currants until the last minute and had 
 4. Mix in the currants.  Do not forget the currants.
 5. Pack the resulting mass into the baking pan.  (Plastic wrap is helpful here, and/or a little roller.)
 6. Optionally, top with sanding sugar.
-6. Bake 20--25 minutes or until it tests clean.
+6. Bake 20--30 minutes or until it tests clean.
 7. Cool completely in pan on a rack.
 8. Cut into bars.
 
@@ -46,10 +50,8 @@ The first time I made them, I forgot the currants until the last minute and had 
 
 ## Variants
 
-Gooeyness varies with baking time.
-
 It is possible to make these as drop cookies, though I haven't tried it.
 
 Replace about 1/4 c. of the currants with chopped candied fruit, for even more of that scary-old-dessert-food flavor.
 
-It is possible to substitute baking powder for the baking soda, and I have tried it with no obvious ill effects.
+It is possible to substitute baking powder for half or all of the baking soda, and I have tried it with no obvious ill effects.
