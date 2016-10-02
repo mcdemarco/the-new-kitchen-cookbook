@@ -53,4 +53,3 @@ You could make the meatballs out of another ground meat, though in that case you
 Any small pasta can be used in place of the orzo; adjust the cooking time for that step accordingly and use about a third of a pound.
 
 Sometimes I cook the pasta outside of the soup to keep it from sucking up too much broth.
-
