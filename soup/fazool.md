@@ -13,7 +13,7 @@ This is a variation on the first two recipes in this [nice Pasta e Fagioli colle
 * about 3 c. water
 * about 2 T. tomato paste
 * 1/2 tsp. salt or to taste
-* about 2/3 c. small pasta (e.g., orzo)
+* about 2/3 c. or 1/3 lb. small pasta (e.g., orzo)
 
 ## Directions
 
@@ -31,3 +31,5 @@ Use tomato sauce instead of paste.
 Replace water with broth.
 
 Top with grated Italian cheese.
+
+Beware of adding too much pasta.  For pasta conversions, try [Barilla](https://www.barilla.com/en-us/help/measuring-pasta).

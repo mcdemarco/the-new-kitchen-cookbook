@@ -29,7 +29,7 @@ I was in the mood for soup with turkey meatballs.  This recipe is based on [Ital
 * 4 c. chicken stock
 * 1 c. water
 * 6-8 c./1 bunch chopped greens: escarole, collards, kale, chard, or a mix thereof 
-* 3/4 cup orzo
+* 2/3--3/4 c. orzo
 * 1/4 tsp salt (or however much the stock still needs)
 * 1/4 tsp red pepper flakes
 * 1 egg, beaten
@@ -50,5 +50,7 @@ I was in the mood for soup with turkey meatballs.  This recipe is based on [Ital
 
 You could make the meatballs out of another ground meat, though in that case you might (or might not) want to adjust the meatball spices.  E.g., for 1 lb. ground beef, replace the 1 tsp sage with 1 tsp basil and dash some marjoram, oregano, and/or the thyme.  (Italian seasoning is not an Italian thing, but you can use 1 tsp of that instead if you have it.)
 
-Any small pasta can be used in place of the orzo; adjust the cooking time for that step accordingly and use about a third of a pound.  Some people cook the pasta outside of the soup, but that seems like unnecessary work.
+Any small pasta can be used in place of the orzo; adjust the cooking time for that step accordingly and use about a third of a pound.
+
+Sometimes I cook the pasta outside of the soup to keep it from sucking up too much broth.
 
