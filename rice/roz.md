@@ -2,6 +2,8 @@
 
 This is an Arab recipe from Claudia Roden; it's just rice dressed up with some toasted vermicelli.  American vermicelli is about halfway between spaghetti and capellini (angel hair); Italian vermicelli is thicker than spaghetti.  I have no idea what size shaghria (a.k.a. she'reya) is, but it's a forgiving recipe so just use whatever you have around.  Onion is a common additions, but I don't use it here.
 
+Serves 4--6.
+
 ## Ingredients
 
 * 1/2 c. vermicelli
