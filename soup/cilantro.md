@@ -1,6 +1,6 @@
 # Fresh Potato and Cilantro Soup
 
-This is another Portuguese recipe (Sopa de Coentro), from [Soupsong](http://www.soupsong.com/rpotato2.html).
+This is another Portuguese recipe (Sopa de Coentro), from [Soupsong](https://web.archive.org/web/20151229193308/http://www.soupsong.com/rpotato2.html).
 
 ## Ingredients
 
