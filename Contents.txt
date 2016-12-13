@@ -112,6 +112,7 @@ fish/friedSmelt.md
 fish/kuku.md
 fish/poke.md
 sweets/tapioca.md
+sweets/eggnogRicePudding.md
 sweets/nutellaFudge.md
 sweets/easyFudge.md
 sweets/easyMints.md
