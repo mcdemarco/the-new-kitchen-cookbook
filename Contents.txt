@@ -23,6 +23,7 @@ bread/rosemary.md
 bread/naan.md
 bread/baguette.md
 bread/healthy.md
+bread/pagnotta.md
 bread/rye.md
 bread/challah.md
 bread/parkerHouseRolls.md
@@ -32,6 +33,7 @@ bread/artisanIndex.md
 quick-bread/blueberryPancakes.md
 quick-bread/pancakes.md
 quick-bread/pancakesD.md
+quick-bread/ricottaPancakes.md
 quick-bread/crepes.md
 quick-bread/cornbread.md
 quick-bread/branMuffins.md
@@ -54,6 +56,8 @@ vegetables/roastedHaricots.md
 vegetables/roastedBroccoli.md
 vegetables/roastedOkra.md
 vegetables/tzimmes.md
+vegetables/latkes.md
+vegetables/spinachRicottaLatkes.md
 vegetables/polenta.md
 vegetables/spiceMix.md
 vegetables/carrotParsnip.md
