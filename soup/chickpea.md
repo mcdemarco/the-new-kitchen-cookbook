@@ -1,6 +1,6 @@
 # Sopa de Grao
 
-This is a recipe for Portuguese Spinach & Chickpea Soup from Recipezaar (#189046).  It's likely I made it with vegetable stock instead of chicken stock.
+This is a recipe for Portuguese Spinach & Chickpea Soup from Recipezaar (#189046).  It's likely I've always made it with vegetable stock instead of chicken stock.
 
 
 ## Ingredients
@@ -30,3 +30,9 @@ Using an immersion blender, puree the remaining soup to taste.
 Add in the spinach and any reserved chickpeas and simmer 20-30 minutes.
 
 Lastly, stir in lemon juice, salt and pepper to taste and serve, hot, with crusty bread.
+
+## Variants
+
+Cook 1 package soy chorizo according to package directions.  Slice to bite-sized and add it to the soup at the spinach stage.  (I used [this one](https://lightlife.com/products/smart-sausages-chorizo), which I found at Market Basket.  It's in the solid style, not crumbly like Trader Joe's soy chorizo, and spices up the soup quite a bit.)
+
+Alternately, add crushed red pepper to taste early on for spicing up.
