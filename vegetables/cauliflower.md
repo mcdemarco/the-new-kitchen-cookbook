@@ -12,5 +12,7 @@ This started as an Epicurious recipe from back when roasting cauliflower was all
 
 ## Directions
 
-Toss all ingredients in a large bowl. Spread in 1 layer in a shallow baking pan. 
-Roast at 425°, stirring occasionally, for about an hour or until golden brown.
+1. Preheat oven to 425° (with convection).
+2. Toss all ingredients in a large bowl.
+3. Spread in 1 layer in a shallow baking pan lined with parchment paper. 
+4. Roast, stirring occasionally, for about half an hour or until golden brown.

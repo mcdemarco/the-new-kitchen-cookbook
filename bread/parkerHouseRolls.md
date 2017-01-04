@@ -6,7 +6,7 @@ I chose this recipe out of the zillions of Parker House Roll recipes out there b
 
 Note that both sticks of butter get melted on the stove, so they don't need to be brought to room temperature.  To cut down on prep time, you can cool the milk in the fridge or an ice bath, but it's still going to add up to about 3 hours (with at least 2 hours on the first day for the 2-day option).
 
-Makes 24--36 rolls.
+Makes about 3 dozen rolls.
 
 ## Ingredients
 
@@ -26,7 +26,7 @@ Makes 24--36 rolls.
 3. Add yeast and 4 cups flour.  Mix.
 4. Cover and let rise 1 hour.
 5. Mix in remaining dry ingredients (1/2 c. flour, baking powder, baking soda).
-6. Knead 8 minutes.
+6. Knead 8 minutes.  (You can start in the bowl, but finish on a board with flour because it'll be sticky.)
 7. Cover and let rise 30--45 minutes.
 9. Melt other stick of butter in a saucepan.  Pour off into a wide-mouthed bowl.
 10. Roll out dough to 1/2 inch thickness.
