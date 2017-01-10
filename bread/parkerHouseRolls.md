@@ -14,15 +14,15 @@ Makes about 3 dozen rolls.
 * 2 sticks (1 c.) butter, separated
 * 1/2 c. sugar
 * 1/2 T. (1 1/2 tsp) salt
-* 4 1/2 tsp. yeast
+* 1 1/2 T. (4 1/2 tsp.) yeast
 * 4 c. flour plus 1/2 c. flour
 * heaping 1/2 tsp baking powder
 * scant 1/2 tsp baking soda
 
 ## Directions
 
-1. Heat the milk, one stick of butter, sugar and salt through in a saucepan.
-2. Let cool about 40 minutes to yeast temperature.
+1. Heat the milk, one stick of butter, sugar and salt through in a saucepan.  (You can also do the first rise in the pot, if you start with a big enough pot.)
+2. Let cool about 40 minutes to yeast temperature (95°--115°).
 3. Add yeast and 4 cups flour.  Mix.
 4. Cover and let rise 1 hour.
 5. Mix in remaining dry ingredients (1/2 c. flour, baking powder, baking soda).
