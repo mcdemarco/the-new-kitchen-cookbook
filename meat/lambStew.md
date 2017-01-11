@@ -12,6 +12,7 @@ Based on [Lamb and Winter Vegetable Stew](http://allrecipes.com/recipe/44318/lam
 * 1 tsp. thyme (or 1 T fresh)
 * 1/4 tsp. salt 
 * 1/4 tsp. black pepper
+* 1/2 tsp. red pepper flakes
 * 1 cinnamon stick
 * 1 bay leaf
 * 2 c. diced sweet potatoes
