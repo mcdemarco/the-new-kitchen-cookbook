@@ -4,7 +4,7 @@ This recipe is derived from [Lucini's Savory Zucchini Bread](http://www.lucini.c
 
 When I'm making savory muffins I don't usually use muffin cups; I have a non-stick muffin tin.  I generally serve them as a vegetable.
 
-Maxes a baker's dozen, or 30--36 mini-muffins.
+Makes a baker's dozen, or 30--36 mini-muffins.
 
 ## Ingredients
 

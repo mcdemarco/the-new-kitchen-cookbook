@@ -43,7 +43,7 @@ If you have Essence of Emeril (his Creole seasoning) already prepared, use 2 T.
 2. Boil the glaze for about 20 minutes to a thick syrup.
 3. Rub the chicken pieces with the spice mix and the additional salt, and lay out in a casserole.
 4. Pour a good coating of glaze over the chicken.  Reserve remaining glaze.
-5. Bake for 40--45 minutes, depending on the size of the pieces, optionally reglazing partway through.
+5. Bake for 40--55 minutes, depending on the size of the pieces, optionally reglazing partway through.
 6. If your sesame seeds are untoasted and/or your cilantro is dried, sprinkle them on near the end of the cooking time.  (Otherwise, garnish after cooking.)
 7. Serve with remaining glaze.
 
