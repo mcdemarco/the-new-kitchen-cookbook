@@ -1,6 +1,6 @@
 # Texas Chili
 
-I cut [Lisa Fein's Seven Chili recipe](http://www.amateurgourmet.com/2011/09/lisa-fains-seven-chile-chili.html) roughly in half for my hunk of meat, and reduced the chili count to 4.  I also omitted the coffee per one of the comments.
+I cut [Lisa Fein's Seven Chili recipe](http://www.amateurgourmet.com/2011/09/lisa-fains-seven-chile-chili.html) roughly in half for my hunk of meat, and reduced the chili count to 5.  I also omitted the coffee per one of the comments.
 
 ## Ingredients
 
@@ -8,8 +8,8 @@ I cut [Lisa Fein's Seven Chili recipe](http://www.amateurgourmet.com/2011/09/lis
 * olive oil
 * 1 medium onion, diced
 * 3 cloves garlic, minced
-* 10 oz. Guinness
-* 1 1/2 c. water
+* 16 oz. Guinness
+* 1/2 c. water
 * 1/2 T. ground cumin
 * 1/2 tsp. oregano
 * 1/4 tsp. ground cinnamon
@@ -18,14 +18,14 @@ I cut [Lisa Fein's Seven Chili recipe](http://www.amateurgourmet.com/2011/09/lis
 * 1/4 tsp. cayenne
 * 1/4 tsp. grated Mexican chocolate
 * 1/2 tsp. kosher salt, plus more to taste
-* 1 T. masa harina substitute (corn chips?)
+* 1 T. masa harina (optional)
 
 
 ### Chiles
 
-* 5 anchos 
+* 4--5 anchos (3 oz. dried)
 * 2 arbols (+1)
-* 1 chipotle (+1)
+* 1 chipotle (+2)
 * 2 piquins
 * 1/2 c. water
 
@@ -47,4 +47,4 @@ I cut [Lisa Fein's Seven Chili recipe](http://www.amateurgourmet.com/2011/09/lis
 
 ## Variants
 
-I added some spare chiles for a second recipe, as noted.
+I added some spare chiles for a second recipe, as noted.  Tortilla chips are supposed to be a good substitute for masa harina, but I ended up skipping that step altogether.

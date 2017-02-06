@@ -9,7 +9,7 @@ This is my simplified version of a recipe in the Artisan Bread in Five cookbook.
 * 1 clove garlic, roasted
 * 2 T. olive oil
 * 1 tsp. salt
-* 2--4 cubes Dorot basil
+* 1--2 cubes Dorot basil
 
 ## Directions
 
