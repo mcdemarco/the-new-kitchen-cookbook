@@ -11,7 +11,7 @@ Makes: 2 loaves.
 
 ## Ingredients
 
-* 1/3 c. biga
+* 3/8 c. biga (defrosted if frozen)
 * 1/4 c. warm water
 * 1 tsp. yeast
 * 3 1/2 c. all-purpose flour
@@ -25,7 +25,7 @@ Makes: 2 loaves.
 1. Let the biga warm up some (if it was refrigerated).
 2. Mix the yeast into the warm water in a small bowl and let sit 15 minutes.
 3. Mix the gluten, flour, and salt in a large bowl.  Don't forget the gluten.
-4. Add the remaining ingredients to the flour and mix with a spoon until incorporated.
+4. Add all remaining ingredients (except cornmeal) to the flour and mix with a spoon until incorporated.
 5. Knead by hand in the bowl for 5 minutes.
 6. Knead on a floured surface for about 15 minutes.
 7. Transfer to an oiled bowl (flipping to coat with oil) and cover.
