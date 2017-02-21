@@ -49,10 +49,10 @@ Makes: 2 loaves.
 
 ## Variants
 
-You can also form the same amount of dough into
+Using the method described above, you can also form the same amount of dough into
 
 * the single massive loaf from the book (increase time to 40--50 minutes)
-* 12 rolls
+* 12 rolls (reduce time to 20--30 minutes)
 * a reasonable loaf plus 6 rolls
 
-Both rolls and mega-loaves are formed as described above.  When baking rolls, reduce time to 20--30 minutes.
+You can bake a loaf of bread in a dutch oven (or other heavy pot) instead of on a stone, and skip the steam (because it steams itself in there).  During the last rise, preheat the oven to 450° with the covered pot inside instead of the other equipment.  At baking time, uncover the pot to lower the bread into it using the parchment paper.  Bake 35 minutes covered for the single massive loaf (half size), or 25 minutes for the reasonably-sized loaf.  Uncover and bake for an additional 15 minutes, or until it sounds done.  Lift out with the parchment paper and cool on a rack as usual.  Be careful with the hot pot and lid, and don't use pots or lids with plastic handles.
