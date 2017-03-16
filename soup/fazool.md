@@ -28,7 +28,7 @@ This is a variation on the first two recipes in this [nice Pasta e Fagioli colle
 
 Use tomato sauce instead of paste.
 
-Replace water with broth.
+Replace water with broth.  (I've also made it with fish stock.)
 
 Top with grated Italian cheese.
 
