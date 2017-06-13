@@ -1,0 +1,342 @@
+- name: About The New Kitchen Cookbook
+  filename: about
+
+- name: Preface
+  filename: preface
+  files:
+  - name: The New Kitchens
+    filename: kitchens
+  - name: Using the Cookbook
+    filename: cookbook
+
+- name: Appetizers, Snacks, and Drinks
+  filename: appetizers
+  files:
+  - name: Freak Out for Frico!
+    filename: frico
+  - name: Devilled Eggs with Capers
+    filename: devilled
+  - name: Roasted Chickpeas
+    filename: chickpeas
+  - name: Hot Toddy
+    filename: toddy
+  - name: Pitúies
+    filename: pituie
+  - name: Seder Plate
+    filename: seder
+
+- name: Soup
+  filename: soup
+  files:
+  - name: Vegetarian Portuguese Kale Soup
+    filename: kale
+  - name: Fresh Potato and Cilantro Soup
+    filename: cilantro
+  - name: Sopa de Grao
+    filename: chickpea
+  - name: Easy Pasta e Fagioli
+    filename: fazool
+  - name: Matzah Ball Soup
+    filename: matzaball
+  - name: Italian Wedding Soup
+    filename: italianWedding
+
+- name: Bread
+  filename: bread
+  files:
+  - name: Bread Advice
+    filename: advice
+  - name: Bread Math
+    filename: math
+  - name: Cornstarch Wash
+    filename: cornstarch
+  - name: Caramel Coloring for Pumpernickel Bread
+    filename: caramel
+  - name: Semi-semolina Bread
+    filename: semolina
+  - name: Rosemary Boule with Kalamata Olives
+    filename: rosemary
+  - name: Marbled Rye
+    filename: marble
+  - name: Garlic Naan
+    filename: naan
+  - name: Baguette
+    filename: baguette
+  - name: Master Healthy No-Knead Recipe
+    filename: healthy
+  - name: Healthy Rye
+    filename: rye
+  - name: Yes-Knead Challah
+    filename: challah
+  - name: Parker House Rolls
+    filename: parkerHouseRolls
+  - name: Garlic Breadsticks
+    filename: garlicBreadsticks
+  - name: Spicy Cinnamon Flatbread
+    filename: cinnamonFlatbread
+  - name: Artisan Bread Index
+    filename: artisanIndex
+
+- name: Quick Bread
+  filename: quick-bread
+  files:
+  - name: Blueberry Yogurt Pancakes
+    filename: blueberryPancakes
+  - name: Non-dairy Pancakes
+    filename: pancakes
+  - name: Dairy Pancakes
+    filename: pancakesD
+  - name: Crepes
+    filename: crepes
+  - name: Non-dairy Cornbread
+    filename: cornbread
+  - name: Bran Muffins for Mom
+    filename: branMuffins
+  - name: Blueberry Corn Muffins
+    filename: blueberryCornMuffins
+  - name: Banana Cranberry Muffins
+    filename: bananaCranberry
+  - name: Honey Pear Muffins
+    filename: honeyPear
+  - name: Chocolate Ricotta Mini Muffins
+    filename: chocolateRicotta
+  - name: Carrot Spice Muffins
+    filename: carrotSpice
+  - name: Carrot Corn Mini Muffins
+    filename: carrotCorn
+  - name: Savory Zucchini Muffins
+    filename: zucchini
+
+- name: Vegetables
+  filename: vegetables
+  files:
+  - name: Vegetables in Olive Oil and Garlic
+    filename: garlic
+  - name: Broccolini
+    filename: broccolini
+  - name: Broccoli Rabe or Rapini
+    filename: rapini
+  - name: Fiddleheads
+    filename: fiddleheads
+  - name: Spinach
+    filename: spinach
+  - name: Roasted Cauliflower
+    filename: cauliflower
+  - name: Winter Squash
+    filename: squash
+  - name: Roasted Potatoes
+    filename: roastedPotatoes
+  - name: Roasted Green Beans
+    filename: roastedHaricots
+  - name: Roasted Broccoli
+    filename: roastedBroccoli
+  - name: Roasted Okra
+    filename: roastedOkra
+  - name: Tzimmes
+    filename: tzimmes
+  - name: Polenta
+    filename: polenta
+  - name: Moroccan Spice Mix
+    filename: spiceMix
+  - name: North African Spiced Carrot and Parsnip Salad
+    filename: carrotParsnip
+  - name: Chickpea Salad with Fennel, Tomatoes and Olives
+    filename: chickpeaFennel
+  - name: Mizeria (Polish Cucumber Salad)
+    filename: cucumber
+  - name: Tomato and Watermelon Salad
+    filename: tomatoWatermelon
+  - name: Grape Tomato and Avocado Salad
+    filename: tomatoAvocado
+  - name: Waldorf Salad
+    filename: waldorfSalad
+  - name: Breakfast Lentils
+    filename: breakfastLentils
+
+- name: Rice
+  filename: rice
+  files:
+  - name: Rice Salad
+    filename: riceSalad
+  - name: Stuffed Peppers
+    filename: stuffedPeppers
+  - name: Roz bil Shaghria
+    filename: roz
+  - name: About Risotto
+    filename: aboutRisotto
+  - name: Saffron Risotto
+    filename: saffronRisotto
+  - name: Tempeh Risotto
+    filename: tempehRisotto
+  - name: Orzo
+    filename: orzo
+  - name: Sushi Rice
+    filename: sushi
+
+- name: Pasta
+  filename: pasta
+  files:
+  - name: Orecchiette with Anchovy Sauce
+    filename: orecchiette
+  - name: Puttanesca
+    filename: puttanesca
+  - name: Mac and Cheese
+    filename: macncheese
+  - name: Italian Chop Suey
+    filename: chopsuey
+  - name: Fake Bolognese Sauce
+    filename: bolognese
+  - name: Meat Sauce
+    filename: meatsauce
+  - name: Soba Salad
+    filename: sobaSalad
+
+- name: Meat
+  filename: meat
+  files:
+  - name: Meatballs
+    filename: meatballs
+  - name: Fake Bolognese Sauce
+    filename: bolognese
+  - name: Meat Sauce
+    filename: meatsauce
+  - name: Meatloaf for Passover
+    filename: meatloaf
+  - name: Beef and Bean Chili
+    filename: chili
+  - name: Cincinnati Chili
+    filename: cincinChili
+  - name: Beef Curry
+    filename: curry
+  - name: Molha Quase à Moda de Pico
+    filename: molha
+  - name: Briskette
+    filename: briskette
+
+- name: Poultry
+  filename: poultry
+  files:
+  - name: Roasted Whole Chicken
+    filename: roasted
+  - name: Chicken Cacciatore
+    filename: cacciatore
+  - name: Turkey Chicken
+    filename: turkeyChicken
+  - name: Turkey Chicken for a Crowd
+    filename: bakedTurkeyChicken
+  - name: Roasted Chicken Quarters with Butternut Squash
+    filename: roastedWithSquash
+  - name: Tuscan Chicken with Olives and Capers
+    filename: tuscanChicken
+  - name: Treda
+    filename: treda
+  - name: Moroccan Spiced Chicken Stew
+    filename: thighStew
+  - name: Spicy Asian Chicken
+    filename: asianChicken
+  - name: Turkey Scaloppini
+    filename: scaloppini
+  - name: Baked Turkey Tenders
+    filename: bakedTurkeyTenders
+  - name: Crockpot Bourbon Turkey Tenders
+    filename: crockpotTurkey
+  - name: Turkey Meatballs
+    filename: turkeyballs
+  - name: Turkey Chili
+    filename: turkeyChili
+  - name: Italian Wedding Soup
+    filename: italianWedding
+
+- name: Fish
+  filename: fish
+  files:
+  - name: Costco Salmon
+    filename: costcoSalmon
+  - name: Panko Crusted Salmon
+    filename: pankoSalmon
+  - name: Salmon Steaks
+    filename: salmonSteaks
+  - name: Broiled Salmon
+    filename: broiledSalmon
+  - name: Baked Trout
+    filename: trout
+  - name: Baked Mackerel
+    filename: mackerel
+  - name: Fried Smelt
+    filename: friedSmelt
+  - name: Fish Kuku
+    filename: kuku
+  - name: Salmon Poke
+    filename: poke
+
+- name: Sweets
+  filename: sweets
+  files:
+  - name: Tapioca Pudding
+    filename: tapioca
+  - name: Nutella Fudge with Sea Salt
+    filename: nutellaFudge
+  - name: Tasty Easy Fudge
+    filename: easyFudge
+  - name: Easy Mints
+    filename: easyMints
+  - name: Candied Grapefruit Peels
+    filename: grapefruitPeels
+  - name: Sonhos (Portuguese Doughnuts)
+    filename: sonhos
+  - name: Sufganiyot (Jelly Doughnuts)
+    filename: sufganiyot
+  - name: Haroset
+    filename: haroset
+
+- name: C is for Cookie
+  filename: cookies
+  files:
+  - name: Pizzelles
+    filename: pizzelles
+  - name: Pizzelles by the Egg
+    filename: pizzellesByTheEgg
+  - name: Authentic Biscotti
+    filename: biscotti
+  - name: Pistachio Biscotti
+    filename: pistachioBiscotti
+  - name: Anise Cookies
+    filename: aniseDrop
+  - name: Anginetti
+    filename: lemonDrop
+  - name: Palmiers
+    filename: palmiers
+  - name: Chocolate Chip Cookies
+    filename: chocolateChip
+  - name: Hermit Cookies
+    filename: hermits
+  - name: Almond Butter Cutouts
+    filename: almondButter
+  - name: Nan Berenji
+    filename: riceFlour
+  - name: Red Bean Paste Hamantaschen
+    filename: redBeanHamantaschen
+  - name: Suspiros (Meringues)
+    filename: suspiros
+
+- name: Pie!
+  filename: pie
+  files:
+  - name: Pie Advice
+    filename: advice
+  - name: Crust
+    filename: crust
+  - name: Apple Pie
+    filename: apple
+  - name: Blueberry Pie
+    filename: blueberry
+  - name: Pear Pie
+    filename: pear
+  - name: Pecan Pie
+    filename: pecan
+  - name: Blueberry Turnovers
+    filename: blueberryTurnovers
+  - name: Pastéis de Nata
+    filename: pasteisDeNata
+  - name: Spanakopita
+    filename: spanakopita
