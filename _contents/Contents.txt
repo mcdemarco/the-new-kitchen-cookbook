@@ -4,6 +4,8 @@ preface/cookbook.md
 appetizers/frico.md
 appetizers/devilled.md
 appetizers/chickpeas.md
+appetizers/paoDeQueijo.md
+appetizers/tuscanBean.md
 appetizers/toddy.md
 appetizers/pituie.md
 appetizers/seder.md
@@ -11,8 +13,10 @@ soup/kale.md
 soup/cilantro.md
 soup/chickpea.md
 soup/fazool.md
+soup/okra.md
 soup/matzaball.md
 soup/italianWedding.md
+soup/kielbasa.md
 bread/advice.md
 bread/cornstarch.md
 bread/caramel.md
@@ -26,6 +30,8 @@ bread/healthy.md
 bread/pagnotta.md
 bread/rye.md
 bread/challah.md
+bread/pagnotta.md
+bread/ciabatta.md
 bread/parkerHouseRolls.md
 bread/garlicBreadsticks.md
 bread/cinnamonFlatbread.md
@@ -44,6 +50,8 @@ quick-bread/chocolateRicotta.md
 quick-bread/carrotSpice.md
 quick-bread/carrotCorn.md
 quick-bread/zucchini.md
+quick-bread/guinnessBiscuits.md
+quick-bread/coconutOilBiscuits.md
 vegetables/garlic.md
 vegetables/broccolini.md
 vegetables/rapini.md
@@ -55,6 +63,7 @@ vegetables/roastedPotatoes.md
 vegetables/roastedHaricots.md
 vegetables/roastedBroccoli.md
 vegetables/roastedOkra.md
+vegetables/vegetarianChili.md
 vegetables/tzimmes.md
 vegetables/latkes.md
 vegetables/spinachRicottaLatkes.md
@@ -76,8 +85,9 @@ rice/tempehRisotto.md
 rice/orzo.md
 rice/sushi.md
 pasta/orecchiette.md
-pasta/puttanesca.md
+pasta/pesto.md
 pasta/macncheese.md
+pasta/puttanesca.md
 pasta/chopsuey.md
 pasta/bolognese.md
 pasta/meatsauce.md
@@ -88,14 +98,17 @@ meat/meatsauce.md
 meat/meatloaf.md
 meat/chili.md
 meat/cincinChili.md
+meat/texasChili.md
 meat/curry.md
-meat/molha.md
 meat/briskette.md
+meat/molha.md
+meat/lambStew.md
 poultry/roasted.md
 poultry/cacciatore.md
 poultry/turkeyChicken.md
 poultry/bakedTurkeyChicken.md
 poultry/roastedWithSquash.md
+poultry/roastedWithSweetPotatoes.md
 poultry/tuscanChicken.md
 poultry/treda.md
 poultry/thighStew.md
@@ -113,6 +126,7 @@ fish/broiledSalmon.md
 fish/trout.md
 fish/mackerel.md
 fish/friedSmelt.md
+fish/bacalhauComBroa.md
 fish/kuku.md
 fish/poke.md
 sweets/tapioca.md
@@ -138,8 +152,9 @@ cookies/suspiros.md
 pie/advice.md
 pie/crust.md
 pie/apple.md
-pie/blueberry.md
 pie/pear.md
+pie/blueberry.md
+pie/cherry.md
 pie/pecan.md
 pie/blueberryTurnovers.md
 pie/pasteisDeNata.md

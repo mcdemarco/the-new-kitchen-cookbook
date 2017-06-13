@@ -18,6 +18,10 @@
     filename: devilled
   - name: Roasted Chickpeas
     filename: chickpeas
+  - name: Pão de Queijo (Brazilian Cheese Bread)
+    filename: paoDeQueijo
+  - name: Tuscan Bean Dip
+    filename: tuscanBean
   - name: Hot Toddy
     filename: toddy
   - name: Pitúies
@@ -36,10 +40,14 @@
     filename: chickpea
   - name: Easy Pasta e Fagioli
     filename: fazool
+  - name: Okra Soup
+    filename: okra
   - name: Matzah Ball Soup
     filename: matzaball
   - name: Italian Wedding Soup
     filename: italianWedding
+  - name: Kielbasa Soup
+    filename: kielbasa
 
 - name: Bread
   filename: bread
@@ -68,6 +76,10 @@
     filename: rye
   - name: Yes-Knead Challah
     filename: challah
+  - name: Pagnotta
+    filename: pagnotta
+  - name: Ciabatta
+    filename: ciabatta
   - name: Parker House Rolls
     filename: parkerHouseRolls
   - name: Garlic Breadsticks
@@ -106,6 +118,10 @@
     filename: carrotCorn
   - name: Savory Zucchini Muffins
     filename: zucchini
+  - name: Guinness Beer Biscuits
+    filename: guinnessBiscuits
+  - name: Coconut Oil Biscuits
+    filename: coconutOilBiscuits
 
 - name: Vegetables
   filename: vegetables
@@ -132,6 +148,8 @@
     filename: roastedBroccoli
   - name: Roasted Okra
     filename: roastedOkra
+  - name: Vegetarian Chili
+    filename: vegetarianChili
   - name: Tzimmes
     filename: tzimmes
   - name: Polenta
@@ -178,10 +196,12 @@
   files:
   - name: Orecchiette with Anchovy Sauce
     filename: orecchiette
-  - name: Puttanesca
-    filename: puttanesca
+  - name: Pesto
+    filename: pesto
   - name: Mac and Cheese
     filename: macncheese
+  - name: Puttanesca
+    filename: puttanesca
   - name: Italian Chop Suey
     filename: chopsuey
   - name: Fake Bolognese Sauce
@@ -206,12 +226,16 @@
     filename: chili
   - name: Cincinnati Chili
     filename: cincinChili
+  - name: Texas Chili
+    filename: texasChili
   - name: Beef Curry
     filename: curry
-  - name: Molha Quase à Moda de Pico
-    filename: molha
   - name: Briskette
     filename: briskette
+  - name: Molha Quase à Moda de Pico
+    filename: molha
+  - name: Lamb Stew
+    filename: lambStew
 
 - name: Poultry
   filename: poultry
@@ -226,6 +250,8 @@
     filename: bakedTurkeyChicken
   - name: Roasted Chicken Quarters with Butternut Squash
     filename: roastedWithSquash
+  - name: Roasted Chicken Thighs with Sweet Potatoes
+    filename: roastedWithSweetPotatoes
   - name: Tuscan Chicken with Olives and Capers
     filename: tuscanChicken
   - name: Treda
@@ -264,6 +290,8 @@
     filename: mackerel
   - name: Fried Smelt
     filename: friedSmelt
+  - name: Bacalhau com Broa
+    filename: bacalhauComBroa
   - name: Fish Kuku
     filename: kuku
   - name: Salmon Poke
@@ -328,10 +356,12 @@
     filename: crust
   - name: Apple Pie
     filename: apple
-  - name: Blueberry Pie
-    filename: blueberry
   - name: Pear Pie
     filename: pear
+  - name: Blueberry Pie
+    filename: blueberry
+  - name: Cherry Pie
+    filename: Cherry
   - name: Pecan Pie
     filename: pecan
   - name: Blueberry Turnovers
