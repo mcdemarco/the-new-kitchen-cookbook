@@ -2,7 +2,7 @@
 
 ![bran muffins](../images/bran_muffins.png)
 
-This is a slight alteration of "Raisin Bran Muffins That Work," Recipezaar recipe #73061, that my mother likes. I made it non-dairy. I've only made the blueberry version once or twice.  I also made a diced pear version once.
+This is a slight alteration of "Raisin Bran Muffins That Work," Recipezaar recipe #73061, that my mother likes. I made it non-dairy. I've only made the blueberry version once or twice.
 
 ## Ingredients
 
@@ -21,4 +21,21 @@ This is a slight alteration of "Raisin Bran Muffins That Work," Recipezaar recip
 
 ## Directions
 
-Preheat oven to 400° F. Beat wet ingredients and sugar. Add bran and let sit 5 minutes. Dust raisins with rye or white flour. Mix other dry ingredients in separate bowl. Add flour mixture to bran mixture and stir gently. Add raisins. Fill 12 muffin cups. Bake 20 minutes.
+1. Beat wet ingredients and sugar.
+2. Preheat oven to 400° F.
+3. Add bran to liquid and let sit 5 minutes.
+4. Dust raisins with rye or white flour.  Separate if stuck.
+5. Mix other dry ingredients in separate bowl.
+6. Add flour mixture to bran mixture and stir gently.
+7. Add raisins.
+8. Fill 12--15 muffin cups.
+9. Bake 20 minutes.
+
+
+## Variants
+
+You can use milk.
+
+Replace 1/2 c. of the white flour with 1/2 c. almond flour plus 1 tsp. vital wheat gluten plus 1/2 tsp. baking powder.
+
+I made a diced pear version once.
