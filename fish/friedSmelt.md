@@ -14,7 +14,7 @@ I found a recipe I liked for fried smelt, but I misplaced it.  Fortunately, they
 * dash garlic powder
 * dash mustard powder
 * dash ground ginger
-* 1 or 2 scotch bonnets, diced (or dried red pepper flakes to taste)
+* 1 or 2 scotch bonnets, diced (or dried red pepper flakes or chili powder, to taste)
 * 2 scallions
 * sesame and/or olive oil 
 * white wine
@@ -32,3 +32,5 @@ Remove smelt and deglaze the pan with the white wine and green parts of the scal
 You can leave out the egg/milk step entirely.
 
 You can deep fry the smelts at 375° for a couple of minutes (at most), skipping the pepper, scallion, etc.  This is a much faster process, but they suffer from the lack of hot spice.
+
+You can broil the smelts for 8 minutes, roast them at 400° for 12 minutes, or bake them at 350° for 20 minutes, also skipping the pepper, scallion, etc. (or not), and instead adding oil to the pan and/or liquid layer.
