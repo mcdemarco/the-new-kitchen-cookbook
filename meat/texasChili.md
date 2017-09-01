@@ -1,6 +1,6 @@
 # Texas Chili
 
-I cut [Lisa Fein's Seven Chili recipe](http://www.amateurgourmet.com/2011/09/lisa-fains-seven-chile-chili.html) roughly in half for my hunk of meat, and reduced the chili count to 5.  I also omitted the coffee per one of the comments.
+I cut [Lisa Fein's Seven Chili recipe](http://www.amateurgourmet.com/2011/09/lisa-fains-seven-chile-chili.html) roughly in half for my hunk of meat, and reduced the chili count to 5 (since restored).  I also omitted the coffee per one of the comments.
 
 ## Ingredients
 
@@ -23,11 +23,15 @@ I cut [Lisa Fein's Seven Chili recipe](http://www.amateurgourmet.com/2011/09/lis
 
 ### Chiles
 
-* 4--5 anchos (3 oz. dried)
-* 2 arbols (+1)
-* 1 chipotle (+2)
+* 2 anchos (or 4--5, about 3 oz., if skipping the others)
+* 1 pasilla
+* 1 guajillo
+* 2 arbols
+* 1 chipotle (I used canned, not dried)
 * 2 piquins
 * 1/2 c. water
+
+
 
 ## Directions
 
@@ -47,4 +51,6 @@ I cut [Lisa Fein's Seven Chili recipe](http://www.amateurgourmet.com/2011/09/lis
 
 ## Variants
 
-I added some spare chiles for a second recipe, as noted.  Tortilla chips are supposed to be a good substitute for masa harina, but I ended up skipping that step altogether.
+Tortilla chips are supposed to be a good substitute for masa harina, but I ended up skipping that step altogether.
+
+You can make the chili in a crockpot: chop the beef chunkier (1 inch) and toss in fresh chilis (if you have them) as in [Spicy 3 Chilies Texas Chili a la Crock Pot](https://www.101cookingfortwo.com/spicy-3-chilies-texas-chili-la-crock/), or follow the chili mash procedure above.  You can crock it on high for 5 hours according to [Mike Vrobel](https://www.dadcooksdinner.com/slow-cooker-texas-red-chili/) instead of the 8--10 hours at low you see elsewhere; he also recommends browning one batch of the beef only, on one side only.
