@@ -14,7 +14,7 @@ Makes 40, best eaten fresh.
 
 * 1 7/8 c. flour
 * 1/4 tsp. sea salt
-* 7/8 c. up plus two tablespoons water
+* 7/8 c. (1 cup minus two tablespoons) water
 * 2 sticks butter, stirred
 
 ### Custard
