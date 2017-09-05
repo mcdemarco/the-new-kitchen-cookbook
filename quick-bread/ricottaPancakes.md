@@ -2,6 +2,9 @@
 
 This Italian pancake is the ancestor of the latke, according to [Tori Avery](http://toriavey.com/toris-kitchen/2010/12/cheese-latkes/).  I cut the recipe down for serving alongside modern latkes, but then scaled it back up again because it wasn't enough for breakfast.
 
+I made these again recently with store brand ricotta, and they were much thicker than usual; I had to milk them down quite a bit.  YMMV.
+
+
 ## Ingredients
 
 ### Cut-Down Recipe
@@ -37,3 +40,4 @@ Makes 15--18 mini-pancakes.
 ## Variants
 
 To prepare (partly) ahead of time, measure and mix the liquid ingredients and dry ingredients separately, and refrigerate the liquid ingredients.  Combine and fluff before frying.
+
