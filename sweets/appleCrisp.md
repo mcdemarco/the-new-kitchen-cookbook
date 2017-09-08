@@ -12,8 +12,7 @@ This is a semi-traditional but non-dairy apple crisp recipe inspired by [Easy Pa
 * 1 tsp. cinnamon
 * 1/4 tsp. nutmeg
 * 1/4 tsp. allspice
-* 1/4 tsp. ground clove
-* 1/2 c. walnuts, chopped (or raisins)
+* dash ground clove
 * 2 T. sweet red wine, sweet vermouth, or water (optional)
 
 ### Crisp
@@ -23,7 +22,8 @@ This is a semi-traditional but non-dairy apple crisp recipe inspired by [Easy Pa
 * 1/2 c. brown sugar
 * 1/2 tsp. cinnamon
 * 1/8 tsp. salt
-* 1/4 c. coconut oil (or shortening, or butter)
+* 1/2 c. walnuts, chopped (optional)
+* 1/3 c. coconut oil (or shortening, or butter)
 
 ## Directions
 
@@ -32,10 +32,10 @@ This is a semi-traditional but non-dairy apple crisp recipe inspired by [Easy Pa
 3. Prep apple ingredients and mix in a bowl.
 4. Fill a small baking dish (optionally greased or spray-oiled) with the apple mix.
 5. Top with crumbled crisp mix.
-6. Bake 40--50 minutes, or until browned and bubbly.
+6. Bake 20 minutes covered, then 10--30 minutes uncovered (until browned and bubbly).
 
 ## Variants
 
-The original recipe called for pecans.
+The original recipe called for pecans and all almond flour.
 
-Epicurious says you can make it a day ahead and reheat it.
+Epicurious said you can make it a day ahead and reheat it (and called for all white flour).
