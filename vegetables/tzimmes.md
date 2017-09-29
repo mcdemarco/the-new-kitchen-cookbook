@@ -28,3 +28,5 @@ The main requirement was that the tzimmes be orange.  [This recipe](http://cooki
 Steam the roots first for 10 minutes for quicker baking (1 hour), in which case you can omit the water from the recipe and leave the dish uncovered.  Raise the temperature to 375° and stir occasionally while baking.
 
 Prunes are the traditional fruit.
+
+For Rosh Hashanah, you can expand the list to include pumpkin (*i.e.,* gourd), beets, leeks, dates, black-eyed peas, or other traditional foods.

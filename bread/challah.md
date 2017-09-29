@@ -9,7 +9,7 @@ Makes 2 loaves.
 * 1 T. yeast
 * 1 1/8 c. bread-temperature water
 * 1/4 c. sugar or honey
-* 2 eggs plus half an egg for the top
+* 2 eggs (plus half an egg for the top)
 * 1/2 T. salt
 * 1/4 c. oil
 * 4 c. flour
@@ -19,11 +19,13 @@ Makes 2 loaves.
 ## Directions
 
 1. Mix everything but the flour, raisins, and seeds well.
-2. Add flour gradually.  (You may need extra if you chose the honey option.)
-3. Knead 15 minutes.
+2. Add flour gradually.
+3. Knead 15 minutes.  (You may need extra flour if you chose the honey option.)
 4. Put in an oiled bowl and flip to coat with oil.
 5. Cover with plastic wrap and let double in size (2-3 hours).
-6. Punch down, add optional raisins, knead, divide into two, and shape.  To shape, form into one or three ropes and coil up (one) from the end or braid (three) from the middle.
-7. Let rise another hour on an oiled cookie sheet or on parchment paper.
+6. Punch down, add optional raisins, knead, and divide in two.
+7. To shape each loaf, roll out that portion of dough into ropes:  one for a round loaf or three for a braid.
+8. Coil up from the end (for a round loaf) or braid from the middle.
+7. Let the shaped loaves rise another hour on an oiled cookie sheet or on parchment paper.
 8. Brush with the half egg and sprinkle with optional seeds.
 9. Bake at 350° for 30-40 minutes.

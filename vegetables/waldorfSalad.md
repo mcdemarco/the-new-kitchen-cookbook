@@ -25,3 +25,4 @@ I used currants in place of raisins, but in traditional recipes only raisins app
 
 Peter requested a substitution of allspice and clove for the cinnamon and nutmeg, which I plan to try out next time.  Some recipes substitute yogurt or cream for the mayonnaise, which Peter might also appreciate.
 
+You can [add chickpeas](http://www.thekitchn.com/recipe-chickpea-waldorf-salad-lunch-recipes-from-the-kitchn-207603).
