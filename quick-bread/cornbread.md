@@ -25,7 +25,7 @@ I based this recipe on one from [The Joy of Kosher site](http://www.joyofkosher.
 
 ## Variants
 
-The original recipe called for margarine.  I have never owned a stick of margarine, so I'm guessing I substituted oil for the margarine, but Crisco or coconut oil might also work and I may have tried Crisco at some point.
+The original recipe called for margarine.  I have never owned a stick of margarine, so I'm guessing I substituted oil for the margarine, but Crisco or coconut oil might also work.  I may have tried Crisco at some point.
 
 For a dairy cornbread or corn muffins, I use the white flour, the lower sugar value, the higher salt value, and lactose-free milk.
 
