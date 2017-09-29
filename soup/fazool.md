@@ -1,6 +1,8 @@
 # Easy Pasta e Fagioli
 
-This is a variation on the first two recipes in this [nice Pasta e Fagioli collection](http://theheritagecook.com/pasta-e-fagioli-tuscan-bean-soup-4-versions/).  It's vegetarian, quick, and simple.  Serves 2.
+This is a variation on the first two recipes in this [nice Pasta e Fagioli collection](http://theheritagecook.com/pasta-e-fagioli-tuscan-bean-soup-4-versions/).  It's vegetarian, quick, and simple.
+
+Serves 2.
 
 ## Ingredients
 
@@ -9,11 +11,11 @@ This is a variation on the first two recipes in this [nice Pasta e Fagioli colle
 * 3 T. olive oil
 * 1 tsp dried sage
 * 2 tsp dried rosemary, crushed in a mortar and pestle
-* 5 peppercorns, crushed in a mortar and pestle (I was out of pepper.)
-* about 3 c. water
+* pepper to taste (or 5 peppercorns, crushed in a mortar and pestle)
+* about 3 c. water (or broth)
 * about 2 T. tomato paste
 * 1/2 tsp. salt or to taste
-* about 2/3 c. or 1/3 lb. small pasta (e.g., orzo)
+* about 2/3 c. or 1/4 lb. small pasta (e.g., orzo)
 
 ## Directions
 
@@ -28,7 +30,7 @@ This is a variation on the first two recipes in this [nice Pasta e Fagioli colle
 
 Use tomato sauce instead of paste.
 
-Replace water with broth.  (I've also made it with fish stock.)
+Replace water with chicken broth or fish stock.
 
 Top with grated Italian cheese.
 
