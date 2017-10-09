@@ -40,7 +40,7 @@ Makes 9x13 inches of bar cookies.
 2. Separately, cream the butter with the sugar, then beat in the egg and molasses.
 3. Mix the dry ingredients into the creamed ingredients.  Do not overmix.
 4. Mix in the currants.  Do not forget the currants.
-5. Pack the resulting mass into the baking pan.  (Plastic wrap is helpful here, and/or a little roller.)
+5. Pack the resulting mass into the baking pan.  (Plastic wrap is helpful here, and/or a little roller.  Skilled professionals might get away with using the butter wrapper and their fingers.)
 6. Optionally, top with sanding sugar.
 6. Bake 20--30 minutes or until it tests clean.
 7. Cool completely in pan on a rack.

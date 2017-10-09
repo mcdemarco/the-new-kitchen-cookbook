@@ -34,4 +34,6 @@ Replace water with chicken broth or fish stock.
 
 Top with grated Italian cheese.
 
+Add some sliced Italian sausage.
+
 Beware of adding too much pasta.  For pasta conversions, try [Barilla](https://www.barilla.com/en-us/help/measuring-pasta).
