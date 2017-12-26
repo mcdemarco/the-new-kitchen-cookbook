@@ -1,6 +1,6 @@
 # Panko-Crusted Salmon
 
-This is another recipe for Costco's big bags of frozen salmon.  It was formerly a footnote to my Costco Salmon recipe, but Peter likes it so it's been promoted to a real recipe.  I found [the original recipe](http://www.cookingclassy.com/2014/10/panko-crusted-honey-mustard-salmon/) on Pinterest, but simplified and reduced for my purposes.
+This is another recipe for Costco's big bags of frozen salmon.  It was formerly a footnote to my Costco Salmon recipe, but Peter likes it so it's been promoted to a real recipe.  I found [the original recipe](http://www.cookingclassy.com/2014/10/panko-crusted-honey-mustard-salmon/) on Pinterest, but simplified and reduced it for my purposes.
 
 Serves 2.
 

@@ -4,7 +4,7 @@ These are here so I don't have to google the directions every time I make them. 
 
 ## Acorn Squash
 
-Bake cut side up, filled with butter, brown sugar, maple syrup, etc., at 375° for 1 hour.
+Bake cut side up, filled with butter, brown sugar, maple syrup, [salt, pepper, and/ or garlic](https://www.thekitchn.com/how-to-cook-acorn-squash-223015), etc., at 375° for 45 minutes to 1 hour, depending on size.
 
 ## Butternut Squash
 
