@@ -17,11 +17,12 @@ The recipe yields slightly more than 2 muffins per egg; commenters at Elana's Pa
 ## Directions
 
 1. Preheat oven to 350° F (325° with convection).
-2. Crack egg(s) and weigh.
-3. Divide the weight by 1/4 and add that much honey.
-4. Multiply the vinegar measurement by eggs and add that much vinegar.  Mix.
-5. In a separate bowl, weigh out almond flour equal to the weight of the eggs.
-6. Multiply the baking soda measurement by the number of eggs and add to the almond flour.  Mix.
+2. Crack egg(s) and weigh. 
+5. In a separate, smaller bowl, weigh out almond flour equal to the weight of the eggs.
+3. Divide the weight by 1/4 and add that much honey to the egg bowl.
+4. Multiply the vinegar measurement by eggs and add that much vinegar to the egg bowl.  Mix.
+6. Multiply the baking soda measurement by the number of eggs and add to the almond flour bowl.
+7. Add any optional spices to the almond flour bowl and mix.
 7. Add dry mixture to wet mixture and stir gently.
 8. Scoop into the appropriate number of paper muffin cups (2 per egg).
 9. Bake 15 minutes.

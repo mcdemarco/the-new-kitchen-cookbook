@@ -6,7 +6,8 @@ Peter believes in making chicken soup out of a chicken, so I started with a reci
 
 ### Stock
 
-* 1 rock cornish game hen (2--3 lbs)
+* 1 rock cornish game hen (2--3 lbs) or 4--5 lb. broiler chicken
+* water to cover
 * 2 celery stalks, chopped
 * 2 carrots, chunked
 * 1 onion, quartered
@@ -34,11 +35,11 @@ Peter believes in making chicken soup out of a chicken, so I started with a reci
 
 ### Balls
 
-5. Skim fat for the matzah balls off the top of the cold stock.
-6. Mix eggs and fat.
-7. Add matzah meal and salt.
-8. Add hot water.
-7. Chill dough for 1 hour.
+1. Skim fat for the matzah balls off the top of the cold stock.
+2. Mix eggs and fat.
+3. Add matzah meal and salt.
+4. Add hot water.
+5. Chill dough for 1 hour.
 6. If you have enough stock to let the balls suck some up, then reheat enough of the stock for cooking the balls.  Otherwise, boil plenty of salted water.
 7. Form dough into walnut-sized balls (about 1 inch in diameter).
 8. Boil, covered, in designated liquid 20 minutes.

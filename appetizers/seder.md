@@ -19,7 +19,7 @@ Other non-meal items required for the seder are:
 
 ### Instructions
 
-1. Roast the egg(s) in the oven for 30 minutes at 325°, then cool in ice water and peel.
+1. Roast the egg(s) in the oven for 30 minutes at 325° (you can leave them in a cardboard carton or put them straight on the rack), then cool in ice water and peel.
 2. Roast the bone or bone substitute with anything else in the oven at any temperature.
 3. For appearances, hold the bone and one of the eggs over a gas flame (using an appropriate implement).
 4. Make the haroset (see recipe).
@@ -33,7 +33,7 @@ Here's a pretty simple seder I put together for some Ashkenazi Jews with certain
 
 Most of the recipes mentioned serve 8.
 
-0. The seder plate (explained below), including haroset
+0. The seder plate (explained above), including haroset
 1. Gefilte fish (out of a jar, with prepared horseradish or any leftover seder horseradish)
 2. [Matzo ball soup](../soup/matzaball.md) or matza ball mix and prepared broth.
 2. [Tzimmes](../vegetables/tzimmes.md)
