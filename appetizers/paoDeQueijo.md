@@ -32,7 +32,7 @@ Makes about 40, best eaten hot out of the oven.
 5. Pour boiling liquid ingredients into the flour mixture.
 6. Mix with a spoon until it has cooled enough to knead.
 7. Knead by hand in the bowl until it's well-mixed.
-8. Add cheese mixture and spices to the bowl and knead for 10 more minutes in the bowl.
+8. Add cheese mixture and spices to the bowl and knead for 10 more minutes in the bowl.  (You can stir here if it's too sticky to knead.)
 9. Cover and chill 2 hours or overnight.
 10. Preheat oven to 350°.
 11. Line two baking sheets with parchment paper.  (Don't use a mini-muffin pan.)
