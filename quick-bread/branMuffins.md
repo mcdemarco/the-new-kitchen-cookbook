@@ -39,3 +39,5 @@ You can use milk.
 Replace 1/2 c. of the white flour with 1/2 c. almond flour plus 1 tsp. vital wheat gluten plus 1/2 tsp. baking powder.
 
 I made a diced pear version once.
+
+For mini-muffins, bake about 15 minutes at the same temperature.  Do not overfill!
