@@ -37,7 +37,7 @@ Serves 2--3, depending on how much chicken they want.
 * 1 1/2 tsp. salt
 * 4--5 c. water or broth, depending on how soupy you want it
 * 4 cubes frozen cilantro
-* 1/4 c. fenugreek seeds (or 2 tsp powdered)
+* 1/4 c. fenugreek seeds (or 4 tsp powdered)
 * 1/2 c. brown lentils (preferably small ones)
 * 1/4 c. red lentils
 * 1/2 -- 1 lb short pasta, cooked, depending on how far you want to stretch the recipe
