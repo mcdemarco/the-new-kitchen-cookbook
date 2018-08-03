@@ -1,6 +1,6 @@
 # Moroccan Spice Mix
 
-This is good for putting on frozen vegetables or [roasted chickpeas](http://www.kalynskitchen.com/2008/02/crispy-roasted-chickpeas-garbanzo-beans.html).
+This is good for putting on frozen vegetables, [roasted chickpeas](http://www.kalynskitchen.com/2008/02/crispy-roasted-chickpeas-garbanzo-beans.html), or [whiting](https://www.thespruceeats.com/whiting-moroccan-fried-fish-recipe-2394646) (1 tsp. per pound).
 
 ## Ingredients
 

@@ -30,4 +30,8 @@ Serves 2, chilled or at room temperature.
 7. Mix all ingredients together.
 8. Optionally, chill further before serving.
 
+## Variants
+
+You can do something similar with [a can of salmon](https://www.tasteofhome.com/recipes/salmon-pasta-salad/).
+
 
