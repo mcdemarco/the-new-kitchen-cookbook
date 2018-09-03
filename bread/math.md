@@ -2,56 +2,89 @@
 
 Sometimes you want a little less than the full [Artisan Bread in 5 Minutes a Day](http://www.artisanbreadinfive.com/) [Master Recipe](http://www.artisanbreadinfive.com/2008/04/27/great-coverage-in-the-week-magazine-but-there-was-one-little-problem).  The basic unit here is a loaf.
 
-Note that an eighth of a cup is 2 T., and 3/4 T is 2 1/4 tsp.
+Note that an eighth of a cup is 2 T., and 3/4 T is 2 1/4 tsp.  Note also that small measurements should be done by volume even when weights are provided (unless your scale is extraordinarily accurate).
 
-## One Loaf
+## Master Recipe
+
+### One Loaf
 
 * 3/4 c. lukewarm water
 * 3/8 T yeast
 * 3/8 T kosher salt
 * 1 5/8 c. white flour 
 
-### Variants
+#### Variants
 
 * 3/8 T caraway seed
 * 1 3/8 c. white flour
 * 1/4 c. alternate flour(s)
 
-## Two Loaves
+### Two Loaves
 
 * 1 1/2 c. lukewarm water
 * 3/4 T yeast
 * 3/4 T kosher salt
 * 3 1/4 c. white flour
 
-### Variants
+#### Variants
 
 * 3/4 T caraway seed
 * 2 3/4 c. white flour
 * 1/2 c. alternate flour(s)
 
-## Three Loaves
+### Three Loaves
 
 * 2 1/4 c. lukewarm water
 * 1 1/8 T yeast
 * 1 1/8 T kosher salt
 * 4 7/8 c. white flour
 
-### Variants
+#### Variants
 
 * 1 1/8 T caraway seed
 * 4 1/8 c. white flour
 * 3/4 c. alternate flour(s)
 
-## Four Loaves
+### Four Loaves
 
-* 3 c water
-* 1 1/2 T yeast
-* 1 1/2 T kosher salt
-* 6 1/2 c. white flour
+* 3 c. (680 g.) water 
+* 1 1/2 T (14 g.) yeast 
+* 1 1/2 T (25 g.) kosher salt
+* 6 1/2 c. (910 g.) white flour
 
-### Variants
+#### Variants
 
 * 1 1/2 T caraway seed
 * 5 1/2 c. white flour
 * 1 c. alternate flour(s)
+
+## Olive Oil Dough
+
+Also known as pizza dough.
+
+### 2 2/3 Pizzas
+
+* 1 5/6 c. (417 g.) water
+* 1/6 c. (37 g.) fruity olive oil
+* 2 tsp. (7 g.) yeast
+* 1 T (17 g.) salt
+* 2 tsp. (10 g.) sugar
+* 4 1/3 c. flour (613 g.)
+
+### 3 Pizzas
+
+* 2 1/16 c. (469 g.) water
+* 3 T (41 g.) fruity olive oil
+* 3/4 T (7.5 g.) yeast
+* 1 1/8 T (19 g.) salt
+* 3/4 T (11 g.) sugar
+* 4 7/8 c. flour (690 g.)
+
+### 4 Pizzas
+
+* 2 3/4 c. (625 g.) water
+* 1/4 c. (55 g.) fruity olive oil
+* 1 T (10 g.) yeast
+* 1 1/2 T (25 g.) salt
+* 1 T (15 g.) sugar
+* 6 1/2 c. flour (920 g.)
