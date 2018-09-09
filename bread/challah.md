@@ -12,8 +12,8 @@ Makes 2 loaves.
 * 2 eggs (plus half an egg for the top)
 * 1/2 T. salt
 * 1/4 c. oil
-* 4 c. flour
-* 3/4 c. raisins (optional)
+* 4 c. (4 5/8 c.) flour
+* 3/8 c. (50 g.) raisins (optional)
 * 1/2 T. poppy or sesame seeds (optional)
 
 ## Directions
