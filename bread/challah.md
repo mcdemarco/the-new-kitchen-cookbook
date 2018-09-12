@@ -23,7 +23,9 @@ Makes 2 loaves.
 3. Knead 15 minutes.  (You may need extra flour if you chose the honey option.)
 4. Put in an oiled bowl and flip to coat with oil.
 5. Cover with plastic wrap and let double in size (2-3 hours).
-6. Punch down, add optional raisins, knead, and divide in two.
+6. Punch down.
+7. Optionally spread and knead in raisins, or just knead.
+7. Divide dough in two.
 7. To shape each loaf, roll out that portion of dough into ropes:  one for a round loaf or three for a braid.
 8. Coil up from the end (for a round loaf) or braid from the middle.
 7. Let the shaped loaves rise another hour on an oiled cookie sheet or on parchment paper.
