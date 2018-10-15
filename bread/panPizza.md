@@ -12,6 +12,7 @@ The _Artisan Bread in 5_ book assumes you're going to cook your pizza at ∞° o
 * oregano
 * sliced garlic or garlic powder
 * 1 can anchovies (optional)
+* sliced olives (optional)
 
 
 ## Directions

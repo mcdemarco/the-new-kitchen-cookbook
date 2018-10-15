@@ -19,6 +19,7 @@ Variants: bran-enriched white bread (72), English granary-style bread (91), oat 
 ## Rye
 
 DELI-STYLE RYE (58): caraway swirl rye (61), onion rye (63)
+
 PUMPERNICKEL (67): onion rye (63), pumpernickel date and walnut bread (70)
 
 Variants: limpa (65), Eastern European potato rye bread (120), flatbrød (176)
