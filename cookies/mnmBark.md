@@ -4,6 +4,9 @@ This is a mix of I Heart Eating's [M&M Brownie Bark Recipe](https://www.iheartea
 
 I don't normally cook with M&Ms, but a guest insisted on leaving us an unopened bag of two or three pounds of them, and we had a party to go to.
 
+![m&m brownie bark](../images/mnm_bark.png)
+
+
 ## Ingredients
 
 * 1/2 c. flour

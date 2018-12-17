@@ -44,3 +44,4 @@ Makes: 1 large loaf.
 19. Bake about one hour, removing the parchment paper partway through.
 22. Cool on a rack.
 
+![ciabatta](../images/ciabatta.png)
