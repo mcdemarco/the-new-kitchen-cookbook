@@ -62,6 +62,15 @@ Note that an eighth of a cup is 2 T., and 3/4 T is 2 1/4 tsp.  Note also that sm
 
 Also known as pizza dough.
 
+### 2 Pizzas
+
+* 1 3/8 c. (312.5 g.) water
+* 1/8 c. (27.5 g.) fruity olive oil
+* 1/2 T (5 g.) yeast
+* 3/4 T (12.5 g.) salt
+* 1/2 T (7.5 g.) sugar
+* 3 1/4 c. (460 g.) flour
+
 ### 2 2/3 Pizzas
 
 * 1 5/6 c. (417 g.) water
@@ -69,7 +78,7 @@ Also known as pizza dough.
 * 2 tsp. (7 g.) yeast
 * 1 T (17 g.) salt
 * 2 tsp. (10 g.) sugar
-* 4 1/3 c. flour (613 g.)
+* 4 1/3 c. (613 g.) flour
 
 ### 3 Pizzas
 
@@ -78,7 +87,7 @@ Also known as pizza dough.
 * 3/4 T (7.5 g.) yeast
 * 1 1/8 T (19 g.) salt
 * 3/4 T (11 g.) sugar
-* 4 7/8 c. flour (690 g.)
+* 4 7/8 c. (690 g.) flour
 
 ### 4 Pizzas
 
@@ -87,4 +96,4 @@ Also known as pizza dough.
 * 1 T (10 g.) yeast
 * 1 1/2 T (25 g.) salt
 * 1 T (15 g.) sugar
-* 6 1/2 c. flour (920 g.)
+* 6 1/2 c. (920 g.) flour
