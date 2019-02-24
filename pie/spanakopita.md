@@ -33,6 +33,8 @@ Although there's a crust variant to this recipe, I usually just use phyllo dough
 
 Instead of phyllo, mix 3 c. flour, 1 c. water, 2 T oil, 1/2 tsp oregano, and a dash of salt.  Divide into 3 parts, roll out into 3 layers, and divide the filling into two layers.
 
+Instead of phyllo, boil 1 lb. of lasagna noodles, and use about 4 strips lengthwise (slightly overlapping) for each of the three layers.  Optionally top with mozzarella.  Reduce baking time to 25 minutes.
+
 Substitute ricotta for half the feta, or parmesan for less than half of the feta.
 
 Brush any leftover phyllo with pure olive oil, sprinkle with cinnamon sugar, fold into squares, score in half and bake 20 minutes with the spanakopita.
