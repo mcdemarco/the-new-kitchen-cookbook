@@ -1,9 +1,8 @@
-- name: About The New Kitchen Cookbook
-  filename: about
-
 - name: Preface
   filename: preface
   files:
+  - name: About The New Kitchen Cookbook
+    filename: about
   - name: The New Kitchens
     filename: kitchens
   - name: Using the Cookbook

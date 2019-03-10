@@ -1,4 +1,4 @@
-about.md
+preface/about.md
 preface/kitchens.md
 preface/cookbook.md
 appetizers/frico.md
