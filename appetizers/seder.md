@@ -8,7 +8,7 @@ The main difficultly in putting together a seder plate is finding and rememberin
 2. Horseradish (prepared or fresh)
 3. Roasted eggs (one for the seder plate and optionally one for each guest)
 4. Chicken bone, shank bone, or a beet
-5. Ingredients for [haroset](sweets/haroset.md)
+5. Ingredients for [haroset](../sweets/haroset.md)
 6. Romaine lettuce (optional)
 
 Other non-meal items required for the seder are:
@@ -35,10 +35,10 @@ Most of the recipes mentioned serve 8.
 
 0. The seder plate (explained above), including haroset
 1. Gefilte fish (out of a jar, with prepared horseradish or any leftover seder horseradish)
-2. [Matzo ball soup](soup/matzaball.md) or matza ball mix and prepared broth.
-2. [Tzimmes](vegetables/tzimmes.md)
-3. [Briskette](meat/briskette.md) (about 1/3 lb. per person, more if you want any leftover)
-4. [Tapioca pudding](sweets/tapioca.md) with fruit
+2. [Matzo ball soup](../soup/matzaball.md) or matza ball mix and prepared broth.
+2. [Tzimmes](../vegetables/tzimmes.md)
+3. [Briskette](../meat/briskette.md) (about 1/3 lb. per person, more if you want any leftover)
+4. [Tapioca pudding](../sweets/tapioca.md) with fruit
 
 If possible, make the soup, brisket, and dessert a day ahead.
 
@@ -46,6 +46,6 @@ Warm up anything cooked ahead (except dessert, which can be served hot or cold) 
 
 ## Other Passover Recipes
 
-I also have recipes for [meatloaf](meat/meatloaf.md), [Turkey Chicken for a Crowd](poultry/bakedTurkeyChicken.md), [rice flour cookies](cookies/riceFlour.md) (warning: rice), and [Breakfast Lentils](vegetables/breakfastLentils.md) (warning: legumes).
+I also have recipes for [meatloaf](../meat/meatloaf.md), [Turkey Chicken for a Crowd](../poultry/bakedTurkeyChicken.md), [rice flour cookies](../cookies/riceFlour.md) (warning: rice), and [Breakfast Lentils](../vegetables/breakfastLentils.md) (warning: legumes).
 
-Other recipes that weren't intended to be Passover recipes but qualify include [Candied Grapefruit Peels](sweets/grapefruitPeels.md), [Suspiros](sweets/suspiros.md) (meringues), [Potato and Cilantro Soup](soup/cilantro.md), [Fish Kuku](fish/kuku.md), [Molha Quase à Moda de Pico](meat/molha.md) (Azorean beef stew), stovetop [Turkey Chicken](poultry/turkeyChicken.md), [Chicken Cacciatore](poultry/cacciatore.md), [Tuscan Chicken](poultry/tuscanChicken.md), and many of my roasted chicken and roasted vegetable recipes.
+Other recipes that weren't intended to be Passover recipes but qualify include [Candied Grapefruit Peels](../sweets/grapefruitPeels.md), [Suspiros](../sweets/suspiros.md) (meringues), [Potato and Cilantro Soup](../soup/cilantro.md), [Fish Kuku](../fish/kuku.md), [Molha Quase à Moda de Pico](../meat/molha.md) (Azorean beef stew), stovetop [Turkey Chicken](../poultry/turkeyChicken.md), [Chicken Cacciatore](../poultry/cacciatore.md), [Tuscan Chicken](../poultry/tuscanChicken.md), and many of my roasted chicken and roasted vegetable recipes.
