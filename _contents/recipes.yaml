@@ -41,6 +41,8 @@
     filename: fazool
   - name: Okra Soup
     filename: okra
+  - name: Spicy Pumpkin Carrot Soup
+    filename: spicyPumpkin
   - name: Matzah Ball Soup
     filename: matzaball
   - name: Italian Wedding Soup
@@ -113,10 +115,12 @@
     filename: crepes
   - name: Dutch Puff
     filename: dutchPuff
-  - name: Non-dairy Cornbread
-    filename: cornbread
+  - name: Almond Flour Muffins
+    filename: almondFlourMuffins
   - name: Bran Muffins for Mom
     filename: branMuffins
+  - name: Non-dairy Cornbread
+    filename: cornbread
   - name: Blueberry Corn Muffins
     filename: blueberryCornMuffins
   - name: Banana Cranberry Muffins
@@ -200,7 +204,7 @@
   - name: Rice Salad
     filename: riceSalad
   - name: Farro Salad
-    filename: Farro Salad
+    filename: farroSalad
   - name: Stuffed Peppers
     filename: stuffedPeppers
   - name: About Risotto
@@ -345,6 +349,8 @@
   files:
   - name: Tapioca Pudding
     filename: tapioca
+  - name: Egg Nog Rice Pudding
+    filename: eggnogRicePudding
   - name: Nutella Fudge with Sea Salt
     filename: nutellaFudge
   - name: Tasty Easy Fudge
@@ -410,7 +416,7 @@
   - name: Blueberry Pie
     filename: blueberry
   - name: Cherry Pie
-    filename: Cherry
+    filename: cherry
   - name: Pecan Pie
     filename: pecan
   - name: Rough Puff
