@@ -1,4 +1,4 @@
-# Devilled Chicken
+# Devilled Chicken Thighs
 
 This is an amalgam of an unexpected number of devilled chicken recipes available online, such as [the Food Network's](https://www.foodnetwork.com/recipes/food-network-kitchen/deviled-chicken-thighs-recipe-2119632).  I had no idea it was a thing.  This one in particular is targetted at boneless thighs and is dairy-free, but plenty do bone-in and butter the thighs.
 
