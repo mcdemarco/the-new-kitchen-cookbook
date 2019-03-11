@@ -53,8 +53,14 @@
 - name: Bread
   filename: bread
   files:
+  - name: Parker House Rolls
+    filename: parkerHouseRolls
   - name: Bread Advice
     filename: advice
+  - name: Master No-Knead Recipe
+    filename: master
+  - name: Master Healthy No-Knead Recipe
+    filename: healthy
   - name: Bread Math
     filename: math
   - name: Cornstarch Wash
@@ -71,8 +77,6 @@
     filename: naan
   - name: Baguette
     filename: baguette
-  - name: Master Healthy No-Knead Recipe
-    filename: healthy
   - name: Healthy Rye
     filename: rye
   - name: Pagnotta
@@ -81,16 +85,16 @@
     filename: ciabatta
   - name: Yes-Knead Challah
     filename: challah
+  - name: Spicy Cinnamon Flatbread
+    filename: cinnamonFlatbread
+  - name: Olive Oil Dough
+    filename: oliveOil
   - name: Pan Pizza
     filename: panPizza
   - name: Pizza Stone Pizza
     filename: pizzaPizza
-  - name: Parker House Rolls
-    filename: parkerHouseRolls
   - name: Garlic Breadsticks
     filename: garlicBreadsticks
-  - name: Spicy Cinnamon Flatbread
-    filename: cinnamonFlatbread
   - name: Artisan Bread Index
     filename: artisanIndex
 

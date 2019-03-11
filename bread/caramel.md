@@ -10,4 +10,4 @@ I understand that you can get caramel color from the [King Arthur store](http://
 >
 > Very carefully, add a quarter cup of boiling water to the pan (it may sputter and water may jump out of the pan so wear gloves and keep your face away from it). Dissolve the caramelized sugar and cool to room temp. Use about a quarter-cup of this mixture in place of commercial caramel color powder in our Pumpernickel recipe on page 67.
 >
-> If you use liquid caramel coloring like this, you need to add extra flour to make up for it– about twice the volume of flour as liquid.  Otherwise the dough will be too loose."
+> If you use liquid caramel coloring like this, you need to add extra flour to make up for it–--about twice the volume of flour as liquid.  Otherwise the dough will be too loose.

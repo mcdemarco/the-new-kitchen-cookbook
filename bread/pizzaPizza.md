@@ -4,7 +4,7 @@ If you have a 14" pizza stone, you can make _Artisan Bread in 5_ pizza from vari
 
 ## Ingredients
 
-* 1--1 1/4 lbs refrigerated [olive oil](https://artisanbreadinfive.com/2011/10/25/pizza-margherita-and-a-pizza-making-package-red-star-yeast-king-arthur-flour-emile-henry-pizza-stone-a-signed-pizza-book-giveaway/) or [Master Recipe](http://www.artisanbreadinfive.com/2008/04/27/great-coverage-in-the-week-magazine-but-there-was-one-little-problem) no-knead dough
+* 1--1 1/4 lbs refrigerated [olive oil](../bread/oliveOil.md) or [Master Recipe](../bread/master.md) no-knead dough
 * 1/4 lb shredded mozzarella
 * 1 T. parmesan (optional)
 * pasta or pizza sauce

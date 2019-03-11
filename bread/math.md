@@ -1,6 +1,6 @@
 # Bread Math
 
-Sometimes you want a little less than the full [Artisan Bread in 5 Minutes a Day](http://www.artisanbreadinfive.com/) [Master Recipe](http://www.artisanbreadinfive.com/2008/04/27/great-coverage-in-the-week-magazine-but-there-was-one-little-problem).  The basic unit here is a loaf.
+Sometimes you want a little less than the full *Artisan Bread in 5 Minutes a Day* [Master Recipe](../bread/master.md).  The basic unit here is a loaf.
 
 Note that an eighth of a cup is 2 T., and 3/4 T is 2 1/4 tsp.  Note also that small measurements should be done by volume even when weights are provided (unless your scale is extraordinarily accurate).
 

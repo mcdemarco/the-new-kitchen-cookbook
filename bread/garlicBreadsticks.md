@@ -4,7 +4,7 @@ Having made cinnamon flatbreads that looked a lot like breadsticks, I wanted to 
 
 ## Ingredients
 
-* 1 lb refrigerated [Master Recipe](http://www.artisanbreadinfive.com/2008/04/27/great-coverage-in-the-week-magazine-but-there-was-one-little-problem) or olive oil dough
+* 1 lb refrigerated [Master Recipe](../bread/master.md) or [olive oil](../bread/oliveOil.md) dough
 * garlic powder to taste
 * coarse salt to taste
 * olive oil

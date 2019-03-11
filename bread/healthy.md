@@ -7,7 +7,7 @@ I don't have the sequel, [Healthy Bread in 5 Minutes a Day](http://www.amazon.co
 * 2 3/4 c. whole wheat flour
 * 1 c. white flour
 * 3/4 T. granulated yeast
-* 3/4 T. Kosher salt 
+* 3/4 T. kosher salt 
 * 2 T. vital wheat gluten (flour)
 * 2 c. lukewarm water
 * 1 T. mixed seeds for crust:  fennel (or caraway or anise), sesame, poppy, etc.

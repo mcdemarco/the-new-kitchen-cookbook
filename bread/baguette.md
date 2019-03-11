@@ -13,7 +13,7 @@ Oiling the non-stick baguette pan seems to be unnecessary.
 
 ## Ingredient
 
-* 1 lb refrigerated [Master Recipe](http://www.artisanbreadinfive.com/2008/04/27/great-coverage-in-the-week-magazine-but-there-was-one-little-problem) dough
+* 1 lb refrigerated [Master Recipe](../bread/master.md) dough
 
 ## Directions
 
@@ -40,3 +40,4 @@ The book doesn't mention any other doughs that work as baguettes, but I was able
 
 I assume that the Peasant Bread dough (substitute 1/2 c. rye for 1/2 c. of the whole wheat) would also work, but I haven't tried it yet.
 
+I have added vital wheat gluten to a fresh batch of dough on occasion to try to keep the baguette from sticking in the holes of the baguette pan; for numbers see the bread-flourification of regular flour in my [pagnotta recipe](../bread/pagnotta.md).  As it turned out, the only effective cure for sticking is baguette-sized slices of parchment paper, preferably removed halfway through the baking time.

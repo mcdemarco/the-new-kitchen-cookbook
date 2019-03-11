@@ -1,10 +1,10 @@
 # Pan Pizza
 
-The _Artisan Bread in 5_ book assumes you're going to cook your pizza at ∞° on your good bread stone, oiling up the stone and smoking up the house.  I wanted to cook mine at a more reasonable temperature on a cookie sheet, a la the BakerMama's recipe for [sheet pan pizza](http://thebakermama.com/recipes/sheet-pan-pizza/), so I came up with the following procedure.
+The _Artisan Bread in 5_ book assumes you're going to cook your pizza at ∞° on your good bread stone, oiling up the stone and smoking up the house.  I wanted to cook mine at a more reasonable temperature on a cookie sheet, a la the BakerMama's recipe for [sheet pan pizza](http://thebakermama.com/recipes/sheet-pan-pizza/), so I came up with the following procedure.  (I have since gotten a pizza stone and [gone smoky](../bread/pizzaPizza.md).)
 
 ## Ingredients
 
-* 1 1/4 lb or more refrigerated [Master Recipe](http://www.artisanbreadinfive.com/2008/04/27/great-coverage-in-the-week-magazine-but-there-was-one-little-problem), or [olive oil](https://artisanbreadinfive.com/2011/10/25/pizza-margherita-and-a-pizza-making-package-red-star-yeast-king-arthur-flour-emile-henry-pizza-stone-a-signed-pizza-book-giveaway/) no-knead dough
+* 1 1/4 lb or more refrigerated [Master Recipe](../bread/master.md) or [olive oil](../bread/oliveOil.md) no-knead dough
 * 1 T. olive oil (optional)
 * 1/4 lb shredded mozzarella
 * 1 T. grated parmesan (optional)
@@ -30,4 +30,4 @@ The _Artisan Bread in 5_ book assumes you're going to cook your pizza at ∞° o
 
 ## Variants
 
-The book mentions other doughs than the two listed; see my dough index for details.
+The book mentions other doughs than the two listed; see my [dough index](../bread/artisanIndex.md) for details.
