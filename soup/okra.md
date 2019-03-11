@@ -1,6 +1,6 @@
 # Okra Soup
 
-We had some fresh okra, cooked wild rice, store-bought chicken stock, and leftover chicken shreds lying around, so I made up a soup out of it.  It turned out to be a traditional way to prepare okra, though not one I'd tried before.  I really liked the effect of transferring the slime from the okra to the stock.  The stock itself was fairly salty and didn't need more salting.
+We had some fresh okra, cooked wild rice, store-bought chicken stock, and leftover chicken shreds lying around, so I made up a soup out of it.  It turned out to be a traditional way to prepare okra, though not one I'd tried before.  I really liked the effect of transferring the slime from the okra to the stock.
 
 ## Ingredients
 

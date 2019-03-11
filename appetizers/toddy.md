@@ -21,4 +21,12 @@ This is Peter's recipe for hot toddies. Measurements are approximate and may be 
 
 ![simmah](../images/simmah.png)
 
-Simmer dry spices 15 minutes. Add ginger and fruit. Simmer 15 more minutes. Squish fruit through strainer and discard rind. Strain out spices and discard. Add honey and whiskey (1/2 shot per 6 oz). Serve hot. Note: the timings are by no means precise, but avoid cooking the citrus too long or the result will be bitter.
+1. Simmer dry spices 15 minutes.
+2. Add ginger and fruit.
+3. Simmer 15 more minutes.
+4. Squish fruit through strainer and discard rind.
+5. Strain out spices and discard.
+6. Add honey and whiskey (1/2 shot per 6 oz).
+7. Serve hot.
+
+ote: the timings are by no means precise, but avoid cooking the citrus too long or the result will be bitter.

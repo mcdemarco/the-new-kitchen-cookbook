@@ -7,7 +7,7 @@ Based on [Kielbasa Potato Soup](http://www.food.com/recipe/kielbasa-potato-soup-
 * 2 T. olive oil
 * 1 onion, chopped
 * 3 or more large garlic cloves, minced
-* 4/5 lb. kielbasa, sliced (I left one out out of a package of 5)
+* up to 1 lb. kielbasa, sliced
 * 3 c. chicken or beef stock
 * 4 medium potatoes, peeled and chopped
 * 1 bell pepper, chopped
@@ -31,3 +31,5 @@ Serve hot with crusty bread.
 ## Variants
 
 There was supposed to be basil.
+
+You don't need an entire pound of kielbasa.
