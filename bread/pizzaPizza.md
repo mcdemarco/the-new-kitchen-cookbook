@@ -1,6 +1,6 @@
 # Pizza Stone Pizza
 
-If you have a 14" pizza stone, you can make _Artisan Bread in 5_ pizza from various refrigerator doughs.  (See my dough index for the full list.)  The ingredients are much like my Pan Pizza recipe, but it cooks faster and crispier, and no rising time is needed.
+If you have a 14" pizza stone, you can make _Artisan Bread in 5_ pizza from various refrigerator doughs.  (See my dough index for the full list.)  The ingredients are much like my [pan pizza recipe](../bread/panPizza.md), but it cooks faster and crispier, and no rising time is needed.
 
 ## Ingredients
 

@@ -19,10 +19,14 @@ This one is from allrecipes, also cut down to about 9 muffins.
 
 ## Directions
 
-Boil cranberries in water with 1/2 c. sugar.  Simmer uncovered 5-7 minutes or until berries start to pop. Drain and set aside.
-
-Cream shortening and remaining sugar. Add egg and beat. Combine the flour, baking powder, salt and baking soda; add to mixture along with banana.
-
-Fold in cranberries and nuts.
-
-Bake muffins at 400° for 15-20 minutes or until the toothpick test.  Cool in pan 5 minutes then on wire racks.
+1. Boil cranberries in water with 1/2 c. sugar.
+2. Simmer uncovered 5-7 minutes or until berries start to pop.
+3. Drain and set aside.
+3. Preheat oven to 400°.
+4. Combine the flour, baking powder, salt and baking soda, and set aside.
+5. Cream shortening and remaining sugar.
+6. Add egg and beat.
+7. Add flour mix to shortening mixture along with banana.
+8. Fold in cranberries and nuts.
+9. Bake for 15-20 minutes or until the toothpick test.
+10. Cool in pan 5 minutes then on wire racks.

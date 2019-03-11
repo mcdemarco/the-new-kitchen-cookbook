@@ -40,11 +40,9 @@ Makes 12 regular or 24 mini muffins.  (Some did not last long enough to be photo
 3. Mix together "dry" ingredients except blueberries in separate bowl. Add blueberries and stir to coat.
 4. Fold dry ingredients into wet ingredients.  Do not overmix.
 5. Scoop into prepared muffin tin.
-6. Bake 20--25 minutes.
+6. Bake 20--25 minutes.  For mini muffins, reduce baking time to 10--15 minutes.
 
 ## Variants
-
-For mini muffins, reduce baking time to 10--15 minutes.
 
 Some more white flour probably wouldn't hurt.  Also, coating the blueberries with wheat flour only might be a better approach, chemically speaking.
 

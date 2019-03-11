@@ -39,7 +39,7 @@ Makes about 36 mini-muffins.
 
 ## Variants
 
-I'm considering putting the mascarpone glaze from [these muffins](http://www.thechunkychef.com/bakery-style-thyme-blueberry-muffins-with-a-mascarpone-glaze/) on top, possibly with a change to the flavoring to make it more interesting--say, anise or orange extract.
+I'm considering putting the mascarpone glaze from [these muffins](http://www.thechunkychef.com/bakery-style-thyme-blueberry-muffins-with-a-mascarpone-glaze/) on top, possibly with a change to the flavoring to make it more interesting---say, anise or orange extract.
 
 Cut in half, that would be:
 

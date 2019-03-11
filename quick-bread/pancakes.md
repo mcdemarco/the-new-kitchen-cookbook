@@ -1,6 +1,6 @@
 # Non-dairy Pancakes
 
-This is another Recipezaar recipe (#35161) that I used to make, but that has mostly been supplanted by the dairy pancake recipe.  I cut it down to two-person size and switched from margarine to oil.
+This is another Recipezaar recipe (#35161) that I used to make, but that has mostly been supplanted by the [dairy pancake recipe](../quick-bread/pancakesD.md).  I cut it down to two-person size and switched from margarine to oil.
 
 ## Ingredients
 

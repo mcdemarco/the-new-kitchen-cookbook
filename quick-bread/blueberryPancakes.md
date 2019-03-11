@@ -22,4 +22,12 @@ To make yogurt milk: pour any whey off the top of the yogurt into a 2-cup glass 
 
 To use instant buttermilk: add the powder with the dry ingredients and the water with the wet ingredients. 
 
-Mix dry ingredients. Butter and heat griddle. Beat egg. Add egg and oil to yogurt milk. Mix wet mixture into dry slightly. Mix in blueberries until just mixed. Scoop batter into pancakes of about 3 1/2" diameter and cook on both sides. Bubbling may not happen. Try to keep the griddle from overheating between batches.
+1. Mix dry ingredients.
+2. Butter and heat griddle.
+3. Beat egg.
+4. Add egg and oil to yogurt milk.
+5. Mix wet mixture into dry slightly.
+6. Mix in blueberries until just mixed.
+7. Scoop batter into pancakes of about 3 1/2" diameter and cook on both sides.
+
+Bubbling may not happen. Try to keep the griddle from overheating between batches.
