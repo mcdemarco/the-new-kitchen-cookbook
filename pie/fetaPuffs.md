@@ -25,7 +25,7 @@ Makes about 24 4" triangles.
 6. Preheat oven to 400°F.
 6. Slice into 4" squares with a dough scraper or other appropriate implement.
 7. Plop a scant tablespoon or heaping teaspoon of cheese in the center of each square.
-8. Fold over.  If your squares aren't perfect, the dough is stretch enough to adjust at this point.
+8. Fold over.  If your squares aren't perfect, the dough is stretchy enough to adjust at this point.
 9. Wet the edges and crimp with a fork.
 10. Place on a parchment-paper covered cookie sheet.
 10. Brush with egg (especially if you're sprinkling stuff on top) or water.
@@ -37,8 +37,13 @@ Makes about 24 4" triangles.
 
 Using just feta makes these pretty salty, but Peter liked them that way.  For milder cheese options, try [Tori Avery's cheese bourekas](https://toriavey.com/toris-kitchen/cheese-bourekas/) recipe, which includes ricotta and kashkaval (for which you can substitute gruyere or cheddar).
 
+If the filling sounds more appealing than the puff pastry, you can apparently mix it up into a solid dough pastry as in [this recipe from Yasemin's Kitchen](http://yaseminskitchen.com/savory-dill-and-cheese-pastry/).
+
 Other nigella substitutions (besides sesame and poppy) that I've seen suggested include celery seed, cumin seed, black mustard seed, brown mustard seed, black (unhulled) sesame, caraway/fennel/anise seed, and coriander seed.  Actual onion seeds are sometimes suggested but they are neither easier to find nor a useful spice.  Oregano is an interesting suggestion, but in this case better substituted for the dill than the nigella.
 
-If the filling sounds more appealing than the puff pastry, you can apparently mix it up into a solid dough pastry as in [this recipe from Yasemin's Kitchen](http://yaseminskitchen.com/savory-dill-and-cheese-pastry/).
+![substitutions, raw](../images/feta1.png)
+
+![substitutions, cooked](../images/feta2.png)
+
 
 
