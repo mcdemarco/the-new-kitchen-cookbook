@@ -22,7 +22,7 @@ The notion of beef curry is just so *wrong* I was reluctant to make this, but I 
 * 1 14 oz. can tomatoes
 * 1/3 of a small can of tomato paste
 * 4 small fresh tomatoes
-* 6 smallish red potatoes (about 1 lb.), diced
+* 6 smallish red potatoes (or 3 medium whitish potatoes, about 1 lb.), diced
 * 2 1/2 c. or 1 14 oz. bag frozen peas
 
 
