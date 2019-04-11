@@ -33,6 +33,8 @@ Makes about 24 4" triangles.
 12. Bake 15--20 minutes.
 13. Repeat for any remaining dough.
 
+![fill er up](../images/fetaPuffFilling.png)
+
 ## Variants
 
 Using just feta makes these pretty salty, but Peter liked them that way.  For milder cheese options, try [Tori Avery's cheese bourekas](https://toriavey.com/toris-kitchen/cheese-bourekas/) recipe, which includes ricotta and kashkaval (for which you can substitute gruyere or cheddar).
