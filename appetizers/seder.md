@@ -8,7 +8,7 @@ The main difficultly in putting together a seder plate is finding and rememberin
 2. Horseradish (prepared or fresh)
 3. Roasted eggs (one for the seder plate and optionally one for each guest)
 4. Chicken bone, shank bone, or a beet
-5. Ingredients for [haroset](../sweets/haroset.md)
+5. Ingredients for [haroset](../sweets/haroset.md) ([balls](../sweets/harosetBalls.md))
 6. Romaine lettuce (optional)
 
 Other non-meal items required for the seder are:

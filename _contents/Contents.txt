@@ -159,6 +159,7 @@ sweets/sufganiyot.md
 sweets/crockpotApplesauce.md
 sweets/appleCrisp.md
 sweets/haroset.md
+sweets/harosetBalls.md
 cookies/pizzelles.md
 cookies/pizzellesByTheEgg.md
 cookies/biscotti.md

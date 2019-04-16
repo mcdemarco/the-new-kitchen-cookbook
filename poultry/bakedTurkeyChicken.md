@@ -4,13 +4,13 @@ I multiplied my turkey chicken recipe by three for a big Seder and baked it inst
 
 ## Ingredients
 
-* 10-12 lbs. small chicken pieces (legs, thighs, etc.)
+* 10--12 lbs. small chicken pieces (legs, thighs, etc.)
 * olive oil
 * 3 T salt
 * 1 T dried rosemary
 * 1 T dried sage
 * 1 T dried marjoram
-* 3-6 chopped garlic cloves
+* 3--6 chopped garlic cloves
 * 1/2 c. white vermouth
 
 ## Directions
@@ -22,6 +22,8 @@ I multiplied my turkey chicken recipe by three for a big Seder and baked it inst
 5. Bake with the wine in large baking pan at 475° until done--about 45 minutes.
 
 ## Variants
+
+Replace dried spices with fresh (3 T. each).
 
 If you don't have the time or facilities to brown that much chicken on the stovetop, you can try broiling it in the oven or do this:
 

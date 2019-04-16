@@ -369,6 +369,8 @@
     filename: appleCrisp
   - name: Haroset
     filename: haroset
+  - name: Haroset
+    filename: harosetBalls
 
 - name: C is for Cookie
   filename: cookies
