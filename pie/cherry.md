@@ -5,15 +5,17 @@ This is more or less the [Serious Eats Cherry Pie](http://www.seriouseats.com/re
 ## Ingredients
 
 * 1 9" double-crust pie shell (uncooked)
-* 28 oz. frozen cherries (1 3/4 lb), optionally sweet
+* 28 oz. fresh or frozen pitted cherries (1 3/4 lb), optionally sweet, optionally macerated
 * 1 1/2 oz (generous 1/3 c.) sour tapioca starch (polvilho azedo)
 * 1 scant c. sugar
-* 3/4 tsp. kosher salt
 * scant 2 T. lemon juice
+* 3/4 tsp. kosher salt
 * 1/4 tsp almond extract (optional)
 * 1/2 tsp cinnamon (optional)
 * 1/4 tsp nutmeg (optional)
 * dash clove (optional)
+* egg white (optional)
+* sanding sugar (optional)
 
 
 ## Directions
@@ -24,7 +26,8 @@ This is more or less the [Serious Eats Cherry Pie](http://www.seriouseats.com/re
 4. Roll out and fill bottom crust.
 5. Roll out and top with top crust.
 6. Chill 30 minutes.
-7. Preheat oven to 400° F.
+7. Preheat oven to 400°F.
+8. Optionally top with egg white and sanding sugar.
 8. Bake 1 hour.  (The original recipe said to bake it on a cookie sheet, presumably in case of spills.)
 9. Tent or otherwise shield the crust.
 10. Bake 15 more minutes.
@@ -35,4 +38,8 @@ This is more or less the [Serious Eats Cherry Pie](http://www.seriouseats.com/re
 
 The original recipe called for regular tapioca starch, with a warning about trusting labels on food from China.
 
-There's always an option to brush with egg wash or top with sanding sugar.
+You can use canned cherry pie filling (up to 2 cans).  Skip all ingredients except spices and extract.  Optionally increase extract up to 1/2 tsp. per can.  Reduce cooking time to 45 minutes.  ([Source](https://www.loavesanddishes.net/how-to-make-cherry-pie-with-cherry-pie-filling))
+
+You can use jarred sour cherries (drained).   Reserve 1/2 c. of the juice.  Reduce sugar, don't macerate.  ([Source](http://honestcooking.com/sour-cherry-pie-jarred-cherries-recipe/))
+
+You can use a combination of cherry formats, as long as you do it proportionally (with the appropriate sugar, cooking time, etc.).
