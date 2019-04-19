@@ -13,6 +13,7 @@ Peter believes in making chicken soup out of a chicken, so I started with a reci
 * 1 onion, quartered
 * parsley (optional)
 * dill (optional)
+* salt to taste
 
 ### Balls
 
@@ -51,6 +52,8 @@ Peter believes in making chicken soup out of a chicken, so I started with a reci
 2. Add balls to stock a few minutes before serving.
 
 ## Variants
+
+Salting broth (pre-soup) is a surprisingly controversial topic.  (Peter is pro-salt.)
 
 For fluffy balls, replace entire ball recipe with 4 eggs, 1 c. matzah meal, and salt.  Form into 3/4 inch balls.
 

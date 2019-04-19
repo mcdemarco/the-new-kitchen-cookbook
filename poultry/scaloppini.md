@@ -4,7 +4,7 @@ This recipe was adapted from Scaloppini di Tacchino Rebecca in _Cucina Ebraica_ 
 
 ## Ingredients
 
-* 1 lb turkey tenders scant
+* 1 scant lb turkey tenders (about 4 pieces)
 * 1/4 c. flour
 * 1/2 tsp. salt
 * 1/4 tsp. pepper
@@ -21,4 +21,8 @@ If turkey tenders are much more than 2/3" thick, slice to 2/3" thickness. Place 
 
 ## Variants
 
-The recipe allows chicken breast meat instead, but I haven't tried that yet. 
+The recipe allows chicken breast meat instead, but I haven't tried that yet.
+
+[For Passover](http://archive.jsonline.com/features/food/passover-recipes-neednt-sacrifice-flavor-gj951ub-198834501.html), you can pre-coat the turkey tenders in 1/4 c. rice (warning: kitniyot), almond, or matzah cake flour (mixed with the spices), dunk in egg (mixed with the salt), and coat with matzah meal.
+
+You can top with young Japanese knotweed shoots instead of scallion.
