@@ -2,6 +2,8 @@
 
 Peter believes in making chicken soup out of a chicken, so I started with a recipe that did that, [Matzoh Ball Soup](http://www.foodnetwork.com/recipes/matzoh-ball-soup-recipe.html).  I also read up on the floater vs. sinker issue; here's [a good overview](http://www.seriouseats.com/2015/04/how-to-make-the-best-matzo-balls.html) of ball science, including the per-egg numbers.
 
+Makes about 32 balls, serves about 8 people.
+
 ## Ingredients
 
 ### Stock
@@ -18,7 +20,7 @@ Peter believes in making chicken soup out of a chicken, so I started with a reci
 ### Balls
 
 * 4 eggs
-* 4 T. (1/4 c.) chicken fat
+* 4 T. (1/4 c.) chicken fat (optionally skimmed off the stock)
 * 1 c. matzah meal
 * 2 tsp. salt
 * 1/2 tsp. baking powder (optional)
@@ -31,7 +33,7 @@ Peter believes in making chicken soup out of a chicken, so I started with a reci
 1. In a large stockpot, bring the stock ingredients to a boil.
 2. Simmer at least 45 minutes, or a few hours.
 3. Cool and strain.  (I use cheesecloth.)
-4. Refrigerate the stock.  (To skip this step, you'll need an alternate source of the chicken fat, or use the fluffy ball recipe.)
+4. Refrigerate the stock.  (To skip this step, you'll need an alternate source of the chicken fat, or use the fluffy ball variant.)
 5. Optionally, shred some chicken for the soup.
 
 ### Balls
