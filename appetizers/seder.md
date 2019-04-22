@@ -19,7 +19,7 @@ Other non-meal items required for the seder are:
 
 ### Instructions
 
-1. Roast the egg(s) in the oven for 30 minutes at 325° (you can leave them in a cardboard carton or put them straight on the rack), then cool in ice water and peel.
+1. Roast the egg(s) in the oven for 30 minutes at 325° (you can leave them in a cardboard carton or put them straight on the rack), then cool in ice water and peel.  You can hard-boil the extras if you prefer, or omit them.
 2. Roast the bone or bone substitute with anything else in the oven at any temperature.
 3. For appearances, hold the bone and one of the eggs over a gas flame (using an appropriate implement).
 4. Make the haroset (see recipe).

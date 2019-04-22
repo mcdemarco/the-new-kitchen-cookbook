@@ -8,8 +8,8 @@ As usual, haroset is very forgiving, so don't let the quantities worry you.
 
 * 1/2 lb. dates
 * 3/4 c. golden raisins
-* 2--3 granny smith apples, peeled
-* 1 c. sweet red wine or sweet vermouth
+* 2 granny smith apples, peeled
+* 1/2 c. sweet red wine or sweet vermouth
 * 1 1/2 c. mixed nuts (walnuts, pine nuts, pecans, hazelnuts, and/or chestnuts)
 * 1/2 c. almond flour or meal (optional)
 * honey to taste/consistency (optional)
@@ -24,7 +24,7 @@ As usual, haroset is very forgiving, so don't let the quantities worry you.
 4. Combine all ingredients.
 5. Adjust liquid, almond flour, and honey as necessary to get the desired consistency and sweetness.
 6. Optionally refrigerate overnight, now or after rolling.
-7. Roll into balls.
+7. Roll into balls using 1 T. per ball.
 8. Optionally, roll balls in coconut or ground pistachio.
 
 ## Variants
