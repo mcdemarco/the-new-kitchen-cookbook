@@ -16,6 +16,7 @@ soup/fazool.md
 soup/okra.md
 soup/matzaball.md
 soup/italianWedding.md
+soup/spinachWedding.md
 soup/kielbasa.md
 soup/gazpacho.md
 bread/parkerHouseRolls.md
