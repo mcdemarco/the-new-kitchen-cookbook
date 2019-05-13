@@ -59,6 +59,7 @@ quick-bread/carrotCorn.md
 quick-bread/zucchini.md
 quick-bread/guinnessBiscuits.md
 quick-bread/coconutOilBiscuits.md
+quick-bread/strawberryShortcake.md
 vegetables/garlic.md
 vegetables/broccolini.md
 vegetables/rapini.md

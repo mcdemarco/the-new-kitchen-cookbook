@@ -4,6 +4,8 @@ Better known as a Dutch baby pancake and completely unknown as a Dutch poof panc
 
 Serves 2--4.
 
+![all puffed up](../images/poof2.png)
+
 ## Ingredients
 
 ### Batter
@@ -35,8 +37,11 @@ Serves 2--4.
 7. Return to oven and bake about 20 minutes until poofy and lightly browned on top.
 8. Serve hot.
 
+![caught in the act of poofing](../images/poof1.png)
+
 ## Variants
 
 Apparently you can add the fruit to the bottom of the pan before adding the batter and it will still poof.  (I have not tried this yet.)
 
 I have seen pictures of poofs made in glass baking dishes or pie plates, so don't despair if you don't have an oven-proof skillet of the appropriate dimensions.
+

@@ -141,6 +141,8 @@
     filename: guinnessBiscuits
   - name: Coconut Oil Biscuits
     filename: coconutOilBiscuits
+  - name: Strawberry Shortcake
+    filename: strawberryShortcake
 
 - name: Vegetables
   filename: vegetables

@@ -43,3 +43,5 @@ You can use canned cherry pie filling (up to 2 cans).  Skip all ingredients exce
 You can use jarred sour cherries (drained).   Reserve 1/2 c. of the juice.  Reduce sugar, don't macerate.  ([Source](http://honestcooking.com/sour-cherry-pie-jarred-cherries-recipe/))
 
 You can use a combination of cherry formats, as long as you do it proportionally (with the appropriate sugar, cooking time, etc.).
+
+![combo cherry pie with fancy vents](../images/cherry_pie.png)
