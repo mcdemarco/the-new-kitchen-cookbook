@@ -32,6 +32,9 @@ Serves 2, chilled or at room temperature.
 
 ## Variants
 
-You can do something similar with [a can of salmon](https://www.tasteofhome.com/recipes/salmon-pasta-salad/).
+You can do something similar with [a can of salmon](https://www.tasteofhome.com/recipes/salmon-pasta-salad/) or another smoked fish.
 
+You can use snow peas instead of green beans; they only need one minute of blanching.
+
+Capers never hurt, nor would a crunchier vegetable like fennel or celery (adequately diced).
 

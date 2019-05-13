@@ -20,3 +20,5 @@ This is my simplified version of a recipe in the Artisan Bread in Five cookbook.
 ## Variants
 
 Apparently you can substitute White Northern beans if you can't find cannellini; I don't think I've ever seen this particular "easier to find" substitute, but YMMV.
+
+I've seen an even simpler version in another cookbook, though I'm not sure which one:  Omit the bell pepper, double the garlic and olive oil, and use 3 leaves of fresh basil.

@@ -299,8 +299,6 @@
     filename: tuscanChicken
   - name: Spicy Asian Chicken
     filename: asianChicken
-  - name: Devilled Chicken Thighs
-    filename: devilledChicken
   - name: Chicken with Collards and Rice
     filename: chickenCollardRice
   - name: Treda
@@ -309,6 +307,8 @@
     filename: thighStew
   - name: Crockpot Chicken with Farro
     filename: crockpotChickenFarro
+  - name: Devilled Chicken Thighs
+    filename: devilledChicken
   - name: Turkey Scaloppini
     filename: scaloppini
   - name: Baked Turkey Tenders
@@ -373,7 +373,7 @@
     filename: appleCrisp
   - name: Haroset
     filename: haroset
-  - name: Haroset
+  - name: Haroset Balls
     filename: harosetBalls
 
 - name: C is for Cookie

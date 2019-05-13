@@ -48,7 +48,7 @@ Fill with desired filling.
 
 For a top crust, roll out the remaining dough.  (If making decorative holes instead of slit vents, punch them out now.)  Prep the seam by rubbing shortening on the top edge of the bottom crust.  Peel off one sheet of paper and center the top over the pie, then peel the other sheet off carefully.  Fold top crust under the bottom crust at the edge.  [Crimp edge](https://www.thespruceeats.com/how-to-crimp-pie-crust-4123830) of crust or press with a fork to seal.  (I usually do the fork thing.)
 
-Optionally, brush top crust with milk, cream, or egg yolk, or use egg white and sprinkle with sanding sugar. 
+Optionally, brush top crust with milk, cream, or egg yolk, or use egg white and sprinkle with sanding sugar.
 
 Cut vents into top crust (if solid) and bake as directed.
 

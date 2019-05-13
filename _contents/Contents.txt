@@ -1,6 +1,7 @@
 preface/about.md
 preface/kitchens.md
 preface/cookbook.md
+preface/toCook.md
 appetizers/frico.md
 appetizers/devilled.md
 appetizers/chickpeas.md
@@ -128,11 +129,11 @@ poultry/roastedWithSquash.md
 poultry/roastedWithSweetPotatoes.md
 poultry/tuscanChicken.md
 poultry/asianChicken.md
-poultry/devilledChicken.md
 poultry/chickenCollardRice.md
 poultry/treda.md
 poultry/thighStew.md
 poultry/crockpotChickenFarro.md
+poultry/devilledChicken.md
 poultry/scaloppini.md
 poultry/bakedTurkeyTenders.md
 poultry/crockpotTurkey.md
