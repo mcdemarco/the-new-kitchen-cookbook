@@ -96,6 +96,7 @@ rice/saffronRisotto.md
 rice/tempehRisotto.md
 rice/sushi.md
 pasta/orecchiette.md
+pasta/alfredo.md
 pasta/pesto.md
 pasta/puttanesca.md
 pasta/chopsuey.md

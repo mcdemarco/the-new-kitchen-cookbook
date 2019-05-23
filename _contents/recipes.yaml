@@ -225,6 +225,8 @@
   files:
   - name: Orecchiette with Anchovy Sauce
     filename: orecchiette
+  - name: Alfredo Sauce
+    filename: alfredo
   - name: Pesto
     filename: pesto
   - name: Puttanesca
