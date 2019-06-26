@@ -15,14 +15,20 @@ Use 1 dollop (or more) to coat wet curls.
 * 1/4 c. flaxseed (a.k.a. linseed)
 * 2 c. water
 * 8--10 drops grapefruit seed extract (optional)
-* 5--6 drops essential oil (optional)
+* 5--6 drops essential oil (optional, for fragrance)
 
 ## Directions
 
-1. Bring water and flaxseed to a boil uncovered.
+1. Bring water and flaxseed to a boil uncovered over medium heat.
 2. Boil uncovered 8--10 minutes until the consistency of egg whites.
 3. Strain.
 4. Add any oil or extract.
-5. Cool.
+5. Let cool.
 6. Pour into squeeze bottle or a glass jar.
 7. Refrigerate.
+
+You can eat the strained-out flaxseeds if you like.
+
+## Variants
+
+I omit the grapefruit seed extract and add lavender oil.

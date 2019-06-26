@@ -28,3 +28,5 @@ The goal is to get burnt spots on the naan without burning it more thoroughly.
 ## Variants
 
 You can mix fresh chopped spices in oil and brush them on late in the process: [Herbed Naan – From 5 Minute Dough](http://thecafesucrefarine.com/2012/08/herbed-naan/).
+
+You can "stuff" the naan with onions and/or spices before rolling it out:  [Stuffed Naan](https://artisanbreadinfive.com/2011/11/29/stuffed-naan/).

@@ -40,3 +40,5 @@ Don't put the pan too close to the broiler if using panko as a substitute for fr
 I tried doubling the cayenne pepper, to little effect.  I may need some new cayenne pepper...
 
 You can substitute 8 oz. of Pepper Jack for the 8 oz. of Monterey Jack without making the mac'n'cheese obnoxiously spicy.
+
+If you're low on panko, you can replace some with almond flour, or, preferably, almond meal.

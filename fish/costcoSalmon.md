@@ -8,5 +8,7 @@ I coat the salmon in a bit of olive oil and sprinkle with salt, dill, thyme, and
 
 ## Variants
 
-See my recipe for Panko-Crusted Salmon.
+See my recipe for [Panko-Crusted Salmon](../fish/pankoSalmon.md) or [Spicy Salmon](../fish/spicySalmon.md).
+
+
 
