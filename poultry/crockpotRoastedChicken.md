@@ -1,6 +1,6 @@
 # Crockpot Roasted Chicken
 
-Adapted from several crockpot-a-whole-chicken-dry recipes, especially [The Little Kitchen's](https://www.thelittlekitchen.net/whole-chicken-in-a-slow-cooker/).   Like the others it was for a much bigger chicken than the one in my freezer, so I cut it down.
+Adapted from several crockpot-a-whole-chicken-dry recipes, especially [The Little Kitchen's](https://www.thelittlekitchen.net/whole-chicken-in-a-slow-cooker/).   Like the others it was for a much bigger chicken than the one in my freezer, so I cut it down.  Double it back up for a 3--4 lb. chicken.
 
 ## Ingredients
 
@@ -34,7 +34,7 @@ Serve.
 
 ## Variants
 
-The potatoes are my own addition.
+The potatoes are my own addition.  I have also added a bulb of fennel and fava beans (removing the carrots).
 
 Optionally, you can broil chicken to crisp it up after cooking.
 

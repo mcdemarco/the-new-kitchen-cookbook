@@ -333,6 +333,8 @@
     filename: costcoSalmon
   - name: Panko Crusted Salmon
     filename: pankoSalmon
+  - name: Spicy Salmon
+    filename: spicySalmon
   - name: Salmon Steaks
     filename: salmonSteaks
   - name: Broiled Salmon

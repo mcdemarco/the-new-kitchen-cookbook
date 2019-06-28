@@ -9,6 +9,7 @@ This is a variant of plain [Costco Salmon](../fish/costcoSalmon.md), optionally 
 * 1 tsp. kosher salt
 * 2 tsp. brown sugar
 * 1 tsp. chili powder
+* cayenne pepper to taste (optional)
 * 1 tsp. smoked paprika (optional)
 * 1 lime, zested
 * 2 T. cilantro (optional)
@@ -24,4 +25,4 @@ This is a variant of plain [Costco Salmon](../fish/costcoSalmon.md), optionally 
 
 ## Variants
 
-Try it with fresh salmon.  The original recipe recommended wild caught Alaskan, skin on or off.
+Try it with fresh salmon.  The original recipe recommended wild caught Alaskan, skin on or off, and did not include cayenne.

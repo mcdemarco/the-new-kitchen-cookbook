@@ -9,16 +9,20 @@ Makes 2 loaves.
 * 1 T. yeast
 * 1 1/8 c. bread-temperature water
 * 1/4 c. sugar or honey
-* 2 eggs (plus half an egg for the top)
+* 2 eggs
 * 1/2 T. salt
 * 1/4 c. oil
 * 4 c. (4 5/8 c.) flour
 * 3/8 c. (50 g.) raisins (optional)
+
+### Toppings
+
+* 1/2 egg
 * 1/2 T. poppy or sesame seeds (optional)
 
 ## Directions
 
-1. Mix everything but the flour, raisins, and seeds well.
+1. Mix everything but the flour, raisins, and toppings well.
 2. Add flour gradually.
 3. Knead 15 minutes.  (You may need extra flour if you chose the honey option.)
 4. Put in an oiled bowl and flip to coat with oil.

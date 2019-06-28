@@ -144,6 +144,7 @@ poultry/turkeyChili.md
 poultry/italianWedding.md
 fish/costcoSalmon.md
 fish/pankoSalmon.md
+fish/spicySalmon.md
 fish/salmonSteaks.md
 fish/broiledSalmon.md
 fish/trout.md
