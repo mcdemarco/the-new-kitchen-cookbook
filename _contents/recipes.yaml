@@ -53,6 +53,8 @@
     filename: kielbasa
   - name: Gazpacho
     filename: gazpacho
+  - name: Cold Zucchini Soup
+    filename: coldZucchini
 
 - name: Bread
   filename: bread

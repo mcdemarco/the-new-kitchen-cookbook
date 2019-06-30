@@ -20,6 +20,7 @@ soup/italianWedding.md
 soup/spinachWedding.md
 soup/kielbasa.md
 soup/gazpacho.md
+soup/coldZucchini.md
 bread/parkerHouseRolls.md
 bread/advice.md
 bread/master.md
