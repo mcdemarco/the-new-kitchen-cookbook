@@ -93,8 +93,9 @@ rice/riceSalad.md
 rice/farroSalad.md
 rice/stuffedPeppers.md
 rice/aboutRisotto.md
-rice/saffronRisotto.md
 rice/tempehRisotto.md
+rice/saffronRisotto.md
+rice/carcassRisotto.md
 rice/sushi.md
 pasta/orecchiette.md
 pasta/alfredo.md
