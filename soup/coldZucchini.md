@@ -32,3 +32,5 @@ Serves 8--12.
 
 I actually made it with beef broth the first time.
 
+[The Guardian](https://www.theguardian.com/lifeandstyle/2017/jul/08/fennel-salad-recipe-tomato-bread-asparagus-leek-grilled-tomato-watermelon-pea-soup-yotam-ottolenghi#img-8) calls them courgettes and adds a pound of frozen peas and some feta.
+
