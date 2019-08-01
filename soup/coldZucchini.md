@@ -24,13 +24,15 @@ Serves 8--12.
 2. Add the zucchini for 5 minutes.
 3. Add basil, stock, and parsley.
 4. Simmer 30 minutes.
-5. Puree with an immersion blender.  Water down at this point if desired.
+5. Puree with an immersion blender.  Water down (or ice down) at this point if desired.
 6. Season.
 7. Chill and/or serve.
 
 ## Variants
 
-I actually made it with beef broth the first time.
+I actually make it with beef broth.
 
-[The Guardian](https://www.theguardian.com/lifeandstyle/2017/jul/08/fennel-salad-recipe-tomato-bread-asparagus-leek-grilled-tomato-watermelon-pea-soup-yotam-ottolenghi#img-8) calls them courgettes and adds a pound of frozen peas and some feta.
+You can cook the vegetables in a smaller pot with less broth, then add the remaining broth or water down later.
+
+[The Guardian](https://www.theguardian.com/lifeandstyle/2017/jul/08/fennel-salad-recipe-tomato-bread-asparagus-leek-grilled-tomato-watermelon-pea-soup-yotam-ottolenghi#img-8) calls them courgettes and adds a pound of frozen peas and some feta, and also replaces the onion with more garlic.
 
