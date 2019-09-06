@@ -119,8 +119,6 @@
     filename: crepes
   - name: Dutch Puff
     filename: dutchPuff
-  - name: Almond Flour Muffins
-    filename: almondFlourMuffins
   - name: Bran Muffins for Mom
     filename: branMuffins
   - name: Non-dairy Cornbread
@@ -139,6 +137,10 @@
     filename: carrotCorn
   - name: Savory Zucchini Muffins
     filename: zucchini
+  - name: Almond Flour Muffins
+    filename: almondFlourMuffins
+  - name: Savory Almond Flour Muffins
+    filename: savoryAFMuffins
   - name: Guinness Beer Biscuits
     filename: guinnessBiscuits
   - name: Coconut Oil Biscuits
