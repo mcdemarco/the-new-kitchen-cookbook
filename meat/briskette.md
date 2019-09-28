@@ -15,7 +15,6 @@ Brisket recipes run large but (despite having come from Costco), my brisket was 
 * 2 cloves garlic, smashed
 * 1 onion, diced
 
-
 ## Directions
 
 1. Preheat the oven to 350°.
@@ -37,5 +36,5 @@ Add tomatoes (optionally crushed).
 
 Marinate the brisket before cooking.
 
-Make it the day before serving.
+Make it the day before serving and reheat up to an hour in the oven at 300°.
 

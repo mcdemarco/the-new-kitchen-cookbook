@@ -13,6 +13,7 @@ The recipe yields about 12 biscuits.
 * 1/4 tsp dried onion
 * fresh chives (optional)
 * fresh thyme (optional)
+* red pepper flakes (optional)
 * 2 large eggs
 * 1/2 c. full fat Greek yogurt
 * 4 T. melted butter
@@ -33,5 +34,7 @@ The recipe yields about 12 biscuits.
 The original recipe called for sour cream instead of yogurt.
 
 Rosemary is another spice possibility.
+
+When melting the butter include any spices that will benefit from the extra cooking time, such as the dried onion and red pepper flakes.
 
 

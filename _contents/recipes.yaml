@@ -141,6 +141,8 @@
     filename: almondFlourMuffins
   - name: Savory Almond Flour Muffins
     filename: savoryAFMuffins
+  - name: Pão de Queijo
+    filename: paoDeQueijo
   - name: Guinness Beer Biscuits
     filename: guinnessBiscuits
   - name: Coconut Oil Biscuits
@@ -257,6 +259,8 @@
   files:
   - name: Meatballs
     filename: meatballs
+  - name: More Meatballs
+    filename: moreMeatballs
   - name: Lambballs
     filename: lambballs
   - name: Fake Bolognese Sauce

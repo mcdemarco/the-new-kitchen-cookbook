@@ -60,6 +60,7 @@ quick-bread/carrotCorn.md
 quick-bread/zucchini.md
 quick-bread/almondFlourMuffins.md
 quick-bread/savoryAFMuffins.md
+quick-bread/paoDeQueijo.md
 quick-bread/guinnessBiscuits.md
 quick-bread/coconutOilBiscuits.md
 quick-bread/strawberryShortcake.md
@@ -110,6 +111,7 @@ pasta/salmonCasserole.md
 pasta/mackerelSalad.md
 pasta/sobaSalad.md
 meat/meatballs.md
+meat/moreMeatballs.md
 meat/lambballs.md
 meat/bolognese.md
 meat/meatsauce.md
