@@ -34,7 +34,7 @@ First, the crust.  My crusts all started from the basic piecrust recipe in my ol
 ### Double-crust pie shell (10")
 
 * 2 c. flour 
-* 1 tsp salt 
+* 3/4 tsp salt 
 * 2/3 c. butter-flavored Crisco (or other shortening) 
 * 5-6 T. cold water
 
