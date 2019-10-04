@@ -35,6 +35,8 @@ Serves 3--6.
 
 ## Variants
 
-The original recipe included a cup of chopped celery and a cup of chopped carrots.  I didn't miss either, though I might shred some carrots next time for color.
+The original recipe included a cup of chopped celery and a cup of chopped carrots.  I didn't miss either, though I might shred some carrots sometime for color.
 
-If replacing collards with kale, note that kale doesn't pack as tightly and increase quantities accordingly.
+If replacing collards with kale, note that kale doesn't pack as tightly and increase quantities accordingly.  In general when substituting other dark leafy greens, try to include at least some flavorful ones like dandelion or mustard greens.
+
+You can replace the chicken with turkey tenders and/or more sausage (preferably real sausage in the latter case).
