@@ -32,3 +32,5 @@ If you have a 14" pizza stone, you can make _Artisan Bread in 5_ pizza from vari
 ## Variants
 
 You're supposed to use a floured peel, but that's just too difficult compared to the parchment paper method.
+
+Instead of anchovies, crumble and sprinkle 4 oz. of raw ground Impossible Burger onto the pizza before cooking.
