@@ -1,6 +1,6 @@
 # Winter Squash
 
-These are here so I don't have to google the directions every time I make them.  Cut them all in half first.
+These are here so I don't have to google the directions every time I make them.  Cut them all in half first and remove seeds (if there are any).
 
 ## Acorn Squash
 
@@ -12,4 +12,12 @@ Bake cut side down at 375° for 1 hour.
 
 ## Spaghetti Squash
 
-Bake cut side down at 375° for 30-40 minutes.
+Bake cut side down at 375° (or 400° without convection) for 30-40 minutes.  If you don't have bigger plans, spice it first with salt, pepper, and olive oil (and/or cumin, or apple pie spices).  Let it cool enough to scrape out the spaghetti.
+
+Once spaghettified, you can top it with pasta sauce or some other [sauce](https://www.tasteofhome.com/recipes/spaghetti-squash-with-apples-bacon-and-walnuts/), or even turn it into [kugel](http://www.carascravings.com/2012/03/passover-prep-sweet-spaghetti-squash-kugel-with-apples-and-raisins.html).
+
+## Delicata Squash
+
+Bake cut side down at 400° for 20 minutes.  The entire squash is edible, so afterwards you can cut it up into handy pieces or stuff the halves like a pepper with something pre-cooked.
+
+Alternately, slice the squash before cooking, spice it, and roast the slices at 425°F for 30--35 minutes, flipping halfway through.  Salt, pepper, and olive oil are enough spicing, but you can go in the apple pie spice direction if you want, and even roast some apples with them (they take about 5 minutes less time).  You can get fancy by stacking the slices with [apples](https://www.theredheadbaker.com/delicata-squash-and-apple-stacks/) and/or [onions](https://brucebradley.com/recipes/recipe-roasted-delicata-apple-and-onion-tian/).

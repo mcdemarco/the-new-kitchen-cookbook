@@ -40,4 +40,4 @@ The book doesn't mention any other doughs that work as baguettes, but I was able
 
 I assume that the Peasant Bread dough (substitute 1/2 c. rye for 1/2 c. of the whole wheat) would also work, but I haven't tried it yet.
 
-I have added vital wheat gluten to a fresh batch of dough on occasion to try to keep the baguette from sticking in the holes of the baguette pan; for numbers see the bread-flourification of regular flour in my [pagnotta recipe](../bread/pagnotta.md).  As it turned out, the only effective cure for sticking is baguette-sized slices of parchment paper, preferably removed halfway through the baking time.
+I have added vital wheat gluten to a fresh batch of dough on occasion to try to keep the baguette from sticking in the holes of the baguette pan.  Bread-flourification of regular flour is a dark art, but I just toss in about a tablespoon for four loaves, and remove the corresponding volume (not weight) of flour.  As it turned out, the only effective cure for sticking is baguette-sized slices of parchment paper, preferably removed halfway through the baking time.
