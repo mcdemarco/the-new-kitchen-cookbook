@@ -51,6 +51,8 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 * dark chocolate peppermints (with recipe)
 
+[Pareve Pumpkin Pie](https://jamiegeller.com/recipes/parve-pumpkin-pie/)
+
 ### Shortbread
 
 [Honey Shortbread Cookies](http://www.thecrepesofwrath.com/2013/02/20/honey-shortbread-cookies/)
