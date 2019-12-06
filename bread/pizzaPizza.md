@@ -34,3 +34,5 @@ If you have a 14" pizza stone, you can make _Artisan Bread in 5_ pizza from vari
 You're supposed to use a floured peel, but that's just too difficult compared to the parchment paper method.
 
 Instead of anchovies, crumble and sprinkle 4 oz. of raw ground Impossible Burger onto the pizza before cooking.
+
+You can use [pesto](https://web.archive.org/web/20180118035738/https://www.crazyforcrust.com/caramelized-onion-pesto-flatbread-pizza/) instead of red/pizza sauce; in that case reduce the temperature to 450° or so.
