@@ -6,7 +6,7 @@ Peter had made red bean paste hamantaschen once before. I'm not a big fan of ham
 
 ## Variants
 
-I followed the [chunky recipe](http://www.applepiepatispate.com/japanese/sweet-azuki-red-bean-paste/) (1 c. dried beans and 1 c. white sugar) for red bean paste, but stuck my blender stick in it to smooth it out quite a bit.
+I followed the [chunky recipe](http://web.archive.org/web/20120629051023/http://www.applepiepatispate.com/japanese/sweet-azuki-red-bean-paste/) (1 c. dried beans and 1 c. white sugar) for red bean paste, but stuck my blender stick in it to smooth it out quite a bit.
 
 ![red bean paste](../images/red_bean_paste.jpg)
 
