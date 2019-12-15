@@ -10,6 +10,8 @@ I followed the [chunky recipe](http://web.archive.org/web/20120629051023/http://
 
 ![red bean paste](../images/red_bean_paste.jpg)
 
+You can also [use canned beans](https://www.closetcooking.com/tsubushian/) (1 14oz. can and 1 c. white sugar, plus an unknown quantity of water).
+
 I tried to follow the hamantaschen recipe from my King Arthur cookie cookbook, but it came out too dry so I had to gradually add water like for pastry. I'll try a different recipe next year. 
 
 ![hexagons](../images/hexagons.png)

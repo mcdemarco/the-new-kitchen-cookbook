@@ -16,3 +16,7 @@ This started as an Epicurious recipe from back when roasting cauliflower was all
 2. Toss all ingredients in a large bowl.
 3. Spread in 1 layer in a shallow baking pan lined with parchment paper. 
 4. Roast, stirring occasionally, for about half an hour or until golden brown.
+
+## Variants
+
+THis also works with Romanesco, a.k.a. Romanesco broccoli or Romanesque cauliflower (the one that looks like a fractal).  Cut the roasting time down to 15--20 minutes.  Alternate spicing: salt, pepper, garlic powder, and smoked paprika.
