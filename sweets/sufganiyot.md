@@ -42,4 +42,7 @@ I haven't tried these variants, but they sound interesting.
 
 * Add 1 tsp. cinnamon to the dough.
 * Add 1/2 tsp. zest to the dough.
-* Replace some liquid with orange juice or brandy.
+* Replace some liquid with brandy or orange juice (also see Sfenj in The Book of Jewish Food).
+
+For a savory variant, see the Lamb and Mushroom Sufganiyot recipe by Sagi Azulay in [Tablet Magazine](https://www.tabletmag.com/recipes-2/219522/lamb-and-mushroom-sufganiyot), also at [Grow and Behold](https://blog.growandbehold.com/recipes/lamb-and-mushroom-sufganiyot/).
+

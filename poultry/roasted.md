@@ -2,7 +2,7 @@
 
 ## Chicken
 
-I roast chicken according to the 1942 Good Housekeeping Cookbook: 50 minutes per pound at 325°, oiled and covered with cheesecloth (or just the oil, if you don't mind spattering the whole oven with chicken grease).  Cut out 7 minutes per pound for chickens over 4 lbs., and 14 per pound for chickens over 5 lbs.
+I roast chicken according to the 1942 Good Housekeeping Cookbook: 50 minutes per pound at 325°, oiled and covered with cheesecloth (or just the oil, if you don't mind spattering the whole oven with chicken grease).  Cut the time down to 43 minutes per pound for chickens over 4 lbs., and 36 minutes per pound for chickens over 5 lbs.
 
 You're supposed to use a wire rack in the roasting pan; I sometimes use a broiler pan or nothing instead.
 
