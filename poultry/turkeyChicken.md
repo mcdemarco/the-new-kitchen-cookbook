@@ -2,7 +2,7 @@
 
 "Turkey Chicken" a.k.a. "Fake Turkey" is a turkey drumstick recipe that I make with chicken drumsticks instead. The original recipe was "Pot-Roasted Turkey Drumsticks" from _The Italian Jewish Kitchen_ by Edda Servi Machlin. Other alterations to the recipe involve drastic shortening of the marinating period, significantly less oil, and boiling during the simmering step. I usually cut the recipe in half or freeze half before cooking.
 
-Usually I serve it with pasta, but once, I served it with spaghetti squash.  
+Usually I serve it with pasta, but once, I served it with spaghetti squash.
 
 ## Ingredients
 
@@ -34,4 +34,8 @@ I do the mixing and marinating in a big tupperware container:
 ## Variants
 
 Substitute 1 T fresh spice for any of the 1 tsp dried spices.
+
+For a lot more turkey chicken at a time, you can bake it; see [Turkey Chicken for a Crowd](../poultry/bakedTurkeyChicken.md).
+
+I have made this with actual turkey drumsticks, but I ended up roasting them because (apparently) they don't come in small outside of Italy.  It took about an hour at 350° with convection.
 

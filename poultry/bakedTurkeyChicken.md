@@ -1,6 +1,6 @@
 # Turkey Chicken for a Crowd
 
-I multiplied my turkey chicken recipe by three for a big Seder and baked it instead of frying. 
+I multiplied my [turkey chicken recipe](../poultry/turkeyChicken.md) by three for a big Seder and baked it instead of frying. 
 
 ## Ingredients
 
