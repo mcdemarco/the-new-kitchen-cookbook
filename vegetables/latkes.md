@@ -22,8 +22,13 @@ Makes: 14--16 latkes.
 3. Pour off ice water, reserving the starch.
 4. Combine all ingredients (including reserved or extra starch).
 5. Squeeze latkes some more into latke-shape, 3 T. at a time.
-6. Deep-fry 2--3 minutes per side at 365°.
+6. Deep-fry 2--3 minutes per side at 360°--375°.
 7. Drain on a rack.
 
 Serve hot with sour cream or applesauce.
+
+## Variants
+
+For sweet potato latkes, reduce to 1 lb. sweet potatoes per 2 eggs, skip the ice water steps, and, optionally, replace panko with 1/3 c. flour.  Optionally add scallions and 1/4 tsp. cayenne pepper.  Sweet potatoes can be harder to keep in one piece, so you may want to fry them more shallowly in a frying pan (rather than deep-frying them).
+
 
