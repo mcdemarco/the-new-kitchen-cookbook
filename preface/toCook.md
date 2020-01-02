@@ -15,6 +15,8 @@ This is my to-do list.
 
 ## Bread, Quick or otherwise
 
+[Ricotta Zucchini Muffins](http://www.tasteofbeirut.com/savory-zucchini-and-ricotta-muffins/) or [Ricotta Muffins](https://cafefernando.com/ricotta-and-basil-muffins/)
+
 [Rosemary Crescent Rolls](http://www.artisanbreadinfive.com/2011/09/21/rosemary-crescent-rolls#more-3285)
 
 [Plain rolls](http://krausnickitchen.com/2012/01/18/no-knead-dinner-rolls-artisan-bread-in-five-minutes-a-day/)
