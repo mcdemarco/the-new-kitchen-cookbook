@@ -35,3 +35,5 @@ Serves 2.
 ## Variants
 
 For [panko-crusted trout](http://www.todaysparent.com/recipe/fish/crispy-oven-baked-trout-recipe/), replace the honey with oil or mayo, reduce the mustard to 2 tsp (or optionally substitute 1/2 tsp. wasabi powder), and skip all panko ingredients except panko with 3 T. grated parmesan.  Sprinkle the panko on the non-skin side of the trout instead of dredging in it.  Bake 12 minutes at 425° or convect at 400°.
+
+For panko-crusted perch, I've done something close to Nagi's [Emergency Easy Fish](https://www.recipetineats.com/healthy-parmesan-garlic-crumbed-fish/).  Because they were small and thin, I just spread them out on an oiled cookie sheet, spread the mustard on, and sprinkled the panko mixture on.  Skip the honey and add the garlic to the panko, along with (optionally) grated parmesan or another hard cheese.

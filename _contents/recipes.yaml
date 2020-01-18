@@ -237,6 +237,8 @@
     filename: alfredo
   - name: Pesto
     filename: pesto
+  - name: Arugula Pesto
+    filename: arugulaPesto
   - name: Puttanesca
     filename: puttanesca
   - name: Italian Chop Suey

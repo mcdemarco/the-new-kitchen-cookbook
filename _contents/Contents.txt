@@ -102,6 +102,7 @@ rice/sushi.md
 pasta/orecchiette.md
 pasta/alfredo.md
 pasta/pesto.md
+pasta/arugulaPesto.md
 pasta/puttanesca.md
 pasta/chopsuey.md
 pasta/bolognese.md

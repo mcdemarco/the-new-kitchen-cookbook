@@ -49,19 +49,21 @@ Makes 40, best eaten fresh.
 
 ### Custard
 
-1. Whisk flour and 1/4 c. milk in a bowl.
-2. Mix water, sugar and cinnamon stick in a small pot.  Use a candy thermometer to bring it to 220°F.
+1. Mix water, sugar and cinnamon stick in a small pot.
+2. Optionally, use a candy thermometer to bring it to 220°F without stirring.  Some recipes call for 210°--215°, so you can just wait for it to boil instead.
+2. Whisk flour and 1/4 c. milk in a bowl.
 3. In another pot, scald the remaining 1 c. milk, then mix in the floury milk.
-4. Remove cinnamon stick from syrup and pour it very slowly into the milk mixture, whisking constantly.  (It helps to have an assistant.)
+4. Remove cinnamon stick from syrup.
+5. Pour syrup very slowly into the milk mixture, whisking constantly.  (It helps to have an assistant.)
 5. Whisk in vanilla.
 6. Let cool somewhat, then whisk in the yolks.
-7. Optionally, strain.  (I forgot this step and nothing seemed to go wrong.)
+7. Optionally, strain.  (I forgot this step the first time and nothing seemed to go wrong, but definitely do it if you spotted some chunks during the mixing step.)
 8. Cover (and optionally chill) until the pastry is ready.
 
 ### Tarts
 
 1. Preheat oven to 550°F.
-1. Optionally roll out the first chilled roll to about 16" long.
+1. Optionally, roll out the first chilled roll to about 16" long.
 1. Slice into about 20 round pieces, preferably using a string.  Let rest briefly.
 2. Optionally, roll out each piece into mini-muffin-tin sized rounds and place into the pan.  (Otherwise, place the pieces in the wells of the mini-muffin tin and press into shape with wet fingers.)  Try to get a slight edge poking above the rim.
 3. Fill 3/4 full with custard.
