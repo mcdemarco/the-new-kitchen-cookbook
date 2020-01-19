@@ -11,17 +11,18 @@ The recipe was online briefly, but I assume it is gone already.
 * 5 c. milk
 * 8 T. unsalted butter
 * 6 T. flour
-* 1 1/2 tsp. mustard powder
+* 1/2 T. (1 1/2 tsp.) mustard powder
 * 1/4 tsp. cayenne pepper
 * 1 tsp. salt
 * 1 lb. macaroni, cooked with 1 T. salt past al dente but not al squishy
-* 5 slices bread (or 1 c. panko)
+* 1 c. panko
 
 ## Directions
 
 ![in the pot](../images/macNcheese1.png)
 
-1. Process the bread into crumbs with 3 T. of the butter, on pulse.  (Just work it in with your fingers if using panko.)
+1. Cook pasta.
+2. Work the butter into the panko with your fingers.
 2. In the pasta pan or Dutch oven, on medium-high, heat 5 T. butter to foaming. 
 3. Whisk in flour and spices. Whisk another minute. 
 4. Whisk in milk slowly. Bring to full boil stirring constantly. 
@@ -32,6 +33,8 @@ The recipe was online briefly, but I assume it is gone already.
 9. Cool 5 minutes before serving. 
 
 ## Variants
+
+The original recipe called for 5 slices bread pulsed with the butter in a food processor.  I have never made it that way.
 
 Don't put the pan too close to the broiler if using panko as a substitute for fresh breadcrumbs.  Also, note that the original recipe said not to do that (but I almost always do it).
 
