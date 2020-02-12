@@ -7,6 +7,8 @@ This is my to-do list.
 
 [Anchovy onion butter](http://food52.com/recipes/26778-anchovy-onion-butter)
 
+[Parmesan dip](https://www.thekitchn.com/entertaining-recipe-creamy-parmesan-dip-recipes-from-the-kitchn-187441)
+
 ## Soup
 
 [Roasted Cauliflower and Garlic Soup](http://cookingwithcurls.com/2017/01/09/roasted-cauliflower-garlic-soup/)
