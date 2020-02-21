@@ -1,6 +1,6 @@
 # Blitz Puff Pastry
 
-This is the dough from a King Arthur Flour [raspberry puff turnovers recipe](http://www.kingarthurflour.com/recipes/raspberry-puff-turnovers-recipe) (which I found in their [illustrated blog post](http://www.kingarthurflour.com/blog/2009/07/02/love-flaky-turnovers-dont-love-fussing-blitz-puff-to-the-rescue/) about the wonders of blitz puff pastry), which I used in my [blueberry turnovers](../pie/blueberryTurnovers.md).  I extracted and redoubled it to fill with something else.
+This is the dough from a King Arthur Flour raspberry puff turnovers recipe (which I found in their [illustrated blog post](http://www.kingarthurflour.com/blog/2009/07/02/love-flaky-turnovers-dont-love-fussing-blitz-puff-to-the-rescue/) about the wonders of blitz puff pastry and used for my [blueberry turnovers](../pie/blueberryTurnovers.md).  I extracted and redoubled to make quicker [feta puffs](../pie/fetaPuffs.md).  If you want weights, they were mentioned in the [original recipe](http://www.kingarthurflour.com/recipes/raspberry-puff-turnovers-recipe).
 
 Yield: 16 4" squares.
 
