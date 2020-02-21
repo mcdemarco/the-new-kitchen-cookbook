@@ -36,3 +36,5 @@ Total cooking and resting time is 50 minutes to an hour.
 ## Variants
 
 I once tried the recipe with boneless chicken thighs, cutting it down to one step: put everything in the baking dish at once and bake slightly cooler for much less time.
+
+I once tried it with chopped delicata squash, added in with the wine and vinegar (since that seemed to be the appropriate amount of cooking time).

@@ -441,6 +441,8 @@
     filename: cherry
   - name: Pecan Pie
     filename: pecan
+  - name: Blitz Puff
+    filename: blitzPuff
   - name: Rough Puff
     filename: roughPuff
   - name: Blueberry Turnovers

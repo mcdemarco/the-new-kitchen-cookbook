@@ -6,6 +6,8 @@ I used a small press from my old "crepe maker" turnover press set. (Here's [a si
 
 For some reason sanding sugar (coarse white sugar) is sold in craft stores instead of supermarkets.  Who knew?
 
+Yield: a baker's dozen or so.
+
 ## Ingredients
 
 ### Crust
@@ -38,7 +40,7 @@ For some reason sanding sugar (coarse white sugar) is sold in craft stores inste
 3. Mix dry filling ingredients.  Toss with blueberries in a small saucepan.
 4. Bring blueberries to a boil stirring frequently, then simmer a couple of minutes until thickened.
 5. Preheat oven to 400° (375° with convection).
-5. Roll out dough into approximately a 9x9 inch square.
+5. Roll out dough into approximately an 11x11 inch square (or 8"x16" if you want to cut exact 4" squares).
 6. Cut into squares with a knife, pastry cutter, or pizza cutter, or into circles with a turnover press.
 7. Fill.  Do not overfill!
 8. Optionally brush the edges with egg or water before folding and crimping.

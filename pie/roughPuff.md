@@ -2,7 +2,7 @@
 
 Rough Puff is a puff pastry that's slightly more work than a pie dough, but much less than a real puff pastry.   There are several ways to make it, many involving grating or use of machinery, but a pastry cutter will also do.  If you don't have a kitchen scale, [Renee Nicole](https://reneenicoleskitchen.com/rough-puff-pastry/) lists some American measurements.  She's also full of chilling advice.  (Chilling is the most important factor.)
 
-For a more traditional puff pastry method, see my recipe for [Pastéis de Nata](../pie/pasteisDeNata.md).  For an even cheatier blitz puff pastry, see my recipe for [Blueberry Turnovers](../pie/blueberryTurnovers.md).
+For a more traditional puff pastry method, see my recipe for [Pastéis de Nata](../pie/pasteisDeNata.md).  For an even cheatier pastry, see my [blitz puff](../pie/blitzPuff.md) recipe.
 
 You can keep the dough in the refrigerator for 3 days, or for some time in the freezer.  If frozen, defrost before using.
 

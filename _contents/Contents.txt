@@ -192,6 +192,7 @@ pie/pear.md
 pie/blueberry.md
 pie/cherry.md
 pie/pecan.md
+pie/blitzPuff.md
 pie/roughPuff.md
 pie/blueberryTurnovers.md
 pie/pasteisDeNata.md
