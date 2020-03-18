@@ -3,6 +3,7 @@ preface/kitchens.md
 preface/cookbook.md
 preface/toCook.md
 appetizers/frico.md
+appetizers/friedCheese.md
 appetizers/devilled.md
 appetizers/chickpeas.md
 appetizers/paoDeQueijo.md
@@ -21,6 +22,7 @@ soup/spinachWedding.md
 soup/kielbasa.md
 soup/gazpacho.md
 soup/coldZucchini.md
+soup/spicyPumpkin.md
 bread/parkerHouseRolls.md
 bread/advice.md
 bread/master.md
@@ -69,12 +71,14 @@ vegetables/broccolini.md
 vegetables/rapini.md
 vegetables/fiddleheads.md
 vegetables/spinach.md
-vegetables/cauliflower.md
-vegetables/squash.md
-vegetables/roastedPotatoes.md
 vegetables/roastedHaricots.md
-vegetables/roastedBroccoli.md
 vegetables/roastedOkra.md
+vegetables/roastedBroccoli.md
+vegetables/cauliflower.md
+vegetables/roastedBrusselSprouts.md
+vegetables/roastedPotatoes.md
+vegetables/roastedSweetPotatoes.md
+vegetables/squash.md
 vegetables/vegetarianChili.md
 vegetables/tzimmes.md
 vegetables/latkes.md
@@ -117,6 +121,7 @@ meat/lambballs.md
 meat/bolognese.md
 meat/meatsauce.md
 meat/meatloaf.md
+meat/pepperSteak.md
 meat/chili.md
 meat/cincinChili.md
 meat/texasChili.md
@@ -195,6 +200,8 @@ pie/pecan.md
 pie/blitzPuff.md
 pie/roughPuff.md
 pie/blueberryTurnovers.md
+pie/dateTurnovers.md
 pie/pasteisDeNata.md
 pie/fetaPuffs.md
 pie/spanakopita.md
+non-food/flaxseedHairGel.md

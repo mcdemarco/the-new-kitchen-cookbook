@@ -13,6 +13,8 @@
   files:
   - name: Freak Out for Frico!
     filename: frico
+  - name: Fried Cheese
+    filename: friedCheese
   - name: Devilled Eggs with Capers
     filename: devilled
   - name: Roasted Chickpeas
@@ -55,6 +57,8 @@
     filename: gazpacho
   - name: Cold Zucchini Soup
     filename: coldZucchini
+  - name: Spicy Pumpkin Carrot Soup
+    filename: spicyPumpkin
 
 - name: Bread
   filename: bread
@@ -271,6 +275,8 @@
     filename: meatsauce
   - name: Meatloaf for Passover
     filename: meatloaf
+  - name: Pepper Steak
+    filename: pepperSteak
   - name: Beef and Bean Chili
     filename: chili
   - name: Cincinnati Chili
@@ -447,9 +453,17 @@
     filename: roughPuff
   - name: Blueberry Turnovers
     filename: blueberryTurnovers
+  - name: Date Turnovers
+    filename: dateTurnovers
   - name: Pastéis de Nata
     filename: pasteisDeNata
   - name: Feta Puffs
     filename: fetaPuffs
   - name: Spanakopita
     filename: spanakopita
+
+- name: Non-Food
+  filename: non-food
+  files:
+  - name: Flaxseed Hair Gel
+    filename: flaxseedHairGel
