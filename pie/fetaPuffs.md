@@ -41,7 +41,7 @@ Using just feta makes these pretty salty, but Peter liked them that way.  For mi
 
 If the filling sounds more appealing than the puff pastry, you can apparently mix it up into a solid dough pastry as in [this recipe from Yasemin's Kitchen](http://yaseminskitchen.com/savory-dill-and-cheese-pastry/).
 
-I have made them with [blitz puff pastry](../pie/blitzPuff.md) instead of rough puff.
+I have made them with [blitz puff pastry](../pie/blitzPuff.md) instead of rough puff, and filled them with about 5 oz. cranberry cinnamon goat cheese, dried thyme, and a medium yellow onion (fried).
 
 Other nigella substitutions (besides sesame and poppy) that I've seen suggested include celery seed, cumin seed, black mustard seed, brown mustard seed, black (unhulled) sesame, caraway/fennel/anise seed, and coriander seed.  Actual onion seeds are sometimes suggested but they are neither easier to find nor a useful spice.  Oregano is an interesting suggestion, but in this case better substituted for the dill than the nigella.
 

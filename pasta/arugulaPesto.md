@@ -23,3 +23,5 @@ This particular recipe is based on [Elise Bauer's](https://www.simplyrecipes.com
 ## Variants
 
 You can use a mortar and pestle instead of a food processor.
+
+For an easier sauce, you can chop the arugula just a bit and wilt it.  Add red and black pepper, and optionally vinegar.

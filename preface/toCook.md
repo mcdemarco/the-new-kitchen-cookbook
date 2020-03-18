@@ -15,17 +15,23 @@ This is my to-do list.
 
 [Roasted Corn Chowda with Cotija](https://smittenkitchen.com/2017/08/corn-chowder-with-chile-lime-and-cotija/)
 
-## Bread, Quick or otherwise
+[Kreplach](https://www.epicurious.com/recipes/food/views/kreplach-236219)
+
+## Breakfast and Quick Bread
 
 [Ricotta Zucchini Muffins](http://www.tasteofbeirut.com/savory-zucchini-and-ricotta-muffins/) or [Ricotta Muffins](https://cafefernando.com/ricotta-and-basil-muffins/)
+
+[Shakshuka](https://toriavey.com/toris-kitchen/shakshuka/)
+
+English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easiest-and-tastiest-homemade-english-muffins) or [fried](http://www.artisanbreadinfive.com/2013/11/01/english-muffins-on-the-stove-top-with-gold-medal-flour-and-red-star-yeast#more-6412) (could use molds but not entirely necessary)
+
+## Slow Bread
 
 [Rosemary Crescent Rolls](http://www.artisanbreadinfive.com/2011/09/21/rosemary-crescent-rolls#more-3285)
 
 [Plain rolls](http://krausnickitchen.com/2012/01/18/no-knead-dinner-rolls-artisan-bread-in-five-minutes-a-day/)
 
 [Jim Lahey's no knead style](http://cooking.nytimes.com/recipes/11376-no-knead-bread)
-
-English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easiest-and-tastiest-homemade-english-muffins) or [fried](http://www.artisanbreadinfive.com/2013/11/01/english-muffins-on-the-stove-top-with-gold-medal-flour-and-red-star-yeast#more-6412) (could use molds but not entirely necessary)
 
 * rice flour cracker
 

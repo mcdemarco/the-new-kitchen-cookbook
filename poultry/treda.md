@@ -13,7 +13,7 @@ Serves 2--3, depending on how much chicken they want.
 * 1 1/2 lbs. chicken quarters, separated, or thighs
 * 1 T olive oil
 * 1 onion, sliced
-* 1 medium or 3 small campari tomatoes
+* 1 medium or 3 small campari tomatoes (or 1 oz. tomato paste)
 * 1 tsp. pepper
 * 1 tsp. turmeric
 * 1 tsp. salt
@@ -31,7 +31,7 @@ Serves 2--3, depending on how much chicken they want.
 * 2 1/2 lbs. chicken thighs
 * 2 T olive oil
 * 2 onions, sliced
-* a third of a can of tomato paste
+* a third of a can (2 oz.) tomato paste 
 * 2 tsp. pepper
 * 1 tsp. turmeric
 * 1 1/2 tsp. salt
