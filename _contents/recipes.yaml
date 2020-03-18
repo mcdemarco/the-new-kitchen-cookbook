@@ -167,18 +167,20 @@
     filename: fiddleheads
   - name: Spinach
     filename: spinach
-  - name: Roasted Cauliflower
-    filename: cauliflower
-  - name: Winter Squash
-    filename: squash
-  - name: Roasted Potatoes
-    filename: roastedPotatoes
   - name: Roasted Green Beans
     filename: roastedHaricots
-  - name: Roasted Broccoli
-    filename: roastedBroccoli
   - name: Roasted Okra
     filename: roastedOkra
+  - name: Roasted Broccoli
+    filename: roastedBroccoli
+  - name: Roasted Cauliflower
+    filename: cauliflower
+  - name: Roasted Potatoes
+    filename: roastedPotatoes
+  - name: Roasted Sweet Potatoes
+    filename: roastedSweetPotatoes
+  - name: Winter Squash
+    filename: squash
   - name: Vegetarian Chili
     filename: vegetarianChili
   - name: Tzimmes
