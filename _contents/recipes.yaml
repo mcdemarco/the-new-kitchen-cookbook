@@ -363,6 +363,8 @@
     filename: trout
   - name: Baked Mackerel
     filename: mackerel
+  - name: Stuffed Whiting
+    filename: stuffedWhiting
   - name: Fried Smelt
     filename: friedSmelt
   - name: Bacalhau com Broa

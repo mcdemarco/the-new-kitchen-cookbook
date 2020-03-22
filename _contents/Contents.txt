@@ -160,6 +160,7 @@ fish/salmonSteaks.md
 fish/broiledSalmon.md
 fish/trout.md
 fish/mackerel.md
+fish/stuffedWhiting.md
 fish/friedSmelt.md
 fish/bacalhauComBroa.md
 fish/kuku.md

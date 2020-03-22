@@ -23,7 +23,7 @@ This chili is based on [Emeril's recipe](http://www.foodnetwork.com/recipes/emer
 
 ## Garnishes
 
-* essence of Emeril (see the Asian chicken recipe for details)
+* essence of Emeril (see my [Spicy Asian Chicken](../poultry/asianChicken.md) recipe for details)
 * chopped scallion
 * avocado
 * sour cream or yogurt
