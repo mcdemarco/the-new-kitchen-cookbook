@@ -39,6 +39,8 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 [Ful](http://web.archive.org/web/20161109062629/http://www.atasmanian.cooking/blog/2015/3/5/a-fool-for-ful)
 
+[Beer Beans](https://www.markbittman.com/recipes-1/beer-glazed-black-beans)
+
 ## Rice
 
 [Fennel Risotto](http://cooking.nytimes.com/recipes/1016978-caramelized-onion-and-fennel-risotto)
