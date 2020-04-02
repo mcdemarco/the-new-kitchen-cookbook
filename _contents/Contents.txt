@@ -121,6 +121,7 @@ meat/lambballs.md
 meat/bolognese.md
 meat/meatsauce.md
 meat/meatloaf.md
+meat/cottagePie.md
 meat/pepperSteak.md
 meat/chili.md
 meat/cincinChili.md

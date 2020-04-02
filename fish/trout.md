@@ -13,7 +13,8 @@ We got some whole dressed trout from Market Basket after a long day, so I adapte
 * salt to taste
 * 2 lemon slices (optional)
 * pepper to taste
-* 2 T. water
+* Essence of Emeril (optional), to taste (see my [Spicy Asian Chicken](../poultry/asianChicken.md) recipe for details)
+* 2 T. water or lemon juice
 
 ## Directions
 

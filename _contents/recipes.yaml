@@ -277,6 +277,8 @@
     filename: meatsauce
   - name: Meatloaf for Passover
     filename: meatloaf
+  - name: Cottage Pie
+    filename: cottagePie
   - name: Pepper Steak
     filename: pepperSteak
   - name: Beef and Bean Chili
