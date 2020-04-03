@@ -1,13 +1,13 @@
 # Cottage Pie
 
 Cottage Pie is Shepherd's Pie with ground beef instead of ground lamb.
-Since no actual pie is involved, it's a pretty forgiving recipe that can take a lot of variation in ingredients, quantities, and methodology.
+Since no actual pie is involved, it's a pretty forgiving recipe that can take a lot of variation in ingredients, quantities, and methodology.  The current version is pretty mild, and in the future I plan to add more spices.   Also I'd recommend more tomato sauce when baking it cooked, or baking from raw.
 
 ## Ingredients
 
 ### Crust
 
-* 3 large russet potatoes
+* 3 large russet potatoes (about 2 lbs)
 * 1 yellow onion, chopped
 * 1 clove garlic, diced
 * 1 egg (optional)
@@ -17,8 +17,7 @@ Since no actual pie is involved, it's a pretty forgiving recipe that can take a 
 ### Filling
 
 * 1 1/2 lbs. ground beef
-* up to 1 1/2 c. peas
-* 4 oz. tomato sauce or crushed tomatoes
+* up to 1 1/2 c. peas or pea/carrot/corn mix
 * 1 yellow onion, chopped
 * 1 clove garlic, diced
 * 2 T. olive oil
@@ -26,13 +25,13 @@ Since no actual pie is involved, it's a pretty forgiving recipe that can take a 
 * 1/4 c. matzah meal, breadcrumbs, or other thickener (optional)
 * 1 egg (optional)
 * 1 T Worcestershire sauce (optional)
-* 1/2 tsp salt or to taste
+* 1 tsp salt or to taste
 * 2 tsp mustard powder (or 2 T prepared mustard)
 * 1 tsp basil
 * 1 tsp oregano
 * 1/4 tsp pepper
-* 1/4 tsp red pepper flakes (optional)
-* 1/4 tsp paprika
+* 1/2 tsp red pepper flakes (optional)
+* 1 tsp paprika
 
 ## Directions
 
