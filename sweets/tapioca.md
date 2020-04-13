@@ -4,19 +4,23 @@ This is a coconut milk tapioca pudding from one of those giant Indian cookbooks.
 
 The recipe can be made in a 2 quart pot, if you're careful.
 
+I usually use [Bob's Small Pearl Tapioca](https://www.bobsredmill.com/small-pearl-tapioca.html), but any pearl tapioca should work.  
+
+I have not tried any other kind of coconut milk but the canned kind.  You don't need to homogenize the coconut milk before adding it, but be careful not to squirt yourself with the water when breaking through the layer of fat.
+
 Total time: 1 1/2 hours
 
 Serves 8--10.
 
 ## Ingredients
 
-* 1 1/9 c. tapioca
+* 1 1/9 c. tapioca 
 * water for soaking
 * 3 1/3 c. water for cooking
 * 1 1/4 c. sugar
 * pinch salt
-* 1 2/3 c. (1 can) coconut milk
-* tropical fruits (optional)
+* 1 2/3 c. (1 can, 13.5 oz.) coconut milk
+* tropical fruits (optional) or blueberries
 * rind of 1 lime (optional)
 
 ## Directions

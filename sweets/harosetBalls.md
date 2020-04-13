@@ -1,6 +1,6 @@
 # Haroset Balls
 
-This is a passover recipe based on [Sephardic Haroset Bites](https://mayihavethatrecipe.com/not-just-for-passover-recipes-sephardic-style-haroset-bites/), the Kitchn's [Medjool Date and Apple Charoset](https://www.thekitchn.com/recipe-medjool-date-and-apple-charoset-recipes-from-the-kitchn-202038), and several haroset recipes in Claudia Roden's *Book of Jewish Food* (but especially the Italian one on p.621).  I put it together this year for a change from my more traditional [haroset recipe](../sweets/haroset.md).
+This is a passover recipe based on [Sephardic Haroset Bites](https://mayihavethatrecipe.com/not-just-for-passover-recipes-sephardic-style-haroset-bites/), the Kitchn's [Medjool Date and Apple Charoset](https://www.thekitchn.com/recipe-medjool-date-and-apple-charoset-recipes-from-the-kitchn-202038), and several haroset recipes in Claudia Roden's *Book of Jewish Food* (but especially the Italian one on p.621).  I put it together one year for a change from my more traditional [haroset recipe](../sweets/haroset.md).
 
 As usual, haroset is very forgiving, so don't let the quantities worry you.
 

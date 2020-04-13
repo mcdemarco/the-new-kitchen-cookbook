@@ -15,7 +15,7 @@ Makes about 32 balls, serves about 8 people.
 * 1 onion, quartered
 * parsley (optional)
 * dill (optional)
-* salt to taste
+* 1 heaping tsp. kosher salt, or any salt to taste
 
 ### Balls
 
