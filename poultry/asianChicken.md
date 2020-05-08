@@ -1,6 +1,6 @@
 # Spicy Asian Chicken
 
-This is cut down from Emeril's recipe [Alain's Sweet and Spicy Asian Drumsticks](http://www.foodnetwork.com/recipes/emeril-lagasse/alains-sweet-and-spicy-asian-drumsticks-recipe.html), which included a crazy amount of glaze.  I made the entire spice mix, but for future reference I've cut that down, too.
+This is cut down from Emeril's recipe [Alain's Sweet and Spicy Asian Drumsticks](http://web.archive.org/web/20161208051748/http://www.foodnetwork.com/recipes/emeril-lagasse/alains-sweet-and-spicy-asian-drumsticks-recipe.html), which included a crazy amount of glaze.  I made the entire spice mix (follow the link for the quantities), but for future reference I've cut that down, too.
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
 # Winter Squash
 
-These are here so I don't have to google the directions every time I make them.  Cut them all in half longitudinally first and remove seeds (if there are any).
+These are here so I don't have to google the directions every time I make them.  Cut them all in half through the middle (at the equator) first unless noted otherwise.  Remove seeds if there are any.  Trim the stem if it's going to interfere with baking.
 
 ## Acorn Squash
 
@@ -15,6 +15,12 @@ Bake cut side down at 375° for 1 hour.
 Bake cut side down at 400° for 20 minutes.  The entire squash is edible, so afterwards you can cut it up into handy pieces or stuff the halves like a pepper with something pre-cooked.
 
 Alternately, slice the squash before cooking, spice it, and roast the slices at 425°F for 30--35 minutes, flipping halfway through.  Salt, pepper, and olive oil are enough spicing, but you can go in the apple pie spice direction if you want, and even roast some apples with them (they take about 5 minutes less time).  You can get fancy by stacking the slices with [apples](https://www.theredheadbaker.com/delicata-squash-and-apple-stacks/) and/or [onions](https://brucebradley.com/recipes/recipe-roasted-delicata-apple-and-onion-tian/).
+
+## Kobucha Squash
+
+Cut longitudinally.  Rub with olive oil and optionally add maple syrup, cinammon, and salt to taste.   Bake cut side up at 400° for 45 minutes.
+
+Optionally you can slice this up into handy pieces (possibly after a bit of pre-baking, because it's a tough squash).  Toss with a similar mixture of toppings, and bake only 20 minutes at 400°.  I haven't tried it yet, but it might reduce some of the crumbliness of this squash.
 
 ## Pumpkin
 

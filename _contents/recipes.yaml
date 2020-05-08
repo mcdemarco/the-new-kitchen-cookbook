@@ -357,9 +357,11 @@
     filename: pankoSalmon
   - name: Spicy Salmon
     filename: spicySalmon
-  - name: Salmon Steaks
+  - name: Pesto Salmon
+    filename: pestoSalmon
+  - name: Soy Sauce Salmon Steaks
     filename: salmonSteaks
-  - name: Broiled Salmon
+  - name: Maple Broiled Salmon
     filename: broiledSalmon
   - name: Baked Trout
     filename: trout

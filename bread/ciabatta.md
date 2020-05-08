@@ -45,3 +45,7 @@ Makes: 1 large loaf.
 22. Cool on a rack.
 
 ![ciabatta](../images/ciabatta.png)
+
+## Variants
+
+If you came here looking for no-knead ciabatta, it's pretty simple:  With wet hands, slather a lump of no-knead dough into a flat rectangle on parchment paper.  Let it rise while the oven is preheating to 450° (with a bread stone and water pan), dust it with flour, add water to the pan, and bake for 20 minutes.

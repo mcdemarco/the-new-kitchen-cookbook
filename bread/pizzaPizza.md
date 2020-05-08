@@ -36,3 +36,5 @@ You're supposed to use a floured peel, but that's just too difficult compared to
 Instead of anchovies, crumble and sprinkle 4 oz. of raw ground Impossible Burger onto the pizza before cooking.
 
 You can use [pesto](https://web.archive.org/web/20180118035738/https://www.crazyforcrust.com/caramelized-onion-pesto-flatbread-pizza/) instead of red/pizza sauce; in that case reduce the temperature to 450° or so.
+
+For white pizza, omit the pizza sauce and add 4 oz. ricotta, plus optionally up to 4 oz. grated parmesan or other hard cheese.

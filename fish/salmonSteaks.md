@@ -1,4 +1,4 @@
-# Salmon Steaks
+# Soy Sauce Salmon Steaks
 
 This recipe was inspired by an oversized 1.5 lb. salmon steak, which I cut in half down the spine line in order to put the skin side down.  Quantities are approximate.  It served two.
 
@@ -27,4 +27,4 @@ This recipe was inspired by an oversized 1.5 lb. salmon steak, which I cut in ha
 
 If you don't have wasabi powder, powdered or fresh mustard will do.
 
-You can substitute maple syrup for the honey.
+You can substitute maple syrup for the honey, making this a lot like my [Maple Broiled Salmon](../fish/broiledSalmon.md).
