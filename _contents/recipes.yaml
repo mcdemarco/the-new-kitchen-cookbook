@@ -323,6 +323,8 @@
     filename: tuscanChicken
   - name: Spicy Asian Chicken
     filename: asianChicken
+  - name: Baked Chicken and Rice
+    filename: bakedChickenRice
   - name: Chicken with Collards and Rice
     filename: chickenCollardRice
   - name: Treda

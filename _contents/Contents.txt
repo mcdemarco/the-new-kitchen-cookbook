@@ -142,6 +142,7 @@ poultry/roastedWithSquash.md
 poultry/roastedWithSweetPotatoes.md
 poultry/tuscanChicken.md
 poultry/asianChicken.md
+poultry/bakedChickenRice.md
 poultry/chickenCollardRice.md
 poultry/treda.md
 poultry/thighStew.md
