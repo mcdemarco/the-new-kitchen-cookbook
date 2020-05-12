@@ -19,10 +19,10 @@ Serves 4.
 
 ## Directions
 
-1. Boil pasta (about 1 lb.) with a generous amount of salt and drain.
+1. Boil pasta (about 1 lb.) with a generous amount of salt.
 2. Melt butter in a heavy saucepan and fry the garlic in it briefly.
 3. Add all spices.
-4. Add all cheeses.
+4. Add cream and all cheeses.
 5. Heat through, then simmer about 5 minutes to desired thickness.
 6. Freshen pasta and mix with the sauce and optionally some pasta water in a large bowl (or in the sauce pan, if it's large enough and you're not setting some sauce aside).
 7. Serve hot.
@@ -30,3 +30,5 @@ Serves 4.
 ## Variants
 
 Most recipes of this sort (including the source recipe) use one cup parmesan, or half parmesan and half romano.
+
+You can add a 14 oz. can of salmon (or a couple of fillets, cooked and chopped, or even some smoked salmon) and/or 2 c. peas, if you like that sort of thing.
