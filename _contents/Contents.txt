@@ -51,6 +51,7 @@ quick-bread/blueberryPancakes.md
 quick-bread/ricottaPancakes.md
 quick-bread/crepes.md
 quick-bread/dutchPuff.md
+quick-bread/popovers.md
 quick-bread/branMuffins.md
 quick-bread/cornbread.md
 quick-bread/blueberryCornMuffins.md

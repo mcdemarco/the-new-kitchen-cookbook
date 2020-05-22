@@ -123,6 +123,8 @@
     filename: crepes
   - name: Dutch Puff
     filename: dutchPuff
+  - name: Popovers
+    filename: popovers
   - name: Bran Muffins for Mom
     filename: branMuffins
   - name: Non-dairy Cornbread
