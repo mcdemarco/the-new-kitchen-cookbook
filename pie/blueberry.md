@@ -23,7 +23,7 @@ This is a mix of the Better Homes and Gardens Blueberry Pie recipe and the Joy o
 1. Defrost blueberries.
 2. Make and chill dough for crust. 
 3. Mix non-crust ingredients.
-4. Preheat oven to 450 F.
+4. Preheat oven to 450°F.
 5. Roll out and fill crust.
-6. Bake 10 minutes at 450, then bake 35-40 more minutes at 350.
+6. Bake 10 minutes at 450°, then bake 35--40 more minutes at 350°.
 7. Cool.

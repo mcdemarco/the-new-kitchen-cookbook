@@ -200,6 +200,7 @@ pie/crust.md
 pie/apple.md
 pie/pear.md
 pie/blueberry.md
+pie/strawberryRhubarb.md
 pie/cherry.md
 pie/pecan.md
 pie/pumpkin.md

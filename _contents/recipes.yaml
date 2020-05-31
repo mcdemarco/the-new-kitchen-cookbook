@@ -455,6 +455,8 @@
     filename: pear
   - name: Blueberry Pie
     filename: blueberry
+  - name: Strawberry Rhubarb Pie
+    filename: strawberryRhubarb
   - name: Cherry Pie
     filename: cherry
   - name: Pecan Pie
