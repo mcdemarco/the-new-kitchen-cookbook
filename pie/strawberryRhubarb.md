@@ -24,7 +24,7 @@ This recipe is based on [King Arthur Flour's recipe](https://www.kingarthurflour
 2. Defrost and/or chop strawberries and rhubarb.
 3. Mix strawberries and rhubarb with 1/4 c. of the white sugar.  Let sit for 20 minutes, then strain.
 4. Roll out and chill bottom crust (in pie plate).
-5. Mix together 1/2 c. white sugar and starch.  Add to strawberry mix and mix well.
+5. Mix together 1/2 c. white sugar, brown sugar, starch, salt, and spices.  Add to strawberry mix and mix well.
 6. Fill bottom crust.  Optionally top the filling with dabs of the butter.
 7. Chill again while rolling out top crust.
 8. Preheat oven to 425°F.

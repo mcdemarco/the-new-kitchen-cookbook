@@ -10,7 +10,7 @@ Although there's a crust variant to this recipe, I usually just use phyllo dough
 ### Filling
 
 * 2 lbs fresh or 2 10oz. packages frozen spinach
-* 1--2 shallots sliced thin
+* 1--2 shallots sliced thin (or one small yellow onion, chopped)
 * 10 oz. feta
 * 2 tsp. dill
 * 2 T. mint, diced
@@ -31,7 +31,7 @@ Although there's a crust variant to this recipe, I usually just use phyllo dough
 
 ## Variants
 
-Instead of phyllo, mix 3 c. flour, 1 c. water, 2 T oil, 1/2 tsp oregano, and a dash of salt.  Divide into 3 parts, roll out into 3 layers, and divide the filling into two layers.
+Instead of phyllo, mix 3 c. flour, 1 c. water, 2 T oil, 1/2 tsp oregano, and a dash of salt.  Divide into 3 parts, roll out into 3 layers, and divide the filling into two layers.  Alternately, mix a traditional butter crust (2 1/2 c. flour, 1 c. butter, 1 tsp. salt, 1/2 c. cold water, 1/2 tsp. oregano) and divide into 2 or 3 parts.
 
 Lasagnakopita:  Instead of phyllo, boil 1 lb. of lasagna noodles, and use about 4 strips lengthwise (slightly overlapping) for each of the three layers.  Optionally [layer with bechamel](https://www.foodnetwork.com/recipes/spanakopita-lasagna-recipe-1938327) and top with mozzarella.  Reduce baking time to 25 minutes.
 
