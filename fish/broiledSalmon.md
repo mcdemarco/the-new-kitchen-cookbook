@@ -22,3 +22,7 @@ Serves 2.
 3. Place on foil-lined broiler tray.
 4. Broil 8 minutes or to taste.
 
+## Variants
+
+You can bake this around 15 minutes at 375° instead.
+
