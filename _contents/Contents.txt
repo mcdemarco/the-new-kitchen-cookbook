@@ -147,6 +147,7 @@ poultry/tuscanChicken.md
 poultry/asianChicken.md
 poultry/bakedChickenRice.md
 poultry/chickenCollardRice.md
+poultry/chickenCurry.md
 poultry/treda.md
 poultry/thighStew.md
 poultry/crockpotChickenFarro.md

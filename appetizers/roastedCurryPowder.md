@@ -33,6 +33,8 @@ Descriptions of roasting times vary from a few minutes to 10.
 
 Some recipes use 3 chilis.
 
+If you don't have some of the whole spices, you can substitute 1/3 the amount of ground spice for it.  Roast the ground version in the pan briefly when you're done with your whole spices.
+
 
 
 

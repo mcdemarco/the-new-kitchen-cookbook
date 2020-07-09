@@ -333,6 +333,8 @@
     filename: bakedChickenRice
   - name: Chicken with Collards and Rice
     filename: chickenCollardRice
+  - name: Sri Lankan Coconut Chicken Curry
+    filename: chickenCurry
   - name: Treda
     filename: treda
   - name: Moroccan Spiced Chicken Stew
