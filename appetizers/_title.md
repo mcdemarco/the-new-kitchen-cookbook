@@ -1,1 +1,1 @@
-Appetizers, Snacks, and Drinks
+Appetizers, Snacks, Spices, and Drinks

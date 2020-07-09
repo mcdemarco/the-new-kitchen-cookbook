@@ -6,6 +6,8 @@ appetizers/frico.md
 appetizers/friedCheese.md
 appetizers/devilled.md
 appetizers/chickpeas.md
+appetizers/roastedCurryPowder.md
+appetizers/emeril.md
 appetizers/paoDeQueijo.md
 appetizers/tuscanBean.md
 appetizers/toddy.md

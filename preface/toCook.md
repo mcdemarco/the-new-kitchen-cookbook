@@ -53,6 +53,8 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 [Mama Sophia's](https://sophiaroe.wordpress.com/2015/02/11/recipe-mama-sophias-dairy-free-lasagna/) dairy-free lasagna
 
+[Japanese Curry](https://www.justonecookbook.com/japanese-beef-curry/)
+
 ## Poultry
 
 [Leek and wild mushroom stuffing](https://www.epicurious.com/recipes/food/views/leek-and-wild-mushroom-stuffing-107292)

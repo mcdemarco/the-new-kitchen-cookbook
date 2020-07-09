@@ -1,6 +1,6 @@
 # Spicy Asian Chicken
 
-This is cut down from Emeril's recipe [Alain's Sweet and Spicy Asian Drumsticks](http://web.archive.org/web/20161208051748/http://www.foodnetwork.com/recipes/emeril-lagasse/alains-sweet-and-spicy-asian-drumsticks-recipe.html), which included a crazy amount of glaze.  I made the entire spice mix (follow the link for the quantities), but for future reference I've cut that down, too.
+This is cut down from Emeril's recipe [Alain's Sweet and Spicy Asian Drumsticks](http://web.archive.org/web/20161208051748/http://www.foodnetwork.com/recipes/emeril-lagasse/alains-sweet-and-spicy-asian-drumsticks-recipe.html), which included a crazy amount of glaze.  I made the entire spice mix (see the link below), but for future reference I've cut that down to the amount you need here.
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ This is cut down from Emeril's recipe [Alain's Sweet and Spicy Asian Drumsticks]
 
 ### Spice
 
-If you have Essence of Emeril (his Creole seasoning) already prepared, use 2 T.
+If you have [Essence of Emeril](../appetizers/emeril.md) (his Creole seasoning) already prepared, use 2 T.
 
 * 1 1/4 tsp paprika
 * 1 tsp salt

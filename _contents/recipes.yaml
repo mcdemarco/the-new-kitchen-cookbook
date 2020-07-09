@@ -19,6 +19,10 @@
     filename: devilled
   - name: Roasted Chickpeas
     filename: chickpeas
+  - name: Sri Lankan Roasted Curry Powder
+    filename: roastedCurryPowder
+  - name: Essence of Emeril
+    filename: emeril
   - name: Pão de Queijo (Brazilian Cheese Bread)
     filename: paoDeQueijo
   - name: Tuscan Bean Dip
