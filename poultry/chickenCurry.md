@@ -22,7 +22,7 @@ Serves 2.
 ### Dry spices
 
 * 1 T. roasted curry powder
-* 1 tsp. pure chili powder or cayenne pepper, or to taste
+* 1--5 tsp. pure chili powder or cayenne pepper, to taste
 * 1 tsp. regular paprika (optional)
 * 1/2 tsp. black pepper
 * 1/2 tsp. turmeric powder
