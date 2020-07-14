@@ -130,6 +130,7 @@ meat/chili.md
 meat/cincinChili.md
 meat/texasChili.md
 meat/curry.md
+meat/roastedCurry.md
 meat/briskette.md
 meat/crockpotBriskette.md
 meat/bakedLondon.md

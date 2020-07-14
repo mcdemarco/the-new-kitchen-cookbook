@@ -295,6 +295,8 @@
     filename: texasChili
   - name: Beef Curry
     filename: curry
+  - name: Sri Lankan Beef Curry
+    filename: roastedCurry
   - name: Briskette
     filename: briskette
   - name: Crockpot Briskette
