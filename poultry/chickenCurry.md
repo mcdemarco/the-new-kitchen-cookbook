@@ -37,12 +37,12 @@ Serves 2.
 3. Fry onion, chilis, and cinnamon stick in the oil. 
 4. Add ginger and garlic.
 5. Add chicken and fry briefly.
-6. Top with tomato and curry leaves, but do not stir.
+6. Top with tomato and curry leaves, but do not stir.  ![not stirring](../images/sri_curry1.png)
 7. Cover and cook on medium for about 5 minutes.
 8. Uncover and stir.
 9. Add 1 cup hot water to the chicken marinating bowl, and from there to the pot.  (If you're using boneless chicken and you're impatient, you can reduce this to 1/2 c.)
 10. Cover and boil a few minutes on medium.
-11. Uncover and cook down (at boiling) until the water is mostly reduced.
+11. Uncover and cook down (at boiling) until the water is mostly reduced.   ![reducing](../images/sri_curry2.png)
 12. Reduce heat, add coconut milk, and cook briefly.
 13. Serve over rice.
 

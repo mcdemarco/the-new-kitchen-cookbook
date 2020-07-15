@@ -53,3 +53,7 @@ Optionally, brush top crust with milk, cream, or egg yolk, or use egg white and 
 Cut vents into top crust (if solid) and bake as directed.
 
 ![fancy holes](../images/cherry_pie.png)
+
+## Variants
+
+For lattice weaving advice, have a look at [this pictorial how-to](https://www.simplyrecipes.com/recipes/how_to_make_a_lattice_top_for_a_pie_crust/).
