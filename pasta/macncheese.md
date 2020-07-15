@@ -22,7 +22,7 @@ The recipe was online briefly, but I assume it is gone already.
 ![in the pot](../images/macNcheese1.png)
 
 1. Cook pasta.
-2. Work the butter into the panko with your fingers.
+2. Work 3 T. of the butter into the panko with your fingers.
 2. In the pasta pan or Dutch oven, on medium-high, heat 5 T. butter to foaming. 
 3. Whisk in flour and spices. Whisk another minute. 
 4. Whisk in milk slowly. Bring to full boil stirring constantly. 
