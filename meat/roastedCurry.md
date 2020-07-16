@@ -1,6 +1,6 @@
 # Sri Lankan Beef Curry
 
-This recipe is a mix of a couple of Sri Lankan beef curry styles, [Devilled Beef Curry](https://www.theflavorbender.com/sri-lankan-devilled-beef-curry/) and [a coconut milk beef curry](https://www.islandsmile.org/sri-lankan-beef-curry-slow-cooked/) more like my [Sri Lankan coconut chicken curry recipe](../poultry/chickenCurry.md).
+This recipe is a mix of a couple of Sri Lankan beef curry styles:  [Devilled Beef Curry](https://www.theflavorbender.com/sri-lankan-devilled-beef-curry/) and [a coconut milk beef curry](https://www.islandsmile.org/sri-lankan-beef-curry-slow-cooked/) more like my [Sri Lankan coconut chicken curry recipe](../poultry/chickenCurry.md).
 
 Serves 3--4.
 

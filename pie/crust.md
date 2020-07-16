@@ -40,20 +40,27 @@ First, the crust.  My crusts all started from the basic piecrust recipe in my ol
 
 ## Directions (All Crusts)
 
-Mix flour & salt. Cut in shortening with a pastry cutter. When pieces are pea-sized, add water gradually (a teaspoon at a time) until just damp.  (You won't need all the water.)  Squeeze into a ball.  For a double crust, divide in half.  Chill in plastic wrap for about an hour. 
+1. Mix flour & salt.
+2. Cut in shortening with a pastry cutter until pieces are pea-sized.  
+3. Add water gradually (a teaspoon at a time) until just damp.  (You won't need all the water.)
+4. Squeeze into a ball.
+5. For a double crust, divide in half and use the larger half (if one is larger) for the bottom crust.
+6. Chill in plastic wrap for about an hour. 
+7. Roll the bottom crust out between sheets of wax or parchment paper, or between a silicone pie mat and the plastic wrap.  It should come out to at least 1" bigger than the pie plate all around, possibly more if you intend to fold some over the top crust or top with a lattice.  
+8. Peel off the silicone or thicker layer of paper.
+9. Use the other layer to flip the crust into pie plate.  Adjust carefully if it's off-center, then peel off the paper/wrap.
+10. Fill with desired filling.
+11. If there's a top crust, chill the bottom for now.  Otherwise, [crimp the edge](https://www.thespruceeats.com/how-to-crimp-pie-crust-4123830) with your fingers and you're done!
+11. For a top crust, roll out the remaining dough the same way. 
+12. Optionally, prep the seam by rubbing shortening on the top edge of the bottom crust.
+13. Peel off the thicker layer.  If making decorative holes instead of slit vents, punch them out now.  ![fancy holes](../images/cherry_pie.png)
+14. Center the top over the pie, then peel the other sheet off carefully.
+15. Optionally, if there's enough slack, fold the top crust under the bottom crust at the edge, or the bottom over the top.
+16. [Crimp the edge](https://www.thespruceeats.com/how-to-crimp-pie-crust-4123830) of the crust with your fingers or press with a fork to seal.  (I usually do the fork thing.)
+17. Optionally, brush top crust with milk, cream, or egg yolk, or use egg white and sprinkle with sanding sugar.
+18. Cut vents into top crust with a small knife (if solid) and bake as directed.
 
-Roll out bottom crust between parchment paper or a silicone pie mat and the plastic wrap.  (If making a double crust, use the larger half for the bottom crust.)  Peel off the parchment first (or don't, if using only parchment) and flip into pie plate.  Adjust carefully if necessary, then peel off the paper/wrap.
-
-Fill with desired filling.
-
-For a top crust, roll out the remaining dough.  (If making decorative holes instead of slit vents, punch them out now.)  Prep the seam by rubbing shortening on the top edge of the bottom crust.  Peel off one sheet of paper and center the top over the pie, then peel the other sheet off carefully.  Fold top crust under the bottom crust at the edge.  [Crimp edge](https://www.thespruceeats.com/how-to-crimp-pie-crust-4123830) of crust or press with a fork to seal.  (I usually do the fork thing.)
-
-Optionally, brush top crust with milk, cream, or egg yolk, or use egg white and sprinkle with sanding sugar.
-
-Cut vents into top crust (if solid) and bake as directed.
-
-![fancy holes](../images/cherry_pie.png)
 
 ## Variants
 
-For lattice weaving advice, have a look at [this pictorial how-to](https://www.simplyrecipes.com/recipes/how_to_make_a_lattice_top_for_a_pie_crust/).
+For a lattice top, have a look at [this pictorial how-to](https://www.simplyrecipes.com/recipes/how_to_make_a_lattice_top_for_a_pie_crust/).  Note that you need to roll out the bottom crust big enough to fold over the lattice edges.
