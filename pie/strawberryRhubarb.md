@@ -4,7 +4,7 @@ This recipe is based on [King Arthur Flour's recipe](https://www.kingarthurflour
 
 ## Ingredients
 
-* 1 10" double-crust pie shell (uncooked)
+* 1 10" [double-crust pie shell](../pie/crust.md) (uncooked)
 * 1 lb. frozen rhubarb, chopped  (1/2 inch thick)
 * 1 lb. fresh strawberries, quartered (cut smaller if they're jumbo)
 * 3/4 c. white sugar

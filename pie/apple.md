@@ -6,7 +6,7 @@ This started out as the Apple Pie recipe from the Better Homes and Gardens Cook 
 
 ## Ingredients
 
-* 1 8" or 9" double-crust pie shell (uncooked)
+* 1 8" or 9" [double-crust pie shell](../pie/crust.md) (uncooked)
 * 6 Cortland apples 
 * 3/4 c. sugar 
 * 2 tsp. Vietnamese cinnamon 

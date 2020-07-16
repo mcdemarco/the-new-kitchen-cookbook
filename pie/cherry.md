@@ -4,7 +4,7 @@ This is more or less the [Serious Eats Cherry Pie](http://www.seriouseats.com/re
 
 ## Ingredients
 
-* 1 9" double-crust pie shell (uncooked)
+* 1 9" [double-crust pie shell](../pie/crust.md) (uncooked)
 * 28 oz. fresh or frozen pitted cherries (1 3/4 lb), optionally sweet, optionally macerated
 * 1 1/2 oz (generous 1/3 c.) sour tapioca starch (polvilho azedo)
 * 1 scant c. sugar

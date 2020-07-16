@@ -17,7 +17,7 @@ Makes: 1 9" pie.
 * 1/4 tsp. fine salt
 * 2--4 T. cold water
 
-Alternately, any 9" single-crust pie shell.
+Alternately, any 9" [single-crust pie shell](../pie/crust.md).
 
 ### Pie
 

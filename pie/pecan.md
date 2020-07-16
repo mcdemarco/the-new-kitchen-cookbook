@@ -2,12 +2,12 @@
 
 ![pecan pie](../images/pecan_pie.png)
 
-Peter likes lots of pecans in his pie, so I found a simple recipe with more pecans than most.  This one is from [Martha Stewart](http://www.marthastewart.com/312503/pecan-pie).
+Peter likes lots of pecans in his pie, so I found a simple recipe with more pecans than most from [Martha Stewart](http://www.marthastewart.com/312503/pecan-pie).
 
 ## Ingredients
 
-* 1 9" single-crust pie shell (uncooked)
-* 4 large eggs 
+* 1 9" [single-crust pie shell](../pie/crust.md) (uncooked)
+* 4 large eggs
 * 1 c. light corn syrup 
 * 1/3 c. packed light-brown sugar 
 * 1/4 c. granulated sugar 

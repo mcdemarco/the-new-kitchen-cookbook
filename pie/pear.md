@@ -4,7 +4,7 @@ I make pear pie with somewhat underripe pears from our backyard pear tree.  This
 
 ## Ingredients
 
-* 1 9" double-crust pie shell (uncooked)
+* 1 9" [double-crust pie shell](../pie/crust.md) (uncooked)
 * about 6 c. peeled, cored and sliced pears 
 * 1/2 c. sugar
 * 1/4 tsp nutmeg 
