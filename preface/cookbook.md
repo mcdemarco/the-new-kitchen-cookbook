@@ -6,6 +6,6 @@ Most of my recipes use olive oil instead of butter or other oils.  When I say ol
 
 Measurements are in American, temperatures are in Fahrenheit, and spoons and cups are all level.  Tablespoons are generally abbreviated *T*, teaspoons *tsp*, and cups *c.*  Flour is fluffed (I shake up the jar), scooped, and leveled, but not sifted.  Some baking recipes include weights of flour and butter, but not many.
 
-Dried spices are assumed unless fresh is specified; to substitute dry for fresh, use 1/3 of the fresh amount; triple the dry amount to use fresh.  I have seen advice for substituting ground spice for dried leafy spice: use half the dried amount--but usually I have both around so I don't know how well that goes.  For cardamom, the equivalence I use is 1/6 tsp ground cardamom per cardamom pod.
+Dried spices are assumed unless fresh is specified; to substitute dry for fresh, use 1/3 of the fresh amount; triple the dry amount to use fresh.  I have seen advice for substituting ground spice for dried leafy spice: use half the dried amount---but usually I have both around so I don't know how well that goes.  For cardamom, the equivalence I use is 1/6 tsp ground cardamom per cardamom pod.
 
 A few measurements are omitted, usually because of cookbooks that just said to salt or pepper to taste.  The management apologizes for any inconvenience.
