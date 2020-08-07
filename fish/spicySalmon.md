@@ -26,3 +26,5 @@ This is a variant of plain [Costco Salmon](../fish/costcoSalmon.md), optionally 
 ## Variants
 
 Try it with fresh salmon.  The original recipe recommended wild caught Alaskan, skin on or off, and did not include cayenne.
+
+Another spice option is a generous coating of [Sri Lankan roasted curry powder](../appetizers/roastedCurryPowder.md).
