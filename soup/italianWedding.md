@@ -29,7 +29,7 @@ I was in the mood for soup with turkey meatballs.  This recipe is based on [Ital
 * 1 clove garlic, chopped
 * 4 c. chicken stock
 * 1 c. water
-* 6-8 c./1 bunch chopped greens: escarole, collards, kale, chard, or a mix thereof 
+* 6--8 c./1 bunch chopped greens: escarole, collards, kale, chard, or a mix thereof 
 * 2/3--3/4 c. orzo
 * 1/4 tsp salt (or however much the stock still needs)
 * 1/4 tsp red pepper flakes
