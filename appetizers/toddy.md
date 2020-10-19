@@ -29,4 +29,4 @@ This is Peter's recipe for hot toddies. Measurements are approximate and may be 
 6. Add honey and whiskey (1/2 shot per 6 oz).
 7. Serve hot.
 
-ote: the timings are by no means precise, but avoid cooking the citrus too long or the result will be bitter.
+Note: the timings are by no means precise, but avoid cooking the citrus too long or the result will be bitter.

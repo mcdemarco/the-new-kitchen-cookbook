@@ -10,6 +10,7 @@ appetizers/roastedCurryPowder.md
 appetizers/emeril.md
 appetizers/paoDeQueijo.md
 appetizers/tuscanBean.md
+appetizers/fenugreekTea.md
 appetizers/toddy.md
 appetizers/pituie.md
 appetizers/seder.md
