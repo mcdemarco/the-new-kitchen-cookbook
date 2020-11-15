@@ -7,6 +7,7 @@ There are a lot of underspecified recipes for this online, but [wikiHow](https:/
 * 1 1/2 c. water
 * 1 T fenugreek seed
 * 1 tsp fennel seed (optional)
+* 1 tsp nigella (optional)
 * 2 T dried nettle (optional)
 * 1 slice citrus peel (optional)
 * 1 tsp honey (optional)

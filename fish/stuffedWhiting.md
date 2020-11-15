@@ -15,7 +15,7 @@ I significantly simplifed Emeril Lagasse's recipe for [Stuffed Baked Whiting](ht
 * 1 T. lemon juice
 * 1/8 c. white cooking wine
 * 2 T. capers
-* Essence of Emeril to taste (see my [Spicy Asian Chicken](../poultry/asianChicken.md) recipe for details)
+* [Essence of Emeril](../appetizers/emeril.md) to taste
 
 ## Directions
 
