@@ -7,7 +7,7 @@ If you have a 14" pizza stone, you can make _Artisan Bread in 5_ pizza from vari
 * 1--1 1/4 lbs refrigerated [olive oil](../bread/oliveOil.md) or [Master Recipe](../bread/master.md) no-knead dough
 * 1/4 lb shredded mozzarella
 * 1 T. parmesan (optional)
-* pasta or pizza sauce
+* pizza or pasta sauce
 * oregano
 * basil
 * sliced garlic or garlic powder
@@ -38,3 +38,5 @@ Instead of anchovies, crumble and sprinkle 4 oz. of raw ground Impossible Burger
 You can use [pesto](https://web.archive.org/web/20180118035738/https://www.crazyforcrust.com/caramelized-onion-pesto-flatbread-pizza/) instead of red/pizza sauce; in that case reduce the temperature to 450° or so.
 
 For white pizza, omit the pizza sauce and add 4 oz. ricotta, plus optionally up to 4 oz. grated parmesan or other hard cheese.
+
+If you don't have pizza sauce and object to putting pasta sauce on pizza, it's easy to [make your own]().

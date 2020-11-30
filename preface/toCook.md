@@ -35,6 +35,7 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 * rice flour cracker
 
+
 ## Vegetables
 
 [Ful](http://web.archive.org/web/20161109062629/http://www.atasmanian.cooking/blog/2015/3/5/a-fool-for-ful)
@@ -66,6 +67,9 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 * dark chocolate peppermints (with recipe)
 
 [Pareve Pumpkin Pie](https://jamiegeller.com/recipes/parve-pumpkin-pie/)
+
+[Paczki](https://www.seasonsandsuppers.ca/polish-paczki-donuts-recipe/)
+
 
 ### Shortbread
 

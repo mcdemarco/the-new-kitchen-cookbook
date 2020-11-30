@@ -44,6 +44,7 @@ bread/ciabatta.md
 bread/challah.md
 bread/cinnamonFlatbread.md
 bread/oliveOil.md
+bread/pizzaSauce.md
 bread/panPizza.md
 bread/pizzaPizza.md
 bread/garlicBreadsticks.md

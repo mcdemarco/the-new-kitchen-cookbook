@@ -105,6 +105,8 @@
     filename: cinnamonFlatbread
   - name: Olive Oil Dough
     filename: oliveOil
+  - name: Pizza Sauce
+    filename: pizzaSauce
   - name: Pan Pizza
     filename: panPizza
   - name: Pizza Stone Pizza

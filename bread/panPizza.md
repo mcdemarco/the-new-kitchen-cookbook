@@ -8,7 +8,7 @@ The _Artisan Bread in 5_ book assumes you're going to cook your pizza at ∞° o
 * 1 T. olive oil (optional)
 * 1/4 lb shredded mozzarella
 * 1 T. grated parmesan (optional)
-* pasta or pizza sauce
+* pasta or [pizza sauce](../bread/pizzaSauce.md)
 * oregano
 * sliced garlic or garlic powder
 * 1 can anchovies (optional)
