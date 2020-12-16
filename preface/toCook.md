@@ -70,6 +70,11 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 [Paczki](https://www.seasonsandsuppers.ca/polish-paczki-donuts-recipe/)
 
+[Rugelach](https://www.reddit.com/r/JewishCooking/comments/k5rzrs/made_rugelach_with_the_kids_grandma_goldies_recipe/)
+
+[French Apple Cake](https://12tomatoes.com/easy-french-apple-cake/)
+
+[Cranberry Raisin pie](https://www.afamilyfeast.com/cranberry-raisin-pie/)
 
 ### Shortbread
 

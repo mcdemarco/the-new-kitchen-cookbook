@@ -2,7 +2,7 @@
 
 Peter had a Sri Lankan cooking class for work (just another one of those coronavirus things), and this was one of the ingredients in [Sri Lankan Coconut Chicken Curry](../poultry/chickenCurry.md).  We made our own ahead of time, out of a bewildering variety of different recipes online.  (If you want one of those, I suppose you can't go wrong with [The BEST Sri Lankan Roasted Curry Powder](https://www.theflavorbender.com/sri-lankan-roasted-curry-powder/).)
 
-We later used it in [Sri Lankan Beef Curry](../meat/roastedCurry.md), and it also seems like it would be good for roasting vegetables---especially ground up better than we managed to with the mortar and pestle.
+We later used it in [Sri Lankan Beef Curry](../meat/roastedCurry.md) and on [Spicy Salmon](../fish/spicySalmon.md).  It also seems like it would be good for roasting vegetables---especially ground up better than we managed to with the mortar and pestle.
 
 Fills 1 spice jar.
 
@@ -19,13 +19,14 @@ Fills 1 spice jar.
 * 1 tsp green cardamom pods (crushed)
 * 5--10 individual curry leaves (about 1 sprig)
 * 1 dried red chili (optional, probably seeded)
-* 1 short cinnamon stick (optional, about 1")
+* 1 short cinnamon stick (about 1") or 1/4 tsp ground cinnamon (optional)
 
 ## Directions
 
 1. In a dry stainless steel skillet, roast all ingredients (optionally separately or somewhat separately) until browned.
 2. Optionally, cool.
 3. Grind with a spice grinder, coffee grinder, or mortar and pestle.  (When using a mortar and pestle, you can sift out the rice and cardamon pod shells later if you have a sifter.  Even with a grinder, you should exercise caution around the cinnamon stick.)
+4. Store in a spice jar.
 
 ## Variants
 
