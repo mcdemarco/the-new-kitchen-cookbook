@@ -113,6 +113,8 @@
     filename: pizzaPizza
   - name: Garlic Breadsticks
     filename: garlicBreadsticks
+  - name: Fry Dough
+    filename: fryDough
   - name: French Toast
     filename: frenchToast
   - name: Artisan Bread Index

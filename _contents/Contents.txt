@@ -48,6 +48,7 @@ bread/pizzaSauce.md
 bread/panPizza.md
 bread/pizzaPizza.md
 bread/garlicBreadsticks.md
+bread/fryDough.md
 bread/frenchToast.md
 bread/artisanIndex.md
 quick-bread/pancakes.md
