@@ -56,6 +56,8 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 [Japanese Curry](https://www.justonecookbook.com/japanese-beef-curry/)
 
+Vegan sausage: made from [tofu](https://minimalistbaker.com/vegan-pepperoni/) or [steamed](https://itdoesnttastelikechicken.com/easy-vegan-seitan-pepperoni/) or [baked seitan](https://www.noracooks.com/vegan-pepperoni/)
+
 ## Poultry
 
 [Leek and wild mushroom stuffing](https://www.epicurious.com/recipes/food/views/leek-and-wild-mushroom-stuffing-107292)
@@ -96,6 +98,9 @@ Date Caramels [with almond butter](https://www.thekitchn.com/how-to-make-vegan-c
 
 [Matzah Crack with Dates](https://jessicasepel.com/healthy-chocolate-caramel-matzo-slice/)
 
+### Pie
+
+Homemade phyllo dough [with a pasta maker](https://www.thespruceeats.com/homemade-phyllo-dough-1705600) or [without](https://www.mygreekdish.com/recipe/easy-homemade-phyllo-recipe-beginners/) (see also My Greek Dish's [spanakopita recipe](https://www.mygreekdish.com/recipe/traditional-greek-spinach-pie-spanakopita-recipe-with-homemade-phyllo/))
 
 ## To Write Up
 
