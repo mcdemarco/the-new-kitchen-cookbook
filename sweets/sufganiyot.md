@@ -30,7 +30,7 @@ There are non-dairy ingredient options to make the doughnuts non-dairy, but my f
 3. If using butter instead of oil, knead it in at this point.
 4. Cover with plastic wrap and let rise for 1 hour.
 5. Form into golf-ball-sized balls, cover with whatever, and let rise 1/2 hour.
-6. Heat oil 4 inches of oil at somewhere between 350° and 385°F (the recipes varied dramatically on this point).
+6. Heat 4 inches of oil at somewhere between 350° and 385°F (the recipes varied dramatically on this point).
 6. Flatten slightly and fry about 1 minute per side (turning over halfway through) until brown.
 7. Drain on or over paper towels.
 8. Roll in sugar.  Optionally top with a small spoonful of jelly.

@@ -100,7 +100,7 @@ Date Caramels [with almond butter](https://www.thekitchn.com/how-to-make-vegan-c
 
 ### Pie
 
-Homemade phyllo dough [with a pasta maker](https://www.thespruceeats.com/homemade-phyllo-dough-1705600) or [without](https://www.mygreekdish.com/recipe/easy-homemade-phyllo-recipe-beginners/) (see also My Greek Dish's [spanakopita recipe](https://www.mygreekdish.com/recipe/traditional-greek-spinach-pie-spanakopita-recipe-with-homemade-phyllo/))
+Homemade phyllo dough [with a pasta maker](https://www.thespruceeats.com/homemade-phyllo-dough-1705600) (note that the comments say the recipe is way off) or [without](https://www.mygreekdish.com/recipe/easy-homemade-phyllo-recipe-beginners/).  See also My Greek Dish's [spanakopita recipe](https://www.mygreekdish.com/recipe/traditional-greek-spinach-pie-spanakopita-recipe-with-homemade-phyllo/).  Other promising recipes for the [dough](https://deliciousfromscratch.com/filo-dough-recipe/) and ["pie"](https://deliciousfromscratch.com/spinach-feta-pie-recipe/) include [a local effort](https://thegarumfactory.net/2020/03/27/saloniki-spanakopita/)
 
 ## To Write Up
 
