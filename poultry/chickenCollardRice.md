@@ -40,3 +40,12 @@ The original recipe included a cup of chopped celery and a cup of chopped carrot
 If replacing collards with kale, note that kale doesn't pack as tightly and increase quantities accordingly.  In general when substituting other dark leafy greens, try to include at least some flavorful ones like dandelion or mustard greens.
 
 You can replace the chicken with turkey tenders and/or more sausage (preferably real sausage in the latter case).
+
+You can replace the boneless chicken with cut-up bone-in chicken or small parts like legs, wings, or organs.
+
+You can replace the collards with spinach, but put it in when there are 10 minutes left.
+
+You can replace the rice with orzo, but put it in when there are 10 minutes left.
+
+You can replace the sausage with chopped up lunch meat or hot dogs.
+
