@@ -142,6 +142,7 @@ meat/molha.md
 meat/lambStew.md
 poultry/roasted.md
 poultry/crockpotRoastedChicken.md
+poultry/crockpotChickenLegs.md
 poultry/cacciatore.md
 poultry/turkeyChicken.md
 poultry/bakedTurkeyChicken.md

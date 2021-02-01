@@ -36,4 +36,6 @@ Add the potato mixture and any remaining ingredients to the meat and onions.  He
 
 ## Variants
 
-Use ground turkey instead of ground beef.  Optionally,  substitute chicken broth for any water needed.
+Use ground turkey instead of ground beef.  Optionally, substitute chicken broth for any water needed.
+
+You can boil the potatoes in water instead of the tomato sauce if that's easier, though they won't pick up as much flavor.  Drain before adding them to the main pot.

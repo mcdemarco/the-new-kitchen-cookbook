@@ -323,6 +323,8 @@
     filename: roasted
   - name: Crockpot Roasted Chicken
     filename: crockpotRoastedChicken
+  - name: Crockpot Chicken Legs
+    filename: crockpotChickenLegs
   - name: Chicken Cacciatore
     filename: cacciatore
   - name: Turkey Chicken
