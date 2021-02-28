@@ -100,6 +100,7 @@ vegetables/tomatoWatermelon.md
 vegetables/tomatoAvocado.md
 vegetables/waldorfSalad.md
 vegetables/breakfastLentils.md
+rice/brazilianRice.md
 rice/roz.md
 rice/orzo.md
 rice/riceSalad.md

@@ -68,6 +68,8 @@ Vegan sausage: made from [tofu](https://minimalistbaker.com/vegan-pepperoni/) or
 
 * dark chocolate peppermints (with recipe)
 
+[Marbled Hamantachen](https://smittenkitchen.com/2021/02/marbled-cheesecake-hamantaschen/#comment-1931148)
+
 [Pareve Pumpkin Pie](https://jamiegeller.com/recipes/parve-pumpkin-pie/)
 
 [Paczki](https://www.seasonsandsuppers.ca/polish-paczki-donuts-recipe/)

@@ -4,7 +4,7 @@ Although *pão* literally means bread, I've listed *pão de queijo* as an appeti
 
 The main ingredient is tapioca/manioc/cassava/yuca flour/starch.  All of those words mean the same thing; the only difference between them is whether the tapioca starch (*polvilho*) is sweet (*doce*) or sour (*azedo*).  Goya, Bob's, and other earthy/crunchy brands make sweet tapioca flour that you can find in your average American supermarket, but you will need to find a Brazilian grocery store to get an imported Brazilian brand of sour tapioca flour, such as Yoki or Amafil.  Or you can overpay for them on the internet.
 
-This recipe is somewhat altered from [the one at Leite's Culinaria](http://leitesculinaria.com/32757/recipes-brazilian-cheese-rolls.html), which is about as strict as you get on the cheese bread front.  They include both kinds of tapioca flour, lots of steps, chill time, and lecturing about what you MUST do to get the bread to come out right.  If you're short on time, you might want to consult the rest of the internet, which thinks that cheese bread is actually pretty forgiving.  (See Variants, below.)
+This recipe is somewhat altered from the one that used to be [at Leite's Culinaria](http://web.archive.org/web/20170706054034/http://leitesculinaria.com/32757/recipes-brazilian-cheese-rolls.html), which was about as strict as you could get on the cheese bread front.  They included both kinds of tapioca flour, lots of steps, chill time, and lecturing about what you MUST do to get the bread to come out right.  If you're short on time, you might want to try [my easy version](../appetizers/paoDeQueijo.md) or consult the rest of the internet, which thinks that cheese bread is actually pretty forgiving.  (See Variants, below.)
 
 Makes about 40, best eaten hot out of the oven.
 
@@ -41,16 +41,30 @@ Makes about 40, best eaten hot out of the oven.
 
 ## Variants
 
-Pão de queijo is often made with a mix of parmesan and mozarella, or instead with a Brazilian hard cheese called Minas, which comes in a variety of hardnesses.  (The one you want is probably *queijo padrão*.)
+Ideally, you would use a Brazilian hard cheese called *queijo Minas padrão* or *queijo Minas meia cura*.  (Minas is just the region, so check for the other words.)
 
-Most recipes in English replace the sour tapioca starch with sweet tapioca starch for lack of Brazilian grocery stores.
+The most common pão de queijo cheese substitute recommendation seems to be [a mix of parmesan and mozarella](https://www.foodnetwork.com/recipes/food-network-kitchen/pao-de-queijo-3364982).  (A cup of packed mozzarella is about 130g.)  [Asiago](https://www.foodnetwork.com/recipes/pao-de-queijo-brazilian-cheese-bread-3303576) is another option, as, apparently, are [feta or farmer's cheese](https://www.simplyrecipes.com/recipes/easy_brazilian_cheese_bread/).
+
+I often use only a nominal T of grated Parmesan, plus about 250 g. of a mozzarella/asiago/cheddar mix from Costco.
+
+Most recipes in English replace the sour tapioca starch with sweet tapioca starch for lack of Brazilian grocery stores.  If following such a recipe, you can re-sour it by using 5 parts *azedo* to 3 parts *doce*.
+
+I guess they don't have Brazilian groceries in Japan, because [expatriate Brazilians make cheese bread with potato there](https://www.justhungry.com/very-easy-pao-de-queijo-brazilian-cheese-bread-japan).
 
 Most recipes don't require that you pause to chill the dough.
 
+Some recommend baking frozen balls without defrosting, for (up to) twice the time.
+
 Most recipes specify a dough hook, food processor, or blender.  This isn't really necessary as long as your cheese is grated finely enough.
 
-Some people [make a watery dough and pour it into muffin tins](http://www.epicurious.com/recipes/member/views/pao-de-queijo-aka-brazilian-cheese-puffs-1266023) instead of struggling to incorporate the proper quantity of starch into the proper quantity of liquid.
+On the other hand, you can just blend and pour [a watery dough](https://www.simplyrecipes.com/recipes/easy_brazilian_cheese_bread/) into a mini-muffin pan instead of struggling to incorporate the proper quantity of starch into the proper quantity of liquid.  I've expanded this variant into [a whole recipe](../appetizers/easyPaoDeQueijo.md).   This particular recipe is handy because it is scaled down to one egg and includes a weight for the cheese (66 grams).
 
-Some even go as far as to [omit the cheese and milk](https://whatifgourmet.com/2013/11/19/pao-de-queijo-dairy-free-variations-part-i-the-savory-gfdf/) to make the recipe non-dairy.  This is not as wacky as you think; cheese and milk are thought to be relatively recent additions in the history of tapioca starch rolls.
+Some people bake the usual dough [in muffin tins](http://www.epicurious.com/recipes/member/views/pao-de-queijo-aka-brazilian-cheese-puffs-1266023), although that didn't seem to work with my recipe.
 
-A cup of packed mozzarella is about 130g.
+Some tame the dough with a bit of wheat flour (totally cheating).
+
+Some recipes go as far as to [omit the cheese and milk](https://whatifgourmet.com/2013/11/19/pao-de-queijo-dairy-free-variations-part-i-the-savory-gfdf/) to make the recipe non-dairy.  This is not as wacky as you think; cheese and milk are thought to be relatively recent additions in the history of tapioca starch rolls.
+
+[Colombian cheese bread](https://www.mycolombianrecipes.com/pandebono-colombian-cheese-bread) incorporates cornmeal. 
+
+

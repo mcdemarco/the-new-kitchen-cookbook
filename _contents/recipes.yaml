@@ -25,6 +25,8 @@
     filename: emeril
   - name: Pão de Queijo (Brazilian Cheese Bread)
     filename: paoDeQueijo
+  - name: No-Knead Pão de Queijo (Brazilian Cheese Bread)
+    filename: easyPaoDeQueijo
   - name: Tuscan Bean Dip
     filename: tuscanBean
   - name: Fenugreek Tea
@@ -227,6 +229,8 @@
 - name: Rice
   filename: rice
   files:
+  - name: Brazilian Rice
+    filename: brazilianRice
   - name: Roz bil Shaghria
     filename: roz
   - name: Orzo
