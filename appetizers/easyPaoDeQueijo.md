@@ -39,7 +39,9 @@ You can replace the sour tapioca starch with more sweet tapioca starch as in the
 
 Use butter instead of oil.
 
-Use crushed garlic instead of powder.   Rosemary is another spice option.
+Use crushed garlic instead of powder.
+
+Add rosemary or 3/4 tsp. aniseed.
 
 You can half-fill the wells of a regular muffin tin, if that's all you have.
 

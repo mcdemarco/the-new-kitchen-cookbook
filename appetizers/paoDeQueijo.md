@@ -65,6 +65,6 @@ Some tame the dough with a bit of wheat flour (totally cheating).
 
 Some recipes go as far as to [omit the cheese and milk](https://whatifgourmet.com/2013/11/19/pao-de-queijo-dairy-free-variations-part-i-the-savory-gfdf/) to make the recipe non-dairy.  This is not as wacky as you think; cheese and milk are thought to be relatively recent additions in the history of tapioca starch rolls.
 
-[Colombian cheese bread](https://www.mycolombianrecipes.com/pandebono-colombian-cheese-bread) incorporates cornmeal. 
+[Colombian cheese bread](https://www.mycolombianrecipes.com/pandebono-colombian-cheese-bread) incorporates cornmeal.  In Paraguay they add 2 tsp. aniseed to a similar recipe.
 
 
