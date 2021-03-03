@@ -58,5 +58,6 @@ I served this with macaroni (in addition to the bread) the first time, and Peter
 
 I once substituted 1 lb boneless thighs for the 1 1/2 lbs bone-in thighs.
 
-![Treda variant](../images/treda.png)
+More spice/herb options are discussed at [Taste of Maroc](https://tasteofmaroc.com/moroccan-chicken-rfissa/).
 
+![Treda variant](../images/treda.png)
