@@ -16,7 +16,6 @@ This is another option I found for the chunky London Broil cuts that I get from 
 * 1 tsp. dried sage (or 1 T. fresh)
 * 1 bay leaf
 * 1/4 tsp. red pepper (optional)
-* 1 1/2 T. beef broth, chicken broth, wine, or soy sauce
 * 1 c. red wine
 * 1 14 oz. can plum tomatoes
 
