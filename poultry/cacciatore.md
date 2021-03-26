@@ -19,7 +19,15 @@ This recipe is a combination of the one in _Cucina Ebraica: Flavors of the Itali
 
 ## Directions
 
-Sprinkle the chicken with salt and pepper. Warm the olive oil in a large saute pan over high heat. Saute onions.  Add the chicken pieces and saute until golden on all sides. Add the olives, garlic, tomatoes and sage, rosemary and basil (if using). Cover, reduce heat to low and cook until the chicken is tender, about 25 minutes. Uncover the pan and add the red wine. Raise the heat to high and cook rapidly to reduce the pan juices. Adjust the seasonings. Transfer to a large warmed platter and sprinkle with more fresh herbs, if desired. Serve at once.
+1. Sprinkle the chicken with salt and pepper.
+2. Saute onions in the olive oil in a large saute pan over high heat.
+3. Add the chicken pieces and saute until golden on all sides.
+4. Add the olives, garlic, tomatoes and sage, rosemary and basil (if using).
+5. Cover, reduce heat to low and cook until the chicken is tender, about 25 minutes.
+6. Uncover the pan and add the red wine.
+7. Raise the heat to high and cook rapidly to reduce the pan juices.
+8. Adjust the seasonings.
+9. Transfer to a large warmed platter and sprinkle with more fresh herbs, if desired. Serve at once.
 
 ## Variants
 
