@@ -1,8 +1,21 @@
 # Haroset
 
-This is a passover recipe based on [Traditional Apple-Walnut Charoset](http://www.epicurious.com/recipes/food/views/traditional-apple-walnut-charoset-234298), much altered by changes suggested in the comments.
+This is a passover recipe based on [Traditional Apple-Walnut Charoset](http://www.epicurious.com/recipes/food/views/traditional-apple-walnut-charoset-234298), much altered by changes suggested in the comments.  I later cut it down because it made a lot of leftovers.
 
-## Ingredients
+Makes 1 1/3 or 4 cups.
+
+## Ingredients (small batch)
+
+* 1 apple (granny smith, gala/braeburn, fuji, macintosh, janathon), peeled and diced
+* 1/2 c. walnuts, toasted and chopped
+* a few pine nuts, toasted and chopped (optional)
+* up to 1/4 c. sweet red wine or sweet vermouth
+* 1/2 tsp. cinnamon
+* golden raisins (see variants for substitutions)
+* orange zest (optional)
+* lemon juice (optional)
+
+## Ingredients (large batch)
 
 * 3 mixed apples (granny smith, gala/braeburn, fuji, macintosh, janathon), peeled and diced
 * 1 1/2 c. walnuts, toasted and chopped

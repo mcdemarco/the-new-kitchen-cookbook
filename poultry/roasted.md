@@ -8,9 +8,9 @@ You're supposed to use a wire rack in the roasting pan; I sometimes use a broile
 
 ## Turkey
 
-I roast turkey according to [Wegman's directions](https://www.wegmans.com/products/kosher/kosher-meat/turkey/turkey.html):  3 1/2 hours for a 12 lb. turkey, which actually turned out to be 3 3/4 hours for a 12 1/4 lb. turkey, but it was fine.  (The Good Housekeeping rule is 20 minutes per pound at 300°.)  Let sit 20 minutes before carving.
+I've roast turkey according to [Wegman's directions](https://shop.wegmans.com/recipes/49/roasted-turkey):  3 1/2 hours at 325° for a 12 lb. turkey, which actually turned out to be 3 3/4 hours for a 12 1/4 lb. turkey, but it was fine.  (Other weights are available at the link.)   The Good Housekeeping rule is 20 minutes per pound at 300°.  Let sit 20--30 minutes before carving.
 
-I stick a quartered onion in the middle instead of stuffing the bird (add 50 minutes for actual stuffing), but still tie up the legs and tail.  You can rub the skin with oil and cover the bird with cheesecloth as for chicken.
+I stick a quartered onion in the middle instead of stuffing the bird (add 50 minutes for actual stuffing) or seasoning the hole, but still tie up the legs and tail.  You can rub the skin with oil and cover the bird with cheesecloth as for chicken.
 
 To make gravy, toast 2--3 T. flour (or more, depending on the dripping quantity or the availability of broth) in a saucepan.  Pour out someplace safe, then strain the oil off the top of the drippings into the pan, heat as necessary, and whisk the flour back in for a minute or two.  Add remaining drippings.  Add some broth or water to extend the gravy, if desired.
 

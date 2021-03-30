@@ -85,6 +85,7 @@ vegetables/cauliflower.md
 vegetables/roastedBrusselSprouts.md
 vegetables/roastedPotatoes.md
 vegetables/roastedSweetPotatoes.md
+vegetables/roastedRutabaga.md
 vegetables/squash.md
 vegetables/vegetarianChili.md
 vegetables/tzimmes.md
@@ -166,6 +167,7 @@ poultry/turkeyChickenKing.md
 poultry/turkeyballs.md
 poultry/turkeyChili.md
 poultry/italianWedding.md
+poultry/cranberrySauce.md
 fish/costcoSalmon.md
 fish/pankoSalmon.md
 fish/spicySalmon.md

@@ -195,6 +195,8 @@
     filename: roastedPotatoes
   - name: Roasted Sweet Potatoes
     filename: roastedSweetPotatoes
+  - name: Roasted Rutabaga
+    filename: roastedRutabaga
   - name: Winter Squash
     filename: squash
   - name: Vegetarian Chili
@@ -323,7 +325,7 @@
 - name: Poultry
   filename: poultry
   files:
-  - name: Roasted Whole Chicken
+  - name: Roasted Whole Bird
     filename: roasted
   - name: Crockpot Roasted Chicken
     filename: crockpotRoastedChicken
@@ -373,6 +375,8 @@
     filename: turkeyChili
   - name: Italian Wedding Soup
     filename: italianWedding
+  - name: Cranberry Sauce
+    filename: cranberrySauce
 
 - name: Fish
   filename: fish
