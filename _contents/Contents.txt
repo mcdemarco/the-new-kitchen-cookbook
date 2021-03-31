@@ -47,6 +47,7 @@ bread/oliveOil.md
 bread/pizzaSauce.md
 bread/panPizza.md
 bread/pizzaPizza.md
+bread/emerilPizza.md
 bread/garlicBreadsticks.md
 bread/fryDough.md
 bread/frenchToast.md

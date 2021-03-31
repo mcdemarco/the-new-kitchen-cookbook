@@ -113,6 +113,8 @@
     filename: panPizza
   - name: Pizza Stone Pizza
     filename: pizzaPizza
+  - name: Emeril Pizza
+    filename: emerilPizza
   - name: Garlic Breadsticks
     filename: garlicBreadsticks
   - name: Fry Dough
