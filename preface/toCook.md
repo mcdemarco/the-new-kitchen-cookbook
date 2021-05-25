@@ -42,6 +42,8 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 [Beer Beans](https://www.markbittman.com/recipes-1/beer-glazed-black-beans)
 
+[Pasta with Italian Squash](https://2sistersrecipes.com/pasta-with-italian-squash-or-calabaza/)
+
 ## Rice
 
 [Fennel Risotto](http://cooking.nytimes.com/recipes/1016978-caramelized-onion-and-fennel-risotto)

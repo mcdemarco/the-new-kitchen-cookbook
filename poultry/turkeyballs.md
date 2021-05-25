@@ -19,4 +19,6 @@ This is another Recipezaar recipe, #33944.  Feel free to toss them into pasta sa
 
 ## Directions
 
-Mix all ingredients except oil.  Form into meatballs 1 inch in diameter.  Fry in oil 5 minutes or until browned.
+1. Mix all ingredients except oil.
+2. Form into meatballs 1 inch in diameter.
+3. Fry in oil 5 minutes or until browned.

@@ -1,6 +1,6 @@
 # Winter Squash
 
-These are here so I don't have to google the directions every time I make them.  Cut them all in half through the middle (at the equator) first unless noted otherwise.  Remove seeds if there are any.  Trim the stem if it's going to interfere with baking.
+These are here so I don't have to google the directions every time I make them.  Cut them all in half longitudinally (through the stem and butt) first unless noted otherwise.  Remove seeds if there are any.  Trim the stem if it's going to interfere with baking.  Oil and spice to taste before baking unless noted otherwise.
 
 ## Acorn Squash
 
@@ -10,6 +10,10 @@ Bake cut side up, filled with butter, brown sugar, maple syrup, [salt, pepper, a
 
 Bake cut side down at 375° for 1 hour.
 
+## Calabaza Squash
+
+Bake at 475° for 40 minutes.
+
 ## Delicata Squash
 
 Bake cut side down at 400° for 20 minutes.  The entire squash is edible, so afterwards you can cut it up into handy pieces or stuff the halves like a pepper with something pre-cooked.
@@ -18,7 +22,7 @@ Alternately, slice the squash before cooking, spice it, and roast the slices at 
 
 ## Kobucha Squash
 
-Cut longitudinally.  Rub with olive oil and optionally add maple syrup, cinammon, and salt to taste.   Bake cut side up at 400° for 45 minutes.
+Rub with olive oil and optionally add maple syrup, cinammon, and salt to taste.   Bake cut side up at 400° for 45 minutes.
 
 Optionally you can slice this up into handy pieces (possibly after a bit of pre-baking, because it's a tough squash).  Toss with a similar mixture of toppings, and bake only 20 minutes at 400°.  I haven't tried it yet, but it might reduce some of the crumbliness of this squash.
 

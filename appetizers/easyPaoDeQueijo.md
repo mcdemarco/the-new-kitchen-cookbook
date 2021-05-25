@@ -9,11 +9,11 @@ Makes 15--20, best eaten hot out of the oven
 ## Ingredients
 
 * 1 room temperature egg
+* 2/3 c. milk, also at room temperature
+* 1/4 c. olive oil
 * 75 g. (2 1/2 oz.) grated (or soft) cheese, preferably something a bit salty like parmesan, asiago, or feta
 * 100 g. (or 1 c.) sour tapioca flour (*polvilho azedo*)
 * 70 g. (or 1/2 c.) sweet tapioca flour (*polvilho doce*)
-* 2/3 c. milk, also at room temperature
-* 1/4 c. olive oil
 * 1 tsp. kosher salt
 * dash black pepper (optional)
 * dash cayenne pepper (optional)
