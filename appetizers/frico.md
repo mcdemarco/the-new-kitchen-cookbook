@@ -4,4 +4,8 @@ I saw a couple of contestants making [frico](http://thecocinamonologues.com/2012
 
 ## Directions
 
-Grate cheese.  Cover a cookie sheet with parchment paper.  Arrange cheese in several piles on paper.  Bake six to eight minutes at 350°.
+1. Preheat oven to 350°.
+2. Line a cookie sheet with parchment paper.
+3. Grate cheese.
+4. Arrange cheese in several piles on paper.
+5. Bake six to eight minutes.

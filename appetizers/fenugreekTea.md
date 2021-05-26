@@ -17,7 +17,8 @@ There are a lot of underspecified recipes for this online, but [wikiHow](https:/
 1. Bring all ingredients except honey to a boil.
 2. Simmer 6--7 minutes.
 3. Strain.
-4. Serve hot or cold.
+4. Add honey.
+5. Serve hot or cold.
 
 ## Variants
 

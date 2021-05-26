@@ -13,7 +13,8 @@ This is my simplified version of a recipe in the Artisan Bread in Five cookbook.
 
 ## Directions
 
-1. Skin the pepper and peel the garlic.
+1. Roast pepper and garlic if necessary.
+2. Skin the pepper and peel the garlic.
 2. Puree all ingredients but the bell pepper, adding water to get the desired consistency.
 3. Coarsely chop in the bell pepper.
 
