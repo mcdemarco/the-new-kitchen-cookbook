@@ -193,18 +193,8 @@
     filename: roastedBroccoli
   - name: Roasted Cauliflower
     filename: cauliflower
-  - name: Roasted Potatoes
-    filename: roastedPotatoes
-  - name: Roasted Sweet Potatoes
-    filename: roastedSweetPotatoes
-  - name: Roasted Rutabaga
-    filename: roastedRutabaga
-  - name: Winter Squash
-    filename: squash
   - name: Vegetarian Chili
     filename: vegetarianChili
-  - name: Tzimmes
-    filename: tzimmes
   - name: Latkes
     filename: latkes
   - name: Spinach Ricotta Latkes
@@ -213,10 +203,6 @@
     filename: polenta
   - name: Moroccan Spice Mix
     filename: spiceMix
-  - name: North African Spiced Carrot and Parsnip Salad
-    filename: carrotParsnip
-  - name: Carrot and Radish Salad 
-    filename: carrotRadish
   - name: Chickpea Salad with Fennel, Tomatoes and Olives
     filename: chickpeaFennel
   - name: Mizeria (Polish Cucumber Salad)
@@ -229,6 +215,24 @@
     filename: waldorfSalad
   - name: Breakfast Lentils
     filename: breakfastLentils
+
+- name: Roots and Squash
+  filename: roots
+  files:
+  - name: Roasted Potatoes
+    filename: roastedPotatoes
+  - name: Roasted Sweet Potatoes
+    filename: roastedSweetPotatoes
+  - name: Roasted Rutabaga
+    filename: roastedRutabaga
+  - name: Winter Squash
+    filename: squash
+  - name: Tzimmes
+    filename: tzimmes
+  - name: North African Spiced Carrot and Parsnip Salad
+    filename: carrotParsnip
+  - name: Carrot and Radish Salad
+    filename: carrotRadish
 
 - name: Rice
   filename: rice
