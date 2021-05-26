@@ -36,7 +36,7 @@ Most of the recipes mentioned serve 8.
 0. The seder plate (explained above), including haroset
 1. Gefilte fish (out of a jar, with prepared horseradish or any leftover seder horseradish)
 2. [Matzo ball soup](../soup/matzaball.md) or matza ball mix and prepared broth.
-2. [Tzimmes](../vegetables/tzimmes.md)
+2. [Tzimmes](../roots/tzimmes.md)
 3. [Briskette](../meat/briskette.md) (about 1/3 lb. per person, more if you want any leftover)
 4. [Tapioca pudding](../sweets/tapioca.md) with fruit
 
