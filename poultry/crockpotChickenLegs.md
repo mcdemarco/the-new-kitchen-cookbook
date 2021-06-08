@@ -29,3 +29,5 @@ Serve.
 The original recipe went for 3 1/2--4 hours on low.
 
 As usual, you can broil the chicken to crisp it up after cooking.
+
+Put three or four thighs skin down in the crockpot and sprinkle with the spices.  No drying, oil, or rubbing is necessary. 
