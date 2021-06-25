@@ -34,7 +34,7 @@ I actually made it with beef broth the first few times until I got [this](https:
 
 You can cook the vegetables in a smaller pot with less broth, then add the remaining broth or water/ice down later.
 
-[The Guardian](https://www.theguardian.com/lifeandstyle/2017/jul/08/fennel-salad-recipe-tomato-bread-asparagus-leek-grilled-tomato-watermelon-pea-soup-yotam-ottolenghi#img-8) calls them courgettes and adds about half a pound of frozen peas and 4 oz. feta, and also replaces the onion with more garlic.  (I have tried the peas but not the feta.)
+[The Guardian](https://www.theguardian.com/lifeandstyle/2017/jul/08/fennel-salad-recipe-tomato-bread-asparagus-leek-grilled-tomato-watermelon-pea-soup-yotam-ottolenghi#img-8) calls them courgettes and adds about half a pound of frozen peas and 4 oz. feta, and also replaces the onion with more garlic.
 
 I have also replaced some zucchini with yellow squash and skinny Japanese eggplant.
 
