@@ -49,6 +49,8 @@ I cut [this recipe](http://www.bhg.com/recipe/beef/beef-and-bean-chili/) roughly
 
 The first time, I waffled on the water and ended up leaving it out. I used pinto beans, stewed tomatoes, and a mix of hot peppers I had around the house (2 hot peppers, 2 pepperoncini and one dried chili piquin). I also added a dash of Morrocan spice mix. I tossed in the salt when it was convenient; there's no reason to delay it for canned beans. I made corn bread (this time with all white flour) to replace the corn chips.
 
+If you don't have whole beans, you can use refried beans instead.  You may not want to push it to a whole can, though.
+
 One time I followed the recipe more closely, but used a Scotch Bonnet and cut back on the chili powder to compensate for the unknown heat.  It came out fine, and possibly not hot enough.  Still no corn chips, though.
 
 For [mole](http://www.grouprecipes.com/30313/basic-mole-paste.html) style without actual mole paste, I took out the existing chili peppers and added the mole extras listed above.
