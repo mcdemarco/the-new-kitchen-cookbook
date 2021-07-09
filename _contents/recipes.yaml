@@ -187,12 +187,14 @@
     filename: spinach
   - name: Roasted Green Beans
     filename: roastedHaricots
-  - name: Roasted Okra
-    filename: roastedOkra
   - name: Roasted Broccoli
     filename: roastedBroccoli
   - name: Roasted Cauliflower
     filename: cauliflower
+  - name: Roasted Okra
+    filename: roastedOkra
+  - name: Bamia (Sephardic Okra)
+    filename: bamia
   - name: Vegetarian Chili
     filename: vegetarianChili
   - name: Latkes
