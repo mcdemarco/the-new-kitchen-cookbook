@@ -17,3 +17,7 @@ I recently made [Sweet Potato Kale Salad with Cranberries, Walnuts, and Goat Che
 3. Toss with other ingredients.
 4. Arrange in a single layer on an edged cookie sheet.
 5. Roast 12 minutes or to desired tenderness.
+
+## Variants
+
+You can bake whole sweet potatoes in the oven for about an hour at 425° (stabbed and oiled), turning halfway through, or in a crockpot (just washed) for up to 8 hours on low or 4 on high.
