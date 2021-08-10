@@ -4,10 +4,10 @@ This is not the [family meatball recipe](../meat/meatballs.md); it's a meat vari
 
 ## Ingredients
 
-* 1 1/2 lb ground beef
+* 1 1/4 -- 1 1/2 lb ground beef
 * 3/4 c. panko
-* 1/3 c. onion, minced or diced
-* 4 cloves garlic, minced
+* 3/4 c. diced onion or 1/2 c. minced
+* 2 cloves garlic, minced
 * 1 1/4 tsp dried parsley
 * 1 1/4 tsp dried basil
 * dash oregano, marjoram, and/or thyme
@@ -19,7 +19,7 @@ This is not the [family meatball recipe](../meat/meatballs.md); it's a meat vari
 
 ## Directions
 
-1. Optionally brown the onion about 8 minutes in olive oil, and add the garlic for another minute, then remove from oil.  (Leave the pan on the heat.)
+1. Optionally brown the diced onion about 8 minutes in olive oil, and add the garlic for another minute, then remove from oil.  (Leave the pan on the heat.)
 2. Mix all ingredients except oil.
 3. Roll into meatballs about 1 inch in diameter.  ![raw](../images/raw.jpg)
 4. Brown on all sides in pan.  ![browning](../images/browning.jpg)
