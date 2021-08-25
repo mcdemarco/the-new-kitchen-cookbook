@@ -64,6 +64,8 @@ Vegan sausage: made from [tofu](https://minimalistbaker.com/vegan-pepperoni/) or
 
 [Leek and wild mushroom stuffing](https://www.epicurious.com/recipes/food/views/leek-and-wild-mushroom-stuffing-107292)
 
+[Moroccan Chicken with Chickpeas and Raisins](https://www.thespruceeats.com/chicken-tagine-with-chickpeas-and-raisins-2394713)
+
 ## Dessert
 
 * matzah crack

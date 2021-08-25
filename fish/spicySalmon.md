@@ -27,4 +27,4 @@ This is a variant of plain [Costco Salmon](../fish/costcoSalmon.md), optionally 
 
 Try it with fresh salmon.  The original recipe recommended wild caught Alaskan, skin on or off, and did not include cayenne.
 
-Another spice option is a generous coating of [Sri Lankan roasted curry powder](../appetizers/roastedCurryPowder.md).
+Other spice options include a generous coating of [Sri Lankan roasted curry powder](../appetizers/roastedCurryPowder.md), [Moroccan Spice Mix](../vegetables/spiceMix.md), or [Ras el Hanout](https://www.epicurious.com/recipes/food/views/ras-el-hanout-101070).
