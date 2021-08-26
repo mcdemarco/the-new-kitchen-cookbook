@@ -8,4 +8,4 @@ Penflip was a pretty but buggy front-end to Git and Pandoc whose inconveniences 
 
 ## Region
 
-If I had to describe the cookbook, I'd call it Mediterranean-American.  Most of the soups are Portuguese; most of the cookies are Italian.  (It's not a cookie without anise.)  The Pasta chapter is mostly Italian as well, but there are also a few North African recipes and some American standards.  The bread is mostly no-knead.
+If I had to describe the cookbook, I'd call it Mediterranean-American.  Most of the soups are Portuguese; most of the cookies are Italian.  (It's not a cookie without anise.)  The Pasta chapter is mostly Italian as well, but there are also a few North African recipes, some American standards, and plenty of basics so I don't have to look them up elsewhere every time.  The bread is mostly no-knead.
