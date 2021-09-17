@@ -1,6 +1,6 @@
 # Roasted Rutabaga
 
-I recently made [Sweet Potato Kale Salad with Cranberries, Walnuts, and Goat Cheese](https://www.queenofmykitchen.com/sweet-potato-kale-salad-with-cranberries-walnuts-and-goat-cheese/) because I happened to have all the ingredients.  I don't expect such a refrigerator conjunction again, but I did like the idea of quickly roasting sweet potato chunks on their own or for mixing into another vegetable.
+I'm not sure where the inspiration to roast rutabaga came from, but here you go...
 
 ## Ingredients
 

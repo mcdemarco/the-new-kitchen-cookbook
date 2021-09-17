@@ -8,7 +8,7 @@
   - name: Using the Cookbook
     filename: cookbook
 
-- name: Appetizers, Snacks, and Drinks
+- name: Appetizers, Spices, and Drinks
   filename: appetizers
   files:
   - name: Freak Out for Frico!
@@ -227,6 +227,8 @@
     filename: roastedSweetPotatoes
   - name: Roasted Rutabaga
     filename: roastedRutabaga
+  - name: Roasted Zucchini
+    filename: roastedZucchini
   - name: Winter Squash
     filename: squash
   - name: Tzimmes

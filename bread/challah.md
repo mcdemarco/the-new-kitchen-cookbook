@@ -26,7 +26,7 @@ Makes 2 braided or round loaves.
 2. Add flour gradually.
 3. Knead 15 minutes.  (You may need extra flour if you chose the honey option.)
 4. Put in an oiled bowl and flip to coat with oil.
-5. Cover with plastic wrap and let double in size (2-3 hours).
+5. Cover with plastic wrap and let double in size (2--3 hours).
 6. Punch down.
 7. Optionally spread and knead in raisins, or just knead.
 7. Divide dough in two.
@@ -38,4 +38,4 @@ Makes 2 braided or round loaves.
 
 ## Variants
 
-For Rosh Hashana, include the optional raisins and make the loaves round.
+For Rosh Hashana, include the optional raisins and make the loaves round.  You can braid a round loaf by starting with four or six strands woven together and then braiding the ends a bit and tucking them under.  There are several options in [this video](https://www.youtube.com/watch?v=R4HnpjdpUSg).

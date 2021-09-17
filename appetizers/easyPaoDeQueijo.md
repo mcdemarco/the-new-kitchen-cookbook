@@ -4,6 +4,8 @@
 
 For an explanation of tapioca starch/flour, see [the hard recipe](../appetizers/paoDeQueijo.md).
 
+Apparently if you're truly unlucky you can make a [non-Newtonian fluid](https://en.wikipedia.org/wiki/Non-Newtonian_fluid) out of tapioca starch and damage your blender.  To avoid this rare occurrence, be sure to follow the instructions and mix all wet ingredients first, then add the dry ingredients gradually.
+
 Makes 15--20, best eaten hot out of the oven
 
 ## Ingredients
@@ -46,5 +48,3 @@ Add rosemary or 3/4 tsp. aniseed.
 You can half-fill the wells of a regular muffin tin, if that's all you have.
 
 You don't absolutely have to bring the cold ingredients to room temperature, especially if you're pouring from your refrigerated blender jug.
-
-Apparently if you're truly unlucky you can make a [non-Newtonian fluid](https://en.wikipedia.org/wiki/Non-Newtonian_fluid) out of tapioca starch and damage your blender.  To avoid this rare occurrence, be sure to follow the instructions and mix all wet ingredients first, then add the dry ingredients gradually.

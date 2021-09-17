@@ -24,5 +24,5 @@ Garlic powder will stick to the potatoes better, but then you won't have any bur
 
 ## Variants
 
-Combine with roasted green beans for the last 15 minutes.
+Combine with [roasted green beans](../vegetables/roastedHaricots.md) or [zucchini](../roots/roastedZucchini.md) for the last 15 minutes.
 
