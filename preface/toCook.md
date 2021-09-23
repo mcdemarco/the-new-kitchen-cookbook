@@ -17,7 +17,7 @@ This is my to-do list.
 
 [Kreplach](https://www.epicurious.com/recipes/food/views/kreplach-236219)
 
-Sri Lankan Mulligatawny Soup:  I have some leftover turkey meat that would go well in one of the chicken versions.  Note that most Sri Lankan recipes put together the spices instead of specifying roasted curry powder, and most slow cooker/instant pot mulligatawnies are Indian-style, not Sri Lankan.
+Sri Lankan Mulligatawny Soup:  I have some leftover turkey meat that would go well in one of the chicken versions.  Note that most Sri Lankan recipes list individual spices instead of specifying roasted curry powder, and most slow cooker/instant pot mulligatawnies are Indian-style, not Sri Lankan.
 
 ## Breakfast and Quick Bread
 
@@ -119,4 +119,3 @@ Homemade phyllo dough [with a pasta maker](https://www.thespruceeats.com/homemad
 [Caribbean BBQ Sauce](http://web.archive.org/web/20150915063423/http://forums.gardenweb.com/discussions/2098748/first-scotch-bonnets-what-sauce-recipes-can-i-make)
 
 Tarts: Turnovers with quick sour cream pastry, using my "crepe makers".
-

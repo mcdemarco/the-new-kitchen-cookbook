@@ -19,6 +19,12 @@
     filename: devilled
   - name: Roasted Chickpeas
     filename: chickpeas
+  - name: Hummus
+    filename: hummus
+  - name: Tuscan Bean Dip
+    filename: tuscanBean
+  - name: Baba Ghanoush
+    filename: babaGhanoush
   - name: Sri Lankan Roasted Curry Powder
     filename: roastedCurryPowder
   - name: Essence of Emeril
@@ -27,8 +33,6 @@
     filename: paoDeQueijo
   - name: No-Knead Pão de Queijo (Brazilian Cheese Bread)
     filename: easyPaoDeQueijo
-  - name: Tuscan Bean Dip
-    filename: tuscanBean
   - name: Fenugreek Tea
     filename: fenugreekTea
   - name: Hot Toddy

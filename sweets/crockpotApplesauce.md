@@ -1,6 +1,6 @@
 # Crockpot Applesauce
 
-It's pretty basic.  For example, [the kitchn's recipe](http://www.thekitchn.com/how-to-make-applesauce-in-the-slow-cooker-223486).  I've used a small crockpot for this but they recommended a large one.  You can freeze the results.
+Crockpot applesauce is an easy and tasty use for our neighbors' unwanted apples.  See, for example, [the kitchn's recipe](http://www.thekitchn.com/how-to-make-applesauce-in-the-slow-cooker-223486).  I've used a small crockpot for this but they recommended a large one.  You can freeze the results.
 
 Makes 4 cups.
 
@@ -20,6 +20,6 @@ Makes 4 cups.
 
 ## Variants
 
-You can use 1 tsp. ground cinnamon if you don't have sticks.
+You can use 1 tsp. ground cinnamon if you don't have sticks.  You can add star anise or pie spices.
 
 The Kitchn also provides Instant Pot directions.
