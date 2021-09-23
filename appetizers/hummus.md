@@ -9,11 +9,11 @@ Makes about the quantity you'd get in the store.
 ## Ingredients
 
 * 1 can chickpeas, a.k.a. garbanzo beans (15--16 oz.)
-* 1--2 cloves garlic, crushed
-* 2 T. tahini
-* 4 T. lemon juice
+* 1--4 cloves garlic, crushed
+* 2--4 T. tahini
+* 2--4 T. lemon or lime juice
 * 3/4 tsp salt
-* scant 1/4 tsp. cumin (optional)
+* about 1 tsp. cumin (optional)
 * dash cayenne (optional)
 * dash smoked paprika (optional spice or garnish)
 * 1 T. olive oil (garnish)
@@ -31,6 +31,8 @@ Garnish with za'atar instead of the other spices.  (Omit the salt, too, if your 
 You can make any of the familiar store varieties by adding the appropriate ingredient.  In particular you can grind in a few tablespoons of toasted pine nuts.  Reduce the water if the extra ingredient is soggy.
 
 You can puree in part or all of the oil.
+
+You can use a real lemon or lime.
 
 You can garnish with parsley, a few whole chickpeas, olives, and/or toasted pine nuts.
 

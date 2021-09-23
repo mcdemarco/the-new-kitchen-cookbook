@@ -34,9 +34,9 @@ Brisket recipes run large but (despite having come from Costco), my briskets rem
 1. Heat the oil in a heavy skillet.
 2. Mix the rub spices and rub into the meat.
 2. Brown the beef in the oil for 5 minutes per side, forming a brown crust.
-3. Transfer the beef to the crockpot.
-4. Optionally, fry the remaining onions and garlic a bit.
-5. Top the beef with the fried onions and garlic.
+3. Transfer the beef to the crockpot. ![in the crock](../images/crock_briskette1.png)
+4. Optionally, fry the remaining onions and garlic a bit. ![frying onions](../images/crock_briskette2.png)
+5. Top the beef with the fried onions and garlic. ![onion topping](../images/crock_briskette3.png)
 6. Deglaze the skillet over heat with the liquid ingredients.
 7. Pour into crockpot.
 6. Cook on low about 6 hours.
