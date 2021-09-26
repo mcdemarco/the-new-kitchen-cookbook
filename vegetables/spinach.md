@@ -19,4 +19,6 @@ Mix in optional pine nuts and/or raisins.
 
 ## Variants
 
-You can spice up spinach with fennel, ginger, black cumin, and chili according to [this recipe](https://www.marthastewart.com/338334/madhurs-spinach-with-ginger-fennel-and-b).
+You can spice up spinach with fennel seed, ginger, black cumin, and chili according to [Madhur Jaffrey](https://www.marthastewart.com/338334/madhurs-spinach-with-ginger-fennel-and-b).
+
+For Moroccan-style spinach, use cumin and paprika intead of garlic and vinegar.

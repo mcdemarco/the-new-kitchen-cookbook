@@ -119,3 +119,5 @@ Homemade phyllo dough [with a pasta maker](https://www.thespruceeats.com/homemad
 [Caribbean BBQ Sauce](http://web.archive.org/web/20150915063423/http://forums.gardenweb.com/discussions/2098748/first-scotch-bonnets-what-sauce-recipes-can-i-make)
 
 Tarts: Turnovers with quick sour cream pastry, using my "crepe makers".
+
+Persian rice, esp. with lentils (e.g., Reyna's cookbook p. 207)
