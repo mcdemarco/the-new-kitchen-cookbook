@@ -17,8 +17,6 @@ This is my to-do list.
 
 [Kreplach](https://www.epicurious.com/recipes/food/views/kreplach-236219)
 
-Sri Lankan Mulligatawny Soup:  I have some leftover turkey meat that would go well in one of the chicken versions.  Note that most Sri Lankan recipes list individual spices instead of specifying roasted curry powder, and most slow cooker/instant pot mulligatawnies are Indian-style, not Sri Lankan.
-
 ## Breakfast and Quick Bread
 
 [Ricotta Zucchini Muffins](http://www.tasteofbeirut.com/savory-zucchini-and-ricotta-muffins/) or [Ricotta Muffins](https://cafefernando.com/ricotta-and-basil-muffins/)
