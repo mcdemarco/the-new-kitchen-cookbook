@@ -35,6 +35,10 @@
     filename: easyPaoDeQueijo
   - name: Fenugreek Tea
     filename: fenugreekTea
+  - name: Mulled Cider
+    filename: mulledCider
+  - name: Mulled Wine
+    filename: mulledWine
   - name: Hot Toddy
     filename: toddy
   - name: Pitúies
