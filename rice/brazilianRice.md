@@ -19,10 +19,13 @@ TL;DR: you just start with onions and garlic as you would for other foods like p
 1. In a 2 quart pan, fry the onions in the oil for at least 4 minutes.
 2. Add garlic and cook up to another minute.
 3. Toast rice in the oil briefly as with risotto.
-4. Add hot water.
-5. Cook 15 minutes until water is absorbed.
-6. Let sit 10 more minutes.
+4. Add hot water and salt.
+5. Bring to a boil.
+6. Cover and simmer 15 minutes until water is absorbed.
+7. Let sit 10 more minutes.
 
 ## Variants
 
 The original recipe didn't appear to include onions, only garlic.
+
+You can cook the rice according to your own preference; the Brazilian approach is refreshingly lacking in rinsing, boiling over, and other rice superstitions.
