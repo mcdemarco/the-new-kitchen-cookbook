@@ -231,6 +231,8 @@
 - name: Roots and Squash
   filename: roots
   files:
+  - name: Scalloped Potatoes
+    filename: scallopedPotatoes
   - name: Roasted Potatoes
     filename: roastedPotatoes
   - name: Roasted Sweet Potatoes
