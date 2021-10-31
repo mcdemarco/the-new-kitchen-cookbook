@@ -32,7 +32,7 @@ Don't try to roast a monster pumpkin or a mini pumpkin.  Get a sugar-sized one a
 
 Oil the flesh, pierce the skin, and bake cut side down at 350° for 45 minutes.
 
-Coat the seeds with oil, salt, and spices to taste and bake 20--30 minutes at 325°.
+Coat the seeds with oil, salt, and spices to taste and bake 20--30 minutes at 325°.  If you want to make them alongside the pumpkin (350°, preferably with convection), you can just brine them, spread them on an unprepared cookie sheet, and bake 15 minutes (or to taste), stirring once.
 
 ## Spaghetti Squash
 
