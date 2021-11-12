@@ -77,6 +77,8 @@
     filename: coldZucchini
   - name: Spicy Pumpkin Carrot Soup
     filename: spicyPumpkin
+  - name: Instant Pot Brown Lentil Soup
+    filename: ipBrownLentil
 
 - name: Bread
   filename: bread
