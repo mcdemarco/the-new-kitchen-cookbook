@@ -45,3 +45,5 @@ Carrots and celery are traditional.
 Thyme is only optional because I forgot it the first time.
 
 If your greens seem to need more than the residual heat, feel free to Saute again.
+
+For less of a stew, skip the potatoes, add more broth, and/or add a can or two of tomatoes.

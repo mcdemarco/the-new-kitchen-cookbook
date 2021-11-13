@@ -48,6 +48,8 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 [Fennel Risotto](http://cooking.nytimes.com/recipes/1016978-caramelized-onion-and-fennel-risotto)
 
+Instant Pot Risotto (maybe as an addendum)
+
 ## Meat
 
 [Jamaican Beef Patties](http://www.mylifeasamrs.com/2010/09/jamaican-beef-patties.html), also [from Emeril](http://www.foodnetwork.com/recipes/emeril-lagasse/jamaican-meat-patties-recipe.html)
@@ -67,6 +69,8 @@ Vegan sausage: made from [tofu](https://minimalistbaker.com/vegan-pepperoni/) or
 [Moroccan Chicken with Chickpeas and Raisins](https://www.thespruceeats.com/chicken-tagine-with-chickpeas-and-raisins-2394713)
 
 ## Dessert
+
+[Farmer's cheese donuts](https://momsdish.com/recipe/203/farmers-cheese-doughnuts) for Hanukkah
 
 * matzah crack
 
