@@ -37,3 +37,5 @@ You can add some soup-sized pasta, but be sure to add broth to compensate.
 You can reduce broth in favor of more tomatoes.
 
 Feel free to saute (on low) the onions and garlic in the oil while assembling other ingredients.
+
+This is medium spicy with pure chili powder; you can use the impure kind (that's just a spice mix) for less heat.

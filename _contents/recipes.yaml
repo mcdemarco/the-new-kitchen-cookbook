@@ -49,36 +49,34 @@
 - name: Soup
   filename: soup
   files:
-  - name: Vegetarian Portuguese Kale Soup
-    filename: kale
-  - name: Fresh Potato and Cilantro Soup
-    filename: cilantro
-  - name: Sopa de Grao
-    filename: chickpea
-  - name: Easy Pasta e Fagioli
-    filename: fazool
-  - name: Okra Soup
-    filename: okra
-  - name: Spicy Pumpkin Carrot Soup
-    filename: spicyPumpkin
-  - name: Sri Lankan Mulligatawny Soup
-    filename: mulligatawny
-  - name: Matzah Ball Soup
-    filename: matzaball
-  - name: Italian Wedding Soup
-    filename: italianWedding
-  - name: Spinach Wedding Soup
-    filename: spinachWedding
-  - name: Kielbasa Soup
-    filename: kielbasa
   - name: Gazpacho
     filename: gazpacho
   - name: Cold Zucchini Soup
     filename: coldZucchini
+  - name: Easy Pasta e Fagioli
+    filename: fazool
+  - name: Vegetarian Portuguese Kale Soup
+    filename: kale
+  - name: Fresh Potato and Cilantro Soup
+    filename: cilantro
   - name: Spicy Pumpkin Carrot Soup
     filename: spicyPumpkin
+  - name: Sopa de Grao
+    filename: chickpea
   - name: Instant Pot Brown Lentil Soup
     filename: ipBrownLentil
+  - name: Okra Soup
+    filename: okra
+  - name: Italian Wedding Soup
+    filename: italianWedding
+  - name: Spinach Wedding Soup
+    filename: spinachWedding
+  - name: Sri Lankan Mulligatawny Soup
+    filename: mulligatawny
+  - name: Kielbasa Soup
+    filename: kielbasa
+  - name: Matzah Ball Soup
+    filename: matzaball
   - name: Instant Pot Tomato Chicken Soup
     filename: ipTomatoChicken
 
