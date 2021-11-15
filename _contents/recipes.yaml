@@ -79,6 +79,8 @@
     filename: spicyPumpkin
   - name: Instant Pot Brown Lentil Soup
     filename: ipBrownLentil
+  - name: Instant Pot Tomato Chicken Soup
+    filename: ipTomatoChicken
 
 - name: Bread
   filename: bread

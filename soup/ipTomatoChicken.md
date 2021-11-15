@@ -11,13 +11,14 @@ Serves 2--3.
 * 3 or more large garlic cloves, smashed or minced (or 1/2 tsp. garlic powder)
 * 1 can (15 oz) tomatoes
 * 1--2 c. chicken broth (depending on desired soupiness)
-* 1 T. pesto or 1 T. olive oil and dried basil to taste
+* 1 T. pesto or 1 T. olive oil and fresh or dried basil to taste
 * 1/2 tsp. pure chili powder (optional)
 * 1 tsp. smoked paprika
 * 1 tsp. ground coriander
 * heaping 1/4 tsp. red pepper flakes
-* oregano, marjoram, thyme, rosemary, and sage to taste (optional)
-* black pepper to taste (optional)
+* dash oregano
+* dash sage
+* black pepper to taste
 * salt to taste
 
 ## Directions
@@ -34,3 +35,5 @@ Serve hot with crusty bread.
 You can add some soup-sized pasta, but be sure to add broth to compensate.
 
 You can reduce broth in favor of more tomatoes.
+
+Feel free to saute (on low) the onions and garlic in the oil while assembling other ingredients.
