@@ -79,6 +79,8 @@
     filename: matzaball
   - name: Instant Pot Tomato Chicken Soup
     filename: ipTomatoChicken
+  - name: Instant Pot Chicken Lentil Soup
+    filename: ipChickenLentil
 
 - name: Bread
   filename: bread

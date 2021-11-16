@@ -39,3 +39,5 @@ You can reduce broth in favor of more tomatoes.
 Feel free to saute (on low) the onions and garlic in the oil while assembling other ingredients.
 
 This is medium spicy with pure chili powder; you can use the impure kind (that's just a spice mix) for less heat.
+
+[Amy & Jacky's recipe](https://www.pressurecookrecipes.com/instant-pot-chicken-soup/) is explicitly bone-in, if you're concerned about cooking time.
