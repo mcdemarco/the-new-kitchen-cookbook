@@ -277,6 +277,8 @@
     filename: saffronRisotto
   - name: Carcass Risotto
     filename: carcassRisotto
+  - name: Instant Pot Risotto
+    filename: ipRisotto
   - name: Sushi Rice
     filename: sushi
 

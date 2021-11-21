@@ -39,4 +39,3 @@ I like this one because it can be anything you want it to be: vegan, fowly, chee
 
 ![knotweed harvest](../images/knotweed_harvest.png)
 
-
