@@ -8,7 +8,7 @@ You're supposed to use a wire rack in the roasting pan; I sometimes use a broile
 
 ## Turkey
 
-I've roast turkey according to [Wegman's directions](https://shop.wegmans.com/recipes/49/roasted-turkey):  3 1/2 hours at 325° for a 12 lb. turkey, which actually turned out to be 3 3/4 hours for a 12 1/4 lb. turkey, but it was fine.  (Other weights are available at the link.)   The Good Housekeeping rule is 20 minutes per pound at 300°.  Let sit 20--30 minutes before carving.
+I've roast turkey according to [Wegman's directions](https://shop.wegmans.com/recipes/49/roasted-turkey):  3 1/2 hours at 325° for a 12 lb. turkey, which actually turned out to be 3 3/4 hours for a 12 1/4 lb. turkey, but it was fine.  (Other weights are available at the link.)   The Good Housekeeping rule is 20 minutes per pound at 300°.  Let sit 20--30 minutes before carving.  Convection really speeds up the cooking time, so check at least a half an hour earlier if you're convecting.
 
 I stick a quartered onion in the middle instead of stuffing the bird (add 50 minutes for actual stuffing) or seasoning the hole, but still tie up the legs and tail.  You can rub the skin with oil and cover the bird with cheesecloth as for chicken.
 

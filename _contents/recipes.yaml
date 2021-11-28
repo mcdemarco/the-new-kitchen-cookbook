@@ -257,6 +257,8 @@
 - name: Rice
   filename: rice
   files:
+  - name: Instant Pot Rice
+    filename: ipRice
   - name: Brazilian Rice
     filename: brazilianRice
   - name: Roz bil Shaghria
@@ -403,6 +405,8 @@
     filename: turkeyChili
   - name: Italian Wedding Soup
     filename: italianWedding
+  - name: Instant Pot Stock
+    filename: ipStock
   - name: Cranberry Sauce
     filename: cranberrySauce
 
