@@ -44,6 +44,8 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 [Pasta with Italian Squash](https://2sistersrecipes.com/pasta-with-italian-squash-or-calabaza/)
 
+*Hanukkah*: [Keftes de Prasa](https://www.reddit.com/r/JewishCooking/comments/r5bkvs/made_keftes_de_prasa_for_hannukah_instead_of/)
+
 ## Rice & Roots
 
 [Fennel Risotto](http://cooking.nytimes.com/recipes/1016978-caramelized-onion-and-fennel-risotto)
@@ -67,6 +69,8 @@ Vegan sausage: made from [tofu](https://minimalistbaker.com/vegan-pepperoni/) or
 [Leek and wild mushroom stuffing](https://www.epicurious.com/recipes/food/views/leek-and-wild-mushroom-stuffing-107292)
 
 [Moroccan Chicken with Chickpeas and Raisins](https://www.thespruceeats.com/chicken-tagine-with-chickpeas-and-raisins-2394713)
+
+[Instant Pot Chicken Biryani](http://www.thasneen.com/cooking/express-biryani-instant-pot-chicken-biryani/)
 
 ## Dessert
 

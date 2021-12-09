@@ -54,3 +54,5 @@ Other odd additions I've seen include nutmeg, bay leaf, port wine, beer, eggplan
 Sri Lankans serve the soup with [string hoppers (idiyappam)](https://www.196flavors.com/sri-lanka-idiyappam-string-hoppers/), which sound too difficult for me to ever attempt.
 
 There are crockpot versions of this recipe, but that seems unnecessary unless you're adding eggplant, raw meat, or something else that could use the cooking time.
+
+There are Instant Pot recipes for the Indian version, which can be helpful when some of your ingredients are frozen.  Coot at high pressure for 10 minutes, then release pressure manually and add the lemon juice and any garnishes.  I would add the coconut milk at the end, too, though [this recipe](https://www.feastingathome.com/instant-pot-mulligatawny/) pressure cooks it in with the studier ingredients.

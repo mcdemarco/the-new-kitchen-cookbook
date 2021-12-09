@@ -26,3 +26,5 @@ The recipe allows chicken breast meat instead, but I haven't tried that yet.
 [For Passover](http://archive.jsonline.com/features/food/passover-recipes-neednt-sacrifice-flavor-gj951ub-198834501.html), you can pre-coat the turkey tenders in 1/4 c. rice (warning: kitniyot), almond, or matzah cake flour (mixed with the spices), dunk in egg (mixed with the salt), and coat with matzah meal.
 
 You can top with young Japanese knotweed shoots instead of scallion.
+
+You can steam seasoned turkey tenders in an Instant Pot.  The internet generally recommends you do it on the trivet (which I find dries them out) over a cup of water or broth, on high pressure for 20 minutes with a quick release.  Optionally you can saute them first; reduce the cooking time to 15 minutes.  If you cook them from frozen increase the time to 30 minutes.  I would cook them directly in broth instead.  You don't need to tenderize them first, but the trivet (or a steamer basket) doesn't fit more than two or three in a 6 quart pot, and even without it you probably can't fit more than four.
