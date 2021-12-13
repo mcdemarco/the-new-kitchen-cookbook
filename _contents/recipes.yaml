@@ -397,6 +397,8 @@
     filename: bakedTurkeyTenders
   - name: Crockpot Bourbon Turkey Tenders
     filename: crockpotTurkey
+  - name: Instant Pot Turkey Tenders
+    filename: ipTurkeyTenders
   - name: Turkey or Chicken a la King
     filename: turkeyChickenKing
   - name: Turkey Meatballs

@@ -2,13 +2,15 @@
 
 This is a basic no-cheese risotto for the instant pot, based on an extremely basic one in [How To Instant Pot](https://amzn.to/3cwlXm2).
 
+Serves two as a main meal with extras (one person per half cup of rice), or 3--4 (per cup) as a side dish.  I scale the full meal up to at least 1 1/4 c. rice when we're hungry.
+
 ## Ingredients
 
 * 2 T. olive oil
 * 1 yellow onion, diced (optional)
 * 3 cloves garlic, minced (optional)
 * 1 c. Arborio rice or more
-* an equal amount of vegetable or meat stock
+* 2 c. chicken, vegetable, or meat stock (or twice the amount of rice, if using more rice)
 * 3/4 tsp. salt
 * other spices to taste (*e.g.*, pepper, turmeric, sage, etc.)
 * optional extras (mushrooms, vegetables, etc.)
