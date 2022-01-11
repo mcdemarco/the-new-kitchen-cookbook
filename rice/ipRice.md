@@ -23,4 +23,6 @@ The bible of rice is at [Green Healthy Cooking](https://greenhealthycooking.com/
 
 You can cook wild rice 28 minutes if you prefer it less "burst."
 
+Peter prefers the brown basmati cooked longer, but a final cooking time has not yet been determined.
+
 I have not explored instant pot Brazilian-style rice yet.

@@ -31,3 +31,5 @@ If your extra is mushrooms, subtract the volume of mushroom juice from the broth
 ## Variants
 
 You can stir in cheese at the end or when serving.
+
+You can do the same sort of thing with farro in place of rice.  For Bob's Red Mill farro the proportions 1 c. farro to 1 1/2 c. stock worked for me, though the internet frequently recommends using more water and draining afterwards.  The internet also recommends rinsing the farro first, which I haven't tried.  Cook on high pressure for 12 minutes and release naturally.

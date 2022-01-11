@@ -17,6 +17,8 @@ This is my to-do list.
 
 [Kreplach](https://www.epicurious.com/recipes/food/views/kreplach-236219)
 
+[Ethiopian Beef Stew (IP)](https://twosleevers.com/ethiopian-beef-stew/)
+
 ## Breakfast and Quick Bread
 
 [Ricotta Zucchini Muffins](http://www.tasteofbeirut.com/savory-zucchini-and-ricotta-muffins/) or [Ricotta Muffins](https://cafefernando.com/ricotta-and-basil-muffins/)
@@ -51,6 +53,8 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 [Fennel Risotto](http://cooking.nytimes.com/recipes/1016978-caramelized-onion-and-fennel-risotto)
 
 [Sweet Potato Latkes](https://www.epicurious.com/recipes/food/views/sweet-potato-latkes-105919)
+
+[IP Beef (Lamb) Rice Pilau](https://instantpoteats.com/instant-pot-rice-pilaf-ground-lamb-figs-almonds/)
 
 ## Meat
 
