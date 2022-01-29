@@ -1,4 +1,4 @@
-# Italian chop suey
+# Italian Chop Suey
 
 This is another recipe put together out of much Google for Peter; I personally believe that ground beef should be concentrated into meatballs, not put loosey-goosey into the sauce.
 

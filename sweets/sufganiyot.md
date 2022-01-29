@@ -1,6 +1,6 @@
-# Sufganiyot ("Jelly" Doughnuts)
+# Sufganiyot (Jelly Doughnuts)
 
-This recipe is adapted from various online recipes for yeast sufganiyot, such as [Bon Appetit's](http://www.bonappetit.com/recipe/strawberry-sufganiyot), [Epicurious's](http://www.epicurious.com/recipes/food/views/sufganiyot-40003), and [Leite's](http://leitesculinaria.com/60367/recipes-hanukkah-jelly-doughnuts-sufganiyot.html) (which needed halving).  The jelly is in scare quotes because I left it out.  I also skipped any proofing steps that might have been mentioned in my sources.
+This recipe is adapted from various online recipes for yeast sufganiyot, such as [Bon Appetit's](http://www.bonappetit.com/recipe/strawberry-sufganiyot), [Epicurious's](http://www.epicurious.com/recipes/food/views/sufganiyot-40003), and [Leite's](http://leitesculinaria.com/60367/recipes-hanukkah-jelly-doughnuts-sufganiyot.html) (which needed halving).  The jelly is theoretical because I left it out at first.  I also skipped any proofing steps that might have been mentioned in my sources.
 
 There are non-dairy ingredient options to make the doughnuts non-dairy, but my frying oil was already dairy from making sonhos, so I didn't try that.  There is a break for (presumably overnight) refrigeration described at Leite's, if you need one.
 

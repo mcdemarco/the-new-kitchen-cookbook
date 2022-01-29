@@ -131,7 +131,7 @@
     filename: emerilPizza
   - name: Garlic Breadsticks
     filename: garlicBreadsticks
-  - name: Fry Dough
+  - name: Fry Dough(nuts)
     filename: fryDough
   - name: French Toast
     filename: frenchToast
@@ -151,7 +151,7 @@
     filename: ricottaPancakes
   - name: Crepes
     filename: crepes
-  - name: Dutch Puff
+  - name: Dutch Puff Pancake
     filename: dutchPuff
   - name: Popovers
     filename: popovers
@@ -179,6 +179,8 @@
     filename: savoryAFMuffins
   - name: Pão de Queijo
     filename: paoDeQueijo
+  - name: Quick Breadsticks
+    filename: quickBreadsticks
   - name: Guinness Beer Biscuits
     filename: guinnessBiscuits
   - name: Coconut Oil Biscuits
@@ -205,6 +207,8 @@
     filename: roastedBroccoli
   - name: Roasted Cauliflower
     filename: cauliflower
+  - name: Roasted Brussel Sprouts
+    filename: roastedBrusselSprouts
   - name: Roasted Okra
     filename: roastedOkra
   - name: Bamia (Sephardic Okra)
@@ -219,6 +223,8 @@
     filename: polenta
   - name: Moroccan Spice Mix
     filename: spiceMix
+  - name: Instant Pot Cannellini
+    filename: ipCannellini
   - name: Chickpea Salad with Fennel, Tomatoes and Olives
     filename: chickpeaFennel
   - name: Mizeria (Polish Cucumber Salad)
@@ -347,6 +353,8 @@
     filename: crockpotBriskette
   - name: Baked London Broil
     filename: bakedLondon
+  - name: Italian Pot Roast
+    filename: italianPotRoast
   - name: Molha Quase à Moda de Pico
     filename: molha
   - name: Lamb Stew
@@ -367,7 +375,7 @@
     filename: turkeyChicken
   - name: Turkey Chicken for a Crowd
     filename: bakedTurkeyChicken
-  - name: Coconut Chicken for a Crowd
+  - name: Coconut Curry Chicken for a Crowd
     filename: bakedCoconutChicken
   - name: Roasted Chicken Quarters with Butternut Squash
     filename: roastedWithSquash
@@ -417,7 +425,7 @@
   files:
   - name: Costco Salmon
     filename: costcoSalmon
-  - name: Panko Crusted Salmon
+  - name: Panko-Crusted Salmon
     filename: pankoSalmon
   - name: Spicy Salmon
     filename: spicySalmon
@@ -427,10 +435,14 @@
     filename: salmonSteaks
   - name: Maple Broiled Salmon
     filename: broiledSalmon
+  - name: One Instant Pot Salmon
+    filename: ipSalmon
   - name: Baked Trout
     filename: trout
   - name: Baked Mackerel
     filename: mackerel
+  - name: Panko Haddock
+    filename: pankoHaddock
   - name: Stuffed Whiting
     filename: stuffedWhiting
   - name: Fried Smelt
@@ -447,7 +459,7 @@
   files:
   - name: Tapioca Pudding
     filename: tapioca
-  - name: Egg Nog Rice Pudding
+  - name: Eggnog Rice Pudding
     filename: eggnogRicePudding
   - name: Nutella Fudge with Sea Salt
     filename: nutellaFudge
@@ -489,9 +501,9 @@
     filename: palmiers
   - name: Chocolate Chip Cookies
     filename: chocolateChip
-  - name: M&M Bark
+  - name: M&M Brownie Bark
     filename: mnmBark
-  - name: Hermit Cookies
+  - name: Hermit Bars
     filename: hermits
   - name: Almond Butter Cutouts
     filename: almondButter
@@ -523,9 +535,9 @@
     filename: pecan
   - name: Pumpkin Pie
     filename: pumpkin
-  - name: Blitz Puff
+  - name: Blitz Puff Pastry
     filename: blitzPuff
-  - name: Rough Puff
+  - name: Rough Puff Pastry
     filename: roughPuff
   - name: Blueberry Turnovers
     filename: blueberryTurnovers
@@ -533,9 +545,9 @@
     filename: dateTurnovers
   - name: Pastéis de Nata
     filename: pasteisDeNata
-  - name: Feta Puffs
+  - name: Savory Feta Puff Pastry
     filename: fetaPuffs
-  - name: Spanakopita
+  - name: Spinach Pie
     filename: spanakopita
 
 - name: Non-Food

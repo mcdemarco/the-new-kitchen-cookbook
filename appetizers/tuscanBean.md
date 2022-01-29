@@ -1,4 +1,4 @@
-# Tuscan White Bean Dip
+# Tuscan Bean Dip
 
 This is my simplified version of a recipe in the Artisan Bread in Five cookbook.  I normally don't pay attention to the non-bread recipes in there, but somehow this one caught my eye.
 

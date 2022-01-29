@@ -4,7 +4,7 @@ This recipe is a combination of the first thing the internet told me about roast
 
 ## Ingredients
 
-* 1 lb. Brussel sprounts
+* 1 lb. Brussel sprouts
 * seedless dark grapes to taste, or up to 1 lb. mushrooms
 * olive oil
 * balsamic vinegar and/or 2 cloves garlic, crushed
