@@ -52,4 +52,4 @@ Originally I made this on the stovetop, but I've since switched to Instant Potti
 
 I've seen instant pot recipes that recommended adding the beans after pressure cooking and sauteing them to temperature.
 
-The bean guy has a nice veggie-free recipe 
+The bean guy's recipe (linked above) is nicely veggie-free, but much heavier on the beans.
