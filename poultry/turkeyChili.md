@@ -20,7 +20,7 @@ I served it over yellow rice the first time.  Other sides include short pasta or
 * 1/2 tsp. pure chili powder (optional)
 * 1/4 tsp. cinnamon (optional)
 * chocolate bits to taste (optional)
-* 1/3 c. chicken stock (or add water as needed)
+* 1/3 c. chicken stock (or add water as needed) -- 2/3 c. for Instant Pot
 * 1 15 ounce can tomato sauce or diced tomatoes
 * 1/2 can (3 oz) tomato paste 
 * 1 15-16 ounce can cannellini beans, rinsed and drained
@@ -43,8 +43,8 @@ Originally I made this on the stovetop, but I've since switched to Instant Potti
 2. Saute onions and garlic in the Instant Pot the usual way.
 3. Add and brown turkey (about 3 minutes).
 4. Add spices and saute for one more minute.
-5. Deglaze with the broth.
-6. Add all remaining ingredients.
+5. Deglaze with the broth.  Don't forget to double the broth quantity, especially if your instant pot is prone to burn warnings.
+6. Add all remaining ingredients and mix well.
 7. Close pot.  Close vent.  Pressure cook on high for 10 minutes.
 8. Release pressure naturally.
 
