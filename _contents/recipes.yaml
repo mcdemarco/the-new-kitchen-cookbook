@@ -105,8 +105,6 @@
     filename: rosemary
   - name: Marbled Rye
     filename: marble
-  - name: Garlic Naan
-    filename: naan
   - name: Baguette
     filename: baguette
   - name: Healthy Rye
@@ -117,10 +115,14 @@
     filename: ciabatta
   - name: Yes-Knead Challah
     filename: challah
-  - name: Spicy Cinnamon Flatbread
-    filename: cinnamonFlatbread
   - name: Olive Oil Dough
     filename: oliveOil
+  - name: Garlic Naan
+    filename: naan
+  - name: Za'atar Bread
+    filename: zaatar
+  - name: Spicy Cinnamon Flatbread
+    filename: cinnamonFlatbread
   - name: Pizza Sauce
     filename: pizzaSauce
   - name: Pan Pizza
