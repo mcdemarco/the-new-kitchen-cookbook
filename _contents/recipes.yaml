@@ -311,6 +311,8 @@
     filename: bolognese
   - name: Meat Sauce
     filename: meatsauce
+  - name: Instant Pot Pasta with Ground Turkey
+    filename: ipTurkeyPasta
   - name: Mac and Cheese
     filename: macncheese
   - name: Salmon Casserole
