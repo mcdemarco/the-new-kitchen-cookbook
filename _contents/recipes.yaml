@@ -215,6 +215,10 @@
     filename: roastedOkra
   - name: Bamia (Sephardic Okra)
     filename: bamia
+  - name: Instant Pot Artichokes
+    filename: ipArtichokes
+  - name: Instant Pot Cannellini
+    filename: ipCannellini
   - name: Vegetarian Chili
     filename: vegetarianChili
   - name: Latkes
@@ -225,8 +229,6 @@
     filename: polenta
   - name: Moroccan Spice Mix
     filename: spiceMix
-  - name: Instant Pot Cannellini
-    filename: ipCannellini
   - name: Chickpea Salad with Fennel, Tomatoes and Olives
     filename: chickpeaFennel
   - name: Mizeria (Polish Cucumber Salad)
@@ -369,6 +371,8 @@
   files:
   - name: Roasted Whole Bird
     filename: roasted
+  - name: Instant Pot Whole Chicken
+    filename: ipChicken
   - name: Crockpot Roasted Chicken
     filename: crockpotRoastedChicken
   - name: Crockpot Chicken Legs
