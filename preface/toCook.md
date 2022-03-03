@@ -76,6 +76,8 @@ Vegan sausage: made from [tofu](https://minimalistbaker.com/vegan-pepperoni/) or
 
 [Instant Pot Chicken Biryani](http://www.thasneen.com/cooking/express-biryani-instant-pot-chicken-biryani/)
 
+[Instant Pot Non-Dairy Chicken and Wild Rice Soup](https://lifebeyondthelessonplan.com/instant-pot-wild-rice-and-chicken-soup/) (for example)
+
 ## Dessert
 
 [Farmer's cheese donuts](https://momsdish.com/recipe/203/farmers-cheese-doughnuts) for Hanukkah

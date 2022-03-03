@@ -37,3 +37,5 @@ Serve hot.
 ## Variants
 
 There's definitely enough cooking time here for bone-in thighs, even if frozen.
+
+Toss in a bag of baby spinach after releasing the pressure.
