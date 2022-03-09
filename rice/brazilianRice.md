@@ -26,6 +26,10 @@ TL;DR: you just start with onions and garlic as you would for other foods like p
 
 ## Variants
 
-The original recipe didn't appear to include onions, only garlic.
+The original recipe didn't appear to include onions, only garlic.  This appears to be a common variant, for brown rice as well.
+
+Speaking of which, you can also do this with brown basmati, if you increase the cooking time appropriately.
 
 You can cook the rice according to your own preference; the Brazilian approach is refreshingly lacking in rinsing, boiling over, and other rice superstitions.
+
+For an Instant Pot version, see the variants of my [Instant Pot Rice recipe](../rice/ipRice.md).

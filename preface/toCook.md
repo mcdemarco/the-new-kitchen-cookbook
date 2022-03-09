@@ -3,11 +3,15 @@
 This is my to-do list.
 
 
-## Appetizers and Snacks
+## Appetizers, Spices, and Snacks
 
 [Anchovy onion butter](http://food52.com/recipes/26778-anchovy-onion-butter)
 
 [Parmesan dip](https://www.thekitchn.com/entertaining-recipe-creamy-parmesan-dip-recipes-from-the-kitchn-187441)
+
+[Heart of palm hand pies](https://www.iheartbrazil.com/hearts-of-palm-hand-pies/)
+
+[Refogado](https://braziliankitchenabroad.com/brazilian-sofrito/), also [here](https://www.iheartbrazil.com/brazilian-sofrito-recipe/)
 
 ## Soup
 
@@ -48,13 +52,18 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 *Hanukkah*: [Keftes de Prasa](https://www.reddit.com/r/JewishCooking/comments/r5bkvs/made_keftes_de_prasa_for_hannukah_instead_of/)
 
-## Rice & Roots
+## Starches
+
+### Rice
 
 [Fennel Risotto](http://cooking.nytimes.com/recipes/1016978-caramelized-onion-and-fennel-risotto)
 
+[IP Beef (Lamb) Rice Pilau](https://instantpoteats.com/instant-pot-rice-pilaf-ground-lamb-figs-almonds/)
+
+###  Roots
+
 [Sweet Potato Latkes](https://www.epicurious.com/recipes/food/views/sweet-potato-latkes-105919)
 
-[IP Beef (Lamb) Rice Pilau](https://instantpoteats.com/instant-pot-rice-pilaf-ground-lamb-figs-almonds/)
 
 ## Meat
 

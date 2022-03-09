@@ -25,4 +25,4 @@ You can cook wild rice 28 minutes if you prefer it less "burst."
 
 Peter prefers the brown basmati cooked longer, but a final cooking time has not yet been determined.  (Next up is 24 minutes.)
 
-I have not explored instant pot Brazilian-style rice yet.
+To make instant pot Brazilian-style rice, saute a diced onion and/or just three cloves of minced garlic in olive oil in the Instant Pot, then proceed with the normal basmati (white or brown) instructions above.
