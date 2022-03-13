@@ -47,11 +47,13 @@ Peter had made red bean paste hamantaschen once before. I'm not a big fan of ham
 
 ## Variants
 
+Jamie Geller uses [extra-virgin olive oil](https://jamiegeller.com/recipes/olive-oil-hamantaschen/).
+
 I followed this [chunky recipe](http://web.archive.org/web/20120629051023/http://www.applepiepatispate.com/japanese/sweet-azuki-red-bean-paste/) (1 c. dried beans and 1 c. white sugar) for red bean paste the first time, but stuck my blender stick in it to smooth it out quite a bit.
 
 ![red bean paste](../images/red_bean_paste.jpg)
 
-I initiall tried to follow the hamantaschen recipe from my King Arthur cookie cookbook (which looks the same as the one [on their website](https://www.kingarthurflour.com/recipes/hamantaschen-recipe)), but it came out too dry so I had to gradually add water like for pastry.
+I initially tried to follow the hamantaschen recipe from my King Arthur cookie cookbook (which looks the same as the one [on their website](https://www.kingarthurflour.com/recipes/hamantaschen-recipe)), but it came out too dry so I had to gradually add water like for pastry.
 
 ![hexagons](../images/hexagons.png)
 

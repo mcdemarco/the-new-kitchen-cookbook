@@ -95,19 +95,20 @@ Vegan sausage: made from [tofu](https://minimalistbaker.com/vegan-pepperoni/) or
 
 * dark chocolate peppermints (with recipe)
 
-[Marbled Hamantachen](https://smittenkitchen.com/2021/02/marbled-cheesecake-hamantaschen/#comment-1931148)
-
-[Pareve Pumpkin Pie](https://jamiegeller.com/recipes/parve-pumpkin-pie/)
-
 [Paczki](https://www.seasonsandsuppers.ca/polish-paczki-donuts-recipe/)
-
-[Rugelach](https://www.reddit.com/r/JewishCooking/comments/k5rzrs/made_rugelach_with_the_kids_grandma_goldies_recipe/)
 
 [French Apple Cake](https://12tomatoes.com/easy-french-apple-cake/)
 
-[Cranberry Raisin pie](https://www.afamilyfeast.com/cranberry-raisin-pie/)
 
-### Shortbread
+### Cookies
+
+[Marbled Hamantachen](https://smittenkitchen.com/2021/02/marbled-cheesecake-hamantaschen/#comment-1931148)
+
+[Almond Flour Hamantaschen](https://www.kosher.com/recipe/gluten-free-hamantaschen-1242)
+
+[Rugelach](https://www.reddit.com/r/JewishCooking/comments/k5rzrs/made_rugelach_with_the_kids_grandma_goldies_recipe/)
+
+#### Shortbread
 
 [Honey Shortbread Cookies](http://www.thecrepesofwrath.com/2013/02/20/honey-shortbread-cookies/)
 
@@ -128,6 +129,11 @@ Date Caramels [with almond butter](https://www.thekitchn.com/how-to-make-vegan-c
 [Matzah Crack with Dates](https://jessicasepel.com/healthy-chocolate-caramel-matzo-slice/)
 
 ### Pie
+
+[Pareve Pumpkin Pie](https://jamiegeller.com/recipes/parve-pumpkin-pie/)
+
+[Cranberry Raisin pie](https://www.afamilyfeast.com/cranberry-raisin-pie/)
+
 
 Homemade phyllo dough [with a pasta maker](https://www.thespruceeats.com/homemade-phyllo-dough-1705600) (note that the comments say the recipe is way off) or [without](https://www.mygreekdish.com/recipe/easy-homemade-phyllo-recipe-beginners/).  See also My Greek Dish's [spanakopita recipe](https://www.mygreekdish.com/recipe/traditional-greek-spinach-pie-spanakopita-recipe-with-homemade-phyllo/).  Other promising recipes for the [dough](https://deliciousfromscratch.com/filo-dough-recipe/) and ["pie"](https://deliciousfromscratch.com/spinach-feta-pie-recipe/) include [a local effort](https://thegarumfactory.net/2020/03/27/saloniki-spanakopita/)
 
