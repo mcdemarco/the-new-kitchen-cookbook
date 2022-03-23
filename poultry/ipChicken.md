@@ -9,13 +9,12 @@ I briefly considered Amy & Jacky's method of [poaching a whole chicken](https://
 * 1 small citrus fruit, quartered (optional)
 * fresh herbs (optional)
 * 1 c. water or broth
-* 1/2 tsp. smoked paprika
-* 1/4 tsp. dried thyme
-* 1/4 tsp. onion powder
-* 1/4 tsp. garlic powder
-* 1/4 tsp. safflower (optional)
-* 1/4 tsp. black pepper
-* 1/4 tsp. salt
+* 1 tsp. paprika
+* 1 tsp. basil
+* 1/2 tsp. oregano
+* 1 tsp. black pepper
+* 1 tsp. salt
+* cayenne pepper to taste
 
 ## Directions
 
@@ -29,4 +28,6 @@ I briefly considered Amy & Jacky's method of [poaching a whole chicken](https://
 
 ## Variants
 
-You can replace the spices listed above with 2 tsp. (or more) of your favorite spice blend.  Add salt if the blend doesn't include it.
+My original spice blend was 1/2 tsp. smoked paprika, 1/4 tsp. dried thyme, 1/4 tsp. onion powder, 1/4 tsp. garlic powder, 1/4 tsp. safflower (optional), 1/4 tsp. black pepper, and 1/4 tsp. salt, but this was too mild for Peter and/or the Instant Pot approach, so I've upped it to something more like the spicy voriant of my [oven-roasted recipe](../poultry/roasted.md).
+
+You can replace either set of spices with 2 tsp. or more of your favorite spice blend.  Add salt if the blend doesn't include it.
