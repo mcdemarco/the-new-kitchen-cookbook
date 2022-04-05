@@ -45,3 +45,5 @@ You can use jarred sour cherries (drained).   Reserve 1/2 c. of the juice.  Redu
 You can use a combination of cherry formats, as long as you do it proportionally (with the appropriate sugar, cooking time, etc.).
 
 ![combo cherry pie with fancy vents](../images/cherry_pie.png)
+
+You can make mini pies in a (regular) muffin tin, with or without a top crust.  A 9" crust should be enough for one muffin tin, or two if you want to top the pie.  Fill with about 1 T. of filling (or to taste).  Bake 25--30 minutes at 350°F.  [The internet](https://therecipecritic.com/mini-cherry-pies/) varies on the diameter cookie cutter or cup to use to cut out the crusts (when it provides one at all), and on whether to spray the muffin pan.  You may need to adjust times for canned vs. fresh filling.

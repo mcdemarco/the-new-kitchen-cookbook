@@ -17,14 +17,16 @@
     filename: friedCheese
   - name: Devilled Eggs with Capers
     filename: devilled
-  - name: Roasted Chickpeas
-    filename: chickpeas
-  - name: Hummus
-    filename: hummus
   - name: Tuscan Bean Dip
     filename: tuscanBean
+  - name: Hummus
+    filename: hummus
   - name: Baba Ghanoush
     filename: babaGhanoush
+  - name: Roasted Chickpeas
+    filename: chickpeas
+  - name: Moroccan Spice Mix
+    filename: moroccanSpiceMix
   - name: Sri Lankan Roasted Curry Powder
     filename: roastedCurryPowder
   - name: Essence of Emeril
@@ -343,6 +345,8 @@
     filename: cottagePie
   - name: Pepper Steak
     filename: pepperSteak
+  - name: Instant Pot Fried Rice
+    filename: ipFriedRice
   - name: Beef and Bean Chili
     filename: chili
   - name: Cincinnati Chili

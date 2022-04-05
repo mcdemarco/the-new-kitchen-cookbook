@@ -1,7 +1,6 @@
 # Roasted Chickpeas
 
-The following is [the recipe](http://www.kalynskitchen.com/2008/02/crispy-roasted-chickpeas-garbanzo-beans.html) that I got my [Moroccan Spice Mix](../vegetables/spiceMix.md) from.  It sees more action in the veggies chapter of the cookbook.
-
+The following is [the recipe](http://web.archive.org/web/20210422211134/https://kalynskitchen.com/crispy-roasted-chickpeas-garbanzo-beans/) that I got my [Moroccan Spice Mix](../appetizers/moroccanSpiceMix.md) from.  It sees more action in the veggies chapter of the cookbook.
 
 ## Ingredients
 
@@ -19,6 +18,6 @@ The following is [the recipe](http://www.kalynskitchen.com/2008/02/crispy-roaste
 
 ## Variants
 
-Kitch lists [15 More Ways to Flavor Roasted Chickpeas](http://www.thekitchn.com/15-more-ways-to-flavor-roasted-106112).
+Kitchn lists [15 More Ways to Flavor Roasted Chickpeas](http://www.thekitchn.com/15-more-ways-to-flavor-roasted-106112).
 
 Martha Stewart has a [spicy chickpea recipe](http://www.marthastewart.com/326845/spicy-roasted-chickpeas), and Gourmet had a Thanksgiving version: [Roasted Chickpeas with Sage](http://web.archive.org/web/20121113085538/http://www.gourmet.com/food/gourmetlive/2012/110712/thanksgiving-appetizers?currentPage=2).
