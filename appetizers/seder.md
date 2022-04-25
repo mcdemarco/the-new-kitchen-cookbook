@@ -40,7 +40,7 @@ Most of the recipes mentioned serve 8.
 3. [Briskette](../meat/briskette.md) (about 1/3 lb. per person, more if you want any leftover)
 4. [Tapioca pudding](../sweets/tapioca.md) with fruit
 
-If possible, make the soup, brisket, and dessert a day ahead.
+If possible, make the haroset, soup, brisket, and/or dessert a day ahead.
 
 Warm up anything cooked ahead (except dessert, which can be served hot or cold) at the appropriate point of the seder.
 

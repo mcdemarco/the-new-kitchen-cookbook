@@ -44,4 +44,4 @@ Add horseradish or cayenne to taste.
 
 Add coconut.
 
-Variants of other recipes: add pine nuts, chestnuts, almonds, ground almond, dates, figs, 2 pears, prunes, ground clove, ground ginger, nutmeg, and/or sugar.  (A lot of these are in the Haroset from Italy recipe in Claudia Roden's *Book of Jewish Food*.
+Variants of other recipes: add pine nuts, chestnuts, almonds, ground almond, dates, figs, 2 pears, prunes, ground clove, ground ginger, nutmeg, and/or sugar.  (A lot of these are in the Haroset from Italy recipe in Claudia Roden's *Book of Jewish Food*.)

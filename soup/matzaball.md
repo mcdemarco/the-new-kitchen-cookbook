@@ -45,7 +45,7 @@ Makes about 32 balls, serves about 8 people.
 5. Chill dough for 1 hour.
 6. If you have enough stock to let the balls suck some up, then reheat enough of the stock for cooking the balls.  Otherwise, boil plenty of salted water.
 7. Form dough into walnut-sized balls (about 1 inch in diameter).
-8. Boil, covered, in designated liquid 20 minutes.
+8. Boil (or simmer), covered, in designated liquid 20 minutes.
 9. Remove with a slotted spoon.
 
 ### Soup

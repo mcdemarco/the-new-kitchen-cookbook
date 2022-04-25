@@ -19,7 +19,7 @@ I multiplied my [turkey chicken recipe](../poultry/turkeyChicken.md) by three fo
 2. Roll the chicken in the mixture.
 3. Pack well in a container or plastic bag and coat with olive oil. Marinate in the fridge for an hour or overnight.
 4. Brown in a frying pan.
-5. Bake with the wine in large baking pan at 475° until done--about 45 minutes.
+5. Bake with the wine in large baking pan at 375° until done--about 45 minutes.
 
 ## Variants
 

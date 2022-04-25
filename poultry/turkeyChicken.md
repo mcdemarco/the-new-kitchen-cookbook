@@ -38,4 +38,3 @@ Substitute 1 T fresh spice for any of the 1 tsp dried spices.
 For a lot more turkey chicken at a time, you can bake it; see [Turkey Chicken for a Crowd](../poultry/bakedTurkeyChicken.md).
 
 I have made this with actual turkey drumsticks, but I ended up roasting them because (apparently) they don't come in small outside of Italy.  It took about an hour at 350° with convection.
-
