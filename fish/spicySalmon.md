@@ -8,9 +8,9 @@ This is a variant of plain [Costco Salmon](../fish/costcoSalmon.md), optionally 
 * olive oil
 * 1 tsp. kosher salt
 * 2 tsp. brown sugar
-* 1 tsp. chili powder
+* 1/2 tsp. chili powder
 * cayenne pepper to taste (optional)
-* 1 tsp. smoked paprika (optional)
+* 1/2 tsp. smoked paprika (optional)
 * 1 lime, zested
 * 2 T. cilantro (optional)
 * fresh chive or scallion to taste (optional)
@@ -25,6 +25,6 @@ This is a variant of plain [Costco Salmon](../fish/costcoSalmon.md), optionally 
 
 ## Variants
 
-Try it with fresh salmon.  The original recipe recommended wild caught Alaskan, skin on or off, and did not include cayenne.
+Try it with fresh salmon.  The original recipe recommended wild caught Alaskan, skin on or off, used a whole teaspoon of chipotle chili powder for this much fish (which may work if you can find that exact chili powder), and did not include cayenne.
 
 Other spice options include a generous coating of [Sri Lankan roasted curry powder](../appetizers/roastedCurryPowder.md), [Moroccan Spice Mix](../vegetables/spiceMix.md), or [Ras el Hanout](https://www.epicurious.com/recipes/food/views/ras-el-hanout-101070).
