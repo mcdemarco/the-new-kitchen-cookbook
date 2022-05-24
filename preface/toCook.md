@@ -108,6 +108,8 @@ Vegan sausage: made from [tofu](https://minimalistbaker.com/vegan-pepperoni/) or
 
 [Rugelach](https://www.reddit.com/r/JewishCooking/comments/k5rzrs/made_rugelach_with_the_kids_grandma_goldies_recipe/)
 
+[Biscochos](https://www.bostonjewishmusic.org/biscochos)
+
 #### Shortbread
 
 [Honey Shortbread Cookies](http://www.thecrepesofwrath.com/2013/02/20/honey-shortbread-cookies/)

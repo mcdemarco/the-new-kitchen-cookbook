@@ -35,6 +35,8 @@
     filename: paoDeQueijo
   - name: No-Knead Pão de Queijo (Brazilian Cheese Bread)
     filename: easyPaoDeQueijo
+  - name: Coffee
+    filename: coffee
   - name: Fenugreek Tea
     filename: fenugreekTea
   - name: Mulled Cider
