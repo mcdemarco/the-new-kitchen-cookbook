@@ -28,3 +28,5 @@ This is a variant of plain [Costco Salmon](../fish/costcoSalmon.md), optionally 
 Try it with fresh salmon.  The original recipe recommended wild caught Alaskan, skin on or off, used a whole teaspoon of chipotle chili powder for this much fish (which may work if you can find that exact chili powder), and did not include cayenne.
 
 Other spice options include a generous coating of [Sri Lankan roasted curry powder](../appetizers/roastedCurryPowder.md), [Moroccan Spice Mix](../vegetables/spiceMix.md), or [Ras el Hanout](https://www.epicurious.com/recipes/food/views/ras-el-hanout-101070).
+
+[Kara Lydon recommends](https://karalydon.com/recipes/the-best-way-to-cook-salmon-slow-cooked-salmon/) baking salmon for 20--25 minutes at 300°.
