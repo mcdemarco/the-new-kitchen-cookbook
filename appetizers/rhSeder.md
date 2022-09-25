@@ -24,9 +24,9 @@ Other notable items are:
 ### Instructions
 
 1. Make the [challah](../bread/challah.md) (see Rosh Hashanah variant).
-2. Wash or check the appropriate fruit.
-3. Cook the vegetables Wash the greens.
-7. Unbox the matzot, cover, and put out the salt water.
+2. Wash or check the appropriate fruit and place in small bowls.
+3. Cook the vegetables in bite-sized pieces, or retrieve enough pieces for the guests out of the tzimmes.
+4. Pour honey into bowls or fancier honey holders.
 
 ## A Rosh Hashanah Menu
 
@@ -37,11 +37,11 @@ Here are some menu ideas mixed together from various years.  Often my choice of 
 2. Green salad
 3. Rice of some sort such as [Carrot and Raisin Basmati Rice](https://jamiegeller.com/recipes/rosh-hashanah-carrot-and-raisin-basmati-rice/), a wild rice pilaf, or [Stuffed peppers](../rice/stuffedPeppers.md) (you can stuff delicata squash or zucchinis instead)
 3. [Tzimmes](../roots/tzimmes.md) (the Rosh Hashanah variant)
-4. [Briskette](../meat/briskette.md) (about 1/3 lb. per person, more if you want any leftover) or Stufadin (_Cucina Ebraica_ p.145)
+4. [Briskette](../meat/briskette.md) or [Crockpot Briskette](../meat/crockpotBriskette.md) (about 1/3 lb. per person, more if you want any leftover), or Stufadin (_Cucina Ebraica_ p.145)
 5. [Non-dairy Pumpkin Pie](../pie/nonDairyPumpkin.md), [Apple pie](../pie/apple.md), or [Apple cake](https://www.thespruceeats.com/kosher-apple-cake-2121494)
 
-If possible, make the brisket and/or dessert a day ahead.
+If possible, make the brisket, dessert, and whatever else you can manage a day ahead.
 
-Warm up anything cooked ahead (except dessert, which can be served hot or cold) at the appropriate point of the meal.
+Warm up anything cooked ahead at the appropriate point of the meal, if necessary.
 
 
