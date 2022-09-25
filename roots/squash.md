@@ -40,3 +40,6 @@ Bake cut side down at 375° (or 400° without convection) for 30-40 minutes.  If
 
 Once spaghettified, you can top it with pasta sauce or some other [sauce](https://www.tasteofhome.com/recipes/spaghetti-squash-with-apples-bacon-and-walnuts/), or even turn it into [kugel](http://www.carascravings.com/2012/03/passover-prep-sweet-spaghetti-squash-kugel-with-apples-and-raisins.html).
 
+## Stuffed Squash
+
+There's some general advice for stuffing butternut, delicata, or acorn squash [at Spend with Pennies](https://www.spendwithpennies.com/stuffed-butternut-squash/).

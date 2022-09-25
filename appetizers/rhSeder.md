@@ -24,9 +24,10 @@ Other notable items are:
 ### Instructions
 
 1. Make the [challah](../bread/challah.md) (see Rosh Hashanah variant).
-2. Wash or check the appropriate fruit and place in small bowls.
+2. Wash, slice, and/or check the appropriate fruit and place in small bowls.
 3. Cook the vegetables in bite-sized pieces, or retrieve enough pieces for the guests out of the tzimmes.
-4. Pour honey into bowls or fancier honey holders.
+4. Cook the fish or sheep's head.
+5. Pour honey into bowls or fancier honey holders.
 
 ## A Rosh Hashanah Menu
 
