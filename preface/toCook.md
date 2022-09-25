@@ -13,6 +13,8 @@ This is my to-do list.
 
 [Refogado](https://braziliankitchenabroad.com/brazilian-sofrito/), also [here](https://www.iheartbrazil.com/brazilian-sofrito-recipe/)
 
+[Popped wild rice](https://jamiegeller.com/recipes/popped-wild-rice/)
+
 ## Soup
 
 [Roasted Cauliflower and Garlic Soup](http://cookingwithcurls.com/2017/01/09/roasted-cauliflower-garlic-soup/)
@@ -22,6 +24,14 @@ This is my to-do list.
 [Kreplach](https://www.epicurious.com/recipes/food/views/kreplach-236219)
 
 [Ethiopian Beef Stew (IP)](https://twosleevers.com/ethiopian-beef-stew/)
+
+[Instant Pot Non-Dairy Chicken and Wild Rice Soup](https://lifebeyondthelessonplan.com/instant-pot-wild-rice-and-chicken-soup/) (for example)
+
+[Non-Dairy Chicken and Wild Rice Soup](https://www.delish.com/cooking/a37636336/chicken-wild-rice-soup-recipe/) (non-IP)
+
+Pumpkin and Chickpea soup (_Sephardic Cooking_ p.436)
+
+[Moqueca (IP)](https://twosleevers.com/brazilian-moqueca/)
 
 ## Breakfast and Quick Bread
 
@@ -77,6 +87,8 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 Vegan sausage: made from [tofu](https://minimalistbaker.com/vegan-pepperoni/) or [steamed](https://itdoesnttastelikechicken.com/easy-vegan-seitan-pepperoni/) or [baked seitan](https://www.noracooks.com/vegan-pepperoni/)
 
+Stufadin, _Cucina Ebraica_ p.145
+
 ## Poultry
 
 [Leek and wild mushroom stuffing](https://www.epicurious.com/recipes/food/views/leek-and-wild-mushroom-stuffing-107292)
@@ -85,7 +97,7 @@ Vegan sausage: made from [tofu](https://minimalistbaker.com/vegan-pepperoni/) or
 
 [Instant Pot Chicken Biryani](http://www.thasneen.com/cooking/express-biryani-instant-pot-chicken-biryani/)
 
-[Instant Pot Non-Dairy Chicken and Wild Rice Soup](https://lifebeyondthelessonplan.com/instant-pot-wild-rice-and-chicken-soup/) (for example)
+See also soups.
 
 ## Dessert
 
@@ -97,7 +109,7 @@ Vegan sausage: made from [tofu](https://minimalistbaker.com/vegan-pepperoni/) or
 
 [Paczki](https://www.seasonsandsuppers.ca/polish-paczki-donuts-recipe/)
 
-[French Apple Cake](https://12tomatoes.com/easy-french-apple-cake/)
+[French Apple Cake](https://12tomatoes.com/easy-french-apple-cake/) or [Jewish apple cake](https://www.thespruceeats.com/kosher-apple-cake-2121494)
 
 
 ### Cookies

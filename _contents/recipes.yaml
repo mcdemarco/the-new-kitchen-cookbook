@@ -49,6 +49,8 @@
     filename: pituie
   - name: Seder Plate
     filename: seder
+  - name: Rosh Hashanah Seder
+    filename: rhSeder
 
 - name: Soup
   filename: soup
@@ -549,6 +551,8 @@
     filename: pecan
   - name: Pumpkin Pie
     filename: pumpkin
+  - name: Non-dairy Pumpkin Pie
+    filename: nonDairyPumpkin
   - name: Blitz Puff Pastry
     filename: blitzPuff
   - name: Rough Puff Pastry
