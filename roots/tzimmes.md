@@ -29,4 +29,4 @@ Steam the roots first for 10 minutes for quicker baking (1 hour), in which case 
 
 Prunes are the traditional fruit.
 
-For Rosh Hashanah, you can expand the list to include pumpkin (*i.e.,* gourd), beets, leeks, dates, black-eyed peas, or other traditional foods.  You can also cut the recipe down, since the quantity above is more appropriate to Passover and the lack of other foods.
+For Rosh Hashanah, you can expand the list to include pumpkin (*i.e.,* gourd or any winter squash), beets, leeks, dates, black-eyed peas, or other traditional foods.  Except for squash and golden beets, it's easier to cook these separately and add them later.  You can also cut the recipe down, since the quantity above is more appropriate to Passover and the lack of other foods.

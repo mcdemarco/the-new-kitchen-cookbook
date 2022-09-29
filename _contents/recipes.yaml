@@ -263,6 +263,8 @@
     filename: roastedZucchini
   - name: Winter Squash
     filename: squash
+  - name: Couscous Stuffed Squash
+    filename: stuffedSquash
   - name: Tzimmes
     filename: tzimmes
   - name: North African Spiced Carrot and Parsnip Salad
