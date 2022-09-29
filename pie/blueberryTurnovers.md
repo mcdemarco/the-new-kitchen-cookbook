@@ -2,7 +2,7 @@
 
 This is a mix of the dough from a King Arthur Flour [raspberry puff turnovers recipe](http://www.kingarthurflour.com/recipes/raspberry-puff-turnovers-recipe) (which I found in their [illustrated blog post](http://www.kingarthurflour.com/blog/2009/07/02/love-flaky-turnovers-dont-love-fussing-blitz-puff-to-the-rescue/) about the wonders of blitz puff pastry) and the filling from a Canadian Living [recipe for blueberry turnovers](http://www.canadianliving.com/food/baking_and_desserts/blueberry_turnovers.php).  I cut them both in half because it was an experiment and I was low on blueberries.
 
-I used a small press from my old "crepe maker" turnover press set. (Here's [a similar turnover set](http://www.kingarthurflour.com/shop/items/turnover-set) out of stock at King Arthur for reference.)  If you use a larger size you will need more filling, so plan accordingly or find a recipe targeted at your size of turnover.
+I used a small press from my old "crepe maker" turnover press set. (Here's [a similar turnover set](https://shop.kingarthurbaking.com/items/turnover-cutters-set-of-3) ~~out of stock~~ at King Arthur for reference.)  If you use a larger size you will need more filling, so plan accordingly or find a recipe targeted at your size of turnover.
 
 For some reason sanding sugar (coarse white sugar) is sold in craft stores instead of supermarkets.  Who knew?
 

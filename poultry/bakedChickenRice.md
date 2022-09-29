@@ -1,6 +1,6 @@
 # Baked Chicken and Rice
 
-This is a recipe my mother used to make all the time, but my notes from her say merely, "Brown chicken first. Use chicken broth."  So here goes the quest to recreate it, starting from [Gracie Mae's similar recipe](https://graciemaeskitchen.com/baked-chicken-rice/#wprm-recipe-container-80), which I cut down and switched over to legs.
+This is a recipe my mother used to make all the time, but my notes from her say merely, "Brown chicken first. Use chicken broth."  So here goes the quest to recreate it, starting from [Gracie Mae's similar recipe](http://web.archive.org/web/20190301070907/https://graciemaeskitchen.com/baked-chicken-rice/#wprm-recipe-container-80), which I cut down and switched over to legs.
 
 Serves 2--3.
 

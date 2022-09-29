@@ -1,6 +1,6 @@
 # Coconut Oil Biscuits
 
-This recipe has been altered slightly from [oh, ladycakes'](http://www.ohladycakes.com/how-to-make-coconut-oil-biscuits/) and some simpler recipes for biscuits made with coconut oil.  It's also not unlike my Guinness biscuit recipe.  It came with weights and I mostly used them, especially for the gooey coconut oil.
+This recipe has been altered slightly from [oh, ladycakes'](http://web.archive.org/web/20180503024333/http://www.ohladycakes.com/how-to-make-coconut-oil-biscuits/) and some simpler recipes for biscuits made with coconut oil.  It's also not unlike my Guinness biscuit recipe.  It came with weights and I mostly used them, especially for the gooey coconut oil.
 
 Caution!  Some people react poorly to coconut oil.
 

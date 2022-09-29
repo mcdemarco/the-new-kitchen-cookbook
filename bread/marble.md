@@ -2,7 +2,7 @@
 
 ![the final product](../images/the_final_product.jpg)
 
-I made marbled rye made from two different batches of 5-minute rye bread. I had one loaf worth of pumpernickel dough left, so I decided to make a batch of deli rye and marble them. This was complicated by the wetness of the dough and the different oven temperatures specified in the two recipes. I omitted the caraway from the deli rye dough because I thought it would be weird marbled. I omitted them from the outside of one loaf to tell it apart from an all-deli loaf I made the same day. I found [some marbling advice](http://www.abreadaday.com/?p=1365) online.
+I made marbled rye made from two different batches of 5-minute rye bread. I had one loaf worth of pumpernickel dough left, so I decided to make a batch of deli rye and marble them. This was complicated by the wetness of the dough and the different oven temperatures specified in the two recipes. I omitted the caraway from the deli rye dough because I thought it would be weird marbled. I omitted them from the outside of one loaf to tell it apart from an all-deli loaf I made the same day. I found [some marbling advice](http://web.archive.org/web/20211019143809/http://www.abreadaday.com/marble-rye/) online.
 
 ## Ingredients
 

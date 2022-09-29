@@ -33,6 +33,6 @@ Lastly, stir in lemon juice, salt and pepper to taste and serve, hot, with crust
 
 ## Variants
 
-Cook 1 package soy chorizo according to package directions.  Slice to bite-sized and add it to the soup at the spinach stage.  (I used [this one](https://lightlife.com/products/smart-sausages-chorizo), which I found at Market Basket.  It's in the solid style, not crumbly like Trader Joe's soy chorizo, and spices up the soup quite a bit.)
+Cook 1 package soy chorizo according to package directions.  Slice to bite-sized and add it to the soup at the spinach stage.  (I used [this one](https://lightlife.com/product/smart-sausages-chorizo/), which I found at Market Basket.  It's in the solid style, not crumbly like Trader Joe's soy chorizo, and spices up the soup quite a bit.)
 
 Alternately, add crushed red pepper to taste early on for spicing up.

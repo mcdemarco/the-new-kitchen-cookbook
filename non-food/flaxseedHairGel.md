@@ -1,6 +1,6 @@
 # Flaxseed Hair Gel
 
-This recipe is from Erica "(a very curly girl)" at [The Happy Hunters](http://thehappyhuntersblog.com/blog/13950497), though it came to me somewhat altered through a friend who had mercy on my curls, and I have altered it further.  My first batch lasted me about 3 months of use every other day or so before starting to both run out and get punky; disregard the warning in the original recipe about it only keeping for two weeks.
+This recipe is from Erica "(a very curly girl)" at [The Happy Hunters](http://web.archive.org/web/20200218112527/http://thehappyhuntersblog.com/blog/13950497), though it came to me somewhat altered through a friend who had mercy on my curls, and I have altered it further.  My first batch lasted me about 3 months of use every other day or so before starting to both run out and get punky; disregard the warning in the original recipe about it only keeping for two weeks.
 
 Use 1 dollop (or more) to coat wet curls.
 

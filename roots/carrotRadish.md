@@ -1,6 +1,6 @@
 # Carrot and Radish Salad
 
-I googled quickly for something that would use up my lingering carrots and radishes and could be served not hot, but without shredding.  I made this one up out of a couple of other recipes, [Carrot Salad](http://www.geniuskitchen.com/recipe/carrot-salad-114503) and [Roasted Radishes](http://www.miedemaproduce.com/category/all-recipes/radish-dishes).
+I googled quickly for something that would use up my lingering carrots and radishes and could be served not hot, but without shredding.  I made this one up out of a couple of other recipes, [Carrot Salad](http://www.geniuskitchen.com/recipe/carrot-salad-114503) and [Roasted Radishes](https://miedemaproduce.com/recipe/roasted-radishes/print).
 
 ## Dressing
 

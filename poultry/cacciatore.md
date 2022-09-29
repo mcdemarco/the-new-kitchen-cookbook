@@ -1,6 +1,6 @@
 # Chicken Cacciatore
 
-This recipe is a combination of the one in _Cucina Ebraica: Flavors of the Italian Jewish Kitchen_, by Joyce Goldstein, also available [online](http://www.cyber-kitchen.com/rfcj/ITALIAN/Poultry_Chicken_Ezekiels_-_meat.html), and the one in _Classic Italian Jewish Cooking_ by Edda Servi Machlin.
+This recipe is a combination of the one in _Cucina Ebraica: Flavors of the Italian Jewish Kitchen_, by Joyce Goldstein, also available [online](http://web.archive.org/web/20150927025710/http://www.cyber-kitchen.com/rfcj/ITALIAN/Poultry_Chicken_Ezekiels_-_meat.html), and the one in _Classic Italian Jewish Cooking_ by Edda Servi Machlin.
 
 ## Ingredients
 

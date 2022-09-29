@@ -1,6 +1,6 @@
 # Chicken with Collards and Rice
 
-I'm always on the lookout for things to do with my favorite cut of chicken: boneless chicken thighs.  This is recipe is an altered version of Chicken-and-Collards Pilau from [Southern Living](http://www.southernliving.com/meat/chicken/chicken-collards-rice-pilau-recipe-video) by way of [myrecipes](http://www.myrecipes.com/recipe/chicken-collards-pilau).  I found it strangely difficult to follow; also I didn't believe the rice quantities, and I didn't have the extra veggies on hand.   I did have some vegan sausage I wanted to use up, and I ran out of basmati and had to use half sushi rice.
+I'm always on the lookout for things to do with my favorite cut of chicken: boneless chicken thighs.  This is recipe is an altered version of Chicken-and-Collards Pilau from [Southern Living](https://www.southernliving.com/recipes/chicken-collards-pilau) by way of [myrecipes](http://web.archive.org/web/20211201123235/http://www.myrecipes.com/recipe/chicken-collards-pilau).  I found it strangely difficult to follow; also I didn't believe the rice quantities, and I didn't have the extra veggies on hand.   I did have some vegan sausage I wanted to use up, and I ran out of basmati and had to use half sushi rice.
 
 Serves 3--6.
 

@@ -2,7 +2,7 @@
 
 ![one fudge](../images/fudge2.png)
 
-This is an even easier easy fudge, with just the basic ingredients from [Eagle Brand](http://www.eaglebrand.com/recipes/details/?RecipeId=4139), along with my addition of some almond or peppermint extract.  For more easy-fudge-making detail (not that there are many more details), see the Nutella fudge recipe.
+This is an even easier easy fudge, with just the basic ingredients from [Eagle Brand](https://www.eaglebrand.com/recipe/chocolate-fudge/), along with my addition of some almond or peppermint extract.  For more easy-fudge-making detail (not that there are many more details), see my [Nutella fudge recipe](../sweets/nutellaFudge.md).
 
 ## Ingredients
 

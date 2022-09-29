@@ -1,6 +1,6 @@
 # Savory Zucchini Muffins
 
-This recipe is derived from [Lucini's Savory Zucchini Bread](http://www.lucini.com/recipes/category/side-dishes/savory-zucchini-bread), a 9x5 loaf recipe, but I've only made it as muffins.  I also added currants, non-white flour, and some extra spices, but never the Parmesan.
+This recipe is derived from [Lucini's Savory Zucchini Bread](https://www.lucini.com/recipes/savory-zucchini-bread), a 9x5 loaf recipe, but I've only made it as muffins.  I also added currants, non-white flour, and some extra spices, but never the Parmesan.
 
 When I'm making savory muffins I don't usually use muffin cups; I have a non-stick muffin tin.  I generally serve them as a vegetable.
 
