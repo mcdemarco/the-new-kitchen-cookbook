@@ -1,8 +1,10 @@
 # Carrot Spice Muffins
 
-This is another Recipezaar recipe, #98447, cut down and otherwise adapted for my purposes.
+This is another Recipezaar recipe, [#98447](https://www.food.com/recipe/cha-ching-carrot-spice-muffins-98447?scale=12), cut down and otherwise adapted for my purposes.
 
 Sometimes I serve them as a vegetable.
+
+Makes 12 muffins.
 
 ## Ingredients
 
@@ -33,3 +35,6 @@ Sometimes I serve them as a vegetable.
 4. Stir the mixtures together until just moistened.
 5. Bake about 15 minutes, or to the toothpick test.
 
+## Variants
+
+The original was entirely whole wheat flour, and made 18 muffins (thus the thirds of so many ingredients).

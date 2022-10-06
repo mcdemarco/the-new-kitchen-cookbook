@@ -84,11 +84,13 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 [Mama Sophia's](https://sophiaroe.wordpress.com/2015/02/11/recipe-mama-sophias-dairy-free-lasagna/) dairy-free lasagna
 
-[Japanese Curry](https://www.justonecookbook.com/japanese-beef-curry/)
+[Japanese Curry](https://www.justonecookbook.com/japanese-beef-curry/) and [the roux](https://www.justonecookbook.com/how-to-make-curry-roux/)
 
 Vegan sausage: made from [tofu](https://minimalistbaker.com/vegan-pepperoni/) or [steamed](https://itdoesnttastelikechicken.com/easy-vegan-seitan-pepperoni/) or [baked seitan](https://www.noracooks.com/vegan-pepperoni/)
 
 Stufadin, _Cucina Ebraica_ p.145
+
+
 
 ## Poultry
 
