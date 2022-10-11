@@ -373,6 +373,8 @@
     filename: italianPotRoast
   - name: Molha Quase à Moda de Pico
     filename: molha
+  - name: Instant Pot Ground Beef Stew
+    filename: ipGroundBeefStew
   - name: Lamb Stew
     filename: lambStew
 
