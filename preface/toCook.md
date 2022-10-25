@@ -70,6 +70,10 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 [IP Beef (Lamb) Rice Pilau](https://instantpoteats.com/instant-pot-rice-pilaf-ground-lamb-figs-almonds/)
 
+[IP Beef Biryani](https://myheartbeets.com/instant-pot-keema-biryani-keema-pulao/)
+
+[IP Chicken Biryani](https://ministryofcurry.com/chicken-biryani-instant-pot/#recipe)
+
 ###  Roots
 
 [Sweet Potato Latkes](https://www.epicurious.com/recipes/food/views/sweet-potato-latkes-105919)
