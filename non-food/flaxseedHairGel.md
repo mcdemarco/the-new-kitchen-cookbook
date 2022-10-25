@@ -12,7 +12,7 @@ Use 1 dollop (or more) to coat wet curls.
 
 ## Ingredients
 
-* 1/4 c. flaxseed (a.k.a. linseed)
+* 1/4 c. flaxseed (a.k.a. linseed), rinsed if necessary
 * 2 c. water
 * 8--10 drops grapefruit seed extract (optional)
 * 5--6 drops essential oil (optional, for fragrance)
