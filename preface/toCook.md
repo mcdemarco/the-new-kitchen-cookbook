@@ -25,10 +25,6 @@ This is my to-do list.
 
 [Ethiopian Beef Stew (IP)](https://twosleevers.com/ethiopian-beef-stew/)
 
-[Instant Pot Non-Dairy Chicken and Wild Rice Soup](https://lifebeyondthelessonplan.com/instant-pot-wild-rice-and-chicken-soup/) (for example)
-
-[Non-Dairy Chicken and Wild Rice Soup](https://www.delish.com/cooking/a37636336/chicken-wild-rice-soup-recipe/) (non-IP)
-
 Pumpkin and Chickpea soup (_Sephardic Cooking_ p.436)
 
 [Moqueca (IP)](https://twosleevers.com/brazilian-moqueca/)

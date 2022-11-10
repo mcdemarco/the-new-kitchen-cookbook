@@ -87,6 +87,8 @@
     filename: ipTomatoChicken
   - name: Instant Pot Chicken Lentil Soup
     filename: ipChickenLentil
+  - name: Instant Pot Chicken and Wild Rice Soup
+    filename: ipChickenAndWildRice
 
 - name: Bread
   filename: bread
