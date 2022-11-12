@@ -66,6 +66,25 @@
   - name: Waldorf Salad
     filename: waldorfSalad
 
+  - name: North African Spiced Carrot and Parsnip Salad
+    filename: carrotParsnip
+  - name: Carrot and Radish Salad
+    filename: carrotRadish
+
+  - name: Rice Salad
+    filename: riceSalad
+  - name: Farro Salad
+    filename: farroSalad
+
+  - name: Smoked Mackerel Pasta Salad
+    filename: mackerelSalad
+  - name: Soba Salad
+    filename: sobaSalad
+
+  - name: Salmon Poke
+    filename: poke
+
+
 - name: Soup
   filename: soup
   files:
@@ -271,10 +290,6 @@
     filename: stuffedSquash
   - name: Tzimmes
     filename: tzimmes
-  - name: North African Spiced Carrot and Parsnip Salad
-    filename: carrotParsnip
-  - name: Carrot and Radish Salad
-    filename: carrotRadish
 
 - name: Rice
   filename: rice
@@ -289,10 +304,6 @@
     filename: ipRiceAndRedLentils
   - name: Orzo
     filename: orzo
-  - name: Rice Salad
-    filename: riceSalad
-  - name: Farro Salad
-    filename: farroSalad
   - name: Stuffed Peppers
     filename: stuffedPeppers
   - name: About Risotto
@@ -335,10 +346,6 @@
     filename: macncheese
   - name: Salmon Casserole
     filename: salmonCasserole
-  - name: Smoked Mackerel Salad
-    filename: mackerelSalad
-  - name: Soba Salad
-    filename: sobaSalad
 
 - name: Meat
   filename: meat
@@ -481,8 +488,6 @@
     filename: bacalhauComBroa
   - name: Fish Kuku
     filename: kuku
-  - name: Salmon Poke
-    filename: poke
 
 - name: Sweets
   filename: sweets
