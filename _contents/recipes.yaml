@@ -65,25 +65,20 @@
     filename: tomatoAvocado
   - name: Waldorf Salad
     filename: waldorfSalad
-
   - name: North African Spiced Carrot and Parsnip Salad
     filename: carrotParsnip
   - name: Carrot and Radish Salad
     filename: carrotRadish
-
   - name: Rice Salad
     filename: riceSalad
   - name: Farro Salad
     filename: farroSalad
-
   - name: Smoked Mackerel Pasta Salad
     filename: mackerelSalad
   - name: Soba Salad
     filename: sobaSalad
-
   - name: Salmon Poke
     filename: poke
-
 
 - name: Soup
   filename: soup
