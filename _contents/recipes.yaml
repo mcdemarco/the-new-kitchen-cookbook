@@ -52,6 +52,20 @@
   - name: Rosh Hashanah Seder
     filename: rhSeder
 
+- name: Salad
+  filename: salad
+  files:
+  - name: Chickpea Salad with Fennel, Tomatoes and Olives
+    filename: chickpeaFennel
+  - name: Mizeria (Polish Cucumber Salad)
+    filename: cucumber
+  - name: Tomato and Watermelon Salad
+    filename: tomatoWatermelon
+  - name: Grape Tomato and Avocado Salad
+    filename: tomatoAvocado
+  - name: Waldorf Salad
+    filename: waldorfSalad
+
 - name: Soup
   filename: soup
   files:
@@ -235,18 +249,6 @@
     filename: spinachRicottaLatkes
   - name: Polenta
     filename: polenta
-  - name: Moroccan Spice Mix
-    filename: spiceMix
-  - name: Chickpea Salad with Fennel, Tomatoes and Olives
-    filename: chickpeaFennel
-  - name: Mizeria (Polish Cucumber Salad)
-    filename: cucumber
-  - name: Tomato and Watermelon Salad
-    filename: tomatoWatermelon
-  - name: Grape Tomato and Avocado Salad
-    filename: tomatoAvocado
-  - name: Waldorf Salad
-    filename: waldorfSalad
   - name: Breakfast Lentils
     filename: breakfastLentils
 
