@@ -39,4 +39,6 @@ I once tried the recipe with boneless chicken thighs, cutting it down to one ste
 
 I once tried it with chopped delicata squash, added in with the wine and vinegar (since that seemed to be the appropriate amount of cooking time).
 
+Castelvetrano green olives work as a substitute for kalamatas.
+
 You can toss all the ingredients plus two-thirds of a cup of water into an Instant Pot and pressure cook on high for about 20 minutes plus a natural release, depending on the size and frozenness of your chicken.  You'll need to reduce the water afterwards if you want a sauce, or save it for risotto.

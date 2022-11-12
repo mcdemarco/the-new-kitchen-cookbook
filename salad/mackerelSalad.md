@@ -1,4 +1,4 @@
-# Smoked Mackerel Salad
+# Smoked Mackerel Pasta Salad
 
 It was a crazy heat wave and Peter wanted some fish in our planned cold pasta salad.  We found a 1/3 lb. package of smoked mackerel at Market Basket and tossed it up with some spare veggies from the gazpacho, plus some ingredients from [Jamie Oliver's mackerel pasta salad recipe](https://www.jamieoliver.com/recipes/pasta-recipes/mackerel-pasta-salad/).
 
@@ -30,11 +30,13 @@ Serves 2, chilled or at room temperature.
 7. Mix all ingredients together.
 8. Optionally, chill further before serving.
 
+
 ## Variants
 
-You can do something similar with [a can of salmon](https://www.tasteofhome.com/recipes/salmon-pasta-salad/) or another smoked fish.
+You can do something similar with [a can of salmon](https://www.tasteofhome.com/recipes/salmon-pasta-salad/) or another smoked fish.  We frequently use up leftover smoked salmon this way.
+
+In lieu of fish, we often make pasta salad with feta.
 
 You can use snow peas instead of green beans; they only need one minute of blanching.
 
 Capers never hurt, nor would a crunchier vegetable like fennel or celery (adequately diced).
-
