@@ -327,6 +327,8 @@
     filename: meatsauce
   - name: Instant Pot Pasta with Ground Turkey
     filename: ipTurkeyPasta
+  - name: Instant Pot Pasta with Ground Beef
+    filename: ipBeefPasta
   - name: Mac and Cheese
     filename: macncheese
   - name: Salmon Casserole

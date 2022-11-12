@@ -90,7 +90,7 @@ Vegan sausage: made from [tofu](https://minimalistbaker.com/vegan-pepperoni/) or
 
 Stufadin, _Cucina Ebraica_ p.145
 
-
+[IP Pasta Sauce](https://www.pressurecookrecipes.com/instant-pot-spaghetti-sauce/)
 
 ## Poultry
 

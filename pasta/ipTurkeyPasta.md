@@ -39,5 +39,5 @@ I wasn't sure I believed the Instant Pot could make pasta, but I tried [this one
 
 Green beans worked well as a vegetable.
 
-Ground beef or other ground meats should work the same.  Adjust the spices to taste.
+Ground beef or other ground meats should work the same.  Adjust the spices to taste.  For a beef at a different size, see [Instant Pot Pasta with Ground Beef](../ipBeefPasta.md).
 

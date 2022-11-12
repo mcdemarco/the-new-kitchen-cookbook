@@ -45,3 +45,5 @@ The traditional spices are pretty...midwestern, so some people punch it up with 
 The stovetop version includes an interesting step of frying the skins separately, dicing them, and returning them to the soup after cooking.
 
 If you want that creamy style without dairy, stir in a cup of coconut milk after releasing the pressure.
+
+You can [leave out the chicken](https://www.gimmesomeoven.com/cozy-autumn-wild-rice-soup/) and/or add some potatoes or sweet potato.
