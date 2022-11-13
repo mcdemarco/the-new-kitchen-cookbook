@@ -25,16 +25,17 @@ I found this recipe [online](http://www.anediblemosaic.com/?p=4167) when looking
 * 2 potatoes, chopped
 * 1 green bell pepper, chopped
 
-
 ## Directions
 
 1. Dredge thighs and brown in oil in dutch oven.  Remove chicken and set aside.
 2. Brown onions in same pan, then add spices. Saute briefly.
-3. Add stock and chicken, and simmer 45 minutes.  (I skipped this step.)
-4. Add potatoes and carrots and simmer for 30 minutes.
-5. Add bell pepper and cook for 10 more minutes.
+3. Add stock and chicken.
+4. Optionally, simmer 45 minutes.  (I skipped this step.)
+5. Add potatoes and carrots and simmer for 30 minutes.
+6. Add bell pepper and cook for 10 more minutes.
 
 Serve with crusty bread.
+
 
 ## Variants
 

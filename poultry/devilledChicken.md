@@ -11,15 +11,11 @@ This is an amalgam of an unexpected number of devilled chicken recipes available
 * 1/2 T. worchestershire sauce (optional)
 * Tabasco sauce to taste (optional)
 * lemon juice (optional, if it needs watering down)
-
 * 1/4 tsp. cayenne
 * 2/3 c. panko
 * 1 tsp. dried parsley
 * 1 tsp. paprika
 * salt and pepper to taste
-
-
-
 
 ## Directions
 
@@ -27,8 +23,5 @@ This is an amalgam of an unexpected number of devilled chicken recipes available
 2. Mix spices with panko.
 3. Mix wet ingredients (wetness may vary according to your choices of ingredients).
 4. Rub the chicken pieces with the wet mix.
-4. Roll chicken in dry mix or sprinkle on top.
-5. Bake for 20--35 minutes, depending on the thickness of the pieces.
-
-
-
+5. Roll chicken in dry mix or sprinkle on top.
+6. Bake for 20--35 minutes, depending on the thickness of the pieces.
