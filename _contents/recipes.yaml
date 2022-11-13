@@ -117,6 +117,10 @@
     filename: ipChickenLentil
   - name: Instant Pot Chicken and Wild Rice Soup
     filename: ipChickenAndWildRice
+  - name: Moroccan Spiced Chicken Stew
+    filename: thighStew
+  - name: Instant Pot Stock
+    filename: ipStock
 
 - name: Bread
   filename: bread
@@ -425,8 +429,6 @@
     filename: ipChickenVindaloo
   - name: Treda
     filename: treda
-  - name: Moroccan Spiced Chicken Stew
-    filename: thighStew
   - name: Crockpot Chicken with Farro
     filename: crockpotChickenFarro
   - name: Devilled Chicken Thighs
@@ -445,10 +447,6 @@
     filename: turkeyballs
   - name: Turkey Chili
     filename: turkeyChili
-  - name: Italian Wedding Soup
-    filename: italianWedding
-  - name: Instant Pot Stock
-    filename: ipStock
   - name: Cranberry Sauce
     filename: cranberrySauce
 
