@@ -111,14 +111,14 @@
     filename: kielbasa
   - name: Matzah Ball Soup
     filename: matzaball
+  - name: Moroccan Spiced Chicken Stew
+    filename: thighStew
   - name: Instant Pot Tomato Chicken Soup
     filename: ipTomatoChicken
   - name: Instant Pot Chicken Lentil Soup
     filename: ipChickenLentil
   - name: Instant Pot Chicken and Wild Rice Soup
     filename: ipChickenAndWildRice
-  - name: Moroccan Spiced Chicken Stew
-    filename: thighStew
   - name: Instant Pot Stock
     filename: ipStock
 
