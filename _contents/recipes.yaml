@@ -159,6 +159,8 @@
     filename: oliveOil
   - name: Garlic Naan
     filename: naan
+  - name: Olive and Garlic Focaccia
+    filename: oliveFocaccia
   - name: Za'atar Bread
     filename: zaatar
   - name: Spicy Cinnamon Flatbread

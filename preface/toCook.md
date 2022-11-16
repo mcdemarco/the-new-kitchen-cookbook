@@ -41,7 +41,7 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 [Rosemary Crescent Rolls](http://www.artisanbreadinfive.com/2011/09/21/rosemary-crescent-rolls#more-3285)
 
-[Plain rolls](http://krausnickitchen.com/2012/01/18/no-knead-dinner-rolls-artisan-bread-in-five-minutes-a-day/)
+[Plain rolls](http://web.archive.org/web/20210805145235/https://krausnickitchen.com/2012/01/18/no-knead-dinner-rolls-artisan-bread-in-five-minutes-a-day/)
 
 [Jim Lahey's no knead style](http://cooking.nytimes.com/recipes/11376-no-knead-bread)
 
@@ -75,6 +75,8 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 [Sweet Potato Latkes](https://www.epicurious.com/recipes/food/views/sweet-potato-latkes-105919)
 
 [Ground-beef Stuffed Butternut Squash](https://www.allrecipes.com/recipe/279378/ground-beef-stuffed-butternut-squash/) (needs to be kashered) or [this one with kale](https://eatthegains.com/kale-beef-stuffed-butternut-squash/)
+
+[Kadoo borani](https://afghancooks.com/kadoo-borani-sauteed-pumpkin/) (pumpkin)
 
 ## Meat
 
