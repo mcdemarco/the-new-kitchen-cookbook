@@ -37,6 +37,8 @@ Pumpkin and Chickpea soup (_Sephardic Cooking_ p.436)
 
 English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easiest-and-tastiest-homemade-english-muffins) or [fried](http://www.artisanbreadinfive.com/2013/11/01/english-muffins-on-the-stove-top-with-gold-medal-flour-and-red-star-yeast#more-6412) (could use molds but not entirely necessary)
 
+[Focaccia di recco](https://www.sugarsaltmagic.com/focaccia-di-recco/)
+
 ## Slow Bread
 
 [Rosemary Crescent Rolls](http://www.artisanbreadinfive.com/2011/09/21/rosemary-crescent-rolls#more-3285)
@@ -149,10 +151,7 @@ Date Caramels [with almond butter](https://www.thekitchn.com/how-to-make-vegan-c
 
 ### Pie
 
-[Pareve Pumpkin Pie](https://jamiegeller.com/recipes/parve-pumpkin-pie/)
-
 [Cranberry Raisin pie](https://www.afamilyfeast.com/cranberry-raisin-pie/)
-
 
 Homemade phyllo dough [with a pasta maker](https://www.thespruceeats.com/homemade-phyllo-dough-1705600) (note that the comments say the recipe is way off) or [without](https://www.mygreekdish.com/recipe/easy-homemade-phyllo-recipe-beginners/).  See also My Greek Dish's [spanakopita recipe](https://www.mygreekdish.com/recipe/traditional-greek-spinach-pie-spanakopita-recipe-with-homemade-phyllo/).  Other promising recipes for the [dough](https://deliciousfromscratch.com/filo-dough-recipe/) and ["pie"](https://deliciousfromscratch.com/spinach-feta-pie-recipe/) include [a local effort](https://thegarumfactory.net/2020/03/27/saloniki-spanakopita/)
 
@@ -163,7 +162,5 @@ Homemade phyllo dough [with a pasta maker](https://www.thespruceeats.com/homemad
 [Roasted Peppers](http://toriavey.com/how-to/2010/02/roasted-bell-peppers/)
 
 [Caribbean BBQ Sauce](http://web.archive.org/web/20150915063423/http://forums.gardenweb.com/discussions/2098748/first-scotch-bonnets-what-sauce-recipes-can-i-make)
-
-Tarts: Turnovers with quick sour cream pastry, using my "crepe makers".
 
 Persian rice, esp. with lentils (e.g., Reyna's cookbook p. 207)

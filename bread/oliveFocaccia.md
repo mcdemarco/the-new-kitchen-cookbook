@@ -25,3 +25,9 @@ This is a yeast flatbread from the *Artisan Bread in 5* [blog](https://artisanbr
 8. Put the bread in the oven and pour a cup of hot water into the broiler tray.
 9. Bake 15--20 minutes or until medium brown.
 10. Serve warm.
+
+## Variants
+
+See this [Italian recipe book](https://www.italianrecipebook.com/focaccia-toppings/), [Marcellina](https://www.marcellinaincucina.com/focaccia-toppings/), or [various](https://recipes.net/articles/focaccia-toppings/) [other](https://insanelygoodrecipes.com/focaccia-toppings/) [lists](https://www.baked-theblog.com/easy-focaccia-bread-recipe-plus-40-topping-ideas/) for many more toppings.
+
+Nigella is also an option, though not a traditional one.
