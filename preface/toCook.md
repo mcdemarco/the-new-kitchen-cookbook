@@ -23,11 +23,9 @@ This is my to-do list.
 
 [Kreplach](https://www.epicurious.com/recipes/food/views/kreplach-236219)
 
-[Ethiopian Beef Stew (IP)](https://twosleevers.com/ethiopian-beef-stew/)
-
 Pumpkin and Chickpea soup (_Sephardic Cooking_ p.436)
 
-[Moqueca (IP)](https://twosleevers.com/brazilian-moqueca/)
+[Moqueca (IP)](https://twosleevers.com/brazilian-moqueca/) (Brazilian whitefish stew)
 
 ## Breakfast and Quick Bread
 
@@ -40,8 +38,6 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 [Focaccia di recco](https://www.sugarsaltmagic.com/focaccia-di-recco/)
 
 ## Slow Bread
-
-[Rosemary Crescent Rolls](http://www.artisanbreadinfive.com/2011/09/21/rosemary-crescent-rolls#more-3285)
 
 [Plain rolls](http://web.archive.org/web/20210805145235/https://krausnickitchen.com/2012/01/18/no-knead-dinner-rolls-artisan-bread-in-five-minutes-a-day/)
 
@@ -164,3 +160,5 @@ Homemade phyllo dough [with a pasta maker](https://www.thespruceeats.com/homemad
 [Caribbean BBQ Sauce](http://web.archive.org/web/20150915063423/http://forums.gardenweb.com/discussions/2098748/first-scotch-bonnets-what-sauce-recipes-can-i-make)
 
 Persian rice, esp. with lentils (e.g., Reyna's cookbook p. 207)
+
+[Rosemary Crescent Rolls](http://www.artisanbreadinfive.com/2011/09/21/rosemary-crescent-rolls#more-3285) with much less heat/time!

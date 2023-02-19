@@ -27,6 +27,8 @@
     filename: chickpeas
   - name: Moroccan Spice Mix
     filename: moroccanSpiceMix
+  - name: Ethiopian Berbere
+    filename: berbere
   - name: Sri Lankan Roasted Curry Powder
     filename: roastedCurryPowder
   - name: Essence of Emeril
@@ -393,6 +395,8 @@
     filename: molha
   - name: Instant Pot Ground Beef Stew
     filename: ipGroundBeefStew
+  - name: Instant Pot Ethiopian Beef Stew
+    filename: ipEthBeefStew
   - name: Lamb Stew
     filename: lambStew
 

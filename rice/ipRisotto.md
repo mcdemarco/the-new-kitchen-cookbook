@@ -9,8 +9,8 @@ Serves two as a main meal with extras (one person per half cup of rice), or 3--4
 * 2 T. olive oil
 * 1 shallot, sliced, or yellow onion, diced (optional)
 * 3 cloves garlic, minced (optional)
-* 1 c. Arborio rice or more
-* 2 c. chicken, vegetable, or meat stock (or twice the amount of rice, if using more rice)
+* 1 c. Arborio rice (or more)
+* 2 c. chicken, vegetable, or meat stock (or twice the volume of the rice, if using more rice)
 * 1 pinch saffron (optional)
 * 1 T. dry wine (optional)
 * 3/4 tsp. salt
@@ -35,6 +35,8 @@ If your extra is mushrooms, subtract the volume of mushroom juice from the broth
 ## Variants
 
 You can stir in cheese at the end or when serving.
+
+You can replace some of the liquid with tomatoes.
 
 Some pressure cook for 6 minutes with 5 minutes of natural release.
 
