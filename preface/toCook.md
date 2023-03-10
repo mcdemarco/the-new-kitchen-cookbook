@@ -27,6 +27,8 @@ Pumpkin and Chickpea soup (_Sephardic Cooking_ p.436)
 
 [Moqueca (IP)](https://twosleevers.com/brazilian-moqueca/) (Brazilian whitefish stew)
 
+[IP Peanut Stew](https://www.paintthekitchenred.com/instant-pot-african-peanut-stew/)
+
 ## Breakfast and Quick Bread
 
 [Ricotta Zucchini Muffins](http://www.tasteofbeirut.com/savory-zucchini-and-ricotta-muffins/) or [Ricotta Muffins](https://cafefernando.com/ricotta-and-basil-muffins/)
@@ -42,6 +44,8 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 [Plain rolls](http://web.archive.org/web/20210805145235/https://krausnickitchen.com/2012/01/18/no-knead-dinner-rolls-artisan-bread-in-five-minutes-a-day/)
 
 [Jim Lahey's no knead style](http://cooking.nytimes.com/recipes/11376-no-knead-bread)
+
+Garbage Bread
 
 * rice flour cracker
 
@@ -61,6 +65,10 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 ### Rice
 
 [Fennel Risotto](http://cooking.nytimes.com/recipes/1016978-caramelized-onion-and-fennel-risotto)
+
+[IP Butternut Squash Risotto](https://theforkedspoon.com/wprm_print/49655/)
+
+[IP Mushroom Risotto](https://www.seriouseats.com/pressure-cooker-mushroom-risotto-recipe)
 
 [IP Beef (Lamb) Rice Pilau](https://instantpoteats.com/instant-pot-rice-pilaf-ground-lamb-figs-almonds/)
 

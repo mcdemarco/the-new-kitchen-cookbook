@@ -50,7 +50,7 @@ For Instant Pot or stovetop.
 
 1. Brown onions in oil.
 2. Add tomatoes, first three spices, and chicken. Saute 5 minutes.
-3. Add water, remaining spices, and lentils.  Cover and cook on medium 40 minutes on stovetop, or pressure cook on high for 20 minutes.  (Release pressure either way.)
+3. Add water, remaining spices, and lentils.  Cover and cook on medium 40 minutes on stovetop, or pressure cook on high for 20 minutes.  (Release pressure as you like.)
 4. Serve over pasta or crusty bread.
 
 ## Variants

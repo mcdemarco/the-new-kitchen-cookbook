@@ -1,6 +1,6 @@
 # Instant Pot Risotto
 
-This is a basic no-cheese risotto for the instant pot, based on an extremely basic one in [How To Instant Pot](https://amzn.to/3cwlXm2).
+This is a basic no-cheese risotto for the instant pot, based on an extremely basic one in [How To Instant Pot](https://amzn.to/3cwlXm2).  The miso paste step is from [serious eats](https://www.seriouseats.com/pressure-cooker-mushroom-risotto-recipe).
 
 Serves two as a main meal with extras (one person per half cup of rice), or 3--4 (per cup) as a side dish.  I scale the full meal up to at least 1 1/4 c. rice when we're hungry.
 
@@ -14,6 +14,7 @@ Serves two as a main meal with extras (one person per half cup of rice), or 3--4
 * 1 pinch saffron (optional)
 * 1 T. dry wine (optional)
 * 3/4 tsp. salt
+* 2 tsp. miso paste (optional)
 * other spices to taste (*e.g.*, pepper, turmeric, sage, etc.)
 * optional extras (mushrooms, vegetables, etc.)
 
@@ -23,7 +24,7 @@ Serves two as a main meal with extras (one person per half cup of rice), or 3--4
 2. Optionally (in the instant pot), saute the onions in the oil on low to desired transparency.  Add garlic and saute one more minute.
 3. If the extras cannot stand up to pressure cooking, saute them now until cooked, then fish them out and set aside.
 3. Saute the rice in the oil.
-4. Optionally, deglaze the pot with wine.
+4. Optionally, deglaze the pot with wine and stir in the miso.
 4. Add stock and any durable extras.  Stir and deglaze the pot if not already deglazed.
 5. Cancel saute, close instant pot, and seal the vent.
 6. Pressure cook on high for 7 minutes.
