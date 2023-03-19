@@ -4,6 +4,12 @@ Sometimes you want a little less than the full *Artisan Bread in 5 Minutes a Day
 
 Note that an eighth of a cup is 2 T., and 3/4 T is 2 1/4 tsp.  Note also that small measurements should be done by volume even when weights are provided (unless your scale is extraordinarily accurate).
 
+Conversion to weights are mostly based on the Artisan Bread in 5 blog, sometimes directly and sometimes via the [FAQ on weighing ingredients](https://artisanbreadinfive.com/2015/03/30/no-knead-whole-grain-baguette-buns-with-extra-sourdough-kick-this-time-weigh-out-the-ingredients/), which gives the following weights:
+
+* 1 c. all-purpose flour = 141.7 g.
+* 1 c. whole wheat flour = 127.6 g.
+* 1 c. water = 226.8 g.
+
 ## Master Recipe
 
 ### One Loaf
@@ -57,6 +63,31 @@ Note that an eighth of a cup is 2 T., and 3/4 T is 2 1/4 tsp.  Note also that sm
 * 1 1/2 T caraway seed
 * 5 1/2 c. white flour
 * 1 c. alternate flour(s)
+
+## Brioche Dough
+
+This sweet dough recipe is also available [in their blog](https://artisanbreadinfive.com/2008/09/24/brioche-dough-recipe-and-all-of-its-wonderful-uses/).
+
+### Two Loaves
+
+* 3/4 c. water (170 g.)
+* 1/2 T yeast
+* 1/2 T kosher salt
+* 4 large eggs
+* 1/4 c. honey (84 g.)
+* 3/4 c. butter, melted (1 1/2 sticks)
+* 3 3/4 c. flour (531 g.)
+
+### Four Loaves
+
+* 1 1/2 c. water (340 g.)
+* 1 T yeast
+* 1 T kosher salt
+* 8 large eggs
+* 1/2 c. honey (168 g.)
+* 1 1/2 c. butter, melted (3 sticks)
+* 7 1/2 c. flour (1063 g.)
+
 
 ## Olive Oil Dough
 

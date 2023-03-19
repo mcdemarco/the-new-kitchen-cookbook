@@ -263,6 +263,8 @@
     filename: ipArtichokes
   - name: Instant Pot Cannellini
     filename: ipCannellini
+  - name: Crispy Baked Tofu
+    filename: bakedTofu
   - name: Vegetarian Chili
     filename: vegetarianChili
   - name: Latkes
