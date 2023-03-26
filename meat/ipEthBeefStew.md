@@ -12,7 +12,7 @@ Serves 2--3.
 * 2 cloves garlic, minced or sliced
 * 1 1/2 T [berbere](../appetizers/berbere.md)
 * 1/3 c. chopped tomatoes (optional)
-* 1/2 c. water
+* 1/2 c. water  (If scaling up, don't increase.)
 * 1/2 tsp. salt
 
 ## Directions
@@ -20,7 +20,7 @@ Serves 2--3.
 1. Sauté the onions, garlic, and berbere in the oil until somewhat dry.
 2. Add the ground beef and salt.  Chop it up well and optionally brown it.
 3. Cancel sauté.
-4. Add remaining ingredients.
+4. Add remaining ingredients. 
 5. Pressure-cook on high for 10 minutes.
 6. Release naturally.
 7. Optionally cook down a bit more on sauté.
@@ -33,3 +33,5 @@ I served this with egg noodles and liked it that way, although rice was my first
 It would be handy to cook some vegetables in the stew, if they can hold up under the pressure.
 
 Traditionally this would be made with butter instead of oil.
+
+Substitute stew meat for the ground beef.  Increase cooking time to 30 minutes.

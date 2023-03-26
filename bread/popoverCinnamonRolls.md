@@ -29,7 +29,7 @@ Makes 6.
 7. Cover and let rise 1 1/2 to 2 hours, or overnight in the refrigerator plus 45 minutes on the counter in the morning.
 8. Preheat oven to 350°.
 9. Bake 20--30 minutes.
-10. Remove from pan and cool on a rack.
+10. Invert pan immediately (because of the melted sugar) onto a rack.
 11. Mix sugar and cream for icing and ice.  Optionally top with sprinkles.
 
 ## Variants
@@ -38,5 +38,4 @@ Use a batch of variant Brioche dough made with 1/4 tsp. saffron per pound/loaf, 
 
 When skipping the saffron, you can toss in some zest.
 
-These are pretty much the same as [their regular cinnamon rolls](https://artisanbreadinfive.com/2011/03/28/2897/), so if you have a whole pound of brioche to use up, scale up the filling and make a couple more freeform rolls.
-
+These are pretty much the same as [their regular cinnamon rolls](https://artisanbreadinfive.com/2011/03/28/2897/), so if you have a whole pound of brioche to use up, scale up the filling and make a couple more freeform rolls.  For a quick rise, try [their cinnamon twists](https://artisanbreadinfive.com/2017/02/27/cinnamon-twists/) (but reduce the time and/or temperature).
