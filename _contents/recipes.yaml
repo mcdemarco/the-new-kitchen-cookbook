@@ -179,6 +179,8 @@
     filename: garlicBreadsticks
   - name: Fry Dough(nuts)
     filename: fryDough
+  - name: Cinnamon Rolls in a Popover Pan
+    filename: popoverCinnamonRolls
   - name: French Toast
     filename: frenchToast
   - name: Artisan Bread Index
