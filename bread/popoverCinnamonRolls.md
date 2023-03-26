@@ -7,9 +7,9 @@ Makes 6.
 ## Ingredients
 
 * 3/4 lb refrigerated Brioche dough
-* 2 T butter, melted and cooled
-* 1/2 c. brown sugar
-* 1 T cinnamon
+* 1 T butter, melted and cooled
+* 1/4 c. brown sugar
+* 1/2 T cinnamon
 * pinch salt
 
 ### Icing
