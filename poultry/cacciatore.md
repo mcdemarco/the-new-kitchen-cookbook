@@ -31,7 +31,9 @@ This recipe is a combination of the one in _Cucina Ebraica: Flavors of the Itali
 
 ## Variants
 
-Instead of whole oil-cured olives, you can use coarsely chopped pitted black olives.
+Instead of whole oil-cured olives, you can use coarsely chopped pitted black olives.  I've also seen capers.
+
+Some recipes include bell pepper and/or mushrooms.
 
 You don't need both onions and garlic.
 

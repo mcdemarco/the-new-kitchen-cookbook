@@ -2,7 +2,7 @@
 
 This is a coconut milk tapioca pudding from one of those giant Indian cookbooks.  I increased it from the original recipe up to one can of coconut milk, but also included the original, smaller recipe plus a size in between.  It's especially handy for Passover.
 
-The full recipe can be made in a 2 quart pot, if you're careful.
+The full recipe can be made in a 2 quart pot, if you're careful and don't oversoak the tapioca.
 
 I usually use [Bob's Small Pearl Tapioca](https://www.bobsredmill.com/small-pearl-tapioca.html), but any pearl tapioca should work.  
 

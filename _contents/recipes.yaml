@@ -417,6 +417,8 @@
     filename: crockpotChickenLegs
   - name: Chicken Cacciatore
     filename: cacciatore
+  - name: Chicken Cacciatore for a Crowd
+    filename: crowdCacciatore
   - name: Turkey Chicken
     filename: turkeyChicken
   - name: Turkey Chicken for a Crowd
