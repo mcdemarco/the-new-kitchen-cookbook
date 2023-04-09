@@ -19,9 +19,7 @@ This is Peter's recipe for hot toddies. Measurements are approximate and may be 
 
 ## Directions
 
-![simmah](../images/simmah.png)
-
-1. Simmer dry spices 15 minutes.
+1. Simmer dry spices 15 minutes. ![simmah](../images/simmah.png)
 2. Add ginger and fruit.
 3. Simmer 15 more minutes.
 4. Squish fruit through strainer and discard rind.

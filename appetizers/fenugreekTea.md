@@ -1,6 +1,6 @@
 # Fenugreek Tea
 
-There are a lot of underspecified recipes for this online, but [wikiHow](https://www.wikihow.com/Make-Fenugreek-Tea) actually specified some cooking times and directions.  I adjusted them to taste.
+There are a lot of underspecified recipes for this online, but [wikiHow](https://www.wikihow.com/Make-Fenugreek-Tea) actually included some cooking times and directions.  I adjusted them to taste.
 
 ## Ingredients
 

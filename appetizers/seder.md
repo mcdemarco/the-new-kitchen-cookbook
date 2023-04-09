@@ -17,7 +17,7 @@ Other non-meal items required for the seder are:
 * a bowl of salt water
 * an afikomen bag or other wrapping
 
-### Instructions
+## Instructions
 
 1. Roast the egg(s) in the oven for 30 minutes at 325° (you can leave them in a cardboard carton or put them straight on the rack), then cool in ice water and peel.  You can hard-boil the extras if you prefer, or omit them.
 2. Roast the bone or bone substitute with anything else in the oven at any temperature.

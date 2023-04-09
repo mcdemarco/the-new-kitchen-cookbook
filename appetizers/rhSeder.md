@@ -21,7 +21,7 @@ Other notable items are:
 * bowl(s) for honey
 * challah, preferably round with honey and raisins
 
-### Instructions
+## Instructions
 
 1. Make the [challah](../bread/challah.md) (see Rosh Hashanah variant).
 2. Wash, slice, and/or check the appropriate fruit and place in small bowls.

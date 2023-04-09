@@ -6,7 +6,7 @@ For an explanation of tapioca starch/flour, see [the hard recipe](../appetizers/
 
 Apparently if you're truly unlucky you can make a [non-Newtonian fluid](https://en.wikipedia.org/wiki/Non-Newtonian_fluid) out of tapioca starch and damage your blender.  To avoid this rare occurrence, be sure to follow the instructions and mix all wet ingredients first, then add the dry ingredients gradually.
 
-Makes 15--20, best eaten hot out of the oven
+Makes 15--20, best eaten hot out of the oven.
 
 ## Ingredients
 

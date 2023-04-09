@@ -2,7 +2,9 @@
 
 Although *pão* literally means bread, I've listed *pão de queijo* as an appetizer because you should eat it hot as soon as it's baked rather than keeping it around for a day like bread (and it's gluten-free).  If this isn't convenient, you can freeze the balls until you want them.
 
-The main ingredient is tapioca/manioc/cassava/yuca/arrowroot flour/starch.  Most of those words mean the same thing; the major difference between them is whether the tapioca starch (*polvilho*) is sweet (*doce*) or sour (*azedo*).  (Cassava flour may refer to a moister whole-grain product that isn't the same as the starch, but it's even harder to find.  Also, not all arrowroot is made of manioc.)  Goya, Bob's, and other earthy/crunchy brands make sweet tapioca flour/starch that you can find in your average American supermarket, or you can get it cheaper in an Asian market (possibly as arrowroot).  But you will need to find a Brazilian grocery store to get an imported Brazilian brand of sour tapioca flour, such as Yoki or Amafil, or you can overpay for them on the internet.
+The main ingredient is tapioca/manioc/cassava/yuca/arrowroot flour/starch.  Most of those words mean the same thing; the major difference between them is whether the tapioca starch (*polvilho*) is sweet (*doce*) or sour (*azedo*).  (Cassava flour may refer to a moister whole-grain product that isn't the same as the starch, but it's even harder to find.  Also, not all arrowroot is made of manioc.)  
+
+Goya, Bob's, and other earthy/crunchy brands make sweet tapioca flour/starch that you can find in your average American supermarket, or you can get it cheaper in an Asian market (possibly as arrowroot).  But you will need to find a Brazilian grocery store to get an imported Brazilian brand of sour tapioca flour, such as Yoki or Amafil, or you can overpay for them on the internet.
 
 This recipe is somewhat altered from the one that used to be [at Leite's Culinaria](http://web.archive.org/web/20170706054034/http://leitesculinaria.com/32757/recipes-brazilian-cheese-rolls.html), which was about as strict as you could get on the cheese bread front.  They included both kinds of tapioca flour, lots of steps, chill time, and lecturing about what you MUST do to get the bread to come out right.  If you're short on time, you might want to try [my easy version](../appetizers/easyPaoDeQueijo.md) or consult the rest of the internet, which thinks that cheese bread is actually pretty forgiving.  (See Variants, below.)
 
@@ -59,12 +61,10 @@ Most recipes specify a dough hook, food processor, or blender.  This isn't reall
 
 On the other hand, you can just blend and pour [a watery dough](https://www.simplyrecipes.com/recipes/easy_brazilian_cheese_bread/) into a mini-muffin pan instead of struggling to incorporate the proper quantity of starch into the proper quantity of liquid.  I've expanded this variant into [a whole recipe](../appetizers/easyPaoDeQueijo.md).   This particular recipe is handy because it is scaled down to one egg and includes a weight for the cheese (66 grams).
 
-Some people bake the usual dough [in muffin tins](http://www.epicurious.com/recipes/member/views/pao-de-queijo-aka-brazilian-cheese-puffs-1266023), although that didn't seem to work with my recipe.
+Some people bake the usual dough [in muffin tins](http://www.epicurious.com/recipes/member/views/pao-de-queijo-aka-brazilian-cheese-puffs-1266023), although that didn't seem to work with this recipe.  (Try [my easy version](../appetizers/easyPaoDeQueijo.md) instead.)
 
 Some tame the dough with a bit of wheat flour (totally cheating).
 
 Some recipes go as far as to [omit the cheese and milk](https://whatifgourmet.com/2013/11/19/pao-de-queijo-dairy-free-variations-part-i-the-savory-gfdf/) to make the recipe non-dairy.  This is not as wacky as you think; cheese and milk are thought to be relatively recent additions in the history of tapioca starch rolls.
 
 [Colombian cheese bread](https://www.mycolombianrecipes.com/pandebono-colombian-cheese-bread) incorporates cornmeal.  In Paraguay they add 2 tsp. aniseed to a similar recipe.
-
-

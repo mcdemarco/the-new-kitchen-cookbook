@@ -4,14 +4,16 @@ Peter measures coffee grounds by volume and water according to the carafe.  When
 
 So here's what appears to be the usual ratio, plus some math worked out for you because clearly you haven't had your coffee yet.
 
-## Ingredients (drip coffee machine)
+## Ingredients
+
+### Drip coffee machine
 
 * 7 grams coffee
 * 1/2 c. water
 
 That would be 14 g. per 1 c., or my usual dose, 21 g. per 1 1/2 c.  Back in my heavy-drinking days, I did 28 g. in 2 c.
 
-## Ingredients (French press)
+### French press
 
 * 10 grams coffee
 * 1/2 c. water

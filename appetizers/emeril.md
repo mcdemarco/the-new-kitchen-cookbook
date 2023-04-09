@@ -17,5 +17,4 @@ Fills 1 1/2 spice jars.
 
 ## Directions
 
-1. Mix.
-
+Mix.

@@ -2,7 +2,9 @@
 
 I got this recipe from my sister, who annotated it.  Further dialog is from her, with some edits for capitalization and the like.
 
-## Dressing
+## Ingredients
+
+### Dressing
 
 (I usually double the dressing.)
 
@@ -12,9 +14,7 @@ I got this recipe from my sister, who annotated it.  Further dialog is from her,
 * pepper (yeah, right)
 * 3 T olive oil
 
-Add first four  ingredients to bowl, whisk then whisk in olive oil. (I throw all in a small jar and shake.)
-
-## Salad
+### Salad
 
 * 2 c. cooked or canned chickpeas - rinsed (I use one can - the small chickpeas if you can find them)
 * 1 small fennel bulb, halved vertically (remove hard core at bottom of bulb) then thinly sliced.  Reserve sprigs for garnish. (I skip the garnish.)
@@ -22,6 +22,10 @@ Add first four  ingredients to bowl, whisk then whisk in olive oil. (I throw all
 * 10 black olives (pitted and halved)
 * 1/2 c. thinly sliced red onion
 * 1/3 c. chopped fresh parsley (I skip this too; I have issues with parsley)
+
+## Directions
+
+Add first four dressing ingredients to bowl, whisk then whisk in olive oil. (I throw all in a small jar and shake.)
 
 Toss all (except sprigs) in dressing; cover and let marinate in refrigerator 4 hours.
 
