@@ -28,8 +28,6 @@ Adapted from several crockpot chicken with farro recipes.  The [one that first i
 2. Cook on low 6 hours.
 3. Cook peas separately, then mix in.
 
-Serve.
-
 ## Variants
 
 The sausage is my own invention.

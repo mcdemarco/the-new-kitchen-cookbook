@@ -1,8 +1,8 @@
 # Guinness Beer Biscuits
 
-This recipe is derived from [Cooking With Curls](http://cookingwithcurls.com/2013/03/15/beef-stew-with-guinness-biscuits-crazy-award/), a blog I ought to be following.  I wanted something to go with leftover lamb stew that would be quicker than bread and non-dairy.  (I had to make it non-dairy myself; replace shortening with butter to restore the dairy.)
+This recipe is derived from [Cooking With Curls](http://cookingwithcurls.com/2013/03/15/beef-stew-with-guinness-biscuits-crazy-award/), a blog I ought to be following.  I wanted something to go with leftover lamb stew that would be quicker than bread and non-dairy.
 
-Makes six large or 10--12 small biscuits.
+Makes 6 large or 10--12 small biscuits.
 
 ## Ingredients
 
@@ -24,6 +24,6 @@ Makes six large or 10--12 small biscuits.
 
 ## Variants
 
-Replace shortening with butter to make the original recipe.
+Replace shortening with butter to make the original, dairy recipe.
 
 The original recipe also allowed replacing the Guinness with a lesser beer.

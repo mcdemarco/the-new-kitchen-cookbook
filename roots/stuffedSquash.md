@@ -2,9 +2,11 @@
 
 I was looking to stuff a butternut squash.  I found some general advice for stuffing butternut, delicata, or acorn squash [at Spend with Pennies](https://www.spendwithpennies.com/stuffed-butternut-squash/), but mostly cut down [this Israeli couscous stuffing](https://littlespicejar.com/stuffed-butternut-squash-curried-couscous-salad/) from The Little Spice Jar, and added some cheese due to demand.  The original quantities are listed under the *serves 6* section.  Serving quantities are approximate for a light meal; for sides you should use the smallest squashes possible (*e.g.* sweet dumpling or small delicatas) and double the number of servings.
 
-## Ingredients (serves 2)
+## Ingredients 
 
-### Squash
+### 2 Servings
+
+#### Squash
 
 * 1 butternut squash or other winter squash(es) of similar capacity
 * olive oil
@@ -12,14 +14,14 @@ I was looking to stuff a butternut squash.  I found some general advice for stuf
 * salt
 * pepper
 
-### Couscous
+#### Couscous
 
 * 2/3 c. Israeli couscous
 * 2 tsp. olive oil
 * 1 c. water or broth
 * chopped garlic and/or onions to taste
 
-### Salad
+#### Salad
 
 * 3 T chopped leeks or scallions
 * 1 T dried parsley or 3 T fresh
@@ -28,16 +30,16 @@ I was looking to stuff a butternut squash.  I found some general advice for stuf
 * 1/3 cup chopped nuts (optional)
 * 1/3 lb. feta cheese (optional)
 
-### Dressing
+#### Dressing
 
 * 1 T mild curry powder
 * 1 1/2 T olive oil
 * 2 tsp. honey or maple syrup
 * dash salt
 
-## Ingredients (serves 4)
+### 4 Servings
 
-### Squash
+#### Squash
 
 * 2 butternut squashes or other winter squash(es) of similar capacity
 * 2 tsp. olive oil
@@ -45,14 +47,14 @@ I was looking to stuff a butternut squash.  I found some general advice for stuf
 * salt
 * pepper
 
-### Couscous
+#### Couscous
 
 * 2/3 c. Israeli couscous
 * 2 tsp. olive oil
 * 1 c. water or broth
 * chopped garlic and/or onions to taste
 
-### Salad
+#### Salad
 
 * 3 T chopped leeks or scallions
 * 1 T dried parsley or 3 T fresh
@@ -61,16 +63,16 @@ I was looking to stuff a butternut squash.  I found some general advice for stuf
 * 1/3 cup chopped nuts (optional)
 * 1/3 lb. feta cheese (optional)
 
-### Dressing
+#### Dressing
 
 * 1 T mild curry powder
 * 1 1/2 T olive oil
 * 2 tsp. honey or maple syrup
 * dash salt
 
-## Ingredients (serves 6)
+### 6 Servings
 
-### Squash
+#### Squash
 
 * 3 butternut squashes or other winter squash(es) of similar capacity
 * 1 T olive oil
@@ -78,14 +80,14 @@ I was looking to stuff a butternut squash.  I found some general advice for stuf
 * salt
 * pepper
 
-### Couscous
+#### Couscous
 
 * 1 c. Israeli couscous
 * 1 T. olive oil
 * 1 1/2 c. water or broth
 * chopped garlic and/or onions to taste
 
-### Salad
+#### Salad
 
 * 1/4 c. chopped leeks or scallions
 * 1 T dried parsley or 1/3 c. fresh
@@ -94,7 +96,7 @@ I was looking to stuff a butternut squash.  I found some general advice for stuf
 * 1/2 cup chopped nuts (optional)
 * 1/2 lb. feta cheese (optional)
 
-### Dressing
+#### Dressing
 
 * 4 tsp. mild curry powder
 * 2 T olive oil

@@ -6,9 +6,11 @@ The translated title in Cooking at the Kasbah was "Tagine of Chicken and Lentils
 
 Note that fenugreek is an acquired taste.
 
-Serves 2--3, depending on how much chicken they want.
+Serves 2--5, depending on how much chicken they want.
 
-## Ingredients (1 1/2 lbs.)
+## Ingredients
+
+### Small Batch
 
 * 1 1/2 lbs. chicken quarters, separated, or thighs
 * 1 T olive oil
@@ -27,7 +29,7 @@ Serves 2--3, depending on how much chicken they want.
 * 1/8 c. red lentils
 * 1/2 lb short pasta, cooked, or a few slices of crusty bread
 
-## Ingredients (2 1/2 lbs.)
+### Full Batch
 
 * 2 1/2 lbs. chicken thighs
 * 2 T olive oil

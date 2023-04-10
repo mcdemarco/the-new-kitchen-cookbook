@@ -26,7 +26,7 @@ This is a not-kitcheree side dish I thought ought to be obvious, but the interne
 
 ## Variants
 
-I chose the curry powder at random.  A different one, or a whole different spice mix, would work as well.  
+I chose the curry powder at random.  A different one, or a whole different spice mix, would also work.
 
 For more flavor, brown the onions well, then add only the curry for another 2 minutes.  (I wasn't sure this would really work in an instant pot, so I didn't try it.)
 

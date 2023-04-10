@@ -17,9 +17,13 @@ I tend to make the Classic Crunchy Chocolate Chip cookies from the King Arthur C
 
 ## Directions
 
-Cream together all but the last four ingredients.  Add egg. Add baking soda with flour.  Add chocolate chips.
-
-Bake 1 T. per cookie on a greased baking sheet at 350° for 12-14 minutes.  Cool on a rack.
+1. Cream together all but the last four ingredients. 
+2. Add egg.
+3. Add baking soda with flour. 
+4. Add chocolate chips.
+5. Spoon 1 T. per cookie onto a greased baking sheet.
+6. Bake at 350° for 12-14 minutes. 
+7. Cool on a rack.
 
 ## Variants
 

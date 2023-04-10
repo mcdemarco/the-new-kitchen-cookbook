@@ -2,7 +2,9 @@
 
 I googled quickly for something that would use up my lingering carrots and radishes and could be served not hot, but without shredding.  I made this one up out of a couple of other recipes, [Carrot Salad](http://www.geniuskitchen.com/recipe/carrot-salad-114503) and [Roasted Radishes](https://miedemaproduce.com/recipe/roasted-radishes/print).
 
-## Dressing
+## Ingredients
+
+### Dressing
 
 * 1/4 tsp. ground cumin
 * 1/2 tsp. ground ginger
@@ -13,7 +15,7 @@ I googled quickly for something that would use up my lingering carrots and radis
 * 1 T. lemon juice
 * black pepper to taste
 
-## Salad
+### Salad
 
 * about 2 lbs. carrots
 * about 15 radishes, halved or quartered

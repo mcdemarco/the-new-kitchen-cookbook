@@ -24,7 +24,7 @@ Makes about 24 4" triangles.
 5. Roll out thin on a lightly floured board into a rectangle about 12" x 16".  (You probably don't need to do anything but the math on store-bought sheets.)
 6. Preheat oven to 400°F.
 6. Slice into 4" squares with a dough scraper or other appropriate implement.
-7. Plop a scant tablespoon or heaping teaspoon of cheese in the center of each square.
+7. Plop a scant tablespoon or heaping teaspoon of cheese in the center of each square. ![fill er up](../images/fetaPuffFilling.png)
 8. Fold over.  If your squares aren't perfect, the dough is stretchy enough to adjust at this point.
 9. Wet the edges and crimp with a fork.
 10. Place on a parchment-paper covered cookie sheet.
@@ -33,7 +33,7 @@ Makes about 24 4" triangles.
 12. Bake 15--20 minutes.
 13. Repeat for any remaining dough.
 
-![fill er up](../images/fetaPuffFilling.png)
+
 
 ## Variants
 

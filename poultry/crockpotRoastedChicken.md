@@ -32,8 +32,6 @@ It's especially handy for hot summer days when you don't want to heat up the who
 5. Optionally fill edges with potato.
 6. Cook on low 4--6 hours, depending on crockpot and chicken size.
 
-Serve.
-
 ## Variants
 
 The potatoes are my own addition.  I have also added a bulb of fennel (to the onion/celery layer) and substituted sweet potatoes for the potatoes.

@@ -2,6 +2,13 @@
 
 I understand that you can get caramel color from the [King Arthur store](http://www.kingarthurflour.com/visit/) in Vermont, but I haven't yet.  Instead, I resorted to the dangerous procedure explained below by the 5-minute bread folks, which I got from [their blog](http://www.artisanbreadinfive.com/2008/10/26/pumpernickel-bread-how-to-make-your-own-caramel-coloring).  The conflicting messages about whether to decrease the liquid or increase the flour were in the original.
 
+## Ingredients
+
+* 3 T sugar
+* 1 T water
+* pinch cream of tartar
+* 1/4 c. boiling water
+
 ## Directions
 
 > Yes, caramel color can be made at home, but not as a powder---what you make will be a liquid that is added to recipes; you should decrease the liquid a bit to account for the extra. Here’s what I’ve done at home (it won’t be quite as dark a result as powdered caramel color): 

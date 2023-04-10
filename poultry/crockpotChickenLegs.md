@@ -22,8 +22,6 @@ Adapted from several crockpot chicken recipes, especially TAK's [Crock Pot Chick
 2. Combine spices and rub onto chicken.
 3. Cook on high 2--3 hours, depending on crockpot.
 
-Serve.
-
 ## Variants
 
 The original recipe went for 3 1/2--4 hours on low.

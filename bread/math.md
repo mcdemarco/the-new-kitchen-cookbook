@@ -64,30 +64,6 @@ Conversion to weights are mostly based on the Artisan Bread in 5 blog, sometimes
 * 5 1/2 c. white flour
 * 1 c. alternate flour(s)
 
-## Brioche Dough
-
-This sweet dough recipe is also available [in their blog](https://artisanbreadinfive.com/2008/09/24/brioche-dough-recipe-and-all-of-its-wonderful-uses/).
-
-### Two Loaves
-
-* 3/4 c. water (170 g.)
-* 1/2 T yeast
-* 1/2 T kosher salt
-* 4 large eggs
-* 1/4 c. honey (84 g.)
-* 3/4 c. butter, melted (1 1/2 sticks)
-* 3 3/4 c. flour (531 g.)
-
-### Four Loaves
-
-* 1 1/2 c. water (340 g.)
-* 1 T yeast
-* 1 T kosher salt
-* 8 large eggs
-* 1/2 c. honey (168 g.)
-* 1 1/2 c. butter, melted (3 sticks)
-* 7 1/2 c. flour (1063 g.)
-
 
 ## Olive Oil Dough
 
@@ -128,3 +104,30 @@ Also known as pizza dough.
 * 1 1/2 T (25 g.) salt
 * 1 T (15 g.) sugar
 * 6 1/2 c. (920 g.) flour
+
+
+
+
+## Brioche Dough
+
+This sweet dough recipe is also available [in their blog](https://artisanbreadinfive.com/2008/09/24/brioche-dough-recipe-and-all-of-its-wonderful-uses/).
+
+### Two Loaves
+
+* 3/4 c. water (170 g.)
+* 1/2 T yeast
+* 1/2 T kosher salt
+* 4 large eggs
+* 1/4 c. honey (84 g.)
+* 3/4 c. butter, melted (1 1/2 sticks)
+* 3 3/4 c. flour (531 g.)
+
+### Four Loaves
+
+* 1 1/2 c. water (340 g.)
+* 1 T yeast
+* 1 T kosher salt
+* 8 large eggs
+* 1/2 c. honey (168 g.)
+* 1 1/2 c. butter, melted (3 sticks)
+* 7 1/2 c. flour (1063 g.)

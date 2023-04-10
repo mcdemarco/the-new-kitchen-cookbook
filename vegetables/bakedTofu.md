@@ -32,4 +32,6 @@ I adapted this slightly from [Simply Recipes' Easy Crispy Tofu](https://www.simp
 
 The original recipe called for 1/2 tsp. sugar rather than mirin, and black pepper rather than spice mix.
 
+The original recipe called for spraying the pan of tofu with cooking spray as well.
+
 There are a lot of recipes out there with other tricks, like salting the tofu to drain it.

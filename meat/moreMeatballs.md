@@ -19,7 +19,8 @@ This is not the [family meatball recipe](../meat/meatballs.md); it's a meat vari
 
 ## Directions
 
-1. Optionally brown the diced onion about 8 minutes in olive oil, and add the garlic for another minute, then remove from oil.  (Leave the pan on the heat.)
+1. Optionally brown the diced onion about 8 minutes in olive oil.
+2. Add the garlic for another minute, then remove from oil.  (Leave the pan.)
 2. Mix all ingredients except oil.
 3. Roll into meatballs about 1 inch in diameter.  ![raw](../images/raw.jpg)
 4. Brown on all sides in pan.  ![browning](../images/browning.jpg)

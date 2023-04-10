@@ -4,11 +4,6 @@ This recipe is adapted from _The Il Fornario Baking Book_, which has an oversize
 
 Makes: 2 loaves.
 
-## Equipment
-
-* baking stone
-* broiler pan (or spray bottle)
-
 ## Ingredients
 
 * 3/8 c. biga (defrosted if frozen)
@@ -19,6 +14,12 @@ Makes: 2 loaves.
 * 1/2 T. salt
 * 1 3/8 c. cool water
 * cornmeal (optional)
+
+### Equipment
+
+* baking stone
+* broiler pan (or spray bottle)
+
 
 ## Directions
 

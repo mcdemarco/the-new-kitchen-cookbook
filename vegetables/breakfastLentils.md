@@ -34,3 +34,5 @@ If you don't have cayenne, you can add fresh hot peppers to the lentils while th
 Add cumin or coriander for more flavor complexity.
 
 Add cardamom, nutmeg and/or clove for a more breakfasty flavor.
+
+Another savory breakfast you may want to try is [Shakshuka](https://toriavey.com/shakshuka/).

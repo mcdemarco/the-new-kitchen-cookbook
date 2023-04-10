@@ -42,7 +42,7 @@ Serves 4.
 * pinch salt
 * 1 c. coconut milk
 
-## Toppings (optional)
+### Toppings (optional)
 
 * tropical fruits (12 oz./9 oz./6 oz.) or blueberries
 * rind of 1 lime

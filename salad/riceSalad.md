@@ -17,4 +17,7 @@ This is one of my favorite recipes, but I don't make it very often because of th
 
 ## Directions
 
-Make the rice as usual but in extra water, then drain.  Dress with liquids and spices while hot.  Mix in remaining ingredients.  Serve hot or cold.
+1. Make the rice as usual but in extra water, then drain.
+2. Dress with liquids and spices while hot.
+3. Mix in remaining ingredients.
+4. Serve hot or cold.

@@ -19,4 +19,4 @@ This started as an Epicurious recipe from back when roasting cauliflower was all
 
 ## Variants
 
-THis also works with Romanesco, a.k.a. Romanesco broccoli or Romanesque cauliflower (the one that looks like a fractal).  Cut the roasting time down to 15--20 minutes.  Alternate spicing: salt, pepper, garlic powder, and smoked paprika.
+This also works with Romanesco, a.k.a. Romanesco broccoli or Romanesque cauliflower (the one that looks like a fractal).  Cut the roasting time down to 15--20 minutes.  Alternate spicing: salt, pepper, garlic powder, and smoked paprika.

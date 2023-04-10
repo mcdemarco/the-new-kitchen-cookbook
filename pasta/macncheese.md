@@ -4,6 +4,7 @@ The recipe was online briefly, but I assume it is gone already.
 
 ![panko mac'n'cheese](../images/macNcheese3.png)
 
+
 ## Ingredients
 
 * 8 oz. Monterey Jack, shredded (2 c.)
@@ -17,9 +18,8 @@ The recipe was online briefly, but I assume it is gone already.
 * 1 lb. macaroni, cooked with 1 T. salt past al dente but not al squishy
 * 1 c. panko
 
-## Directions
 
-![in the pot](../images/macNcheese1.png)
+## Directions
 
 1. Cook pasta.
 2. Work 3 T. of the butter into the panko with your fingers.
@@ -28,7 +28,7 @@ The recipe was online briefly, but I assume it is gone already.
 4. Whisk in milk slowly. Bring to full boil stirring constantly. 
 5. Simmer on medium 5 minutes until the thickness of heavy cream. 
 6. Remove from heat and add cheese and salt. 
-7. Add pasta and return to medium-low heat for 6 minutes. 
+7. Add pasta and return to medium-low heat for 6 minutes.  ![in the pot](../images/macNcheese1.png)
 8. Transfer to 9x13 baking dish, top with crumb mixture, and broil 3-5 minutes. 
 9. Cool 5 minutes before serving. 
 

@@ -4,7 +4,9 @@ This is a passover recipe based on [Traditional Apple-Walnut Charoset](http://ww
 
 Makes 1 1/3 or 4 cups.
 
-## Ingredients (small batch)
+## Ingredients 
+
+### Small Batch
 
 * 1 apple (granny smith, gala/braeburn, fuji, macintosh, janathon), peeled and diced
 * 1/2 c. walnuts, toasted and chopped
@@ -15,7 +17,7 @@ Makes 1 1/3 or 4 cups.
 * orange zest (optional)
 * lemon juice (optional)
 
-## Ingredients (large batch)
+### Large Batch
 
 * 3 mixed apples (granny smith, gala/braeburn, fuji, macintosh, janathon), peeled and diced
 * 1 1/2 c. walnuts, toasted and chopped

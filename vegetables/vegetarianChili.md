@@ -21,7 +21,7 @@ This chili is based on [Emeril's recipe](http://www.foodnetwork.com/recipes/emer
 * 1 1/4 tsp. salt
 * 1/4 c. chopped cilantro
 
-## Garnishes
+### Garnishes
 
 * essence of Emeril (see my [Spicy Asian Chicken](../poultry/asianChicken.md) recipe for details)
 * chopped scallion
@@ -41,5 +41,3 @@ This chili is based on [Emeril's recipe](http://www.foodnetwork.com/recipes/emer
 ## Variants
 
 The original recipe called for a can of tomato sauce and 4 fresh tomatoes.
-
-

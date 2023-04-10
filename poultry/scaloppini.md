@@ -17,7 +17,14 @@ This recipe was adapted from Scaloppini di Tacchino Rebecca in _Cucina Ebraica_ 
 
 ## Directions
 
-If turkey tenders are much more than 2/3" thick, slice to 2/3" thickness. Place between sheets of plastic wrap and beat with a meat tenderizer to 1/3" thickness. Dredge lightly in a mixture of the flour, salt, and spices. Fry in oil for 3 minutes per side. Remove from pan and keep warm. Add wine to pan and cook down somewhat. Add remaining ingredients and cook for 3 minutes. Pour over turkey and serve.
+1. If turkey tenders are much more than 2/3" thick, slice to 2/3" thickness. 
+2. Place between sheets of plastic wrap and beat with a meat tenderizer to 1/3" thickness. 
+3. Dredge lightly in a mixture of the flour, salt, and spices.
+4. Fry in oil for 3 minutes per side.
+5. Remove from pan and keep warm.
+6. Once all the tenders are cooked and removed, add wine to pan and cook down somewhat. 
+7. Add remaining ingredients and cook for 3 minutes.
+8. Pour over turkey and serve.
 
 ## Variants
 

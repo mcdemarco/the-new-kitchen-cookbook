@@ -28,11 +28,13 @@ The notion of beef curry is just so *wrong* I was reluctant to make this, but I 
 
 ## Directions
 
-Cook the potatoes in the can of tomatoes with their juice and the chilis.  Add water as necessary.
-
-Meanwhile, fry the onion in the oil.  Add garlic.  Add meat and brown.  Add spices.
-
-Add the potato mixture and any remaining ingredients to the meat and onions.  Heat through.
+1. Cook the potatoes in the can of tomatoes with their juice and the chilis.  Add water as necessary.
+2. Meanwhile, fry the onion in the oil.  
+3. Add garlic.  
+4. Add meat and brown.
+5. Add spices.
+6. Add the potato mixture and any remaining ingredients to the meat and onions.  
+7. Heat through.
 
 ## Variants
 

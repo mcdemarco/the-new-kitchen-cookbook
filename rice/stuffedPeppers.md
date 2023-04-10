@@ -22,7 +22,7 @@ Decapitation can go several ways, depending on how stable you want the caps to b
 * 1 large tomato, chopped, or 1 T. tomato paste
 * 2 tsp. mint (dried)
 * 3 T. fresh dill or parsley, chopped
-* 2-3 T. lemon juice
+* 2--3 T. lemon juice
 
 ## Directions
 

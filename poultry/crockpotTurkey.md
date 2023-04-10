@@ -18,4 +18,7 @@ Adapted from this [crockpot chicken recipe](http://www.tablefortwoblog.com/2012/
 
 ## Directions
 
-Combine all ingredients in crockpot. Cook on low 4 hours. Serve with rice. Top with sesame seeds.
+1. Combine all ingredients in crockpot. 
+2. Cook on low 4 hours. 
+
+Serve with rice. Top with sesame seeds.

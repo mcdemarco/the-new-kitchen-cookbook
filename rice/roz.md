@@ -15,6 +15,10 @@ Serves 4--6.
 
 ## Directions
 
-Break up the vermicelli to desired size.  (It's supposed to be an inch but I prefer them longer.)  Toast them in a dry frying pan or in the oven, stirring frequently.  Set aside.
+1. Break up the vermicelli to desired size.  (It's supposed to be an inch but I prefer them longer.)  
+2. Toast them in a dry frying pan or in the oven, stirring frequently.  Set aside.
+3. Fry the rice in the oil as for risotto.  
+4. Add the toasted vermicelli and remaining ingredients, cover, and simmer 20 minutes.  
+5. Remove from heat and let rest five minutes.  
 
-Fry the rice in the oil as for risotto.  Add the toasted vermicelli and remaining ingredients, cover, and simmer 20 minutes.  Remove from heat and let rest five minutes.  Serve hot.
+Serve hot.

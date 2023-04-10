@@ -13,8 +13,6 @@ One of the first things I made in the new kitchen was the salmon poke recipe [fr
 
 ## Directions
 
-Mix.  Optionally refrigerate.  Serve.
+Mix.  Optionally refrigerate.  
 
-## Pairings
-
-Sushi rice.
+Serve over sushi rice or [soba salad](../salad/sobaSalad.md).

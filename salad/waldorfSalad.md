@@ -17,7 +17,10 @@ This is my interpretation of a traditional dish my mother was craving.  Of the m
 
 ## Directions
 
-Toast walnuts 5 minutes at 350°; let cool.  Core and chop apples to bite size, and mix with lemon juice in an airtight container.  Chop grapes and celery; mix all ingredients.
+1. Toast walnuts 5 minutes at 350°; let cool.
+2. Core and chop apples to bite size, and mix with lemon juice in an airtight container. 
+3. Chop grapes and celery.
+4. Mix all ingredients.
 
 ## Variants
 

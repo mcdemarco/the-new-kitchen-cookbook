@@ -2,6 +2,8 @@
 
 This recipe is from [Mann's](http://veggiesmadeeasy.com/site/index.php/recipe/luca-broccolini/).
 
+Serves 4.
+
 ## Ingredients
 
 * 2 bunches broccolini, trimmed to 4 inch stalks
@@ -10,12 +12,13 @@ This recipe is from [Mann's](http://veggiesmadeeasy.com/site/index.php/recipe/lu
 * 1/4 c. pine nuts, toasted
 * chili flakes
 * olive oil
-* salt & pepper
+* salt
+* pepper
 
 ## Directions
 
-Blanch broccolini and set aside. Plump sultanas in white wine.
-
-In a large sauté pan, heat olive oil and add broccolini, pine nuts, sultanas and chili flakes. Sauté until heated through. Salt & pepper to taste. 
-
-Serves 4.
+1. Blanch broccolini and set aside. 
+2. Plump raisins in white wine.
+3. In a large sauté pan, heat olive oil and add broccolini, pine nuts, raisins and chili flakes. 
+4. Sauté until heated through. 
+5. Salt & pepper to taste.

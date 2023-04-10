@@ -6,29 +6,26 @@ These baguettes are a combination of the baguettes in the _Artisan Bread in 5_ b
 
 Oiling the non-stick baguette pan seems to be unnecessary.
 
-## Equipment
-
-* baguette pan
-* broiler pan
 
 ## Ingredient
 
 * 1 lb refrigerated [Master Recipe](../bread/master.md) dough
 
+### Equipment
+
+* baguette pan
+* broiler pan
+
+
 ## Directions
 
-![step 1](../images/baguette_step1.png)
-![step 2](../images/baguette_step2.png)
-![step 3](../images/baguette_step3.png)
-![step 4](../images/baguette_step4.png)
-
-
 1. Using plenty of flour, roll dough out into 1 or 2 cylinders, 2 inches in diameter.
-2. Dust the baguette pan with flour and place the proto-baguettes in there.
+2. Dust the baguette pan with flour and place the proto-baguettes in there.  ![step 1](../images/baguette_step1.png)
 3. Let baguettes rest for 20 minutes while preheating the oven to 450°, with a broiler pan for steam on a lower rack.
-4. Brush baguette(s) with water and, optionally, slash them crosswise.
-6. Place baguette pan in oven and pour 1 c hot water into the broiler pan.
-7. Bake 25 minutes, turning the oven down to 425° if the baguettes get too brown.
+4. Brush baguette(s) with water and, optionally, slash them crosswise.  ![step 2](../images/baguette_step2.png)
+5. Place baguette pan in oven and pour 1 c hot water into the broiler pan.  ![step 3](../images/baguette_step3.png)
+6. Bake 25 minutes, turning the oven down to 425° if the baguettes get too brown.
+7. Cool on a rack.  ![step 4](../images/baguette_step4.png)
 
 It's hard to slash baguettes when they're in the baguette pan (try lengthwise instead), or if the dough is very moist.  Fortunately, Peter likes the aliens-exploded-out-of-this-loaf look.
 

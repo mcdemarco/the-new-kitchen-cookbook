@@ -8,7 +8,7 @@ Most of the variants I make from the book involve substituting a cup of somethin
 
 ![ciabatta](../images/ciabatta.png)
 
-Other fast shapes include [naan](../bread/naan.md), [pizza](../bread/pizzaPizza.md), [baguettes](../bread/baguette.md), and za'atar bread, a nice flatbread with za'atar (spice mix) and olive oil. 
+Other fast shapes include [naan](../bread/naan.md), [pizza](../bread/pizzaPizza.md), [baguettes](../bread/baguette.md), and [za'atar bread](../bread/zaatar.md), a nice flatbread with za'atar (spice mix) and olive oil. 
 
 This chapter also includes several traditional-knead breads, some non-bread accoutrements for your bread (like [cornstarch wash](../bread/cornstarch.md)), and an [index](../bread/artisanIndex.md) of which *Artisan Bread in 5* breads you can make with which doughs.
 

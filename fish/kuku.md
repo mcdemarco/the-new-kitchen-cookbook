@@ -4,7 +4,7 @@
 
 Fish quiche. This is a variant recipe from the _New Food of Life_ cookbook (Meat Kuku, p. 102), also adjusted in size to fit the amount of fish I had. The original recipe called for the equivalent of 1 1/2 c. fresh parsley, 2/3 c. fresh chives, 2/3 c. of oil, and yogurt on the side, but since I didn't have it with me at the store I didn't grab those. (It's always parsley; I should have known.)
 
-### Ingredients
+## Ingredients
 
 * 1 1/2 lb whitefish fillets (haddock)
 * 3 onions, sliced thin
@@ -18,13 +18,17 @@ Fish quiche. This is a variant recipe from the _New Food of Life_ cookbook (Meat
 * 1 1/2 tsp. curry powder
 * olive oil for the pans
 
-### Directions
+## Directions
 
-Preheat oven to 350 F. Brown onions. Chop and brown fish. Mix both with the next three ingredients (or just mix all the cold ingredients together). Mix the eggs and remaining ingredients (except oil) in a separate bowl. Pour some oil into the bottom of a 10 inch pan and heat in the oven briefly. Mix fish and egg mixtures together and pour into the heated pan.
-
-![raw kuku](../images/raw_kuku.png)
-
-Bake 30 minutes. Add more oil to the top. Bake 20 more minutes or until brown.
+1. Preheat oven to 350°F. 
+2. Brown onions.
+3. Chop and brown fish. 
+4, Mix both with the next three ingredients (or just mix all the cold ingredients together).
+5. Mix the eggs and remaining ingredients (except oil) in a separate bowl.
+6. Pour some oil into the bottom of a 10 inch pan and heat in the oven briefly.
+7. Mix fish and egg mixtures together and pour into the heated pan.  ![raw kuku](../images/raw_kuku.png)
+8. Bake 30 minutes.
+9. Add more oil to the top. Bake 20 more minutes or until brown.
 
 ## Variants
 

@@ -19,12 +19,10 @@ This was once the family meatball recipe. It may have been through some game-of-
 
 ## Directions
 
-Brown the onion about 8 minutes in olive oil. Add the garlic for another minute. Remove onion and garlic from oil and put in a bowl with remaining ingredients. (Leave the pan on the heat.) Mix well. Roll into meatballs about 1 inch in diameter.
-
-![raw](../images/raw.jpg)
-
-Brown on all sides in pan. 
-
-![browning](../images/browning.jpg)
-
-Finish cooking meatballs either in oil or in sauce.
+1. Brown the onion about 8 minutes in olive oil. 
+2. Add the garlic for another minute. 
+3. Remove onion and garlic from oil and put in a bowl with remaining ingredients. (Leave the pan.)
+4. Mix well. 
+5. Roll into meatballs about 1 inch in diameter. ![raw](../images/raw.jpg)
+6. Brown on all sides in pan. ![browning](../images/browning.jpg)
+7. Finish cooking meatballs either in oil or in sauce.

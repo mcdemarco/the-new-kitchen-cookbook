@@ -18,3 +18,7 @@ If you object to putting pasta sauce on pizza and don't have any pizza sauce at 
 2. Apply to pizza.
 
 Refrigerate or freeze the remainder.
+
+## Variants
+
+The original recipe involved cooking the sauce down a bit, but many allege true pizza sauce should be raw until cooked on the pizza.

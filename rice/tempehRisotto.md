@@ -38,4 +38,3 @@ I like this one because it can be anything you want it to be: vegan, fowly, chee
 * 2--3 c. short, fat sprouts of [Japanese knotweed](http://66squarefeetfood.blogspot.com/2012/05/japanese-knotweed-risotto.html), cut into 1/4 inch pieces:
 
 ![knotweed harvest](../images/knotweed_harvest.png)
-

@@ -4,8 +4,8 @@ I bought some okra at H-Mart even though Peter hates the slime, then I found [a 
 
 I cut the recipe down and changed the oil because the okra was going with Japanese food.
 
-## Ingredients
 
+## Ingredients
 
 * 1/2 lb. fresh okra
 * 1/2 T. sesame oil (or extra-virgin olive oil)
@@ -19,4 +19,4 @@ I cut the recipe down and changed the oil because the okra was going with Japane
 3. Chop the scallion to match in length.
 3. Toss all ingredients in a large bowl.
 4. Spread in 1 layer in a shallow baking pan lined with parchment paper for your convenience. 
-5. Roast about 25 minutes, stirring halfway through.
+5. Roast about 25 minutes (or less, depending on size), stirring halfway through.

@@ -4,18 +4,18 @@ This recipe is from Erica "(a very curly girl)" at [The Happy Hunters](http://we
 
 Use 1 dollop (or more) to coat wet curls.
 
-## Equipment
-
-* small stockpot
-* mesh strainer
-* squeeze bottle for dispensing (optional)
-
 ## Ingredients
 
 * 1/4 c. flaxseed (a.k.a. linseed), rinsed if necessary
 * 2 c. water
 * 8--10 drops grapefruit seed extract (optional)
 * 5--6 drops essential oil (optional, for fragrance)
+
+### Equipment
+
+* small stockpot
+* mesh strainer
+* squeeze bottle for dispensing (optional)
 
 ## Directions
 

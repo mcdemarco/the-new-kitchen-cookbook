@@ -4,10 +4,6 @@ This recipe is adapted from _The Il Fornario Baking Book_, in which it is a vari
 
 Makes: 1 large loaf.
 
-## Equipment
-
-* baking stone
-* broiler pan (or spray bottle)
 
 ## Ingredients
 
@@ -19,6 +15,12 @@ Makes: 1 large loaf.
 * 1/2 T. salt
 * 1 3/8 c. cool water
 * cornmeal (optional)
+
+### Equipment
+
+* baking stone
+* broiler pan (or spray bottle)
+
 
 ## Directions
 

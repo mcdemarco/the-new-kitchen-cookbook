@@ -4,8 +4,9 @@ I googled for something that would use up my lingering carrots and parsnips from
 
 I served it with Treda.
 
+## Ingredients
 
-## Dressing
+### Dressing
 
 * 1/4 tsp. ground cinnamon
 * 1/4 tsp. ground coriander
@@ -17,12 +18,7 @@ I served it with Treda.
 * 1/2 tsp. salt
 * 6 T extra-virgin olive oil
 
-Toast the first four spices in a tiny cast-iron skillet for about two minutes until fragrant, then let cool.
-(Also, toast the pistachios for the salad in the same pan.)
-
-Whisk together all ingredients except oil, then whisk in the oil slowly.
-
-## Salad
+### Salad
 
 * 3 large carrots (3/4 lb.), grated with a box grater
 * 3 large parsnips (3/4 lb.), grated with a box grater
@@ -31,9 +27,16 @@ Whisk together all ingredients except oil, then whisk in the oil slowly.
 * 1/2 tsp. salt
 * black pepper to taste
 
+
+## Directions
+
 Note that parsnips are not as easy to grate as carrots.
 
-Toss all in dressing and serve.
+1. Toast the first four spices in a tiny cast-iron skillet for about two minutes until fragrant, then let cool.
+2. Toast the pistachios for the salad in the same pan.
+3. Whisk together all dressing ingredients except oil, then whisk in the oil slowly.
+4. Toss all salad ingredients in dressing and serve.
+
 
 ## Variants
 

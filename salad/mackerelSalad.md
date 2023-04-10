@@ -35,7 +35,7 @@ Serves 2, chilled or at room temperature.
 
 You can do something similar with [a can of salmon](https://www.tasteofhome.com/recipes/salmon-pasta-salad/) or another smoked fish.  We frequently use up leftover smoked salmon this way.
 
-In lieu of fish, we often make pasta salad with feta.
+We often make pasta salad with feta in lieu of fish.
 
 You can use snow peas instead of green beans; they only need one minute of blanching.
 

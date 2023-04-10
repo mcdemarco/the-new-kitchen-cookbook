@@ -18,7 +18,7 @@ Note that puttanesca is not a traditional sauce but an Italian refrigerator-surp
 * 2 lbs plum tomatoes, diced
 * 1 tsp salt (plus more for pasta water)
 * 1 tsp freshly ground black pepper
-* 2 T. finely chopped parsley
+* 2 T. finely chopped parsley (optional)
 * 1 box spaghetti or linguine
 
 ### Half Recipe
@@ -38,12 +38,12 @@ Note that puttanesca is not a traditional sauce but an Italian refrigerator-surp
 
 ## Directions
 
-Boil water for pasta.
-
-Dice onions and garlic. Quarter olives.  Rinse capers.
-
-Fry onions in half the oil in skillet for 8-10 minutes.  Add garlic and anchovies.  Cook for one minute maximum, stirring to break up the anchovies.
-
-Add capers, chili peppers, olives, diced tomatoes, pepper and salt to skillet.  Bring to a boil then simmer uncovered 15 minutes, stirring occasionally.  Also boil the pasta.
-
-Taste the sauce. Add more salt if necessary, then drain pasta and add to skillet.  Toss on low with remaining olive oil.  Top with parsley and serve hot.
+1. Boil water for pasta.
+2. Dice onions and garlic. Quarter olives.  Rinse capers.
+3. Fry onions in half the oil in skillet for 8-10 minutes.  
+4. Add garlic and anchovies and cook for one minute maximum, stirring to break up the anchovies.
+5. Add capers, chili peppers, olives, diced tomatoes, pepper and salt to skillet.  Bring to a boil then simmer uncovered 15 minutes, stirring occasionally.  
+6. Also boil the pasta.
+7. Taste the sauce and salt if necessary.
+8. Drain pasta and add to skillet with remaining olive oil.
+9. Serve hot, topped with parsley.

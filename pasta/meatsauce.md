@@ -3,7 +3,8 @@
 ![with sausage](../images/with_sausage.jpg)
 ![with sauce](../images/with_sauce.jpg)
 
-This is the sauce that goes with the meatballs (see Meat). More than a pound of meat can overwhelm the sauce, but it will still cook and be yummy. Served with rigatoni in the picture.
+This is the sauce that goes with [the meatballs](../meat/meatballs.md). More than a pound of meat can overwhelm the sauce, but it will still cook and be yummy.
+
 
 ## Ingredients
 
@@ -16,6 +17,13 @@ This is the sauce that goes with the meatballs (see Meat). More than a pound of 
 * 1/2 tsp salt
 * 1 tsp oregano or to taste
 
+
 ## Directions
 
-Brown the meat in the oil (or continue in the pan from my meatball recipe). Remove the meat and brown the onions in the remaining fat. Add the garlic. Return the meat to the pan. Add tomatoes. If you drained whole tomatoes, make up for the liquid with 1/2 c. water. Mix in the tomato paste. Add seasonings. Cook for at least one hour.
+1. Brown the meat in the oil (or continue in the pan from my meatball recipe). 
+2. Remove the meat and brown the onions in the remaining fat. 
+3. Add the garlic. 
+4. Return the meat to the pan and add tomatoes. (If you drained whole tomatoes, make up for the liquid with 1/2 c. water.)
+5. Mix in the tomato paste. 
+6. Add seasonings. 
+7. Simmer for at least one hour.

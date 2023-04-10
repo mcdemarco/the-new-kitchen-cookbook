@@ -27,12 +27,12 @@ Follow the Healthy Bread directions, but note that the dough is very sticky and 
 
 ### Loaf Pan
 
-Mix the ingredients in the order listed and let rise 2 hours as usual.  Refrigerate until needed.
+Mix the ingredients in the order listed and let rise 2 hours as usual.  Refrigerate until needed.  To bake:
 
-1. Line the bottom with parchment paper.
+1. Line the bottom of the pan with parchment paper.
 2. Dust dough with white flour, form into a ball, and put in pan.
 2. Let rise about 90 minutes, preferably covered with something that won't touch it; it's sticky.
-3. Preheat oven to 375° with the usual steam pan.
+3. Preheat oven to 375° with the usual steam pan but no bread stone.
 4. Insert loaf and 1 c. hot water.
 5. Bake for 30 minutes.
 6. Remove from oven, remove from pan, remove parchment paper.  Caution: hot!
