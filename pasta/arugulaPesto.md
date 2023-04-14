@@ -1,6 +1,6 @@
 # Arugula Pesto
 
-Peter likes arugula but not salad that's just greens, so sometimes some leftover arugula needs using up.  I made some into pesto because I had a lot of walnuts around as well, and then I put it on some otherwise plain Israeli couscous.  The process is almost the same as for [basil pesto](../pasta/pesto.md)
+Peter likes arugula but not salad that's just greens, so sometimes some leftover arugula needs using up.  I made some into pesto because I had a lot of walnuts around as well, and then I put it on some otherwise plain Israeli couscous.  The process is almost the same as for [basil pesto](../pasta/pesto.md).
 
 This particular recipe is based on [Elise Bauer's](https://www.simplyrecipes.com/recipes/arugula_pesto/), though I'm not sure it's significantly different from all the others out there.
 
