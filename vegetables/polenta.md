@@ -26,4 +26,6 @@ You can fry them in a pan, which I would have done if the oven weren't already g
 
 I've also spiced them with black pepper, black seed (nigella), sage, and/or savory.
 
-The serving size of instant polenta is 1/4 c.  Boil a cup of water per 1/4 c. polenta, salt to taste, then cook 3 minutes, stirring constantly.  Cook longer if you want it thicker.
+The serving size of instant polenta is 1/4 c.  Boil a cup of water per 1/4 c. polenta, salt to taste, then cook 3 minutes, stirring constantly.  Cook longer if you want it thicker.  
+
+You can also microwave a single serving of instant polenta on high for 4--5 minutes (stirring once), optionally with olive oil.  Consult the internet for larger quantities.
