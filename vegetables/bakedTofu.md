@@ -36,4 +36,4 @@ The original recipe called for spraying the pan of tofu with cooking spray as we
 
 There are a lot of recipes out there with other tricks, like salting the tofu to drain it.
 
-Vegan blogger Tracy makes [a similar recipe](https://simplyceecee.co/tofu-pasta-recipe/#recipe) for serving with pasta and sauce; I just used my recipe with Italian spices instead of spice mix and evoo for the oils.
+Vegan blogger Tracy makes [a similar recipe](https://simplyceecee.co/tofu-pasta-recipe/#recipe) for serving with pasta and sauce; I just used my recipe with Italian spices instead of spice mix, and olive oil for the oils.

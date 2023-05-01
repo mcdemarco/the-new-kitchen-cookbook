@@ -19,7 +19,7 @@ Serves 2--3.
 2. Trim the tops off, then slice each okra in half lengthwise.
 3. Chop the scallion to match in length.
 3. Toss all ingredients in a large bowl.  ![sliced](../images/okra_sliced.png)
-4. Spread in 1 layer in a shallow baking pan lined with parchment paper for your convenience.  ![spread](../images/okra_pan.png)
+4. Spread in 1 layer in a shallow baking pan, optionally lined with parchment paper for your convenience.  ![spread](../images/okra_pan.png)
 5. Roast about 25 minutes (or less, depending on size), stirring halfway through.
 
 ## Variants

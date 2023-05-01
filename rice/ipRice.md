@@ -28,4 +28,3 @@ Peter prefers the brown basmati cooked longer, but a final cooking time has not 
 To make instant pot Brazilian-style rice, saute a diced onion and/or just three cloves of minced garlic in olive oil in the Instant Pot.  Optionally saute the rice as well (risotto-style).  Then follow the normal basmati (white or brown) instructions above.
 
 ![make it Brazilian](../images/iprice_saute.png)
-
