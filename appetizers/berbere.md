@@ -14,3 +14,11 @@ This is based on TwoSleevers' [Ethiopian Berbere Mix](https://twosleevers.com/et
 * 1/4 tsp. ground allspice
 * 1/4 tsp. ground clove
 * 1/2 T kosher salt
+
+## Directions
+
+Mix.
+
+![unmixed](../images/berbere_unmixed.png)
+
+![mixed](../images/berbere_mixed.png)

@@ -18,7 +18,7 @@ This is a yeast flatbread from the *Artisan Bread in 5* [blog](https://artisanbr
 1. Oil a pie plate.
 2. Sprinkle dough with flour and shape into a ball.
 3. Flatten to 1/2" thick and place in pie plate.
-4. Top with remaining ingredients.
+4. Top with remaining ingredients.  ![raw](../images/flatbread_raw.png)
 5. Preheat the oven to 450°, along with a broiler tray for water.
 6. Let rise 20 minutes.
 7. Make depressions in the dough with your fingers, to the extent possible.  Drizzle with more oil.

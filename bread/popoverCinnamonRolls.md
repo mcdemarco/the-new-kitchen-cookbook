@@ -1,5 +1,7 @@
 # Cinnamon Rolls in a Popover Pan
 
+![popover rolls in the oven](../images/popoverrolls.png)
+
 This recipe was inspired by the Artisan Bread in 5 blog [Cinnamon Roll Kulich recipe](https://artisanbreadinfive.com/2020/04/07/kulich-for-easter-two-ways-plus-a-book-red-star-yeast-giveaway/) (scroll past the Kulich section), sans saffron, cut down to fit my single popover pan.
 
 Makes 6.

@@ -1,8 +1,8 @@
 # Pizzelles by the Egg
 
-This version of the recipe is for cookie math as well as variants like chocolate pizzelles, eggnog pizzelles, etc.  (I sometimes go up to 8 eggs or experiment with a couple, so I broke down the pizzelle recipe to a single egg.)
+![watercolor pizzelle iron](../images/pizzelleironwc.png)
 
-![eggnog pizzelle](../images/eggnog_pizzelle.png)
+This version of the recipe is for cookie math as well as variants like chocolate pizzelles, eggnog pizzelles, etc.  I sometimes go up to 8 eggs or experiment with a couple, so I broke down the pizzelle recipe to a single egg.
 
 Peter is responsible for the eggnog variant.
 
@@ -17,7 +17,7 @@ Peter is responsible for the eggnog variant.
 
 ## Directions
 
-See full pizzelle recipe for directions.
+See the [full pizzelle recipe](../cookies/pizzelles.md) for directions.
 
 ![dough](../images/dough.jpg)
 
@@ -29,7 +29,7 @@ For chocolate pizzelles use vanilla extract and add 1 T. cocoa and 1 T. sugar.
 
 For almond pizzelles use 1 tsp. almond extract.
 
-For eggnog pizzelles use half the vanilla extract and add 1/4 tsp. nutmeg and 1/3 tsp. ground clove .
+For eggnog pizzelles use half the vanilla extract and add 1/4 tsp. nutmeg and 1/3 tsp. ground clove.  ![eggnog pizzelle](../images/eggnog_pizzelle.png)
 
 For cinnamon pizzelles use 1 tsp. vanilla extract and 1 tsp. cinnamon.
 

@@ -11,7 +11,7 @@ The bible of rice is at [Green Healthy Cooking](https://greenhealthycooking.com/
 ## Directions
 
 1. Add all ingredients to pot and stir.
-2. Close instant pot, and seal the vent.  
+2. Close instant pot, and seal the vent.
 3. Set to manual high pressure.
 4. Pressure cook on high for 3 minutes (white), 22 minutes (brown), or 30 minutes (wild).
 5. Turn off keep warm.
@@ -25,4 +25,7 @@ You can cook wild rice 28 minutes if you prefer it less "burst."
 
 Peter prefers the brown basmati cooked longer, but a final cooking time has not yet been determined.  (Next up is 24 minutes.)
 
-To make instant pot Brazilian-style rice, saute a diced onion and/or just three cloves of minced garlic in olive oil in the Instant Pot, then proceed with the normal basmati (white or brown) instructions above.
+To make instant pot Brazilian-style rice, saute a diced onion and/or just three cloves of minced garlic in olive oil in the Instant Pot.  Optionally saute the rice as well (risotto-style).  Then follow the normal basmati (white or brown) instructions above.
+
+![make it Brazilian](../images/iprice_saute.png)
+
