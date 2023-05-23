@@ -28,6 +28,8 @@ This is a yeast flatbread from the *Artisan Bread in 5* [blog](https://artisanbr
 
 ## Variants
 
+If you get frustrated with the olives and garlic falling off, you can skip them and just do herbs and spices (which will also fall off). 
+
 See this [Italian recipe book](https://www.italianrecipebook.com/focaccia-toppings/), [Marcellina](https://www.marcellinaincucina.com/focaccia-toppings/), or [various](https://recipes.net/articles/focaccia-toppings/) [other](https://insanelygoodrecipes.com/focaccia-toppings/) [lists](https://www.baked-theblog.com/easy-focaccia-bread-recipe-plus-40-topping-ideas/) for many more toppings.
 
 Nigella is also an option, though not a traditional one.

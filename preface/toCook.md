@@ -108,6 +108,8 @@ Stufadin, _Cucina Ebraica_ p.145
 
 [Instant Pot Chicken Biryani](http://www.thasneen.com/cooking/express-biryani-instant-pot-chicken-biryani/)
 
+[40 clove chicken](https://www.foodnetwork.com/recipes/alton-brown/40-cloves-and-a-chicken-recipe-1910661)
+
 See also soups.
 
 ## Dessert
