@@ -29,3 +29,11 @@ This is a stew that started out based on [Classic Beef Stew](http://www.bettycro
 3. Simmer for 2 1/2 hours.
 4. Add the remaining vegetables and cook 1/2 hour more.
 5. Optionally, thicken with flour in the ratio of 1 T flour to 1/4 c water.
+
+### Instant Pot Directions
+
+1. Optionally dust the beef with flour.  Optionally sauté the onions.
+2. Sauté the beef.  Deglaze with the wine.
+3. Add all remaning ingredients at once.
+4. Cook on high pressure for 35 minutes. 
+5. Let stand 10 minutes before releasing.

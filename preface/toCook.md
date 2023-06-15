@@ -15,6 +15,8 @@ This is my to-do list.
 
 [Popped wild rice](https://jamiegeller.com/recipes/popped-wild-rice/)
 
+Garam masala
+
 ## Soup
 
 [Roasted Cauliflower and Garlic Soup](http://cookingwithcurls.com/2017/01/09/roasted-cauliflower-garlic-soup/)
@@ -37,7 +39,9 @@ Pumpkin and Chickpea soup (_Sephardic Cooking_ p.436)
 
 English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easiest-and-tastiest-homemade-english-muffins) or [fried](http://www.artisanbreadinfive.com/2013/11/01/english-muffins-on-the-stove-top-with-gold-medal-flour-and-red-star-yeast#more-6412) (could use molds but not entirely necessary)
 
-[Focaccia di recco](https://www.sugarsaltmagic.com/focaccia-di-recco/)
+[Focaccia di recco](https://www.sugarsaltmagic.com/focaccia-di-recco/) (cheese flatbread)
+
+[Pancake mix](https://www.simplyrecipes.com/recipes/homemade_pancake_mix/)
 
 ## Slow Bread
 
@@ -47,7 +51,7 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 Garbage Bread
 
-* rice flour cracker
+rice flour crackers
 
 
 ## Vegetables
@@ -60,7 +64,11 @@ Garbage Bread
 
 *Hanukkah*: [Keftes de Prasa](https://www.reddit.com/r/JewishCooking/comments/r5bkvs/made_keftes_de_prasa_for_hannukah_instead_of/)
 
+[Pickled okra](https://www.thespruceeats.com/pickled-okra-recipe-p2-2216859)
+
 ## Starches
+
+[IP Dal](https://www.bonappetit.com/story/instant-pot-dal-formula)
 
 ### Rice
 
@@ -116,14 +124,17 @@ See also soups.
 
 [Farmer's cheese donuts](https://momsdish.com/recipe/203/farmers-cheese-doughnuts) for Hanukkah
 
-* matzah crack
+matzah crack
 
-* dark chocolate peppermints (with recipe)
+dark chocolate peppermints (with recipe)
 
 [Paczki](https://www.seasonsandsuppers.ca/polish-paczki-donuts-recipe/)
 
 [French Apple Cake](https://12tomatoes.com/easy-french-apple-cake/) or [Jewish apple cake](https://www.thespruceeats.com/kosher-apple-cake-2121494)
 
+[Cheesecake mousse](https://inthewildheartkitchen.com/2023/05/24/no-bake-cheesecake-mousse/)
+
+convert tapioca recipe [to IP](https://www.cooksmarts.com/articles/instant-pot-cooking-times-pdf/)
 
 ### Cookies
 

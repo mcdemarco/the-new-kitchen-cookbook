@@ -26,3 +26,5 @@ Garlic powder will stick to the potatoes better, but then you won't have any bur
 
 Combine with [roasted green beans](../vegetables/roastedHaricots.md) or [zucchini](../roots/roastedZucchini.md) for the last 15 minutes.
 
+Switch up the spices as in [Moroccan Roasted Potatoes](https://letsdishrecipes.com/moroccan-roasted-potatoes/)
+
