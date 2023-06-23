@@ -25,7 +25,9 @@
     filename: babaGhanoush
   - name: Roasted Chickpeas
     filename: chickpeas
-  - name: Moroccan Spice Mix
+  - name: Herbes de Provence
+    filename: provence
+   - name: Moroccan Spice Mix
     filename: moroccanSpiceMix
   - name: Ethiopian Berbere
     filename: berbere

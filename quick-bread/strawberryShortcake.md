@@ -2,6 +2,8 @@
 
 This is another Mother's Day request, based on plenty of similar recipes.  Some recipes use two different creams for the dough and topping, but [The New York Times](https://cooking.nytimes.com/recipes/11823-strawberry-shortcake) was thoughtful enough to just use whipping cream for the heavy cream, while [The Kitchn](https://www.thekitchn.com/summer-recipe-oldfashioned-str-150927) did it all with heavy cream.  (This recipe is cut down from those, so see them for better scaling up.)
 
+For non-dairy biscuits, see my [coconut oil](../quick-bread/coconutOilBiscuits.md) or [Guinness](../quick-bread/guinnessBiscuits.md) biscuit recipes.
+
 Serves 4.
 
 ## Ingredients
@@ -44,10 +46,14 @@ Serves 4.
 10. While baking, prep strawberries.
 11. Whip cream.  Add sugar and tartar mix slowly, while beating to desired perkiness.  Optionally then beat in extract.
 
+You may want to cool the biscuits completely before splitting.
+
 ## Variants
 
 You can make dough with a food processor if you insist.
 
-You can make individual biscuits (rolling out to half an inch) or splittable biscuits (rolling out to an inch).
+You can make individual biscuits (rolling out to half an inch) or splittable biscuits (rolling out to an inch).  
+
+Some recipes scoop the dough by 1/3 cups rather than rolling it out, *e.g.,*  [The Pioneer Woman](https://www.thepioneerwoman.com/food-cooking/recipes/a39026449/strawberry-shortcake-recipe/) and [The Spruce Eats](https://www.thespruceeats.com/our-best-strawberry-shortcake-recipe-7482908).  
 
 I spotted one recipe that used milk instead of cream for the shortcake.
