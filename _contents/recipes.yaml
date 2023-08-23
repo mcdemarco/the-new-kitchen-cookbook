@@ -333,6 +333,8 @@
 - name: Pasta
   filename: pasta
   files:
+  - name: Israeli Couscous
+    filename: israeliCouscous
   - name: Orecchiette with Anchovy Sauce
     filename: orecchiette
   - name: Alfredo Sauce

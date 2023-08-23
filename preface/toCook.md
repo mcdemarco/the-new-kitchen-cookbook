@@ -17,6 +17,8 @@ This is my to-do list.
 
 Garam masala
 
+[Blendjet](https://www.epicurious.com/recipes-menus/11-frozen-blender-cocktails-gallery) [drinks](https://www.guysgab.com/step-up-your-frozen-drink-game-with-the-blendjet-2-portable-blender/), *e.g.*, [strawberry daquiri](https://www.food.com/recipe/strawberry-daiquiri-smoothie-alcoholic-423850)
+
 ## Soup
 
 [Roasted Cauliflower and Garlic Soup](http://cookingwithcurls.com/2017/01/09/roasted-cauliflower-garlic-soup/)
@@ -123,6 +125,8 @@ See also soups.
 ## Dessert
 
 [Farmer's cheese donuts](https://momsdish.com/recipe/203/farmers-cheese-doughnuts) for Hanukkah
+
+[Cottage Cheese rugelach](https://oukosher.org/blog/kosher-trends/kosher-cottage-cheese/)
 
 matzah crack
 
