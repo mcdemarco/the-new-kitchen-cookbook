@@ -295,10 +295,12 @@
     filename: scallopedPotatoes
   - name: Non-Dairy Mashed Potatoes
     filename: nonDairyMashedPotatoes
+    ip: true
   - name: Roasted Potatoes
     filename: roastedPotatoes
   - name: Roasted Sweet Potatoes
     filename: roastedSweetPotatoes
+    ip: true
   - name: Roasted Rutabaga
     filename: roastedRutabaga
   - name: Roasted Zucchini
@@ -416,6 +418,7 @@
     filename: italianPotRoast
   - name: Molha Quase à Moda de Pico
     filename: molha
+    ip: true
   - name: Instant Pot Ground Beef Stew
     filename: ipGroundBeefStew
     ip: true
