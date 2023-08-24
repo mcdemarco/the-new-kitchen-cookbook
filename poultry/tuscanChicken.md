@@ -1,8 +1,8 @@
 # Tuscan Chicken with Olives and Capers
 
-This is a combination of [two](http://leitesculinaria.com/81989/recipes-roast-chicken-pancetta-olives.html) [recipes](http://hungrydomaine.com/no-time-to-cook-roasted-chicken-with-black-olives-capers-and-rosemary/) I found online in a search for chicken with black olives and possibly capers.  They went through the usual process of adjustment:  fewer squirrels (rabbits, in this case), less forethought/marinating, and more spices.
+This is a combination of [two](http://leitesculinaria.com/81989/recipes-roast-chicken-pancetta-olives.html) [recipes](http://hungrydomaine.com/no-time-to-cook-roasted-chicken-with-black-olives-capers-and-rosemary/) I found online in a search for chicken with black olives and possibly capers.  They went through the usual process of adjustment:  fewer squirrels (rabbits, in this case), less forethought/marinating, and more spices.  The salt is reduced because the sauce seems to concentrate salt from the other ingredients.
 
-Total cooking and resting time is 50 minutes to an hour.
+Total cooking and resting time is 50 minutes to an hour (or half an hour with the instant pot).
 
 ## Ingredients
 
@@ -12,7 +12,7 @@ Total cooking and resting time is 50 minutes to an hour.
 * 1 tsp fresh rosemary
 * 1/4 tsp red pepper flakes (heaping)
 * 1/4 tsp black pepper
-* 1/2 tsp sea salt
+* 1/4 tsp sea salt
 * 3 cloves garlic, whole
 * 1/3 c. white wine
 * 2 T balsamic vinegar
