@@ -103,6 +103,7 @@
     filename: chickpea
   - name: Instant Pot Brown Lentil Soup
     filename: ipBrownLentil
+    ip: true
   - name: Okra Soup
     filename: okra
   - name: Italian Wedding Soup
@@ -111,6 +112,7 @@
     filename: spinachWedding
   - name: Sri Lankan Mulligatawny Soup
     filename: mulligatawny
+    ip: true
   - name: Kielbasa Soup
     filename: kielbasa
   - name: Matzah Ball Soup
@@ -119,12 +121,16 @@
     filename: thighStew
   - name: Instant Pot Tomato Chicken Soup
     filename: ipTomatoChicken
+    ip: true
   - name: Instant Pot Chicken Lentil Soup
     filename: ipChickenLentil
+    ip: true
   - name: Instant Pot Chicken and Wild Rice Soup
     filename: ipChickenAndWildRice
+    ip: true
   - name: Instant Pot Stock
     filename: ipStock
+    ip: true
 
 - name: Bread
   filename: bread
@@ -265,8 +271,10 @@
     filename: bamia
   - name: Instant Pot Artichokes
     filename: ipArtichokes
+    ip: true
   - name: Instant Pot Cannellini
     filename: ipCannellini
+    ip: true
   - name: Crispy Baked Tofu
     filename: bakedTofu
   - name: Vegetarian Chili
@@ -307,12 +315,14 @@
   files:
   - name: Instant Pot Rice
     filename: ipRice
+    ip: true
   - name: Brazilian Rice
     filename: brazilianRice
   - name: Roz bil Shaghria
     filename: roz
   - name: Instant Pot Rice and Red Lentils
     filename: ipRiceAndRedLentils
+    ip: true
   - name: Orzo
     filename: orzo
   - name: Stuffed Peppers
@@ -327,6 +337,7 @@
     filename: carcassRisotto
   - name: Instant Pot Risotto
     filename: ipRisotto
+    ip: true
   - name: Sushi Rice
     filename: sushi
 
@@ -335,6 +346,7 @@
   files:
   - name: Israeli Couscous
     filename: israeliCouscous
+    ip: true
   - name: Orecchiette with Anchovy Sauce
     filename: orecchiette
   - name: Alfredo Sauce
@@ -353,8 +365,10 @@
     filename: meatsauce
   - name: Instant Pot Pasta with Ground Turkey
     filename: ipTurkeyPasta
+    ip: true
   - name: Instant Pot Pasta with Ground Beef
     filename: ipBeefPasta
+    ip: true
   - name: Mac and Cheese
     filename: macncheese
   - name: Salmon Casserole
@@ -381,6 +395,7 @@
     filename: pepperSteak
   - name: Instant Pot Fried Rice
     filename: ipFriedRice
+    ip: true
   - name: Beef and Bean Chili
     filename: chili
   - name: Cincinnati Chili
@@ -403,8 +418,10 @@
     filename: molha
   - name: Instant Pot Ground Beef Stew
     filename: ipGroundBeefStew
+    ip: true
   - name: Instant Pot Ethiopian Beef Stew
     filename: ipEthBeefStew
+    ip: true
   - name: Lamb Stew
     filename: lambStew
 
@@ -415,6 +432,7 @@
     filename: roasted
   - name: Instant Pot Whole Chicken
     filename: ipChicken
+    ip: true
   - name: Crockpot Roasted Chicken
     filename: crockpotRoastedChicken
   - name: Crockpot Chicken Legs
@@ -435,6 +453,7 @@
     filename: roastedWithSweetPotatoes
   - name: Tuscan Chicken with Olives and Capers
     filename: tuscanChicken
+    ip: true
   - name: Spicy Asian Chicken
     filename: asianChicken
   - name: Baked Chicken and Rice
@@ -445,10 +464,13 @@
     filename: chickenCurry
   - name: Instant Pot Chicken Vindaloo
     filename: ipChickenVindaloo
+    ip: true
   - name: Treda
     filename: treda
+    ip: true
   - name: Crockpot Chicken with Farro
     filename: crockpotChickenFarro
+    ip: true
   - name: Devilled Chicken Thighs
     filename: devilledChicken
   - name: Turkey Scaloppini
@@ -459,14 +481,17 @@
     filename: crockpotTurkey
   - name: Instant Pot Turkey Tenders
     filename: ipTurkeyTenders
+    ip: true
   - name: Turkey or Chicken a la King
     filename: turkeyChickenKing
   - name: Turkey Meatballs
     filename: turkeyballs
   - name: Turkey Chili
     filename: turkeyChili
+    ip: true
   - name: Cranberry Sauce
     filename: cranberrySauce
+    ip: true
 
 - name: Fish
   filename: fish
@@ -485,6 +510,7 @@
     filename: broiledSalmon
   - name: One Instant Pot Salmon
     filename: ipSalmon
+    ip: true
   - name: Baked Trout
     filename: trout
   - name: Baked Mackerel
