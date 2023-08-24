@@ -77,6 +77,7 @@
     filename: riceSalad
   - name: Farro Salad
     filename: farroSalad
+    ip: true
   - name: Smoked Mackerel Pasta Salad
     filename: mackerelSalad
   - name: Soba Salad
@@ -320,6 +321,7 @@
     ip: true
   - name: Brazilian Rice
     filename: brazilianRice
+    ip: true
   - name: Roz bil Shaghria
     filename: roz
   - name: Instant Pot Rice and Red Lentils
