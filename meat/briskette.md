@@ -31,6 +31,21 @@ Brisket recipes run large but (despite having come from Costco), my brisket was 
 * 4 cloves garlic, smashed
 * up to 1 lb. onion, sliced thin
 
+### Small Brisket
+
+* one 3 1/2--4 lb. brisket
+* 2 tsp kosher salt
+* 1 1/2 tsp. pepper
+* 1 1/2 tsp. mustard powder (optional)
+* 1 1/2 tsp. dried thyme 
+* 2 tsp. brown sugar
+* 1 1/2 T olive oil or schmaltz
+* 1/3 bottle red wine (or replace with 1 c. chicken broth)
+* 2 1/4 c. chicken broth
+* 6 cloves garlic, smashed
+* up to 1 1/2 lb. onion, sliced thin
+* carrots to taste
+
 ### Brisket
 
 * one 5 lb. brisket
@@ -80,4 +95,3 @@ Make it all in a dutch oven, setting the beef on a plate where necessary.
 Slice after cooking and then heat in the juices for another 45 minutes.
 
 Serve with horseradish.
-
