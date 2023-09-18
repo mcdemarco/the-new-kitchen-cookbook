@@ -75,6 +75,10 @@ Brisket recipes run large but (despite having come from Costco), my brisket was 
 9. Bake 1 hour.
 10. Turn beef over and bake 1 more hour.
 11. For a large brisket, flip again, add carrots, and bake 45 more minutes.
+12. Check near the end of cooking time.  If the liquid is low, slice and submerge the slices for the remaining cooking time.
+13. Optionally cool before slicing.
+
+You can make it the day before serving and reheat up to an hour in the oven at 300°.  Reduce the pan size if possible, or slice and submerge the slices. 
 
 ## Variants
 
@@ -87,8 +91,6 @@ Add 4--6 prunes.
 Add tomatoes (optionally crushed).
 
 Marinate the brisket before cooking.
-
-Make it the day before serving and reheat up to an hour in the oven at 300°.
 
 Make it all in a dutch oven, setting the beef on a plate where necessary.
 

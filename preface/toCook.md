@@ -68,9 +68,11 @@ rice flour crackers
 
 [Pickled okra](https://www.thespruceeats.com/pickled-okra-recipe-p2-2216859)
 
-## Starches
+# Starches
 
 [IP Dal](https://www.bonappetit.com/story/instant-pot-dal-formula)
+
+[Wild rice and corn kugel](https://jamiegeller.com/recipes/corn-and-wild-rice-kugel/)
 
 ### Rice
 
@@ -134,7 +136,7 @@ dark chocolate peppermints (with recipe)
 
 [Paczki](https://www.seasonsandsuppers.ca/polish-paczki-donuts-recipe/)
 
-[French Apple Cake](https://12tomatoes.com/easy-french-apple-cake/) or [Jewish apple cake](https://www.thespruceeats.com/kosher-apple-cake-2121494)
+[French Apple Cake](https://12tomatoes.com/easy-french-apple-cake/) or [Jewish apple cake](https://www.thespruceeats.com/kosher-apple-cake-2121494) or [mom's apple cake](https://smittenkitchen.com/2008/09/moms-apple-cake/)
 
 [Cheesecake mousse](https://inthewildheartkitchen.com/2023/05/24/no-bake-cheesecake-mousse/)
 

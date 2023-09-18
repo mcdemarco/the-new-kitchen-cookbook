@@ -38,7 +38,7 @@ Makes 2 braided or round loaves.
 
 ## Variants
 
-For Rosh Hashana, include the optional raisins and make the loaves round.  You can braid a round loaf by starting with four or six strands woven together and then braiding the ends a bit and tucking them under.  There are several options in [this video](https://www.youtube.com/watch?v=R4HnpjdpUSg).
+For Rosh Hashana, include the optional raisins and make the loaves round.  You can braid a round loaf by starting with four or six strands woven together and then braiding the ends a bit and tucking them under.  There are several options in [this video](https://www.youtube.com/watch?v=R4HnpjdpUSg), while [this one](https://www.youtube.com/watch?v=_wZPqXPpPtA) goes into detail for a triaxial weave (star of David).
 
 ![woven](../images/challah_rh_woven.png)
 

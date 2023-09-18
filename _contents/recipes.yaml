@@ -312,6 +312,8 @@
     filename: stuffedSquash
   - name: Tzimmes
     filename: tzimmes
+  - name: Root Roast
+    filename: roast
 
 - name: Rice
   filename: rice
@@ -331,6 +333,8 @@
     filename: orzo
   - name: Stuffed Peppers
     filename: stuffedPeppers
+  - name: Rice Kugel
+    filename: kugel
   - name: About Risotto
     filename: aboutRisotto
   - name: Tempeh Risotto
