@@ -36,6 +36,8 @@ Serve warm.
 
 The original recipes all called for orange juice.
 
+The recipe can be made with leftover rice; I just never have that much rice left over.
+
 You can bake it at 325° if that better suits companion dishes.
 
 When I first made this, I used part of one egg to brush two challahs, then replaced the liquid with a little leftover coconut milk.  I doubt it really mattered except that I did not have the perennial half an egg lying around.
