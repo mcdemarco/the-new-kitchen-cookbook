@@ -14,6 +14,10 @@ Pumpkin spice lattes are more than just pie spice in a coffee; see, *e.g.,* [Sta
 * 1 tsp. allspice
 * dash black pepper
 
+## Directions
+
+Mix.
+
 ## Variants
 
 Most recipes are much heavier on the cinnamon.  Some are unusually light on nutmeg.
