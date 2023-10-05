@@ -38,5 +38,5 @@ Makes: 1 pie.
 
 ## Variants
 
-The original recipe included 1/2 tsp. pepper, which has been reduced to a more reasonable quantity.
+The original recipe included 1/2 tsp. pepper, which has been reduced to a more reasonable quantity.  My other recipe uses more cinnamon.
 
