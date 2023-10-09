@@ -552,6 +552,8 @@
     filename: easyMints
   - name: Candied Grapefruit Peels
     filename: grapefruitPeels
+  - name: Vanilla Cupcakes
+    filename: cupcakes
   - name: Sonhos (Portuguese Doughnuts)
     filename: sonhos
   - name: Sufganiyot (Jelly Doughnuts)
