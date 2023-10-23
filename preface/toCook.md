@@ -189,3 +189,5 @@ Homemade phyllo dough [with a pasta maker](https://www.thespruceeats.com/homemad
 Persian rice, esp. with lentils (e.g., Reyna's cookbook p. 207)
 
 [Rosemary Crescent Rolls](http://www.artisanbreadinfive.com/2011/09/21/rosemary-crescent-rolls#more-3285) with much less heat/time!
+
+Fruit fly trap [the kitchn](https://www.thekitchn.com/diy-fruit-fly-traps-22942130) but yes saran wrap, have pic
