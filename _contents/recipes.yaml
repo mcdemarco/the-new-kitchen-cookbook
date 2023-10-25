@@ -312,6 +312,9 @@
     filename: roastedZucchini
   - name: Winter Squash
     filename: squash
+  - name: Instant Pot Winter Squash
+    filename: ipSquash
+    ip: true
   - name: Couscous Stuffed Squash
     filename: stuffedSquash
   - name: Tzimmes

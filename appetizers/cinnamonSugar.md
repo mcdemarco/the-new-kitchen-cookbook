@@ -25,4 +25,5 @@ Mix.
 
 ## Variants
 
-You may need more cinnamon for baking use; if you do, or if you just want to cut back on the sugar anyway, you can mix up your cinnamon sugar at a 1:3 ratio. instead.
+You may need more cinnamon for baking use; if you do, or if you just want to cut back on the sugar anyway, 
+you can mix up your cinnamon sugar at a 1:3 ratio instead.

@@ -14,17 +14,23 @@ Bake cut side down at 375° for 1 hour.
 
 Bake at 475° for 40 minutes.
 
+## Carnival Squash
+
+Bake cut side down at 375° for 40 minutes, optionally in a half-inch of water.
+
 ## Delicata Squash
 
 Bake cut side down at 400° for 20 minutes.  The entire squash is edible, so afterwards you can cut it up into handy pieces or stuff the halves like a pepper with something pre-cooked.
 
 Alternately, slice the squash before cooking, spice it, and roast the slices at 425°F for 30--35 minutes, flipping halfway through.  Salt, pepper, and olive oil are enough spicing, but you can go in the apple pie spice direction if you want, and even roast some apples with them (they take about 5 minutes less time).  You can get fancy by stacking the slices with [apples](https://www.theredheadbaker.com/delicata-squash-and-apple-stacks/) and/or [onions](https://brucebradley.com/recipes/recipe-roasted-delicata-apple-and-onion-tian/).
 
-## Kobucha Squash
+## Kabocha Squash (Japanese Pumpkin)
 
 Rub with olive oil and optionally add maple syrup, cinammon, and salt to taste.   Bake cut side up at 400° for 45 minutes.
 
 Optionally you can slice this up into handy pieces (possibly after a bit of pre-baking, because it's a tough squash).  Toss with a similar mixture of toppings, and bake only 20 minutes at 400°.  I haven't tried it yet, but it might reduce some of the crumbliness of this squash.
+
+The skin of kabocha squash is edible.
 
 ## Pumpkin
 
