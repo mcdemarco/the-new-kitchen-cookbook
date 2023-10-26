@@ -2,6 +2,8 @@
 
 I made the whole recipe from [The Spruce Eats](https://www.thespruceeats.com/perfect-vanilla-cupcakes-4120605) and split it into a dozen regular and two dozen mini cupcakes.  Here I've cut it down to one or the other.  I usually have plain yogurt around.
 
+![sprinkled](../images/cupcake.png)
+
 Makes 12 regular or 24 mini cupcakes.
 
 ## Ingredients
@@ -34,5 +36,5 @@ Makes 12 regular or 24 mini cupcakes.
 
 ## Variants
 
-I'd probably like them better with a bit less sugar.
+I'd probably like them better with a bit less sugar, but cupcake experts thought they were correct.
 

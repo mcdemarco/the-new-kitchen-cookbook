@@ -23,6 +23,10 @@ Makes 1 jar.
 
 Mix.
 
+![unmixed](../images/cinnsugar_unmixed.png)
+
+![mixed](../images/cinnsugar_mixed.png)
+
 ## Variants
 
 You may need more cinnamon for baking use; if you do, or if you just want to cut back on the sugar anyway, 

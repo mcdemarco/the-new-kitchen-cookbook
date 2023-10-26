@@ -1,15 +1,15 @@
 # Instant Pot Winter Squash
 
-The instant pot is great for cooking hard and unwieldy squashes like butternut squash.  
+The instant pot is great for cooking hard and unwieldy squashes like butternut squash, but it can handle any squash.  If you have the time, however, it's worth roasting squash halves for the caramelization; the instant pot is better for other applications like soup, pie filling, or baby food.
 
 Pressure cook on high, on the trivet, with 1 cup of water unless indicated otherwise.
 For cubed squash, use a pot-in-pot on the trivet.
-For halves or cubes, optionally oil and/or spice as when [baking squash](../roots/squash.md).  
+For halves or cubes, optionally oil and/or spice as when [baking squash](../roots/squash.md).
 For whole squash, poke at least 5 times before pressure cooking, then cut and clean afterwards.
 
 Allow some cooling time for whole squash or halves you intend to scoop out and clean.  Increase cooking times for mushier results.
 
-The internet [recommends against](https://greatsquash.com/master-recipe-instant-pot-squash/) instant potting some of the squashes listed below, so YMMV.
+The internet [recommends against](https://greatsquash.com/master-recipe-instant-pot-squash/) instant potting some of the squashes listed below, so *caveat emptor*.
 
 ## Acorn Squash
 
@@ -23,9 +23,6 @@ Pressure cook whole for 15 minutes, halved for 10 minutes, or cubed for 3 minute
 Allow at least 10 minutes of natural release for whole or halved squash.
 
 See [Amy + Jacky's method](https://www.pressurecookrecipes.com/instant-pot-butternut-squash/) for more precise cooking times.
-
-## Calabaza Squash
-
 
 ## Delicata Squash
 

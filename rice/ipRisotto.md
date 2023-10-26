@@ -25,11 +25,11 @@ Serves two as a main meal with extras (one person per half cup of rice), or 3--4
 3. If the extras cannot stand up to pressure cooking, saute them now until cooked, then fish them out and set aside.
 3. Saute the rice in the oil.
 4. Optionally, deglaze the pot with wine and stir in the miso.
-4. Add stock and any durable extras.  Stir and deglaze the pot if not already deglazed.
+4. Add stock and any durable extras.  Stir and deglaze the pot if not already deglazed.  ![deglazed](../images/ipRisotto_raw.png)
 5. Cancel saute, close instant pot, and seal the vent.
 6. Pressure cook on high for 7 minutes.
 7. Release steam artificially.
-8. Open pot and stir in any fished-out extras.
+8. Open pot and stir in any fished-out extras.  ![deglazed](../images/ipRisotto_cooked.png)
 
 If your extra is mushrooms, subtract the volume of mushroom juice from the broth when adding broth.
 

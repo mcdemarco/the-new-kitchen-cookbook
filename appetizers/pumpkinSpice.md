@@ -18,6 +18,10 @@ Pumpkin spice lattes are more than just pie spice in a coffee; see, *e.g.,* [Sta
 
 Mix.
 
+![unmixed](../images/pumpkinSpice_unmixed.png)
+
+![mixed](../images/pumpkinSpice_mixed.png)
+
 ## Variants
 
 Most recipes are much heavier on the cinnamon.  Some are unusually light on nutmeg.

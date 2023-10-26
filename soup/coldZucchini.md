@@ -23,8 +23,8 @@ Serves 8--12.
 1. Fry the onion and garlic in the oil in a stock pot.
 2. Add the zucchini for 5 minutes.
 3. Add basil, stock, and parsley.
-4. Simmer 30 minutes.
-5. Puree with an immersion blender.  Water down (or ice down) at this point if desired.
+4. Simmer 30 minutes.  ![cooking](../images/coldzucc1.png)
+5. Puree with an immersion blender.  Water down (or ice down) at this point if desired.  ![chilling](../images/coldzucc3.png)
 6. Season.
 7. Chill and/or serve.
 

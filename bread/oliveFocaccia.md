@@ -26,6 +26,8 @@ This is a yeast flatbread from the *Artisan Bread in 5* [blog](https://artisanbr
 9. Bake 15--20 minutes or until medium brown.
 10. Serve warm.
 
+![cooked](../images/flatbread_cooked.png)
+
 ## Variants
 
 If you get frustrated with the olives and garlic falling off, you can skip them and just do herbs and spices (which will also fall off). 
