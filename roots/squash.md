@@ -10,6 +10,8 @@ Bake cut side up, filled with butter, brown sugar, maple syrup, [salt, pepper, a
 
 Bake cut side down at 375° for 1 hour.
 
+You can also poke it with a knife then roast it whole at 425° for 1 hour.  Cool a bit before prepping.
+
 ## Calabaza Squash
 
 Bake at 475° for 40 minutes.
