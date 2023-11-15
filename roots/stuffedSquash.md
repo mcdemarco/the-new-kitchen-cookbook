@@ -121,3 +121,5 @@ I was looking to stuff a butternut squash.  I found some general advice for stuf
 Toasting Israeli couscous is optional, but it does look nicer that way (briefly, until you add the curry powder).
 
 The nut specified was pecans, which I don't usually keep around.
+
+[Epicurious](https://www.epicurious.com/recipes/food/views/crispy-zaatar-fish-with-israeli-couscous-swiss-chard-and-feta-51261220) mixes couscous and feta with olives and chard.

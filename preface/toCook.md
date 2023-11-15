@@ -33,11 +33,13 @@ Pumpkin and Chickpea soup (_Sephardic Cooking_ p.436)
 
 [IP Peanut Stew](https://www.paintthekitchenred.com/instant-pot-african-peanut-stew/)
 
+[Navy bean and feta stew](https://www.epicurious.com/recipes/food/views/navy-bean-escarole-stew-with-feta-and-olives)
+
 ## Breakfast and Quick Bread
 
 [Ricotta Zucchini Muffins](http://www.tasteofbeirut.com/savory-zucchini-and-ricotta-muffins/) or [Ricotta Muffins](https://cafefernando.com/ricotta-and-basil-muffins/)
 
-[Shakshuka](https://toriavey.com/toris-kitchen/shakshuka/)
+[Shakshuka](https://toriavey.com/toris-kitchen/shakshuka/) or [spinach shakshuka](https://www.epicurious.com/recipes/food/views/spinach-shakshuka)
 
 English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easiest-and-tastiest-homemade-english-muffins) or [fried](http://www.artisanbreadinfive.com/2013/11/01/english-muffins-on-the-stove-top-with-gold-medal-flour-and-red-star-yeast#more-6412) (could use molds but not entirely necessary)
 

@@ -204,6 +204,8 @@
   - name: Za'atar Bread
     filename: zaatar
     favorite: true
+  - name: Tiropsomo
+    filename: tiropsomo
   - name: Spicy Cinnamon Flatbread
     filename: cinnamonFlatbread
   - name: Pizza Sauce
