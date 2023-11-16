@@ -204,8 +204,9 @@
   - name: Za'atar Bread
     filename: zaatar
     favorite: true
-  - name: Tiropsomo
+  - name: Tiropsomo (Feta-Stuffed Flatbread)
     filename: tiropsomo
+    new: 2023
   - name: Spicy Cinnamon Flatbread
     filename: cinnamonFlatbread
   - name: Pizza Sauce
