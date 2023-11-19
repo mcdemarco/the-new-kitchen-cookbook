@@ -501,6 +501,10 @@
     ip: true
     favorite: true
     new: 2023
+  - name: Instant Pot European Goulash
+    filename: ipEGoulash
+    ip: true
+    new: 2023
   - name: Lamb Stew
     filename: lambStew
 

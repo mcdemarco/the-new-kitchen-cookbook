@@ -1,6 +1,8 @@
 # Soy Sauce Salmon Steaks
 
-This recipe was inspired by an oversized 1.5 lb. salmon steak, which I cut in half down the spine line in order to put the skin side down.  Quantities are approximate.  It served two.
+This recipe was inspired by an oversized 1.5 lb. salmon steak, which I cut in half down the spine line in order to put the skin side down.  Quantities are approximate.
+
+Serves 2.
 
 ## Ingredients
 
@@ -11,7 +13,7 @@ This recipe was inspired by an oversized 1.5 lb. salmon steak, which I cut in ha
 * 1/2 T lemon juice
 * 1 tsp wasabi powder
 * 1 tsp powdered ginger
-* generous dash hungarian paprika
+* generous dash Hungarian or regular paprika
 * dash dill
 
 ## Directions
