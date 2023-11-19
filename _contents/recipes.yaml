@@ -281,6 +281,9 @@
     filename: coconutOilBiscuits
   - name: Strawberry Shortcake
     filename: strawberryShortcake
+  - name: Pão de Queijo (Brazilian Cheese Bread)
+    filename: paoDeQueijo
+    redirect: appetizers
 
 - name: Vegetables
   filename: vegetables
@@ -328,8 +331,17 @@
     favorite: true
   - name: Breakfast Lentils
     filename: breakfastLentils
+  - name: Chickpea Salad with Fennel, Tomatoes and Olives
+    filename: chickpeaFennel
+    redirect: salad
   - name: Mizeria (Polish Cucumber Salad)
     filename: cucumber
+    redirect: salad
+  - name: Tomato and Watermelon Salad
+    filename: tomatoWatermelon
+    redirect: salad
+  - name: Grape Tomato and Avocado Salad
+    filename: tomatoAvocado
     redirect: salad
   - name: North African Spiced Carrot and Parsnip Salad
     filename: carrotParsnip
@@ -352,6 +364,10 @@
   - name: Tzimmes
     filename: tzimmes
     redirect: roots
+  - name: Moroccan Spice Mix
+    filename: spiceMix
+    redirect: appetizers
+    redirectfilename: morrocanSpiceMix
 
 - name: Roots and Squash
   filename: roots
@@ -613,6 +629,12 @@
   - name: Cranberry Sauce
     filename: cranberrySauce
     ip: true
+  - name: Italian Wedding Soup
+    filename: italianWedding
+    redirect: soup
+  - name: Moroccan Spiced Chicken Stew
+    filename: thighStew
+    redirect: soup
 
 - name: Fish
   filename: fish
@@ -658,6 +680,12 @@
     filename: bacalhauComBroa
   - name: Fish Kuku
     filename: kuku
+  - name: Salmon Poke
+    filename: poke
+    redirect: salad
+  - name: Smoked Mackerel Pasta Salad
+    filename: mackerelSalad
+    redirect: salad
 
 - name: Sweets
   filename: sweets
