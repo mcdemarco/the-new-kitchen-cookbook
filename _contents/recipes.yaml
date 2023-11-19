@@ -31,7 +31,7 @@
   - name: Pumpkin Spice
     filename: pumpkinSpice
     new: 2023
-  - name: Herbes de Provence
+  - name: Herbes de Provence (Spice Mix)
     filename: provence
     new: 2023
   - name: Moroccan Spice Mix
@@ -271,7 +271,7 @@
     filename: almondFlourMuffins
   - name: Savory Almond Flour Muffins
     filename: savoryAFMuffins
-  - name: Pão de Queijo (Brazilian Cheese Bread)
+  - name: Pão de Queijo
     filename: paoDeQueijo
     redirect: appetizers
   - name: Quick Breadsticks
@@ -402,6 +402,9 @@
   - name: Root Roast
     filename: roast
     new: 2023
+  - name: North African Spiced Carrot and Parsnip Salad
+    filename: carrotParsnip
+    redirect: salad
   - name: Carrot and Radish Salad
     filename: carrotRadish
     redirect: salad
@@ -495,6 +498,9 @@
     filename: salmonCasserole
   - name: Soba Salad
     filename: sobaSalad
+    redirect: salad
+  - name: Smoked Mackerel Salad
+    filename: mackerelSalad
     redirect: salad
 
 - name: Meat
@@ -698,9 +704,6 @@
   - name: Salmon Poke
     filename: poke
     redirect: salad
-  - name: Smoked Mackerel Pasta Salad
-    filename: mackerelSalad
-    redirect: salad
 
 - name: Sweets
   filename: sweets
@@ -789,7 +792,7 @@
     filename: pecan
   - name: Pumpkin Pie
     filename: pumpkin
-  - name: Non-dairy Pumpkin Pie
+  - name: Non-Dairy Pumpkin Pie
     filename: nonDairyPumpkin
     favorite: true
   - name: Blitz Puff Pastry
