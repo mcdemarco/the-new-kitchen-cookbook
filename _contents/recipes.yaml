@@ -271,8 +271,9 @@
     filename: almondFlourMuffins
   - name: Savory Almond Flour Muffins
     filename: savoryAFMuffins
-  - name: Pão de Queijo
+  - name: Pão de Queijo (Brazilian Cheese Bread)
     filename: paoDeQueijo
+    redirect: appetizers
   - name: Quick Breadsticks
     filename: quickBreadsticks
   - name: Guinness Beer Biscuits
@@ -281,9 +282,6 @@
     filename: coconutOilBiscuits
   - name: Strawberry Shortcake
     filename: strawberryShortcake
-  - name: Pão de Queijo (Brazilian Cheese Bread)
-    filename: paoDeQueijo
-    redirect: appetizers
 
 - name: Vegetables
   filename: vegetables
@@ -354,6 +352,9 @@
     redirect: salad
   - name: Roasted Potatoes
     filename: roastedPotatoes
+    redirect: roots
+  - name: Roasted Sweet Potatoes
+    filename: roastedSweetPotatoes
     redirect: roots
   - name: Roasted Rutabaga
     filename: roastedRutabaga
@@ -444,6 +445,12 @@
     quick: true
   - name: Sushi Rice
     filename: sushi
+  - name: Rice Salad
+    filename: riceSalad
+    redirect: salad
+  - name: Farro Salad
+    filename: farroSalad
+    redirect: salad
 
 - name: Pasta
   filename: pasta
@@ -486,6 +493,9 @@
     favorite: true
   - name: Salmon Casserole
     filename: salmonCasserole
+  - name: Soba Salad
+    filename: sobaSalad
+    redirect: salad
 
 - name: Meat
   filename: meat
@@ -499,8 +509,10 @@
     filename: lambballs
   - name: Fake Bolognese Sauce
     filename: bolognese
+    redirect: pasta
   - name: Meat Sauce
     filename: meatsauce
+    redirect: pasta
   - name: Meatloaf for Passover
     filename: meatloaf
   - name: Cottage Pie
@@ -634,6 +646,9 @@
     redirect: soup
   - name: Moroccan Spiced Chicken Stew
     filename: thighStew
+    redirect: soup
+  - name: Instant Pot Stock
+    filename: ipStock
     redirect: soup
 
 - name: Fish
