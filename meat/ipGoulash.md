@@ -41,7 +41,7 @@ Serves 2--3.
 
 ## Variants
 
-It's traditional to serve over pasta, but sweet potatoes make it more one-pot and add a nice sweetness when I inevitably omit the traditional carrots, bell peppers, or celery (chopped small with the onions).  If you cook them for the full duration you can still use the goulash [American chop suey]()-style over pasta or egg noodles.
+It's traditional to serve over pasta, but sweet potatoes make it more one-pot and add a nice sweetness when I inevitably omit the traditional carrots, bell peppers, or celery (chopped small with the onions).  If you cook them for the full duration you can still use the goulash American [chop suey](../pasta/chopsuey.md)-style over pasta or egg noodles.
 
 Mushrooms would be nice.
 

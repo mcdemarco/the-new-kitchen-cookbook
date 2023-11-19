@@ -328,6 +328,30 @@
     favorite: true
   - name: Breakfast Lentils
     filename: breakfastLentils
+  - name: Mizeria (Polish Cucumber Salad)
+    filename: cucumber
+    redirect: salad
+  - name: North African Spiced Carrot and Parsnip Salad
+    filename: carrotParsnip
+    redirect: salad
+  - name: Carrot and Radish Salad
+    filename: carrotRadish
+    redirect: salad
+  - name: Waldorf Salad
+    filename: waldorfSalad
+    redirect: salad
+  - name: Roasted Potatoes
+    filename: roastedPotatoes
+    redirect: roots
+  - name: Roasted Rutabaga
+    filename: roastedRutabaga
+    redirect: roots
+  - name: Winter Squash
+    filename: squash
+    redirect: roots
+  - name: Tzimmes
+    filename: tzimmes
+    redirect: roots
 
 - name: Roots and Squash
   filename: roots
@@ -361,6 +385,9 @@
   - name: Root Roast
     filename: roast
     new: 2023
+  - name: Carrot and Radish Salad
+    filename: carrotRadish
+    redirect: salad
 
 - name: Rice
   filename: rice

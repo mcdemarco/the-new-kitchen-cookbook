@@ -1,3 +1,3 @@
 # North African Spiced Carrot and Parsnip Salad
 
-Moved to [Roots](../roots/carrotParsnip.md).
+Moved to [Salad](../salad/carrotParsnip.md).
