@@ -1,6 +1,9 @@
+[Instant Pot]: ../indices/instantPot.html
+[quick]: ../indices/quick.html
+
 # One Instant Pot Salmon
 
-This procedure is mostly as suggested by [Tasty Oven](https://tastyoven.com/instant-pot-salmon-and-rice/), which differed from many other frozen salmon and rice instant pot recipes in including vegetables and cooking the food with the sauce.  
+This procedure is mostly as suggested by [Tasty Oven](https://tastyoven.com/instant-pot-salmon-and-rice/), which differed from many other frozen salmon and rice [Instant Pot] recipes in including vegetables and cooking the food with the sauce.  
 
 Serves 2.
 

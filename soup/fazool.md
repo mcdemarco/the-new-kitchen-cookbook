@@ -1,6 +1,9 @@
+[vegetarian]: ../indices/vegetarian.html
+[quick]: ../indices/quick.html
+
 # Easy Pasta e Fagioli
 
-This is a variation on the first two recipes in this [nice Pasta e Fagioli collection](http://theheritagecook.com/pasta-e-fagioli-tuscan-bean-soup-4-versions/).  It's vegetarian, quick, and simple.
+This is a variation on the first two recipes in this [nice Pasta e Fagioli collection](http://theheritagecook.com/pasta-e-fagioli-tuscan-bean-soup-4-versions/).  It's [vegetarian], [quick], and simple.
 
 Serves 2.
 
@@ -37,3 +40,5 @@ Top with grated Italian cheese.
 Add some sliced Italian sausage.
 
 Beware of adding too much pasta.  For pasta conversions, try [Barilla](https://www.barilla.com/en-us/help/measuring-pasta).
+
+[The Spruce Eats](https://www.thespruceeats.com/instant-pot-pasta-e-fagioli-5105286) makes a big batch with ground beef in the Instant Pot.

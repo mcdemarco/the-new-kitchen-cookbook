@@ -1,0 +1,13 @@
+- tagname: Instant Pot
+  filename: instantPot
+  paths:
+  - fish/ipSalmon.md
+- tagname: quick
+  filename: quick
+  paths:
+  - fish/ipSalmon.md
+  - soup/fazool.md
+- tagname: vegetarian
+  filename: vegetarian
+  paths:
+  - soup/fazool.md
