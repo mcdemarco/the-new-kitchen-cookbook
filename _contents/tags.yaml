@@ -2,10 +2,66 @@
   filename: instantPot
   paths:
   - fish/ipSalmon.md
+  - meat/ipEthBeefStew.md
+  - meat/ipFriedRice.md
+  - meat/ipGoulash.md
+  - meat/ipGroundBeefStew.md
+  - meat/molha.md
+  - pasta/ipBeefPasta.md
+  - pasta/ipTurkeyPasta.md
+  - pasta/israeliCouscous.md
+  - poultry/cranberrySauce.md
+  - poultry/crockpotChickenFarro.md
+  - poultry/ipChicken.md
+  - poultry/ipChickenVindaloo.md
+  - poultry/ipTurkeyTenders.md
+  - poultry/treda.md
+  - poultry/turkeyChili.md
+  - poultry/tuscanChicken.md
+  - rice/brazilianRice.md
+  - rice/ipRice.md
+  - rice/ipRiceAndRedLentils.md
+  - rice/ipRisotto.md
+  - roots/ipSquash.md
+  - roots/nonDairyMashedPotatoes.md
+  - roots/roastedSweetPotatoes.md
+  - salad/farroSalad.md
+  - soup/ipBrownLentil.md
+  - soup/ipChickenAndWildRice.md
+  - soup/ipChickenLentil.md
+  - soup/ipStock.md
+  - soup/ipTomatoChicken.md
+  - soup/mulligatawny.md
+  - vegetables/ipArtichokes.md
+  - vegetables/ipCannellini.md
 - tagname: quick
   filename: quick
   paths:
+  - fish/broiledSalmon.md
+  - fish/costcoSalmon.md
   - fish/ipSalmon.md
+  - fish/mackerel.md
+  - fish/pankoHaddock.md
+  - fish/pestoSalmon.md
+  - fish/salmonSteaks.md
+  - fish/spicySalmon.md
+  - fish/trout.md
+  - meat/chili.md
+  - meat/cincinChili.md
+  - meat/ipFriedRice.md
+  - meat/ipGroundBeefStew.md
+  - pasta/bolognese.md
+  - pasta/chopsuey.md
+  - pasta/ipBeefPasta.md
+  - pasta/ipTurkeyPasta.md
+  - pasta/orecchiette.md
+  - poultry/ipTurkeyTenders.md
+  - poultry/scaloppini.md
+  - poultry/turkeyChickenKing.md
+  - poultry/turkeyChili.md
+  - rice/ipRisotto.md
+  - salad/mackerelSalad.md
+  - salad/poke.md
   - soup/fazool.md
 - tagname: vegetarian
   filename: vegetarian

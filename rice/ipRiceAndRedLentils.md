@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Instant Pot Rice and Red Lentils
 
 This is a not-kitcheree side dish I thought ought to be obvious, but the internet was surprisingly unforthcoming about it.  I based this recipe on a stovetop recipe for [curried rice and red lentils](https://kalynskitchen.com/curried-rice-and-red-lentils-best/), and some eyeballing.  More experimentation may be needed.

@@ -1,3 +1,5 @@
+[quick]: ../indices/quick.html
+
 # Salmon Poke
 
 One of the first things I made in the new kitchen was the salmon poke recipe [from Sushi Day](http://sushiday.com/archives/2014/05/26/salmon-poke/).  I cut the salt in half for Peter's sake (because he doesn't like it, not because it's bad for him or any other healthy person).

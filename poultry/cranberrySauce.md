@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Cranberry Sauce
 
 It's not a vegetable and it might get lost in the sweets, so I put my cranberry sauce recipe in with poultry.  Cranberry sauce is very forgiving, and I pretty much made this one up as I went along.

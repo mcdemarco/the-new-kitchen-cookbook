@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Instant Pot Stock
 
 This works for a turkey or chicken carcass, or a collection of chicken bones.

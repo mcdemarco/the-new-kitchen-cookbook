@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Treda
 
 I cut this down from Cooking at the Kasbah because my package of chicken quarters was only 1 1/2 lbs., instead of the recommended 2 1/2 lbs. of thighs.  I also figured out various substitutions as noted in the recipe, though later I found a huge bag of fenugreek seed, so I'm set for life.  Sometimes I make the whole 2 1/2 lbs. chicken, but my style, and/or use an Instant Pot, so those instructions are also included.

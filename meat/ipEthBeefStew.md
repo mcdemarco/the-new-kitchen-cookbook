@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Instant Pot Ethiopian Beef Stew
 
 Based on TwoSleever's [Ethiopian Beef Stew](https://twosleevers.com/ethiopian-beef-stew/#recipe), cut down a bit.  More alterations happened to the [spice mix](../appetizers/berbere.md).

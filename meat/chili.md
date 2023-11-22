@@ -1,3 +1,5 @@
+[quick]: ../indices/quick.html
+
 # Beef and Bean Chili
 
 I cut [this recipe](http://www.bhg.com/recipe/beef/beef-and-bean-chili/) roughly in half with my cupboard in mind.

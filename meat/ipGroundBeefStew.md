@@ -1,3 +1,6 @@
+[Instant Pot]: ../indices/instantPot.html
+[quick]: ../indices/quick.html
+
 # Instant Pot Ground Beef Stew
 
 Based on [Moroccan Beef and Lentils](https://smartnutrition.ca/recipes/moroccan-beef-lentils/), cut down and otherwise altered to suit my pantry.  Also see that recipe for stovetop directions.

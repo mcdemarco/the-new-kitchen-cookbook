@@ -1,3 +1,5 @@
+[quick]: ../indices/quick.html
+
 # Panko Haddock
 
 This is an Emerilization of [Table for Two's Crispy Baked Haddock](https://www.tablefortwoblog.com/crispy-baked-haddock/).

@@ -1,3 +1,5 @@
+[quick]: ../indices/quick.html
+
 # Fake Bolognese Sauce
 
 I've never been a fan of Bolognese sauce (ground beef belongs in meatballs) but Peter likes it so we threw some together. It turned out to be easy and pretty yummy.

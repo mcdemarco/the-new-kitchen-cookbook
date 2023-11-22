@@ -1,3 +1,6 @@
+[Instant Pot]: ../indices/instantPot.html
+[quick]: ../indices/quick.html
+
 # Instant Pot Turkey Tenders
 
 The internet generally recommends you steam seasoned turkey tenders on the trivet in an Instant Pot.  I found that dried them out, but see the variants for the details.

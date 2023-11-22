@@ -1,3 +1,5 @@
+[quick]: ../indices/quick.html
+
 # Cincinnati Chili
 
 I ad-libbed a Cincinnati chili from [this recipe](http://whatscookingamerica.net/Beef/CincinnatiChili.htm).  In particular, the mysterious soy sauce sequence is a substitution for Worcestershire sauce, which I neither have nor ever expect to have.  There's also a suspicious amount of cinnamon in this recipe, and I compounded the issue by using Vietnamese cinnamon.

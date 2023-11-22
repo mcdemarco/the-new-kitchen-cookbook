@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Instant Pot Chicken Lentil Soup
 
 As always, I tend not to have carrots or celery lying around, so here's a chicken soup recipe that requires neither.  This one is modified from [Skinny Taste's](https://www.skinnytaste.com/instant-pot-pressure-cooker-chicken-and/), most notably with spices from my [brown lentil soup](../soup/ipBrownLentil.md), also for the Instant Pot.  Peter found it more Mexican than usual, perhaps because of the whole coriander seed which he didn't otherwise appreciate.

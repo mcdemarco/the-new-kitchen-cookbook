@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Instant Pot Chicken and Wild Rice Soup
 
 Chicken and wild rice soups tend to be dairy for some reason, but I found a couple that weren't and based this recipe on them.  Jen from Life Beyond the Lesson Plan has an [instant pot version](https://lifebeyondthelessonplan.com/instant-pot-wild-rice-and-chicken-soup/), and Delish has a very similar [stovetop version](https://www.delish.com/cooking/a37636336/chicken-wild-rice-soup-recipe/).  I've cut them down a bit, and dug up more spices.

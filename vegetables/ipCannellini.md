@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Instant Pot Cannellini
 
 I defer to [the bean guy](https://www.dadcooksdinner.com/category/instant-pot-bean-recipes/) for making dried beans in the Instant Pot.  He swears they're better than canned, and cannellini is the one bean I actually keep around dry in case I ever run out of canned.  I have altered [the recipe](https://www.dadcooksdinner.com/instant-pot-cannellini-beans-marcella-beans/) a bit, so consult the original if you're a purist.

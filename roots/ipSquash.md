@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Instant Pot Winter Squash
 
 The instant pot is great for cooking hard and unwieldy squashes like butternut squash, but it can handle any squash.  If you have the time, however, it's worth roasting squash halves for the caramelization; the instant pot is better for other applications like soup, pie filling, or baby food.

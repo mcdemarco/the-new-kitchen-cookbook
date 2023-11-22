@@ -1,6 +1,8 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Instant Pot Artichokes
 
-I was going to make artichokes until I looked up the recipe and saw how long it takes.  My instant pot was full that day but the next day I put them in, following [the Spruce](https://www.thespruceeats.com/instant-pot-artichokes-4778442) for cooking times.
+I was going to make artichokes until I looked up the recipe and saw how long it takes.  My [Instant Pot] was full that day but the next day I put them in, following [the Spruce](https://www.thespruceeats.com/instant-pot-artichokes-4778442) for cooking times.
 
 Makes 4 small artichokes.
 

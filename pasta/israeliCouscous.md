@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Israeli Couscous
 
 I cut down [this Israeli couscous stuffing](https://littlespicejar.com/stuffed-butternut-squash-curried-couscous-salad/) from The Little Spice Jar for use in [stuffing squash](../roots/stuffedSquash.md), and then added instant pot directions [from The Foreign Fork](https://foreignfork.com/cous-cous-recipe/) for use in absorbing extra chicken liquid when making chicken in the instant pot.
@@ -6,7 +8,7 @@ Israeli couscous is the round pearled one, not the fine Moroccan version.  It is
 
 Serves 2--4.
 
-## Ingredients 
+## Ingredients
 
 * 1 T. olive oil
 * 1 c. Israeli couscous

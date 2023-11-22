@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Instant Pot Tomato Chicken Soup
 
 As always, I tend not to have carrots or celery lying around, so here's a chicken soup recipe that requires neither.  You can find similar ones at [My Heart Beats](https://myheartbeets.com/instant-pot-italian-chicken-tomato-soup/) or [Eatwell 101](https://www.eatwell101.com/instant-pot-chicken-tomato-soup-recipe), just to pick the top two search results at press time.

@@ -1,3 +1,5 @@
+[quick]: ../indices/quick.html
+
 # Spicy Salmon
 
 This is a variant of plain [Costco Salmon](../fish/costcoSalmon.md), optionally using Costco's big bags of single portions of frozen boneless, skinless salmon, based on Wellplated's [Spicy Baked Salmon](https://www.wellplated.com/spicy-baked-salmon/).  I don't use foil or broil.

@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Farro Salad
 
 I had an amazing cold farro salad at a potluck; this is my attempt to reproduce it, with some reference to an [Italian Farro Salad](https://www.wellplated.com/italian-farro-salad/) from Well Plated.  They insist on Bob's Red Mill farro, but since I've never found any other brand I can't comment on that.
@@ -50,5 +52,5 @@ Often a literal green salad is mixed with farro to make a farro salad.
 
 You can allegedly freeze farro (though not the rest of the salad), if that helps.
 
-Farro can be made in an Instant Pot; the internet is conflicted about proportions but 1 c. farro to 1 1/2 c. water or stock seems to work with Bob's, without much need for draining afterwards.  Cook on high pressure for 12 minutes, then natural release.
+Farro can be made in an [Instant Pot]; the internet is conflicted about proportions but 1 c. farro to 1 1/2 c. water or stock seems to work with Bob's, without much need for draining afterwards.  Cook on high pressure for 12 minutes, then natural release.
 

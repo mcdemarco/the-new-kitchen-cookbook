@@ -1,3 +1,6 @@
+[Instant Pot]: ../indices/instantPot.html
+[quick]: ../indices/quick.html
+
 # Instant Pot Fried Rice
 
 I cut this down from [this base recipe](https://www.365daysofcrockpot.com/instant-pot-beef-fried-rice/#tasty-recipes-15964-jump-target), with a lot of other changes, some of which I may not have remembered quite right when writing this up.  It was a quick and easy recipe that didn't trigger the burn warning, so I'm sure I'll be ad-libbing it again soon.

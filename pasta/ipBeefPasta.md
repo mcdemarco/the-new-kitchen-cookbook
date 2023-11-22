@@ -1,3 +1,6 @@
+[Instant Pot]: ../indices/instantPot.html
+[quick]: ../indices/quick.html
+
 # Instant Pot Pasta with Ground Beef
 
 I wasn't sure I believed the Instant Pot could make pasta, but I succeeded with [Instant Pot Pasta with Ground Turkey](../ipTurkeyPasta.md).  

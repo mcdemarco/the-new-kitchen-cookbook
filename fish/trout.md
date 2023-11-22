@@ -1,3 +1,5 @@
+[quick]: ../indices/quick.html
+
 # Baked Trout
 
 We got some whole dressed trout from Market Basket after a long day, so I adapted [this recipe](http://allrecipes.com/recipe/236814/baked-fresh-rainbow-trout/) because it seemed quick and easy.

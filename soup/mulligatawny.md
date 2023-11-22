@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Sri Lankan Mulligatawny Soup
 
 Mulligatawnay soup seems to be the [puttanesca](../pasta/puttanesca.md) (refrigerator surprise) of South Asian cooking.  While the name (pepper water) comes from Sri Lanka, the Internet favors more British and/or Indian versions.  What Sri Lankan versions are out there list individual spices rather than giving a quantity of [Sri Lankan roasted curry powder](../appetizers/roastedCurryPowder.md).  Also, I was a bit low on ingredients at the time, so this recipe is for a smaller batch than [your average Internet recipe](http://www.kitchensimmer.com/2014/11/sri-lankan-mulligatawny-soup.html).

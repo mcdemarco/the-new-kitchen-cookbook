@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Molha Quase à Moda de Pico
 
 *(Beef) Stew Almost in the Style of Pico*

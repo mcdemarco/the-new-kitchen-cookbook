@@ -1,3 +1,5 @@
+[quick]: ../indices/quick.html
+
 # Costco Salmon
 
 Costco has big bags of single portions of frozen boneless, skinless salmon.  The instructions on the back say to defrost in running cold water for 20 minutes, but I defrost in still cold water for 30 minutes. 

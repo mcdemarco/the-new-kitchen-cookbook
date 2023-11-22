@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Crockpot Chicken with Farro
 
 Adapted from several crockpot chicken with farro recipes.  The [one that first inspired me](https://www.thespruce.com/slow-cooker-chicken-with-farro-3994968) came from [The Spruce's large crockpot chicken collection](https://www.thespruce.com/favorite-slow-cooker-chicken-recipes-3054984), but it seemed low on both liquid and stars (and I had no mushrooms) so I adapted.  The peas in particular came from [this non-crockpot recipe](http://www.cookinglight.com/recipes/one-pot-chicken-farro).

@@ -1,3 +1,5 @@
+[quick]: ../indices/quick.html
+
 # Orecchiette with Anchovy Sauce
 
 ![bigoli](../images/bigoli.jpg)

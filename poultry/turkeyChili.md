@@ -1,3 +1,6 @@
+[Instant Pot]: ../indices/instantPot.html
+[quick]: ../indices/quick.html
+
 # Turkey Chili
 
 This recipe is based on my beef and bean chili, with some expansions inspired by [the bean guy](https://www.dadcooksdinner.com/instant-pot-quick-turkey-chili-with-canned-beans/).  I like it because it doesn't require the usual soup veggies that I usually don't have around, like carrots, celery, and/or green bell peppers.

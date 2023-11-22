@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Instant Pot Chicken Vindaloo
 
 This is my take on the instant pot vindaloo [at My Heart Beets](https://myheartbeets.com/instant-pot-pork-vindaloo/#wprm-recipe-container-13220).  Vindaloo is a Goan dish based on the Portuguese *carne de vinho d'alhos* (meat in vinegar and garlic), which is why it is traditionally made with pork or beef rather than Indian meats like lamb, chicken, or goat.  The internet [assured me](https://www.reddit.com/r/instantpot/comments/xshy3z/best_restaurant_quality_vindaloo_and_saag_recipes/iqkyltz/) that any meat would do, so I went with chicken.  The other change I made (besides reducing quantities a bit) was to cook the chicken whole on the bone rather than chopped up, though I would have chopped it up if I'd had boneless thighs around.

@@ -1,3 +1,6 @@
+[Instant Pot]: ../indices/instantPot.html
+[quick]: ../indices/quick.html
+
 # Instant Pot Risotto
 
 This is a basic no-cheese risotto for the instant pot, based on an extremely basic one in [How To Instant Pot](https://amzn.to/3cwlXm2).  The miso paste step is from [serious eats](https://www.seriouseats.com/pressure-cooker-mushroom-risotto-recipe).

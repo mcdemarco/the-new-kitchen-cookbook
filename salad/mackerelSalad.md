@@ -1,3 +1,5 @@
+[quick]: ../indices/quick.html
+
 # Smoked Mackerel Pasta Salad
 
 It was a crazy heat wave and Peter wanted some fish in our planned cold pasta salad.  We found a 1/3 lb. package of smoked mackerel at Market Basket and tossed it up with some spare veggies from the gazpacho, plus some ingredients from [Jamie Oliver's mackerel pasta salad recipe](https://www.jamieoliver.com/recipes/pasta-recipes/mackerel-pasta-salad/).
@@ -6,7 +8,7 @@ Serves 2, chilled or at room temperature.
 
 ## Ingredients
 
-* 1/3 lb. smoked mackerel 
+* 1/3 lb. smoked mackerel
 * 2/3 lb. short pasta
 * 1 or more handfuls fresh green beens
 * 7 oil-cured olives, or even more kalamata olives

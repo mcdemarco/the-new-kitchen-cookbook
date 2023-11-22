@@ -1,3 +1,5 @@
+[quick]: ../indices/quick.html
+
 # Baked Mackerel
 
 ![baked mackerel](../images/baked_mackerel.jpg)

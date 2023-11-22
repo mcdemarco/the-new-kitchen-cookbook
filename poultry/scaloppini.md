@@ -1,3 +1,5 @@
+[quick]: ../indices/quick.html
+
 # Turkey Scaloppini
 
 This recipe was adapted from Scaloppini di Tacchino Rebecca in _Cucina Ebraica_ by Joyce Goldstein. I cut back on the wine and added specific measurements for the flour mixture. I tossed in some leftover flour mixture rather than thickening the sauce longer, but it's still more liquid than you might expect.

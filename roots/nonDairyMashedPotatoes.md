@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Non-Dairy Mashed Potatoes
 
 This recipe was inspired by one I couldn't see behind a paywall, not even after reading acres and acres of meandering and repetitious recipe chat that at least gave away the secret ingredient:  mayonaisse.

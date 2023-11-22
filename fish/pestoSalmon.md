@@ -1,3 +1,5 @@
+[quick]: ../indices/quick.html
+
 # Pesto Salmon
 
 I got this idea from some leftover pesto and a slight misunderstanding of [pampered chef's recipe](https://www.pamperedchef.com/recipe/Main+Dishes/Under+30+minutes/Baked+Pesto+Salmon/50154).

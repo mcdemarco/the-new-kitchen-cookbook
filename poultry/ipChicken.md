@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Instant Pot Whole Chicken
 
 I briefly considered Amy & Jacky's method of [poaching a whole chicken](https://www.pressurecookrecipes.com/instant-pot-whole-chicken/) in the Instant Pot, but my chicken turned out to be much bigger than theirs.  [The Spruce Eats](https://www.thespruceeats.com/instant-pot-whole-chicken-4178762) whole chickens by the pound, so I went with their more traditional method.

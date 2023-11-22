@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Brazilian Rice
 
 I used to think Brazilian white rice was just rice, even though it was always mysteriously yummier than homemade rice.  Then I found [a recipe for it](https://braziliankitchenabroad.com/brazilian-white-rice/) online.  This is not that recipe, because it was lacking in quantities, but rather an amalgamation of other such recipes online.

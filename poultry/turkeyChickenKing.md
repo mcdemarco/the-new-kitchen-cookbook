@@ -1,3 +1,5 @@
+[quick]: ../indices/quick.html
+
 # Turkey or Chicken a la King
 
 After the turkey, there is the leftover turkey (and, more rarely, leftover gravy).  Here's something more exciting than reheating or sandwiches to do with it.  Recipes vary wildly; this one is a simpler, kosherer amalgamation of several varieties.

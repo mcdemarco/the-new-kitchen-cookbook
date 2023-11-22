@@ -1,3 +1,6 @@
+[Instant Pot]: ../indices/instantPot.html
+[quick]: ../indices/quick.html
+
 # Instant Pot Pasta with Ground Turkey
 
 I wasn't sure I believed the Instant Pot could make pasta, but I tried [this one pot recipe](https://www.lifeisbutadish.com/easy-instant-pot-pasta/) from Life is But a Dish and it worked out fine.

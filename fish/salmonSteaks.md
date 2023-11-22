@@ -1,3 +1,5 @@
+[quick]: ../indices/quick.html
+
 # Soy Sauce Salmon Steaks
 
 This recipe was inspired by an oversized 1.5 lb. salmon steak, which I cut in half down the spine line in order to put the skin side down.  Quantities are approximate.

@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Instant Pot European Goulash
 
 Inspired by various Instant Pot goulash recipes including this [German goulash](https://eatingrichly.com/german-goulash/), a [Hungarian one](https://recipesfromapantry.com/instant-pot-goulash/), and extra spices from The Spruce Eats' [American goulash](https://www.thespruceeats.com/instant-pot-goulash-5089119), and anti-named after American goulash (made with ground beef), I came up with this goulash when I ran out of ingredients for [berbere](../appetizers/berbere.md) for [Ethiopian beef stew](../meat/ipEthBeefStew.md).

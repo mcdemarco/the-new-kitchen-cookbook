@@ -90,15 +90,12 @@
     favorite: true
   - name: Farro Salad
     filename: farroSalad
-    ip: true
   - name: Smoked Mackerel Pasta Salad
     filename: mackerelSalad
-    quick: true
   - name: Soba Salad
     filename: sobaSalad
   - name: Salmon Poke
     filename: poke
-    quick: true
 
 - name: Soup
   filename: soup
@@ -111,7 +108,6 @@
   - name: Easy Pasta e Fagioli
     filename: fazool
     favorite: true
-    quick: true
   - name: Vegetarian Portuguese Kale Soup
     filename: kale
   - name: Fresh Potato and Cilantro Soup
@@ -122,7 +118,6 @@
     filename: chickpea
   - name: Instant Pot Brown Lentil Soup
     filename: ipBrownLentil
-    ip: true
   - name: Okra Soup
     filename: okra
   - name: Italian Wedding Soup
@@ -132,7 +127,6 @@
     filename: spinachWedding
   - name: Sri Lankan Mulligatawny Soup
     filename: mulligatawny
-    ip: true
   - name: Kielbasa Soup
     filename: kielbasa
   - name: Matzah Ball Soup
@@ -142,18 +136,14 @@
     filename: thighStew
   - name: Instant Pot Tomato Chicken Soup
     filename: ipTomatoChicken
-    ip: true
   - name: Instant Pot Chicken Lentil Soup
     filename: ipChickenLentil
-    ip: true
     favorite: true
   - name: Instant Pot Chicken and Wild Rice Soup
     filename: ipChickenAndWildRice
-    ip: true
     new: 2022
   - name: Instant Pot Stock
     filename: ipStock
-    ip: true
     favorite: true
 
 - name: Bread
@@ -311,10 +301,8 @@
     filename: bamia
   - name: Instant Pot Artichokes
     filename: ipArtichokes
-    ip: true
   - name: Instant Pot Cannellini
     filename: ipCannellini
-    ip: true
   - name: Crispy Baked Tofu
     filename: bakedTofu
     new: 2023
@@ -377,13 +365,11 @@
     filename: scallopedPotatoes
   - name: Non-Dairy Mashed Potatoes
     filename: nonDairyMashedPotatoes
-    ip: true
     new: 2022
   - name: Roasted Potatoes
     filename: roastedPotatoes
   - name: Roasted Sweet Potatoes
     filename: roastedSweetPotatoes
-    ip: true
   - name: Roasted Rutabaga
     filename: roastedRutabaga
   - name: Roasted Zucchini
@@ -393,7 +379,6 @@
     favorite: true
   - name: Instant Pot Winter Squash
     filename: ipSquash
-    ip: true
     new: 2023
   - name: Couscous Stuffed Squash
     filename: stuffedSquash
@@ -414,16 +399,13 @@
   files:
   - name: Instant Pot Rice
     filename: ipRice
-    ip: true
   - name: Brazilian Rice
     filename: brazilianRice
-    ip: true
     favorite: true
   - name: Roz bil Shaghria
     filename: roz
   - name: Instant Pot Rice and Red Lentils
     filename: ipRiceAndRedLentils
-    ip: true
     new: 2022
   - name: Orzo
     filename: orzo
@@ -443,9 +425,7 @@
     filename: carcassRisotto
   - name: Instant Pot Risotto
     filename: ipRisotto
-    ip: true
     favorite: true
-    quick: true
   - name: Sushi Rice
     filename: sushi
   - name: Rice Salad
@@ -460,11 +440,9 @@
   files:
   - name: Israeli Couscous
     filename: israeliCouscous
-    ip: true
     new: 2023
   - name: Orecchiette with Anchovy Sauce
     filename: orecchiette
-    quick: true
   - name: Alfredo Sauce
     filename: alfredo
   - name: Pesto
@@ -476,21 +454,15 @@
   - name: Italian Chop Suey
     filename: chopsuey
     favorite: true
-    quick: true
   - name: Fake Bolognese Sauce
     filename: bolognese
-    quick: true
   - name: Meat Sauce
     filename: meatsauce
   - name: Instant Pot Pasta with Ground Turkey
     filename: ipTurkeyPasta
-    ip: true
-    quick: true
   - name: Instant Pot Pasta with Ground Beef
     filename: ipBeefPasta
-    ip: true
     new: 2022
-    quick: true
   - name: Mac and Cheese
     filename: macncheese
     favorite: true
@@ -527,14 +499,10 @@
     filename: pepperSteak
   - name: Instant Pot Fried Rice
     filename: ipFriedRice
-    ip: true
-    quick: true
   - name: Beef and Bean Chili
     filename: chili
-    quick: true
   - name: Cincinnati Chili
     filename: cincinChili
-    quick: true
   - name: Texas Chili
     filename: texasChili
   - name: Beef Curry
@@ -552,19 +520,14 @@
     filename: italianPotRoast
   - name: Molha Quase à Moda de Pico
     filename: molha
-    ip: true
   - name: Instant Pot Ground Beef Stew
     filename: ipGroundBeefStew
-    ip: true
-    quick: true
   - name: Instant Pot Ethiopian Beef Stew
     filename: ipEthBeefStew
-    ip: true
     favorite: true
     new: 2023
   - name: Instant Pot European Goulash
     filename: ipGoulash
-    ip: true
     new: 2023
   - name: Lamb Stew
     filename: lambStew
@@ -577,7 +540,6 @@
     favorite: true
   - name: Instant Pot Whole Chicken
     filename: ipChicken
-    ip: true
   - name: Crockpot Roasted Chicken
     filename: crockpotRoastedChicken
   - name: Crockpot Chicken Legs
@@ -601,7 +563,6 @@
     filename: roastedWithSweetPotatoes
   - name: Tuscan Chicken with Olives and Capers
     filename: tuscanChicken
-    ip: true
     favorite: true
   - name: Spicy Asian Chicken
     filename: asianChicken
@@ -614,39 +575,29 @@
     filename: chickenCurry
   - name: Instant Pot Chicken Vindaloo
     filename: ipChickenVindaloo
-    ip: true
   - name: Treda
     filename: treda
-    ip: true
     favorite: true
   - name: Crockpot Chicken with Farro
     filename: crockpotChickenFarro
-    ip: true
   - name: Devilled Chicken Thighs
     filename: devilledChicken
   - name: Turkey Scaloppini
     filename: scaloppini
-    quick: true
   - name: Baked Turkey Tenders
     filename: bakedTurkeyTenders
   - name: Crockpot Bourbon Turkey Tenders
     filename: crockpotTurkey
   - name: Instant Pot Turkey Tenders
     filename: ipTurkeyTenders
-    ip: true
-    quick: true
   - name: Turkey or Chicken a la King
     filename: turkeyChickenKing
-    quick: true
   - name: Turkey Meatballs
     filename: turkeyballs
   - name: Turkey Chili
     filename: turkeyChili
-    ip: true
-    quick: true
   - name: Cranberry Sauce
     filename: cranberrySauce
-    ip: true
   - name: Italian Wedding Soup
     filename: italianWedding
     redirect: soup
@@ -662,36 +613,26 @@
   files:
   - name: Costco Salmon
     filename: costcoSalmon
-    quick: true
   - name: Panko-Crusted Salmon
     filename: pankoSalmon
     favorite: true
   - name: Spicy Salmon
     filename: spicySalmon
     favorite: true
-    quick: true
   - name: Pesto Salmon
     filename: pestoSalmon
-    quick: true
   - name: Soy Sauce Salmon Steaks
     filename: salmonSteaks
-    quick: true
   - name: Maple Broiled Salmon
     filename: broiledSalmon
-    quick: true
   - name: One Instant Pot Salmon
     filename: ipSalmon
-    ip: true
-    quick: true
   - name: Baked Trout
     filename: trout
-    quick: true
   - name: Baked Mackerel
     filename: mackerel
-    quick: true
   - name: Panko Haddock
     filename: pankoHaddock
-    quick: true
   - name: Stuffed Whiting
     filename: stuffedWhiting
   - name: Fried Smelt

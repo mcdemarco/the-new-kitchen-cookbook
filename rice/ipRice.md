@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Instant Pot Rice
 
 The bible of rice is at [Green Healthy Cooking](https://greenhealthycooking.com/instant-pot-rice/).  In general, instant pot rice is 1:1, rinsing optional, manual high pressure, with a natural release.  Rice is basmati or jasmine unless mentioned otherwise.
