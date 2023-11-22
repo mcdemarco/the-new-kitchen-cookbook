@@ -1,3 +1,5 @@
+:[crockpot]: ../indices/crockpot.html
+
 # Mulled Wine
 
 To mull wine for a large group, I needed a recipe for three liters (one box) of wine.  The internet is a light drinker, with most recipes being for just a bottle of wine.  I adapted mine from a one-bottle recipe at [The Toasty Kitchen](https://thetoastykitchen.com/slow-cooker-mulled-wine/) (because Peter requested triple sec), an appropriately-sized recipe from [A Good Dish](http://www.agooddish.com/?p=1449), plus a recipe for [glüewein](https://foodcombo.com/recipe/117834/gluhwein-mulled-wine).

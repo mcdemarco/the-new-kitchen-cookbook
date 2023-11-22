@@ -1,3 +1,5 @@
+:[crockpot]: ../indices/crockpot.html
+
 # Mulled Cider
 
 This particular formulation was a non-alcoholic side to my [mulled wine](../appetizers/mulledWine.md), based partly on that and partly on [the perfect mulled apple cider recipe](https://texasheritageforliving.com/texas-travel/mulled-apple-cider-recipe/).

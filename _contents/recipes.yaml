@@ -738,6 +738,7 @@
     favorite: true
   - name: Non-Dairy Sweet Potato Pie
     filename: ndSweetPotato
+    new: 2023
   - name: Blitz Puff Pastry
     filename: blitzPuff
   - name: Rough Puff Pastry

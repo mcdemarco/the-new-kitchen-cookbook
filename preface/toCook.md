@@ -47,6 +47,8 @@ English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easies
 
 [Pancake mix](https://www.simplyrecipes.com/recipes/homemade_pancake_mix/)
 
+Non-dairy [Pumpkin bread](https://www.kingarthurbaking.com/recipes/easy-pumpkin-bread-recipe)
+
 ## Slow Bread
 
 [Plain rolls](http://web.archive.org/web/20210805145235/https://krausnickitchen.com/2012/01/18/no-knead-dinner-rolls-artisan-bread-in-five-minutes-a-day/)

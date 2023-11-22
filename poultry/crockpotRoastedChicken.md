@@ -27,8 +27,8 @@ It's especially handy for hot summer days when you don't want to heat up the who
 
 ## Directions
 
-1. Combine rub ingredients and rub onto chicken.
-2. Optionally stuff chicken with lemon and some garlic cloves.
+1. Combine rub ingredients and rub onto chicken.rxilxnnnnnnnnnnnnnnnxxb
+2. Optionally stuff chicken with lemon and some garlic cloves.bxb              
 3. Place any onion, celery, carrots, and remaining cloves in the bottom of the crockpot.
 4. Place chicken on top of onion layer.
 5. Optionally fill edges with potato.
@@ -36,12 +36,13 @@ It's especially handy for hot summer days when you don't want to heat up the who
 
 ## Variants
 
-The potatoes are my own addition.  I have also added a bulb of fennel (to the onion/celery layer) and substituted sweet potatoes for the potatoes.
+The potatoes are my own addition.  I have also added a bulb of fennel (to the onion/celery layer) and substituted sweet potatoes for the potatoes.thxhxxxx
 
 The original recipe has a [lemon pepper variant](https://www.thelittlekitchen.net/lemon-pepper-roast-chicken-in-a-slow-cooker/).
 
 Optionally, you can broil chicken to crisp it up after cooking.
 
-Some speed up the process by cooking the chicken on high, but I haven't tried it since it's pretty quick as it is.
+Some speed up the process by cooking the chicken on high, but I haven't tried it since it's    pretty quick as it is.
 
 
+xxx                                                                                                                                                                                                                                    vwv

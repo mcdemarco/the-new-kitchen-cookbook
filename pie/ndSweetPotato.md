@@ -18,6 +18,7 @@ Makes: 1 pie.
 * 2 eggs
 * 1/3 c. oil
 * 2/3 c. brown or white sugar
+* 1 tsp. ground coriander (optional)
 * 1/2 tsp. cinnamon
 * 1/2 tsp. nutmeg
 * 1/4 tsp. ginger (optional)
@@ -44,6 +45,8 @@ Refrigerate and eat within 4 days.
 
 ## Variants
 
-Replace coconut milk with pretty much any other non-dairy milk.
+Some recommend roasting the sweet potatoes for the best flavor.
+
+Replace the coconut milk with pretty much any other non-dairy milk.
 
 Replace spices with 1/2 T. [pumpkin spice](../appetizers/pumpkinSpice.md).

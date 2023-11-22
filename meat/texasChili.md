@@ -1,3 +1,5 @@
+:[crockpot]: ../indices/crockpot.html
+
 # Texas Chili
 
 I cut [Lisa Fein's Seven Chili recipe](http://www.amateurgourmet.com/2011/09/lisa-fains-seven-chile-chili.html) roughly in half for my hunk of meat, and reduced the chili count to 5 (since restored).  I also omitted the coffee per one of the comments.

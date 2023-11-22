@@ -34,6 +34,21 @@
   - soup/mulligatawny.md
   - vegetables/ipArtichokes.md
   - vegetables/ipCannellini.md
+- tagname: crockpot
+  filename: crockpot
+  paths:
+  - appetizers/mulledCider.md
+  - appetizers/mulledWine.md
+  - meat/crockpotBriskette.md
+  - meat/italianPotRoast.md
+  - meat/texasChili.md
+  - poultry/crockpotChickenFarro.md
+  - poultry/crockpotChickenLegs.md
+  - poultry/crockpotRoastedChicken.md
+  - poultry/crockpotTurkey.md
+  - roots/roastedSweetPotatoes.md
+  - soup/ipStock.md
+  - sweets/crockpotApplesauce.md
 - tagname: quick
   filename: quick
   paths:
@@ -63,6 +78,16 @@
   - salad/mackerelSalad.md
   - salad/poke.md
   - soup/fazool.md
+- tagname: thanksgiving
+  filename: thanksgiving
+  paths:
+  - pie/ndSweetPotato.md
+  - pie/nonDairyPumpkin.md
+  - pie/pumpkin.md
+  - poultry/cranberrySauce.md
+  - poultry/roasted.md
+  - roots/nonDairyMashedPotatoes.md
+  - roots/squash.md
 - tagname: vegetarian
   filename: vegetarian
   paths:

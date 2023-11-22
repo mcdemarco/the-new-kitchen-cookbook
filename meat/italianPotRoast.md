@@ -1,3 +1,5 @@
+:[crockpot]: ../indices/crockpot.html
+
 # Italian Pot Roast
 
 This is another option I found for the chunky London Broil cuts that I get from Costco.  It's cut down from Simply Recipe's [Italian Pot Roast](https://www.simplyrecipes.com/recipes/italian_pot_roast/) and altered for Passover, ending up as a soupier version of [Baked London Broil](../meat/bakedLondon.md).

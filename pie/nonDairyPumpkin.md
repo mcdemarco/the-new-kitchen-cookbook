@@ -1,3 +1,5 @@
+[thanksgiving]: ../indices/thanksgiving.html
+
 # Non-Dairy Pumpkin Pie
 
 I make a lot of fruit pies from scratch, but there is much to be said for the "open some cans" simplicity of pumpkin pie.  This adaptation of [Pareve Pumpkin Pie](https://jamiegeller.com/recipes/parve-pumpkin-pie/) features a can of coconut milk, though it doesn't taste too terribly coconutty afterwards.  Some ingredients have been added from my dairy [pumpkin pie recipe](../pie/pumpkin.md).

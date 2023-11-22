@@ -1,3 +1,5 @@
+:[crockpot]: ../indices/crockpot.html
+
 # Crockpot Briskette
 
 Brisket recipes run large but (despite having come from Costco), my briskets remain small.  So here's a recipe for a 1 1/2 to 2 lb. brisket cut down from Tori Avery's [savory slow cooker brisket recipe](https://toriavey.com/toris-kitchen/savory-slow-cooker-brisket/) for a 4--6 lb. brisket, with some extra ingredients from my non-crockpot briskette recipe and from the Kitchn's [Slow Cooker Brisket and Onions recipe](https://www.thekitchn.com/recipe-slow-cooker-brisket-and-onions-recipes-from-the-kitchn-45437).
