@@ -1,4 +1,5 @@
 [Instant Pot]: ../indices/instantPot.html
+[crockpot]: ../indices/crockpot.html
 
 # Instant Pot Stock
 

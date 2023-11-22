@@ -1,3 +1,5 @@
+[thanksgiving]: ../indices/thanksgiving.html
+
 # Roasted Whole Bird
 
 ## Ingredients

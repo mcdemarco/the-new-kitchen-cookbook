@@ -1,3 +1,5 @@
+[crockpot]: ../indices/crockpot.html
+
 # Crockpot Applesauce
 
 Crockpot applesauce is an easy and tasty use for our neighbors' unwanted apples.  See, for example, [the kitchn's recipe](http://www.thekitchn.com/how-to-make-applesauce-in-the-slow-cooker-223486).  I've used a small crockpot for this but they recommended a large one.  You can freeze the results.

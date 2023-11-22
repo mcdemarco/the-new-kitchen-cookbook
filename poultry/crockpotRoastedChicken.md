@@ -1,3 +1,5 @@
+[crockpot]: ../indices/crockpot.html
+
 # Crockpot Roasted Chicken
 
 Adapted from several crockpot-a-whole-chicken-dry recipes, especially [The Little Kitchen's](https://www.thelittlekitchen.net/whole-chicken-in-a-slow-cooker/).   Like the others it was for a much bigger chicken than the one in my freezer, so I cut it down.  Double it back up for a 3--4 lb. chicken.

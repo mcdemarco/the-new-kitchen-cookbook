@@ -1,3 +1,5 @@
+[thanksgiving]: ../indices/thanksgiving.html
+
 # Pumpkin Pie
 
 I make a lot of fruit pies from scratch, but there is much to be said for the "open some cans" simplicity of pumpkin pie.  Since I don't have pumpkin (pie) spice on hand, I followed [Modern Honey's recipe](https://www.modernhoney.com/perfect-pumpkin-pie/) and the classic [Eagle Brand recipe](https://www.eaglebrand.com/recipe-detail/perfectpumpkinpie-3929) for the spices.  (They are the same except for some variety in the spice lists.)
@@ -52,3 +54,7 @@ Alternately, any 9" [single-crust pie shell](../pie/crust.md).
 ## Variants
 
 The New York Times crust recipe includes an interesting option for a cheddar cheese crust.
+
+Replace spices with 1 T. [pumpkin spice](../appetizers/pumpkinSpice.md).
+
+You can puree your own pound of (cooked) sugar pumpkin or butternut squash.

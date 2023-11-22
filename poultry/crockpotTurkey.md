@@ -1,3 +1,5 @@
+[crockpot]: ../indices/crockpot.html
+
 # Crockpot Bourbon Turkey Tenders
 
 Adapted from this [crockpot chicken recipe](http://www.tablefortwoblog.com/2012/02/21/crockpot-honey-bourbon-chicken/).

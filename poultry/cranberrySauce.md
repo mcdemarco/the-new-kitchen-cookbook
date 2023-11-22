@@ -1,3 +1,4 @@
+[thanksgiving]: ../indices/thanksgiving.html
 [Instant Pot]: ../indices/instantPot.html
 
 # Cranberry Sauce

@@ -1,4 +1,5 @@
 [Instant Pot]: ../indices/instantPot.html
+[thanksgiving]: ../indices/thanksgiving.html
 
 # Non-Dairy Mashed Potatoes
 
@@ -28,3 +29,5 @@ This recipe was inspired by one I couldn't see behind a paywall, not even after 
 Other popular non-dairy options include (full-fat) plant milks or olive oil.
 
 To make potatoes for mashing in the Instant Pot, quarter them and cook on high pressure on the trivet over 1 c. water for 8 minutes.  If you want to cook them whole for some reason (like they balance better that way or a pot-in-pot timing issue), increase the time to 15 minutes.
+
+You can also do this with sweet potatoes.

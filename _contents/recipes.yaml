@@ -736,6 +736,8 @@
   - name: Non-Dairy Pumpkin Pie
     filename: nonDairyPumpkin
     favorite: true
+  - name: Non-Dairy Sweet Potato Pie
+    filename: ndSweetPotato
   - name: Blitz Puff Pastry
     filename: blitzPuff
   - name: Rough Puff Pastry

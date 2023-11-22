@@ -1,3 +1,5 @@
+[crockpot]: ../indices/crockpot.html
+
 # Crockpot Chicken Legs
 
 Adapted from several crockpot chicken recipes, especially TAK's [Crock Pot Chicken Legs](https://www.theanthonykitchen.com/crock-pot-chicken-legs/) and [previous crockpot recipes](../poultry/crockpotRoastedChicken.md).   It's useful for when I have a Costco quantity of chicken legs hanging around the fridge.

@@ -1,3 +1,5 @@
+[thanksgiving]: ../indices/thanksgiving.html
+
 # Winter Squash
 
 These are here so I don't have to google the directions every time I make them.  Cut them all in half longitudinally (through the stem and butt) first unless noted otherwise.  Remove seeds if there are any.  Trim the stem if it's going to interfere with baking.  Oil and spice to taste before baking unless noted otherwise.
