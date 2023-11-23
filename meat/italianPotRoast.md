@@ -1,4 +1,4 @@
-:[crockpot]: ../indices/crockpot.html
+[crockpot]: ../indices/crockpot.html
 
 # Italian Pot Roast
 

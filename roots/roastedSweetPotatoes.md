@@ -1,5 +1,6 @@
 [Instant Pot]: ../indices/instantPot.html
-:[crockpot]: ../indices/crockpot.html
+[crockpot]: ../indices/crockpot.html
+[thanksgiving]: ../indices/thanksgiving.html
 
 # Roasted Sweet Potatoes
 
@@ -26,3 +27,5 @@ I recently made [Sweet Potato Kale Salad with Cranberries, Walnuts, and Goat Che
 You can bake whole sweet potatoes in the oven for about an hour at 425° (stabbed and oiled), turning halfway through, or in a crockpot (just washed) for up to 8 hours on low or 4 on high.
 
 You can make whole skinny sweet potatoes in the [Instant Pot], on the trivet with 1 cup of water, high pressure, 15 minutes with natural release.  Rumor has it thicker sweet potatoes may take longer.  Although rumor has it you can't, you can toss in some regular potatoes as well.
+
+You can mash sweet potatoes.  For non-dairy mashed sweet potatoes, [the Spruce recommends](https://www.thespruceeats.com/vegan-coconut-milk-mashed-sweet-potatoes-3377366) coconut milk, ground ginger, curry powder, and olive oil.
