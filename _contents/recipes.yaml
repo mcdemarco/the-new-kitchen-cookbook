@@ -415,6 +415,9 @@
     filename: kugel
     favorite: true
     new: 2023
+  - name: Wild Rice Stuffing
+    filename: stuffing
+    new: 2023
   - name: About Risotto
     filename: aboutRisotto
   - name: Tempeh Risotto
