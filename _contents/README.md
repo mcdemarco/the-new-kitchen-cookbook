@@ -38,18 +38,18 @@ To compare if they disagreed:
 
 ### New Flags and Redirection
 
-The previous diffing method was somewhat unreliable, so redirect files have now (circa Nov 2023) 
-been indexed in `recipes.yaml` to facilitate diffing,
+The previous diffing method was somewhat unreliable, so hidden and redirect files have now 
+(circa Nov 2023) been indexed in `recipes.yaml` to facilitate diffing,
 and because a lot of stuff in there is now annotated for use by jekyll/liquid scripting on my website.
 
 To make sure everything is in the TOC, compare the following word counts (and lists, if they disagree);
 
-	grep -h "^\# " */*.md | grep -v "Things To Cook" | sort | wc
+	grep -h "^\# " */*.md | sort | wc
 	grep "  \- name:" _contents/recipes.yaml | sort | wc
 
 To compare if they disagree:
 
-	grep -h "^\# " */*.md | grep -v "Things To Cook" | sort | sed 's/\# //' > titles.txt
+	grep -h "^\# " */*.md | sort | sed 's/\# //' > titles.txt
 	grep "  \- name:" _contents/recipes.yaml | sort | sed 's/  \- name: //'> tocNames.txt
 	diff titles.txt tocNames.txt
 
