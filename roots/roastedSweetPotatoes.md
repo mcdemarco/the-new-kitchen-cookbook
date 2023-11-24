@@ -28,4 +28,4 @@ You can bake whole sweet potatoes in the oven for about an hour at 425° (stabbe
 
 You can make whole skinny sweet potatoes in the [Instant Pot], on the trivet with 1 cup of water, high pressure, 15 minutes with natural release.  Rumor has it thicker sweet potatoes may take longer.  Although rumor has it you can't, you can toss in some regular potatoes as well.
 
-You can mash sweet potatoes.  For non-dairy mashed sweet potatoes, [the Spruce recommends](https://www.thespruceeats.com/vegan-coconut-milk-mashed-sweet-potatoes-3377366) coconut milk, ground ginger, curry powder, and olive oil.
+You can mash sweet potatoes.  For non-dairy mashed sweet potatoes, [the Spruce recommends](https://www.thespruceeats.com/vegan-coconut-milk-mashed-sweet-potatoes-3377366) coconut milk, ground ginger, curry powder, olive oil, and optionally orange juice.

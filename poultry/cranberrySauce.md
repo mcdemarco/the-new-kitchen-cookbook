@@ -48,4 +48,4 @@ I'm not a smooth cranberry sauce fan, but if you want it smooth you can immersio
 
 Besides apple cider, I've seen orange or pineapple juice recommended as the liquid.
 
-You can make cranberry sauce in an instant pot, but because not much water is required, you would need to make a bigger batch than I usually do, or use a smaller instant pot that I have.  See [Damn Delicious](https://damndelicious.net/2019/11/19/instant-pot-cranberry-sauce/) for details.
+You can make cranberry sauce in an instant pot; I did it by sauteing the sugar and juice briefly to prevent burning, then adding the remaining ingredients and cooking on high for 4 minutes with natural release.  (Turn off keep warm.)  Afterwards, reduce liquid by sauteing, and mash to desired consistency.  See [Damn Delicious](https://damndelicious.net/2019/11/19/instant-pot-cranberry-sauce/) for good quantities.
