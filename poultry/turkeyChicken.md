@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Turkey Chicken
 
 "Turkey Chicken" a.k.a. "Fake Turkey" is a turkey drumstick recipe that I make with chicken drumsticks instead. The original recipe was "Pot-Roasted Turkey Drumsticks" from _The Italian Jewish Kitchen_ by Edda Servi Machlin. Other alterations to the recipe involve drastic shortening of the marinating period, significantly less oil, and boiling during the simmering step. I usually cut the recipe in half or freeze half before cooking.

@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Almond Flour Muffins
 
 The almond flour muffins recipe [at Elana's Pantry](https://elanaspantry.com/ratio-rally-quick-breads-almond-flour-muffins/) seems to be the grandmother of every almond flour muffin recipe on the internet, and this one is no exception.  It's included here (cut down to one egg) as a record of my experiments with it.  The base recipe definitely needs more flavor, but science hasn't yielded final flavorings yet.

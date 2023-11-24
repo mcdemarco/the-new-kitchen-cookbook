@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Matzah Ball Soup
 
 Peter believes in making chicken soup out of a chicken, so I started with a recipe that did that, [Matzoh Ball Soup](http://www.foodnetwork.com/recipes/matzoh-ball-soup-recipe.html).  I also read up on the floater vs. sinker issue; here's [a good overview](http://www.seriouseats.com/2015/04/how-to-make-the-best-matzo-balls.html) of ball science, including the per-egg numbers.

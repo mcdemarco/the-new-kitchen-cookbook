@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Nan Berenji
 
 ![Nan berenji](../images/Nan_berenji.jpg)

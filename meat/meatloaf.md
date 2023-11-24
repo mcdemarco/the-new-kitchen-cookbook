@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Meatloaf for Passover
 
 I don't recall where I got the original version of this recipe, but I altered it significantly in 2016 under the influence of [Meatloaf Madness](http://www.foodgeeks.com/recipes/meatloaf-madness-18400) (Foodgeeks recipe #18400).

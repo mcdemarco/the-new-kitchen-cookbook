@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Briskette
 
 Brisket recipes run large but (despite having come from Costco), my brisket was small.  So here's a recipe for a 1 1/2 to 2 lb. brisket, based on a [Wise Sons Jewish Delicatessen recipe](https://www.myrecipes.com/recipe/red-wine-onion-braised-brisket) for a 5 lb. brisket.  The briskettes grew later on, so I recalculated for that.  (If you don't have an appropriate baking pan for a full brisket, you can cut it into two briskettes and stack them in a dutch oven.  Add more wine and water to reach most of the top briskette.  Only flip the top briskette when turning it over partway through cooking.)

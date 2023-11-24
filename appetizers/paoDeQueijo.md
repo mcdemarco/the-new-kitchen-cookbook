@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Pão de Queijo (Brazilian Cheese Bread)
 
 Although *pão* literally means bread, I've listed *pão de queijo* as an appetizer because you should eat it hot as soon as it's baked rather than keeping it around for a day like bread (and it's gluten-free).  If this isn't convenient, you can freeze the balls until you want them.

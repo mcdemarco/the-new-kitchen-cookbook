@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Spinach Wedding Soup
 
 My [Italian Wedding Soup](../soup/italianWedding.md) involves pasta and non-spinach greens, so for Passover I made a variant, inspired by The Cozy Cook's [Turkey and White Bean Spinach Soup](https://thecozycook.com/turkey-white-bean-spinach-soup/) and the contents of my fridge at the time.

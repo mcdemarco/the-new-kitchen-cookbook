@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Seder Plate
 
 The main difficultly in putting together a seder plate is finding and remembering everything, especially haroset ingredients.  Fortunately, haroset is quite forgiving.

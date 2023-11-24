@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Emeril Pizza
 
 This is just something we made up to do with matzah during Passover.  You can usually fit 2 or 2 1/2 onto a cookie sheet.

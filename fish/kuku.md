@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Fish Kuku
 
 ![fish kuku](../images/fish_kuku.png)

@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Haroset
 
 This is a passover recipe based on [Traditional Apple-Walnut Charoset](http://www.epicurious.com/recipes/food/views/traditional-apple-walnut-charoset-234298), much altered by changes suggested in the comments.  I later cut it down because it made a lot of leftovers.

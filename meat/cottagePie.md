@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Cottage Pie
 
 Cottage Pie is Shepherd's Pie with ground beef instead of ground lamb.

@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Tzimmes
 
 The main requirement was that the tzimmes be orange.  [This recipe](http://cooking.nytimes.com/recipes/1013447-sweet-potato-carrot-and-dried-fruit-casserole) had about my quantities of roots and [this one](http://www.tasteofhome.com/recipes/tzimmes) my preferred number of pots (only the casserole), so I combined them.

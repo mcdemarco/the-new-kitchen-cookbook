@@ -50,6 +50,35 @@
   - roots/roastedSweetPotatoes.md
   - soup/ipStock.md
   - sweets/crockpotApplesauce.md
+- tagname: passover
+  filename: passover
+  paths:
+  - appetizers/paoDeQueijo.md
+  - appetizers/seder.md
+  - bread/emerilPizza.md
+  - cookies/riceFlour.md
+  - cookies/suspiros.md
+  - fish/kuku.md
+  - meat/briskette.md
+  - meat/cottagePie.md
+  - meat/meatloaf.md
+  - meat/molha.md
+  - poultry/bakedCoconutChicken.md
+  - poultry/bakedTurkeyChicken.md
+  - poultry/cacciatore.md
+  - poultry/scaloppini.md
+  - poultry/turkeyChicken.md
+  - poultry/tuscanChicken.md
+  - quick-bread/almondFlourMuffins.md
+  - roots/tzimmes.md
+  - soup/cilantro.md
+  - soup/matzaball.md
+  - soup/spinachWedding.md
+  - sweets/grapefruitPeels.md
+  - sweets/haroset.md
+  - sweets/harosetBalls.md
+  - sweets/tapioca.md
+  - vegetables/breakfastLentils.md
 - tagname: quick
   filename: quick
   paths:

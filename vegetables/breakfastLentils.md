@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Breakfast Lentils
 
 This is my version of [Lentils with Eggs and Greens](http://web.archive.org/web/20170416181524/http://www.leanonlife.com/lean-lentils-n-eggs-breakfast-recipes/) by Shelby Morrison, which I googled after not having bought any Passover-safe breakfast cereal.  I haven't changed it much beyond clarifying the quantities and reducing the number of pots.  Peter liked it because it came out very spicy.  I'd recommend scaling back on the cayenne pepper if yours is brand new like mine was.

@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Tapioca Pudding
 
 This is a coconut milk tapioca pudding from one of those giant Indian cookbooks.  I increased it from the original recipe up to one can of coconut milk, but also included the original, smaller recipe plus a size in between.  It's especially handy for Passover.

@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Candied Grapefruit Peels
 
 I keep my leftover peels in the freezer until I have enough to candy.

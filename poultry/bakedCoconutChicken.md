@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Coconut Curry Chicken for a Crowd
 
 I wanted to try something different for the big Seder crowd, so I went looking for coconut milk curry chicken recipes.  Most of them were for boneless breasts, but I had skin-on thighs and legs, so I went with [Curry Coconut Milk Roast Chicken Thighs](http://whiteonricecouple.com/recipes/curry-coconut-milk-chicken-thighs/).  Like my coconut milk tapioca recipe, it needed some scaling up to can increments.  Another inspiration was [Easy Coconut Curry Chicken Thighs](https://simply-delicious-food.com/easy-coconut-curry-chicken-thighs/),  especially spicewise.

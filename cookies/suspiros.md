@@ -1,3 +1,5 @@
+[passover]: ../indices/passover.html
+
 # Suspiros (Meringues)
 
 Suspiros are a Portuguese meringue cookie traditionally flavored with lemon.  The following is a [standard meringue recipe](http://www.joyofbaking.com/MeringueCookies.html), except that I flavored it with coffee extract.  Be careful not to use an oil-based flavoring, and don't let any yolk into the whites.
