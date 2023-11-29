@@ -79,6 +79,15 @@
   - sweets/harosetBalls.md
   - sweets/tapioca.md
   - vegetables/breakfastLentils.md
+- tagname: photographed
+  filename: photographed
+  paths:
+  - appetizers/pumpkinSpice.md
+  - bread/pizzaPizza.md
+  - bread/tiropsomo.md
+  - pie/nonDairyPumpkin.md
+  - soup/coldZucchini.md
+  - sweets/cupcakes.md
 - tagname: quick
   filename: quick
   paths:

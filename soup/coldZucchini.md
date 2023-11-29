@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Cold Zucchini Soup
 
 This is a more flexible version of the already flexible [Zucchini Basil Soup (Parve)](https://www.thespruceeats.com/zucchini-basil-soup-2122312) from the Spruce.  It can also be served warm.

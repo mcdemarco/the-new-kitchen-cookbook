@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Vanilla Cupcakes
 
 I made the whole recipe from [The Spruce Eats](https://www.thespruceeats.com/perfect-vanilla-cupcakes-4120605) and split it into a dozen regular and two dozen mini cupcakes.  Here I've cut it down to one or the other.  I usually have plain yogurt around.

@@ -1,4 +1,5 @@
 [thanksgiving]: ../indices/thanksgiving.html
+[photographed]: ../indices/photographed.html
 
 # Non-Dairy Pumpkin Pie
 
@@ -32,10 +33,10 @@ Makes: 1 pie.
 
 1. Make or unwrap crust.
 2. Mix the filling ingredients, optionally using an immersion or other blender to smooth the pumpkin or other clumpy ingredients more.
-3. Optionally, blind bake a homemade crust at 400° for 5 minutes, *filled* with pie weights and/or dried beans.  You may want to protect the edge.  You may want to bake it another 5 minutes after removing the weights.
+3. Optionally, blind bake a homemade crust at 400° for 5 minutes, *filled* with pie weights and/or dried beans.  You may want to protect the edge.  You may want to bake it another 5 minutes after removing the weights.  ![pie crust lined with parchment paper](../images/pie_lined.png)  ![pie crust filled with ersatz weights](../images/pie_weighted.png)
 4. Preheat oven to 375°.
-5. Fill crust.  
-6. Bake 1 hour.  Again, it's advisable to protect the edge.
+5. Fill crust.  ![pie filled](../images/pie_filled.png)
+6. Bake 1 hour.  Again, it's advisable to protect the edge.  ![pie baked](../images/pie_baked.png)
 7. Cool.
 
 ## Variants

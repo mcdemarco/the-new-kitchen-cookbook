@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Pumpkin Spice
 
 For your seasonal needs, a pumpkin spice mix based on my [pumpkin](../pie/pumpkin.md) [pie](../pie/nonDairyPumpkin.md) 
