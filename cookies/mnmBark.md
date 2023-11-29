@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # M&M Brownie Bark
 
 This is a mix of I Heart Eating's [M&M Brownie Bark Recipe](https://www.ihearteating.com/mm-brownie-bark-recipe/) and her source recipe from King Arthur Flour, [Brownie Crisps](https://www.kingarthurflour.com/recipes/brownie-crisps-recipe), which used chocolate chips exclusively.

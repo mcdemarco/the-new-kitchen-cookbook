@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Dutch Puff Pancake
 
 Better known as a Dutch baby pancake and completely unknown as a Dutch poof pancake, a Dutch puff is an unleavened pancake that poofs up purely with its own steam in the oven.  I made one on request for Mothers Day, based on [this recipe from The Kitchn](https://www.thekitchn.com/how-to-make-a-dutch-baby-pancake-227629) for a 9--10 inch oven-proof pan, which is apparently better in the batter-vs-pan dimension than one my sister tried at 12 inches.

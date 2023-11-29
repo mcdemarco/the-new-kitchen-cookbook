@@ -1,4 +1,5 @@
 [Instant Pot]: ../indices/instantPot.html
+[photographed]: ../indices/photographed.html
 
 # Treda
 

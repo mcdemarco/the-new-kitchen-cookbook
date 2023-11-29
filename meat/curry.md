@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Beef Curry
 
 The notion of beef curry is just so *wrong* I was reluctant to make this, but I was bored with ground beef so I tried out [Pakistani Kima](http://wholenewmom.com/recipes/ground-hamburger-ground-recipes-recipes-for-indian/) and Peter liked it.  As usual there were alterations--one clove of garlic is never enough!  I made plain rice to go on the side.

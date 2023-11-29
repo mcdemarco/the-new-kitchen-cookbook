@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Mizeria (Polish Cucumber Salad)
 
 This is a recipe of Peter's that we've brought to a few potlucks. Quantities are approximate.

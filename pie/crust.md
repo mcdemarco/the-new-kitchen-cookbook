@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Crust
 
 ![watercolor pie](../images/piewc.png)

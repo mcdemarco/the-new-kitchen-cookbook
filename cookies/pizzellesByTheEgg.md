@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Pizzelles by the Egg
 
 ![watercolor pizzelle iron](../images/pizzelleironwc.png)

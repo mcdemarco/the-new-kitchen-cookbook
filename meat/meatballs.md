@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Meatballs
 
 ![mostly cooked](../images/mostly_cooked.jpg)

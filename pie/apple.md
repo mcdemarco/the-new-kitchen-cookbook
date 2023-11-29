@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Apple Pie
 
 ![soggy apple pie](../images/soggy_apple_pie.jpg)

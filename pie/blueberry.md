@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Blueberry Pie
 
 ![blueberry pie](../images/blueberry2.png)

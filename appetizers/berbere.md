@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Ethiopian Berbere
 
 This is based on TwoSleevers' [Ethiopian Berbere Mix](https://twosleevers.com/ethiopian-berbere-mix/#ethiopian-berbere-mix), a spice mix used for [beef](../meat/ipEthBeefStew.md), chicken, and [lentils](https://www.daringgourmet.com/misir-wat-ethiopian-spiced-red-lentils/#recipe), but I cut it down in both quantity and cayenne.

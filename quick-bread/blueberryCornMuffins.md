@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Blueberry Corn Muffins
 
 ![blueberry corn muffins](../images/blue_muffins.png)

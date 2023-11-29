@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Red Bean Paste Hamantaschen
 
 Peter had made red bean paste hamantaschen once before. I'm not a big fan of hamantaschen, but I am of red bean paste, so I tried it out. We also made a couple of refrigerator surprise hamantaschen; those are best left undocumented.  Other fillings we've put into this cookie dough include cherry pie filling and lingonberry jam.

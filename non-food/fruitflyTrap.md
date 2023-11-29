@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Fruit Fly Trap
 
 [The Kitchn](https://www.thekitchn.com/diy-fruit-fly-traps-22942130) attempted to rate a bunch of DIY fruit fly traps, but got the basic model wrong.

@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Tasty Easy Fudge
 
 ![one fudge](../images/fudge2.png)

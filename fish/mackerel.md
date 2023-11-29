@@ -1,4 +1,5 @@
 [quick]: ../indices/quick.html
+[photographed]: ../indices/photographed.html
 
 # Baked Mackerel
 

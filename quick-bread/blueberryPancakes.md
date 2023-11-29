@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Blueberry Yogurt Pancakes
 
 ![half pancakes](../images/half_pancakes.jpg)

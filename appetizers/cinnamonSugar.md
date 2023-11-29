@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Cinnamon Sugar
 
 Samantha got into the cinnamon sugar, so I needed to look it up yet again.  So this is one of those recipes to save me a short trip around the Internet every so often.

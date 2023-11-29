@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Popovers
 
 This is more or less [the recipe](https://www.nordicware.com/recipe/rosemary-popovers/) that came with my six-popover [popover pan](https://www.nordicware.com/grand-popover-pan).

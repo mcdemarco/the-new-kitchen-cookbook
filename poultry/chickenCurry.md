@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Sri Lankan Coconut Chicken Curry
 
 Peter had a Sri Lankan cooking class for work (just another one of those coronavirus things), and this recipe is adapted from the recipe they made.  Another option is [The Best Sri Lankan Chicken Curry](https://www.theflavorbender.com/sri-lankan-chicken-curry/).

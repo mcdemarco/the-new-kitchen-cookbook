@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Bran Muffins for Mom
 
 ![bran muffins](../images/bran_muffins.png)

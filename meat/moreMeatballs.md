@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # More Meatballs
 
 This is not the [family meatball recipe](../meat/meatballs.md); it's a meat variant of the turkeyballs I usually put in soup, also scaled up for a new size of ground beef from Costco.

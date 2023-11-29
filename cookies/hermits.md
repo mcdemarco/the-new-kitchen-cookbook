@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Hermit Bars
 
 Hermits were the first cookie, and are still a traditional New England cookie.  Mom got some in a nut-free, bar form somewhere and liked them, so I [read all about their history](http://www.newenglandrecipes.org/html/hermit-cookie.html) and then found a modern recipe [at Epicurious](http://www.epicurious.com/recipes/food/views/hermit-bars-12777) to adapt.

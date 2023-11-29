@@ -1,4 +1,5 @@
 [passover]: ../indices/passover.html
+[photographed]: ../indices/photographed.html
 
 # Turkey Chicken
 

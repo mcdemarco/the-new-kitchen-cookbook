@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Strawberry Shortcake
 
 This is another Mother's Day request, based on plenty of similar recipes.  Some recipes use two different creams for the dough and topping, but [The New York Times](https://cooking.nytimes.com/recipes/11823-strawberry-shortcake) was thoughtful enough to just use whipping cream for the heavy cream, while [The Kitchn](https://www.thekitchn.com/summer-recipe-oldfashioned-str-150927) did it all with heavy cream.  (This recipe is cut down from those, so see them for better scaling up.)

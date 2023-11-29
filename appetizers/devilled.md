@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Devilled Eggs with Capers
 
 ![deviled eggs](../images/deviled_eggs.png)

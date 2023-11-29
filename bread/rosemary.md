@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Rosemary Boule with Kalamata Olives
 
 ![Rosemary boule](../images/Rosemary_boule.jpg)

@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Baguette
 
 ![baguettes, top view](../images/baguettes1.png)

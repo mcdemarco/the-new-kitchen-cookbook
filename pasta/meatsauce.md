@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Meat Sauce
 
 ![with sausage](../images/with_sausage.jpg)

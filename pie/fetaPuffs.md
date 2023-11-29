@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Savory Feta Puff Pastry
 
 I wrote up my [Rough Puff](../pie/roughPuff.md) recipe in order to make this Romanian treat from [The Bossy Kitchen](https://www.thebossykitchen.com/feta-black-caraway-pastries/) for a party that didn't end up happening (so we just ate the first batch for brunch and froze the rest).  Like many recipes, this one called for store-bought puff pastry (made of shortening), but it's very easy to rough it and have real buttery pastry.  The original also makes 5" squares, while I was going for something snackier at 4".

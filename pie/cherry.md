@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Cherry Pie
 
 This is more or less the [Serious Eats Cherry Pie](http://www.seriouseats.com/recipes/2016/06/fresh-cherry-pie-filling-recipe.html), but with my crust, my starch (available from Brazilian grocery stores here), and my tendency to spice.

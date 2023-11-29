@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Healthy Rye
 
 I wasn't looking for healthy rye *per se* but for rye-y rye.  I found a [lighter rye variant](http://www.artisanbreadinfive.com/2010/03/29/my-favorite-rye-isnt-in-our-books-heres-how-to-slash-it-careful-its-sticky) of the _Artisan Bread in 5_ rye recipe online, which used only half a cup of dark rye flour in order to simulate medium rye, but Peter was not particularly impressed.

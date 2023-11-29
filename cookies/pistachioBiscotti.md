@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Pistachio Biscotti
 
 This recipe is for non-dairy pistachio biscotti. The yield depends on how you form and cut the logs. I've never gotten as few as the 18 the original recipe alleged. These are my friend Sarah's favorite of my rather small cookie repertoire.  Based on Recipe #44360 on the now-defunct Recipezaar, which included butter, lemon zest, and an almond option.

@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Pizzelles
 
 ![watercolor pizzelles](../images/pizzellewc.png)

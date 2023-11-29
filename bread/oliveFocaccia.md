@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Olive and Garlic Focaccia
 
 This is a yeast flatbread from the *Artisan Bread in 5* [blog](https://artisanbreadinfive.com/2009/06/22/olive-garlic-and-fresh-herb-focaccia-on-the-grill/), adjusted to not go on the grill, but to still use a pie plate.  It differs from the one in the book (p. 150) in lacking onions and the considerations that baking onions brings (most notably lower temps and onion pre-cooking time).  

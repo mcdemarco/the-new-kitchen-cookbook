@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Authentic Biscotti
 
 As mentioned earlier, I burned out my first pizzelle iron.  On the day that it gasped its last gasp, I had already made the cookie dough, so I had to find something else to do with it.  I got out my Italian cookbook and discovered that biscotti had almost the same ingredients, so I adjusted the flour and learned to make biscotti.

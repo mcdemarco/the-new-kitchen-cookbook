@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Hot Toddy
 
 ![toddies](../images/toddies.png)

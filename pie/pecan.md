@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Pecan Pie
 
 ![pecan pie](../images/pecan_pie.png)

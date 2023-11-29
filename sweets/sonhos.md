@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Sonhos (Portuguese Doughnuts)
 
 I made sonhos one Sunday because I didn't have the time to attempt malassadas or [cuddureddi](http://leitesculinaria.com/91541/recipes-cuddureddi-raised-doughnuts.html), and I couldn't find a beignet recipe that was actually a proper choux pastry instead of a standard yeast doughnut.  I followed [the sonhos recipe at Leite's Culinaria](http://leitesculinaria.com/7788/recipes-portuguese-doughnuts.html), which they don't want reproduced elsewhere, so this cookbook entry is just my comments on the process.  And a picture:

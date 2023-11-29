@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Mac and Cheese
 
 The recipe was online briefly, but I assume it is gone already.

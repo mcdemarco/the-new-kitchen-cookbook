@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Almond Butter Cutouts
 
 ![cutout suns](../images/cutout_suns.jpg)

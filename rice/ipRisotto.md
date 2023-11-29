@@ -1,5 +1,6 @@
 [Instant Pot]: ../indices/instantPot.html
 [quick]: ../indices/quick.html
+[photographed]: ../indices/photographed.html
 
 # Instant Pot Risotto
 

@@ -1,4 +1,5 @@
 [crockpot]: ../indices/crockpot.html
+[photographed]: ../indices/photographed.html
 
 # Crockpot Briskette
 

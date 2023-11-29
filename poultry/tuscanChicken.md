@@ -1,5 +1,6 @@
 [passover]: ../indices/passover.html
 [Instant Pot]: ../indices/instantPot.html
+[photographed]: ../indices/photographed.html
 
 # Tuscan Chicken with Olives and Capers
 

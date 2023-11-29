@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Yes-Knead Challah
 
 I've made the challah no-knead recipe, and I've also made the challah recipe in *The Book of Jewish Food* by Claudia Roden.  I usually cut them both down to 2 loaves for convenience.  In the latter I also altered the flour (for reasons that were not penciled in) and found an actual poppy measurement, as follows.

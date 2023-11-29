@@ -1,5 +1,6 @@
-# Italian Wedding Soup
+[photographed]: ../indices/photographed.html
 
+# Italian Wedding Soup
 
 ![cooking](../images/wedding.jpg)
 

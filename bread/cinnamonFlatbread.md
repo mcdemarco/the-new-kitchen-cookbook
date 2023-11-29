@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Spicy Cinnamon Flatbread
 
 I had some cinnamon sugar left over from making palmiers, so I went looking for a cinnamon flatbread to make with my refrigerator dough.  I took the spice idea from [this spelt flatbread recipe](http://www.food.com/recipe/cinnamon-flat-bread-156504) and the baking instructions from [this Martha recipe](http://www.marthastewart.com/349900/sweet-cinnamon-flatbread) (except that the oven temperature seemed to be in Celsius for unknown reasons).

@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Semi-semolina Bread
 
 ![Semi-semolina](../images/semi-semolina.png)

@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Anise Cookies
 
 ![anise drop cookies](../images/anise_drop_cookies.jpg)

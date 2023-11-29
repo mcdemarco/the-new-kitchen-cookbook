@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Cinnamon Rolls in a Popover Pan
 
 ![popover rolls in the oven](../images/popoverrolls.png)

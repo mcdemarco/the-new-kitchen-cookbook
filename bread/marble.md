@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Marbled Rye
 
 ![the final product](../images/the_final_product.jpg)

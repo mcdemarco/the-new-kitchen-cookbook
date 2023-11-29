@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Ciabatta
 
 This recipe is adapted from _The Il Fornario Baking Book_, in which it is a variant of pagnotta.  It also requires a biga and an infinite amount of time between all the kneading and rising.  Unlike no-knead ciabattas, it's actually slower to make than the peasant bread/pagnotta version.
