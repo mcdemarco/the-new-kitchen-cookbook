@@ -50,6 +50,13 @@
   - roots/roastedSweetPotatoes.md
   - soup/ipStock.md
   - sweets/crockpotApplesauce.md
+- tagname: hanukkah
+  filename: hanukkah
+  paths:
+  - quick-bread/ricottaPancakes.md
+  - roots/latkes.md
+  - roots/spinachRicottaLatkes.md
+  - sweets/sufganiyot.md
 - tagname: passover
   filename: passover
   paths:
@@ -82,12 +89,72 @@
 - tagname: photographed
   filename: photographed
   paths:
+  - appetizers/berbere.md
+  - appetizers/cinnamonSugar.md
+  - appetizers/devilled.md
   - appetizers/pumpkinSpice.md
+  - appetizers/toddy.md
+  - bread/baguette.md
+  - bread/challah.md
+  - bread/ciabatta.md
+  - bread/cinnamonFlatbread.md
+  - bread/marble.md
+  - bread/oliveFocaccia.md
   - bread/pizzaPizza.md
+  - bread/popoverCinnamonRolls.md
+  - bread/rosemary.md
+  - bread/rye.md
+  - bread/semolina.md
   - bread/tiropsomo.md
+  - cookies/almondButter.md
+  - cookies/aniseDrop.md
+  - cookies/biscotti.md
+  - cookies/hermits.md
+  - cookies/mnmBark.md
+  - cookies/pistachioBiscotti.md
+  - cookies/pizzelles.md
+  - cookies/pizzellesByTheEgg.md
+  - cookies/redBeanHamantaschen.md
+  - cookies/riceFlour.md
+  - fish/kuku.md
+  - fish/mackerel.md
+  - fish/spicySalmon.md
+  - meat/crockpotBriskette.md
+  - meat/curry.md
+  - meat/meatballs.md
+  - meat/moreMeatballs.md
+  - non-food/fruitflyTrap.md
+  - pasta/chopsuey.md
+  - pasta/macncheese.md
+  - pasta/meatsauce.md
+  - pasta/orecchiette.md
+  - pie/apple.md
+  - pie/blueberry.md
+  - pie/cherry.md
+  - pie/crust.md
+  - pie/fetaPuffs.md
   - pie/nonDairyPumpkin.md
+  - pie/pecan.md
+  - poultry/chickenCurry.md
+  - poultry/treda.md
+  - poultry/turkeyChicken.md
+  - poultry/tuscanChicken.md
+  - quick-bread/blueberryCornMuffins.md
+  - quick-bread/blueberryPancakes.md
+  - quick-bread/branMuffins.md
+  - quick-bread/dutchPuff.md
+  - quick-bread/popovers.md
+  - quick-bread/strawberryShortcake.md
+  - rice/ipRice.md
+  - rice/ipRisotto.md
+  - rice/tempehRisotto.md
+  - salad/cucumber.md
   - soup/coldZucchini.md
+  - soup/italianWedding.md
   - sweets/cupcakes.md
+  - sweets/easyFudge.md
+  - sweets/sonhos.md
+  - vegetables/roastedOkra.md
 - tagname: quick
   filename: quick
   paths:

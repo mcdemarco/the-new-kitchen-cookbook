@@ -1,3 +1,5 @@
+[hanukkah]: ../indices/hanukkah.html
+
 # Ricotta Pancakes
 
 This Italian pancake (*cassola*) is the ancestor of the latke, according to [Tori Avery](http://toriavey.com/toris-kitchen/2010/12/cheese-latkes/).  I cut the recipe down for serving alongside modern latkes, but then scaled it back up again because it wasn't enough for breakfast.

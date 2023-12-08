@@ -311,15 +311,17 @@
     new: 2023
   - name: Vegetarian Chili
     filename: vegetarianChili
-  - name: Latkes
-    filename: latkes
-  - name: Spinach Ricotta Latkes
-    filename: spinachRicottaLatkes
   - name: Polenta
     filename: polenta
     favorite: true
   - name: Breakfast Lentils
     filename: breakfastLentils
+  - name: Latkes
+    filename: latkes
+    redirect: roots
+  - name: Spinach Ricotta Latkes
+    filename: spinachRicottaLatkes
+    redirect: roots
   - name: Chickpea Salad with Fennel, Tomatoes and Olives
     filename: chickpeaFennel
     redirect: salad
@@ -364,6 +366,10 @@
 - name: Roots and Squash
   filename: roots
   files:
+  - name: Latkes
+    filename: latkes
+  - name: Spinach Ricotta Latkes
+    filename: spinachRicottaLatkes
   - name: Scalloped Potatoes
     filename: scallopedPotatoes
   - name: Non-Dairy Mashed Potatoes
