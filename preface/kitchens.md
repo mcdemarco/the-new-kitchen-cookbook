@@ -10,4 +10,4 @@ The new kitchen has convection ovens and I usually use them with convection on, 
 
 I have an immersion mixer but not a stand mixer or a blender; I find it suffices in cases where my pastry cutter won't do.  I also have the smallest two of [these scoops](https://www.vollrathfoodservice.com/products/smallwares/kitchen-essentials/dishers/nsf-certified-dishers-one-piece-color-coded-han) which I use for making cookies and muffins.  The black one is 2 T and the purple one is 1 1/2 T.
 
-The newest appliance is an Instant Pot (the original 6 quart Duo) that Peter got as swag.  It has spawned some Instant Pot-specific recipies, as well as some pressure cooking footnotes to regular recipes.
+The newest appliance is a KitchenAid stand mixer.  Also of culinary note are a BlendJet and an Instant Pot (the original 6 quart Duo) that Peter got as swag.  The latter has spawned some Instant Pot-specific recipies, as well as some pressure cooking footnotes to regular recipes.

@@ -35,6 +35,11 @@
   - soup/mulligatawny.md
   - vegetables/ipArtichokes.md
   - vegetables/ipCannellini.md
+- tagname: KitchenAid
+  filename: kitchenAid
+  paths:
+  - roots/nonDairyMashedPotatoes.md
+  - sweets/sufganiyot.md
 - tagname: crockpot
   filename: crockpot
   paths:

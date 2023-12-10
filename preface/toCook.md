@@ -12,6 +12,9 @@ This is my to-do list.
 * [Cardamom Knots](https://www.epicurious.com/recipes/food/views/cardamom-pastry-roll-knots) or just the filling in another brioche dough
 * [Cheesecake](https://www.tasteofhome.com/recipes/ricotta-cheesecake/)
 * [Nutter Butters](https://www.epicurious.com/recipes/food/views/nutter-butter-cookies)
+* [Whipped Shortbread cookies](https://www.justsotasty.com/whipped-shortbread-cookies/)
+* [Olive oil cake](https://www.bonappetit.com/recipe/olive-oil-cake) or [Chocolate olive oil cake](https://www.thekitchn.com/chocolate-olive-oil-cake-recipe-23075403) (both pareve)
+
 
 ## Appetizers, Spices, and Snacks
 
@@ -22,6 +25,7 @@ This is my to-do list.
 * [Popped wild rice](https://jamiegeller.com/recipes/popped-wild-rice/)
 * Garam masala
 * [Blendjet](https://www.epicurious.com/recipes-menus/11-frozen-blender-cocktails-gallery) [drinks](https://www.guysgab.com/step-up-your-frozen-drink-game-with-the-blendjet-2-portable-blender/), *e.g.*, [strawberry daquiri](https://www.food.com/recipe/strawberry-daiquiri-smoothie-alcoholic-423850)
+* [Marinated feta](https://www.thespruceeats.com/feta-with-olive-oil-and-herbs-591058)
 
 ## Soup
 
@@ -88,6 +92,7 @@ This is my to-do list.
 
 ## Poultry
 
+* [Lemon chicken with za'atar](https://www.thekitchn.com/lemon-chicken-with-zaatar-23114544)
 * [Leek and wild mushroom stuffing](https://www.epicurious.com/recipes/food/views/leek-and-wild-mushroom-stuffing-107292)
 * [Moroccan Chicken with Chickpeas and Raisins](https://www.thespruceeats.com/chicken-tagine-with-chickpeas-and-raisins-2394713)
 * [Instant Pot Chicken Biryani](http://www.thasneen.com/cooking/express-biryani-instant-pot-chicken-biryani/)
