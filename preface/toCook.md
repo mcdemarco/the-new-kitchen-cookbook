@@ -2,9 +2,16 @@
 
 This is my to-do list.
 
+## Non-Food
+
+* [Playdough](https://livingwellmom.com/easy-homemade-playdough-recipe/#playdoughmorefun)
+
 ## Stand Mixer
 
+* [Malassadas](https://leitesculinaria.com/7777/recipes-portuguese-malassadas-azorean-doughnuts.html)
 * [Chocolate Mousse](https://www.garnishandglaze.com/chocolate-mousse-recipe/)
+* [Coconut Cream Chocolate Mousse](https://radiantlifecatalog.com/blog/coconut-milk-chocolate-mousse-recipe-dairyfree-paleo/) and [Coconut Whipped Cream](https://radiantlifecatalog.com/blog/coconut-milk-chocolate-mousse-recipe
+https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-and-vegan/)
 * [Parker House Rolls](https://www.foodandwine.com/recipes/parker-house-rolls)
 * [Pasta](https://www.foodandwine.com/recipes/fresh-pasta-dough) (just the dough)
 * [Croissants](https://www.foodandwine.com/recipes/all-butter-croissant-dough)
@@ -12,9 +19,12 @@ This is my to-do list.
 * [Cardamom Knots](https://www.epicurious.com/recipes/food/views/cardamom-pastry-roll-knots) or just the filling in another brioche dough
 * [Cheesecake](https://www.tasteofhome.com/recipes/ricotta-cheesecake/)
 * [Nutter Butters](https://www.epicurious.com/recipes/food/views/nutter-butter-cookies)
-* [Whipped Shortbread cookies](https://www.justsotasty.com/whipped-shortbread-cookies/)
+* [Whipped Shortbread cookies](https://www.justsotasty.com/whipped-shortbread-cookies/) or [here](https://www.theendlessmeal.com/melt-in-your-mouth-shortbread/#recipe)
 * [Olive oil cake](https://www.bonappetit.com/recipe/olive-oil-cake) or [Chocolate olive oil cake](https://www.thekitchn.com/chocolate-olive-oil-cake-recipe-23075403) (both pareve)
-
+* [Peppermint Meringues](https://www.upstateramblings.com/peppermint-meringues/)
+* [Pierogis](https://somuchfoodblog.com/potato-and-onion-pierogies-with-bacon/)
+* [Leek bread](https://www.feastingathome.com/leek-bread/)
+* [Jerusalem bagels](https://jamiegeller.com/recipes/jerusalem-bagel/)
 
 ## Appetizers, Spices, and Snacks
 
@@ -109,7 +119,7 @@ This is my to-do list.
 * [Cottage Cheese rugelach](https://oukosher.org/blog/kosher-trends/kosher-cottage-cheese/)
 * matzah crack
 * dark chocolate peppermints (with recipe)
-* [Paczki](https://www.seasonsandsuppers.ca/polish-paczki-donuts-recipe/)
+* [Paczki](https://www.seasonsandsuppers.ca/polish-paczki-donuts-recipe/) (not very different from sufganiyot)
 * [French Apple Cake](https://12tomatoes.com/easy-french-apple-cake/) or [Jewish apple cake](https://www.thespruceeats.com/kosher-apple-cake-2121494) or [mom's apple cake](https://smittenkitchen.com/2008/09/moms-apple-cake/)
 * [Cheesecake mousse](https://inthewildheartkitchen.com/2023/05/24/no-bake-cheesecake-mousse/)
 * convert tapioca recipe [to IP](https://www.cooksmarts.com/articles/instant-pot-cooking-times-pdf/)

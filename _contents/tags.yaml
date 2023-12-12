@@ -38,7 +38,10 @@
 - tagname: KitchenAid
   filename: kitchenAid
   paths:
+  - appetizers/easyPaoDeQueijo.md
+  - appetizers/paoDeQueijo.md
   - roots/nonDairyMashedPotatoes.md
+  - sweets/ponchiki.md
   - sweets/sufganiyot.md
 - tagname: crockpot
   filename: crockpot
@@ -61,6 +64,7 @@
   - quick-bread/ricottaPancakes.md
   - roots/latkes.md
   - roots/spinachRicottaLatkes.md
+  - sweets/ponchiki.md
   - sweets/sufganiyot.md
 - tagname: passover
   filename: passover

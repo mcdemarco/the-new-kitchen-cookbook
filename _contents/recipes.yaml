@@ -681,6 +681,8 @@
     filename: sonhos
   - name: Sufganiyot (Jelly Doughnuts)
     filename: sufganiyot
+  - name: Ricotta Ponchiki (Russian Doughnuts)
+    filename: ponchiki
   - name: Crockpot Applesauce
     filename: crockpotApplesauce
   - name: Apple Crisp
