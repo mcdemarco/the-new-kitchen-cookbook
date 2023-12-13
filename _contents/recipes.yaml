@@ -683,6 +683,7 @@
     filename: sufganiyot
   - name: Ricotta Ponchiki (Russian Doughnuts)
     filename: ponchiki
+    new: 2023
   - name: Crockpot Applesauce
     filename: crockpotApplesauce
   - name: Apple Crisp
