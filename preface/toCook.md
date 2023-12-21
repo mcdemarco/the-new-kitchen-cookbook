@@ -46,6 +46,7 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 * [Moqueca (IP)](https://twosleevers.com/brazilian-moqueca/) (Brazilian whitefish stew)
 * [IP Peanut Stew](https://www.paintthekitchenred.com/instant-pot-african-peanut-stew/)
 * [Navy bean and feta stew](https://www.epicurious.com/recipes/food/views/navy-bean-escarole-stew-with-feta-and-olives)
+* [Potato leek soup](https://www.thekitchn.com/slow-cooker-potato-leek-soup-recipe-256183) 
 
 ## Breakfast and Quick Bread
 

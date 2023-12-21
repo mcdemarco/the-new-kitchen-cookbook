@@ -115,6 +115,9 @@
     filename: kale
   - name: Fresh Potato and Cilantro Soup
     filename: cilantro
+  - name: Instant Pot Potato Leek Soup
+    filename: ipPotatoLeek
+    new: 2023
   - name: Spicy Pumpkin Carrot Soup
     filename: spicyPumpkin
   - name: Sopa de Grao

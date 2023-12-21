@@ -22,7 +22,7 @@ Makes 24--48 doughnut holes, depending on size.
 ### Nuts
 
 * oil for frying
-* granulated (1/3--1/2 c.) or confectioner's sugar for dusting
+* granulated or confectioner's sugar for dusting
 
 ## Directions
 
