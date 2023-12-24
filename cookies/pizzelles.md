@@ -36,4 +36,4 @@ If you experience sticking issues, unstick any crumbs with a toothpick and regre
 
 ## Variants
 
-See Pizzelles by the Egg for variants.
+See [Pizzelles by the Egg](../cookies/pizzellesByTheEgg.md) for variants.

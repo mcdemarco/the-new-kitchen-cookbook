@@ -728,6 +728,9 @@
     filename: redBeanHamantaschen
   - name: Suspiros (Meringues)
     filename: suspiros
+  - name: Gingerbread House
+    filename: gingerbreadHouse
+    new: 2023
 
 - name: Pie!
   filename: pie

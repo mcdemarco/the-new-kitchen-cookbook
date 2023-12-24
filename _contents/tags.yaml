@@ -41,6 +41,7 @@
   paths:
   - appetizers/easyPaoDeQueijo.md
   - appetizers/paoDeQueijo.md
+  - cookies/gingerbreadHouse.md
   - roots/nonDairyMashedPotatoes.md
   - sweets/ponchiki.md
   - sweets/sufganiyot.md
@@ -120,6 +121,7 @@
   - cookies/almondButter.md
   - cookies/aniseDrop.md
   - cookies/biscotti.md
+  - cookies/gingerbreadHouse.md
   - cookies/hermits.md
   - cookies/mnmBark.md
   - cookies/pistachioBiscotti.md
