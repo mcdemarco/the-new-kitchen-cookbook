@@ -731,6 +731,9 @@
   - name: Gingerbread House
     filename: gingerbreadHouse
     new: 2023
+  - name: Royal Icing
+    filename: royalIcing
+    new: 2023
 
 - name: Pie!
   filename: pie
