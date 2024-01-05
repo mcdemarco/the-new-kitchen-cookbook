@@ -261,6 +261,8 @@
     filename: carrotSpice
   - name: Carrot Corn Mini Muffins
     filename: carrotCorn
+  - name:  Butternut Squash Bread
+    filename: squashBread
   - name: Savory Zucchini Muffins
     filename: zucchini
   - name: Almond Flour Muffins

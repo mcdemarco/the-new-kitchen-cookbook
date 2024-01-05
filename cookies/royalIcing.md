@@ -11,7 +11,7 @@ The recipe is for one egg's worth of icing, for maximum flexibility.  An average
 ## Ingredients
 
 * 1 raw egg white
-* 1 1/2 c. confectioners' (powdered) sugar
+* 1 1/2 c. confectioners' sugar
 * 1/4 tsp. cream of tartar
 * 1/4 tsp. flavor extract (optional)
 * food coloring (optional)
