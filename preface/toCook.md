@@ -46,7 +46,6 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 * [Moqueca (IP)](https://twosleevers.com/brazilian-moqueca/) (Brazilian whitefish stew)
 * [IP Peanut Stew](https://www.paintthekitchenred.com/instant-pot-african-peanut-stew/)
 * [Navy bean and feta stew](https://www.epicurious.com/recipes/food/views/navy-bean-escarole-stew-with-feta-and-olives)
-* [Potato leek soup](https://www.thekitchn.com/slow-cooker-potato-leek-soup-recipe-256183) 
 
 ## Breakfast and Quick Bread
 
@@ -55,7 +54,6 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 * English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easiest-and-tastiest-homemade-english-muffins) or [fried](http://www.artisanbreadinfive.com/2013/11/01/english-muffins-on-the-stove-top-with-gold-medal-flour-and-red-star-yeast#more-6412) (could use molds but not entirely necessary)
 * [Focaccia di recco](https://www.sugarsaltmagic.com/focaccia-di-recco/) (cheese flatbread)
 * [Pancake mix](https://www.simplyrecipes.com/recipes/homemade_pancake_mix/)
-* Non-dairy [Pumpkin bread](https://www.kingarthurbaking.com/recipes/easy-pumpkin-bread-recipe)
 
 ## Slow Bread
 

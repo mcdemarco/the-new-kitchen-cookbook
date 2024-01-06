@@ -263,6 +263,7 @@
     filename: carrotCorn
   - name:  Butternut Squash Bread
     filename: squashBread
+    new: 2024
   - name: Savory Zucchini Muffins
     filename: zucchini
   - name: Almond Flour Muffins
