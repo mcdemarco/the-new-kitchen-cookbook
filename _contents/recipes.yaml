@@ -261,6 +261,9 @@
     filename: carrotSpice
   - name: Carrot Corn Mini Muffins
     filename: carrotCorn
+  - name:  Applesauce Banana Bread
+    filename: applesauceBananaBread
+    new: 2024
   - name:  Butternut Squash Bread
     filename: squashBread
     new: 2024
@@ -275,6 +278,9 @@
     redirect: appetizers
   - name: Quick Breadsticks
     filename: quickBreadsticks
+  - name: Easy Sour Cream Biscuits
+    filename: easySourCreamBiscuits
+    new: 2024
   - name: Guinness Beer Biscuits
     filename: guinnessBiscuits
   - name: Coconut Oil Biscuits

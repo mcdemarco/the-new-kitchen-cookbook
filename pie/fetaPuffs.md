@@ -2,7 +2,7 @@
 
 # Savory Feta Puff Pastry
 
-I wrote up my [Rough Puff](../pie/roughPuff.md) recipe in order to make this Romanian treat from [The Bossy Kitchen](https://www.thebossykitchen.com/feta-black-caraway-pastries/) for a party that didn't end up happening (so we just ate the first batch for brunch and froze the rest).  Like many recipes, this one called for store-bought puff pastry (made of shortening), but it's very easy to rough it and have real buttery pastry.  The original also makes 5" squares, while I was going for something snackier at 4".
+I wrote up my [Rough Puff Pastry](../pie/roughPuff.md) recipe in order to make this Romanian treat from [The Bossy Kitchen](https://www.thebossykitchen.com/feta-black-caraway-pastries/) for a party that didn't end up happening (so we just ate the first batch for brunch and froze the rest).  Like many recipes, this one called for store-bought puff pastry (made of shortening), but it's very easy to rough it and have real buttery pastry.  The original also makes 5" squares, while I was going for something snackier at 4".  [Blitz puff pastry](../pie/blitzPuff.md) is also an option.
 
 The original recipe called for "black caraway".  Since it's unlikely you have either spice this could mean at hand, it probably doesn't matter which one was intended.  But for the record, "black caraway" seeds may come from either *Nigella sativa* (nigella) or *Bunium bulbocastanum* (great pignut).  Pignut seed isn't known to be used as a spice in Europe, so the intended topping is probably nigella, also known as black caraway, black cumin, black onion, black seed, fennel flower, nutmeg flower, Roman coriander, and *kalonji*.  You can find some of that, substitute poppy or sesame for it, or leave it off entirely.
 

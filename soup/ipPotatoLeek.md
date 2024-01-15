@@ -23,7 +23,7 @@ Serves 2--3.
 
 ## Directions
 
-1. Prepare leeks in the usual way, season with salt and pepper, and sauté in oil (on the Sauté setting).
+1. Prepare leeks in the usual way, season with salt and pepper, and sauté in oil (on the Sauté setting) until limp.
 2. Add garlic and remaining spices and sauté 1 minute.
 3. Cancel Sauté and add all remaining ingredients except the sour cream.
 4. Close Instant Pot, seal vent, and cook at high pressure for 5 minutes with natural release.
@@ -38,3 +38,5 @@ It's similar but much slower in a crockpot.
 Chicken stock is sometimes called for, and almost always the cream is heavy rather than sour, with more of it.
 
 The butter was replaced with olive oil.
+
+Toss in a handful of chopped mushrooms (or another soft vegetable) when the leeks are nearly done sautéing.

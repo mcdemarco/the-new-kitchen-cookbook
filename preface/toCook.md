@@ -25,6 +25,8 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 * [Pierogis](https://somuchfoodblog.com/potato-and-onion-pierogies-with-bacon/)
 * [Leek bread](https://www.feastingathome.com/leek-bread/)
 * [Jerusalem bagels](https://jamiegeller.com/recipes/jerusalem-bagel/)
+* [ABin5 Deep Dish Pizza](https://artisanbreadinfive.com/2016/03/30/deep-dish-pizza/)
+* [ABin5 Raisin Walnut Bread](https://artisanbreadinfive.com/2017/01/07/raisin-walnut-bread-emile-henry-bread-baker-red-star-platinum-yeast-and-new-abin5-giveaway/) or [this one](https://www.thisjess.com/no-knead-walnut-raisin-bread/) for a rounder dutch oven
 
 ## Appetizers, Spices, and Snacks
 
@@ -44,7 +46,7 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 * [Kreplach](https://www.epicurious.com/recipes/food/views/kreplach-236219)
 * Pumpkin and Chickpea soup (_Sephardic Cooking_ p.436)
 * [Moqueca (IP)](https://twosleevers.com/brazilian-moqueca/) (Brazilian whitefish stew)
-* [IP Peanut Stew](https://www.paintthekitchenred.com/instant-pot-african-peanut-stew/)
+* [IP Peanut Stew](https://www.paintthekitchenred.com/instant-pot-african-peanut-stew/) or [pareve](https://www.budgetbytes.com/african-peanut-stew-vegan/)
 * [Navy bean and feta stew](https://www.epicurious.com/recipes/food/views/navy-bean-escarole-stew-with-feta-and-olives)
 
 ## Breakfast and Quick Bread
@@ -67,7 +69,7 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 * [Ful](http://web.archive.org/web/20161109062629/http://www.atasmanian.cooking/blog/2015/3/5/a-fool-for-ful)
 * [Beer Beans](https://www.markbittman.com/recipes-1/beer-glazed-black-beans)
 * [Pasta with Italian Squash](https://2sistersrecipes.com/pasta-with-italian-squash-or-calabaza/)
-* *Hanukkah*: [Keftes de Prasa](https://rebekahlowin.com/keftes-de-prasa-recipe/) [source](https://web.archive.org/web/20210426182553/https://www.seriouseats.com/recipes/2009/09/keftes-de-prasa-sephardic-style-leek-fritters-rosh-hashanah-jewish-recipe.html) or a more complicated one from [Gil Marks](https://toriavey.com/gil-marks-keftes-de-prassa-sephardic-leek-patties/)
+* *Hanukkah*: [Keftes de Prasa](https://rebekahlowin.com/keftes-de-prasa-recipe/) ([source](https://web.archive.org/web/20210426182553/https://www.seriouseats.com/recipes/2009/09/keftes-de-prasa-sephardic-style-leek-fritters-rosh-hashanah-jewish-recipe.html)) or a more complicated one from [Gil Marks](https://toriavey.com/gil-marks-keftes-de-prassa-sephardic-leek-patties/)
 * [Pickled okra](https://www.thespruceeats.com/pickled-okra-recipe-p2-2216859)
 
 ## Starchs
@@ -114,7 +116,6 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 
 ## Dessert
 
-* [Farmer's cheese donuts](https://momsdish.com/recipe/203/farmers-cheese-doughnuts) [with ricotta](https://www.olgasflavorfactory.com/recipes/sweets/desserts/ricotta-fritters-ponchiki/) for Hanukkah
 * [Cottage Cheese rugelach](https://oukosher.org/blog/kosher-trends/kosher-cottage-cheese/)
 * matzah crack
 * dark chocolate peppermints (with recipe)

@@ -10,3 +10,5 @@ Some weights for it are listed on my [bread math page](../bread/math.md); here's
 * 910 g. all purpose flour
 
 The master recipe from the "healthy" sequel to _Artisan Bread in 5_ is a nice, heavy bread.  You can find it [here](../bread/healthy.md) or online.  I found some more recipes from the sequel (which I don't have) online at [King Arthur Flour](http://web.archive.org/web/20170308064612/http://blog.kingarthurflour.com/2010/02/14/when-trends-collide-no-knead-meet-whole-grain/).
+
+The master recipe from the "holiday" sequel is also [available online](https://artisanbreadinfive.com/2018/11/22/white-bread-master-recipe-from-holiday-and-celebration-bread-in-five/) (with weights).

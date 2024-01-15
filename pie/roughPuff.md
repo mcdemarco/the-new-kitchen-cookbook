@@ -1,6 +1,6 @@
 # Rough Puff Pastry
 
-Rough Puff is a puff pastry that's slightly more work than a pie dough, but much less than a real puff pastry.   There are several ways to make it, many involving grating or use of machinery, but a pastry cutter will also do.  If you don't have a kitchen scale, [Renee Nicole](https://reneenicoleskitchen.com/rough-puff-pastry/) lists some American measurements.  She's also full of chilling advice.  (Chilling is the most important factor.)
+Rough Puff is a puff pastry that's slightly more work than a pie dough, but much less than a true puff pastry.   There are several ways to make it, many involving grating or use of machinery, but a pastry cutter will also do.  If you don't have a kitchen scale, [Renee Nicole](https://reneenicoleskitchen.com/rough-puff-pastry/) lists some American measurements.  She's also full of chilling advice.  (Chilling is the most important factor.)  It is sometimes known as blitz puff pastry or indicated by other adjectives.
 
 For a more traditional puff pastry method, see my recipe for [Pastéis de Nata](../pie/pasteisDeNata.md).  For an even cheatier pastry, see my [blitz puff](../pie/blitzPuff.md) recipe.
 
@@ -34,6 +34,6 @@ Most recipes prefer grating or processing the butter.  Some prefer folding some 
 
 Some recipes, such as [Bon Appetit's](https://www.bonappetit.com/recipe/rough-puff-pastry), include milk or sugar.
 
-Blitz puff recipes, such as the King Arthur one I used for my [Blueberry Turnovers](../pie/blueberryTurnovers.md) recipe, use sour cream and baking powder.
+Cheating on rough puff pastry, such as I did with my [Blueberry Turnovers](../pie/blueberryTurnovers.md) and [blitz puff](../pie/blitzPuff.md) recipes, involves using sour cream and baking powder.
 
-I wrote down the recipe in order to fill it with [feta](../pie/fetaPuffs.md).
+I wrote down this recipe in order to fill it with [feta](../pie/fetaPuffs.md).
