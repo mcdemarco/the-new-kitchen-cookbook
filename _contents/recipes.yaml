@@ -264,6 +264,7 @@
   - name:  Applesauce Banana Bread
     filename: applesauceBananaBread
     new: 2024
+    hidden: true
   - name:  Butternut Squash Bread
     filename: squashBread
     new: 2024
@@ -771,7 +772,7 @@
     favorite: true
   - name: Non-Dairy Sweet Potato Pie
     filename: ndSweetPotato
-    new: 2023
+    new: 2024
     hidden: true
   - name: Blitz Puff Pastry
     filename: blitzPuff

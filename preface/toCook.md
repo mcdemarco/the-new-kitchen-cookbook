@@ -27,6 +27,7 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 * [Jerusalem bagels](https://jamiegeller.com/recipes/jerusalem-bagel/)
 * [ABin5 Deep Dish Pizza](https://artisanbreadinfive.com/2016/03/30/deep-dish-pizza/)
 * [ABin5 Raisin Walnut Bread](https://artisanbreadinfive.com/2017/01/07/raisin-walnut-bread-emile-henry-bread-baker-red-star-platinum-yeast-and-new-abin5-giveaway/) or [this one](https://www.thisjess.com/no-knead-walnut-raisin-bread/) for a rounder dutch oven
+* [Coffee cake](https://www.piesandtacos.com/coffee-cake/)
 
 ## Appetizers, Spices, and Snacks
 
