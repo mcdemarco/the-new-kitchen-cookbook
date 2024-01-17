@@ -21,7 +21,7 @@ I based this recipe on one from [The Joy of Kosher site](http://www.joyofkosher.
 3. Mix wet ingredients.
 3. Mix wet ingredients into dry.  Don't overmix.
 4. Pour into pan, or fill muffin cups 2/3 full per muffin.
-5. Bake pan for 20--25 minutes, or muffins for 12--15 minutes.
+5. Bake pan for 20 minutes, or muffins for 12--15 minutes.
 
 ## Variants
 

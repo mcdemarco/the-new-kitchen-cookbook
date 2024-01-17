@@ -1,33 +1,9 @@
+[KitchenAid]: ../indices/kitchenAid.html
+
 # Things To Cook
 
 This is my to-do list.
 
-## Non-Food
-
-* [Playdough](https://livingwellmom.com/easy-homemade-playdough-recipe/#playdoughmorefun)
-
-## Stand Mixer
-
-* [Malassadas](https://leitesculinaria.com/7777/recipes-portuguese-malassadas-azorean-doughnuts.html)
-* [Chocolate Mousse](https://www.garnishandglaze.com/chocolate-mousse-recipe/)
-* [Coconut Cream Chocolate Mousse](https://radiantlifecatalog.com/blog/coconut-milk-chocolate-mousse-recipe-dairyfree-paleo/) and [Coconut Whipped Cream](https://radiantlifecatalog.com/blog/coconut-milk-chocolate-mousse-recipe
-https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-and-vegan/)
-* [Parker House Rolls](https://www.foodandwine.com/recipes/parker-house-rolls)
-* [Pasta](https://www.foodandwine.com/recipes/fresh-pasta-dough) (just the dough)
-* [Croissants](https://www.foodandwine.com/recipes/all-butter-croissant-dough)
-* [Marshmallows](https://www.tasteofhome.com/recipes/homemade-holiday-marshmallows/)
-* [Cardamom Knots](https://www.epicurious.com/recipes/food/views/cardamom-pastry-roll-knots) or just the filling in another brioche dough
-* [Cheesecake](https://www.tasteofhome.com/recipes/ricotta-cheesecake/)
-* [Nutter Butters](https://www.epicurious.com/recipes/food/views/nutter-butter-cookies)
-* [Whipped Shortbread cookies](https://www.justsotasty.com/whipped-shortbread-cookies/) or [here](https://www.theendlessmeal.com/melt-in-your-mouth-shortbread/#recipe)
-* [Olive oil cake](https://www.bonappetit.com/recipe/olive-oil-cake) or [Chocolate olive oil cake](https://www.thekitchn.com/chocolate-olive-oil-cake-recipe-23075403) (both pareve)
-* [Peppermint Meringues](https://www.upstateramblings.com/peppermint-meringues/)
-* [Pierogis](https://somuchfoodblog.com/potato-and-onion-pierogies-with-bacon/)
-* [Leek bread](https://www.feastingathome.com/leek-bread/)
-* [Jerusalem bagels](https://jamiegeller.com/recipes/jerusalem-bagel/)
-* [ABin5 Deep Dish Pizza](https://artisanbreadinfive.com/2016/03/30/deep-dish-pizza/)
-* [ABin5 Raisin Walnut Bread](https://artisanbreadinfive.com/2017/01/07/raisin-walnut-bread-emile-henry-bread-baker-red-star-platinum-yeast-and-new-abin5-giveaway/) or [this one](https://www.thisjess.com/no-knead-walnut-raisin-bread/) for a rounder dutch oven
-* [Coffee cake](https://www.piesandtacos.com/coffee-cake/)
 
 ## Appetizers, Spices, and Snacks
 
@@ -49,6 +25,9 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 * [Moqueca (IP)](https://twosleevers.com/brazilian-moqueca/) (Brazilian whitefish stew)
 * [IP Peanut Stew](https://www.paintthekitchenred.com/instant-pot-african-peanut-stew/) or [pareve](https://www.budgetbytes.com/african-peanut-stew-vegan/)
 * [Navy bean and feta stew](https://www.epicurious.com/recipes/food/views/navy-bean-escarole-stew-with-feta-and-olives)
+* [Finnish Salmon Soup - Lohikeitto](https://cookingtheglobe.com/finnish-salmon-soup-lohikeitto/)
+
+
 
 ## Breakfast and Quick Bread
 
@@ -57,6 +36,8 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 * English Muffins: [baked](http://www.artisanbreadinfive.com/2009/01/25/the-easiest-and-tastiest-homemade-english-muffins) or [fried](http://www.artisanbreadinfive.com/2013/11/01/english-muffins-on-the-stove-top-with-gold-medal-flour-and-red-star-yeast#more-6412) (could use molds but not entirely necessary)
 * [Focaccia di recco](https://www.sugarsaltmagic.com/focaccia-di-recco/) (cheese flatbread)
 * [Pancake mix](https://www.simplyrecipes.com/recipes/homemade_pancake_mix/)
+* [Coffee cake](https://www.piesandtacos.com/coffee-cake/) [KitchenAid]
+* Banana bread (written up but not made due to banananapping)
 
 ## Slow Bread
 
@@ -64,6 +45,16 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 * [Jim Lahey's no knead style](http://cooking.nytimes.com/recipes/11376-no-knead-bread)
 * Garbage Bread
 * rice flour crackers
+* [Parker House Rolls](https://www.foodandwine.com/recipes/parker-house-rolls) [KitchenAid]
+* [Croissants](https://www.foodandwine.com/recipes/all-butter-croissant-dough) [KitchenAid]
+* [Cardamom Knots](https://www.epicurious.com/recipes/food/views/cardamom-pastry-roll-knots) or just the filling in another brioche dough [KitchenAid]
+* [Leek bread](https://www.feastingathome.com/leek-bread/) [KitchenAid]
+* [ABin5 Deep Dish Pizza](https://artisanbreadinfive.com/2016/03/30/deep-dish-pizza/) [KitchenAid]
+* [ABin5 Raisin Walnut Bread](https://artisanbreadinfive.com/2017/01/07/raisin-walnut-bread-emile-henry-bread-baker-red-star-platinum-yeast-and-new-abin5-giveaway/) or [this one](https://www.thisjess.com/no-knead-walnut-raisin-bread/) for a rounder dutch oven [KitchenAid]
+* [Jerusalem bagels](https://jamiegeller.com/recipes/jerusalem-bagel/) [KitchenAid]
+* [Malassadas](https://leitesculinaria.com/7777/recipes-portuguese-malassadas-azorean-doughnuts.html) [KitchenAid]
+
+
 
 ## Vegetables
 
@@ -76,6 +67,12 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 ## Starchs
 
 * [IP Dal](https://www.bonappetit.com/story/instant-pot-dal-formula)
+
+### Pasta
+
+* [Pasta](https://www.foodandwine.com/recipes/fresh-pasta-dough) (just the dough) [KitchenAid]
+* [Pierogis](https://somuchfoodblog.com/potato-and-onion-pierogies-with-bacon/) [KitchenAid]
+
 
 ### Rice
 
@@ -91,6 +88,10 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 * [Sweet Potato Latkes](https://www.epicurious.com/recipes/food/views/sweet-potato-latkes-105919)
 * [Ground-beef Stuffed Butternut Squash](https://www.allrecipes.com/recipe/279378/ground-beef-stuffed-butternut-squash/) (needs to be kashered) or [this one with kale](https://eatthegains.com/kale-beef-stuffed-butternut-squash/)
 * [Kadoo borani](https://afghancooks.com/kadoo-borani-sauteed-pumpkin/) (pumpkin)
+
+
+
+
 
 ## Meat
 
@@ -114,6 +115,11 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 ## Fish
 
 * [Pasta with Canned Sardines](https://thegarumfactory.net/2020/04/10/bucatini-with-sardines-fennel-and-breadcrumbs/)
+* See also soups.
+
+
+
+
 
 ## Dessert
 
@@ -124,6 +130,14 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 * [French Apple Cake](https://12tomatoes.com/easy-french-apple-cake/) or [Jewish apple cake](https://www.thespruceeats.com/kosher-apple-cake-2121494) or [mom's apple cake](https://smittenkitchen.com/2008/09/moms-apple-cake/)
 * [Cheesecake mousse](https://inthewildheartkitchen.com/2023/05/24/no-bake-cheesecake-mousse/)
 * convert tapioca recipe [to IP](https://www.cooksmarts.com/articles/instant-pot-cooking-times-pdf/)
+* [Chocolate Mousse](https://www.garnishandglaze.com/chocolate-mousse-recipe/) [KitchenAid]
+* [Coconut Cream Chocolate Mousse](https://radiantlifecatalog.com/blog/coconut-milk-chocolate-mousse-recipe-dairyfree-paleo/) and [Coconut Whipped Cream](https://radiantlifecatalog.com/blog/coconut-milk-chocolate-mousse-recipe
+https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-and-vegan/) [KitchenAid]
+* [Marshmallows](https://www.tasteofhome.com/recipes/homemade-holiday-marshmallows/) [KitchenAid]
+* [Cheesecake](https://www.tasteofhome.com/recipes/ricotta-cheesecake/) [KitchenAid]
+* [Olive oil cake](https://www.bonappetit.com/recipe/olive-oil-cake) or [Chocolate olive oil cake](https://www.thekitchn.com/chocolate-olive-oil-cake-recipe-23075403) (both pareve) [KitchenAid]
+
+
 
 ### Cookies
 
@@ -131,11 +145,14 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 * [Almond Flour Hamantaschen](https://www.kosher.com/recipe/gluten-free-hamantaschen-1242)
 * [Rugelach](https://www.reddit.com/r/JewishCooking/comments/k5rzrs/made_rugelach_with_the_kids_grandma_goldies_recipe/)
 * [Biscochos](https://www.bostonjewishmusic.org/biscochos)
+* [Nutter Butters](https://www.epicurious.com/recipes/food/views/nutter-butter-cookies) [KitchenAid]
+* [Peppermint Meringues](https://www.upstateramblings.com/peppermint-meringues/) [KitchenAid]
 
 #### Shortbread
 
 * [Honey Shortbread Cookies](http://www.thecrepesofwrath.com/2013/02/20/honey-shortbread-cookies/)
 * [Classic Shortbread](https://www.thespruceeats.com/classic-shortbread-recipe-3052187)
+* [Whipped Shortbread cookies](https://www.justsotasty.com/whipped-shortbread-cookies/) or [here](https://www.theendlessmeal.com/melt-in-your-mouth-shortbread/#recipe) [KitchenAid]
 
 ### Dates and Walnuts
 
@@ -152,6 +169,14 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 * Homemade phyllo dough [with a pasta maker](https://www.thespruceeats.com/homemade-phyllo-dough-1705600) (note that the comments say the recipe is way off) or [without](https://www.mygreekdish.com/recipe/easy-homemade-phyllo-recipe-beginners/).  See also My Greek Dish's [spanakopita recipe](https://www.mygreekdish.com/recipe/traditional-greek-spinach-pie-spanakopita-recipe-with-homemade-phyllo/).  Other promising recipes for the [dough](https://deliciousfromscratch.com/filo-dough-recipe/) and ["pie"](https://deliciousfromscratch.com/spinach-feta-pie-recipe/) include [a local effort](https://thegarumfactory.net/2020/03/27/saloniki-spanakopita/)
 * Sweet Potato Pie (written up but not made)
 
+
+
+## Non-Food
+
+* [Playdough](https://livingwellmom.com/easy-homemade-playdough-recipe/#playdoughmorefun) [KitchenAid]
+
+
+
 ## To Write Up
 
 * [Toor Dal](http://chilliandmint.com/2013/12/02/indian-toor-dal-one-of-my-absolute-favourites/) / [Mint Dal](http://www.vegrecipesofindia.com/pudina-moong-dal/) (to write up and/or cook again)
@@ -159,4 +184,4 @@ https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-a
 * [Caribbean BBQ Sauce](http://web.archive.org/web/20150915063423/http://forums.gardenweb.com/discussions/2098748/first-scotch-bonnets-what-sauce-recipes-can-i-make)
 * Persian rice, esp. with lentils (e.g., Reyna's cookbook p. 207)
 * [Rosemary Crescent Rolls](http://www.artisanbreadinfive.com/2011/09/21/rosemary-crescent-rolls#more-3285) with much less heat/time!
-* Fruit fly trap [the kitchn](https://www.thekitchn.com/diy-fruit-fly-traps-22942130) but yes saran wrap, have pic
+
