@@ -36,7 +36,8 @@ Serves 2--4.
 4. Add spices.
 5. Cancel Saute and add all remaining ingredients except the greens and juice.
 5. Close Instant Pot, seal vent, and press the Soup button for 20 minutes.
-6. Release naturally. 
+6. Release naturally.
+7. Add greens and saute if needed.  Add juice.
 
 Serve hot with crusty bread.
 
@@ -45,7 +46,5 @@ Serve hot with crusty bread.
 Carrots and celery are traditional.
 
 Thyme is only optional because I forgot it the first time.
-
-If your greens seem to need more than the residual heat, feel free to Saute again.
 
 For less of a stew, skip the potatoes, add more broth, and/or add a can or two of tomatoes.

@@ -131,8 +131,7 @@ This is my to-do list.
 * [Cheesecake mousse](https://inthewildheartkitchen.com/2023/05/24/no-bake-cheesecake-mousse/)
 * convert tapioca recipe [to IP](https://www.cooksmarts.com/articles/instant-pot-cooking-times-pdf/)
 * [Chocolate Mousse](https://www.garnishandglaze.com/chocolate-mousse-recipe/) [KitchenAid]
-* [Coconut Cream Chocolate Mousse](https://radiantlifecatalog.com/blog/coconut-milk-chocolate-mousse-recipe-dairyfree-paleo/) and [Coconut Whipped Cream](https://radiantlifecatalog.com/blog/coconut-milk-chocolate-mousse-recipe
-https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-and-vegan/) [KitchenAid]
+* [Coconut Cream Chocolate Mousse](https://radiantlifecatalog.com/blog/coconut-milk-chocolate-mousse-recipe-dairyfree-paleo/) and [Coconut Whipped Cream](https://www.radiantlifecatalog.com/blog/coconut-whipped-cream-recipe-dairyfree-and-vegan/) [KitchenAid]
 * [Marshmallows](https://www.tasteofhome.com/recipes/homemade-holiday-marshmallows/) [KitchenAid]
 * [Cheesecake](https://www.tasteofhome.com/recipes/ricotta-cheesecake/) [KitchenAid]
 * [Olive oil cake](https://www.bonappetit.com/recipe/olive-oil-cake) or [Chocolate olive oil cake](https://www.thekitchn.com/chocolate-olive-oil-cake-recipe-23075403) (both pareve) [KitchenAid]
