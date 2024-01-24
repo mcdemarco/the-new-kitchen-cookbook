@@ -1,6 +1,6 @@
 [Instant Pot]: ../indices/instantPot.html
 
-# Instant Pot Brown Lentil Soup
+# Instant Pot Brown Lentil Stew
 
 There are plenty of [fancy French green lentil soup recipes](https://www.thespruceeats.com/instant-pot-lentil-soup-4782599) out there for a six quart Instant Pot, but I was sadly out of French green lentils and only had some old brown lentils.  Even more problematically, I tend not to have carrots or celery lying around.  Yet I soldiered on with the help of [Piping Pot Curry](https://pipingpotcurry.com/brown-lentil-soup-pressure-cooker/).
 
@@ -44,6 +44,8 @@ Serve hot with crusty bread.
 ## Variants
 
 Carrots and celery are traditional.
+
+Replace the potatoes with farro, barley, or wheat berries.
 
 Thyme is only optional because I forgot it the first time.
 

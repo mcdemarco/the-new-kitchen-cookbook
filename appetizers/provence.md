@@ -1,8 +1,8 @@
 # Herbes de Provence (Spice Mix)
 
-I finally scored some savory, and have been using more spice mixes in general, so I decided to make my own Herbes de Provence, with the help of the interwebs.  Opinions vary wildly, and this  as usual.
+I finally scored some savory, and have been using more spice mixes in general, so I decided to make my own Herbes de Provence.  Opinions vary wildly, and this is just my personal compromise between the interwebs and my spice drawer.
 
-All spices are dried leafy versions unless mentioned otherwise.  Grind the rosemary, fennel, and/or bay leaf together in a spice grinder or with mortar and pestle.
+All spices are dried leafy versions unless mentioned otherwise.  
 
 ## Ingredients
 
@@ -15,6 +15,12 @@ All spices are dried leafy versions unless mentioned otherwise.  Grind the rosem
 * 1/2 T oregano
 * 1 tsp. basil
 * 1/4 tsp. ground bay leaf (or 1 whole bay leaf, ground)
+
+## Directions
+
+1. Grind the rosemary, fennel, and/or bay leaf together in a spice grinder or with mortar and pestle.
+2. Mix all ingredients.
+3. Store in a spare spice jar.
 
 ## Variants
 

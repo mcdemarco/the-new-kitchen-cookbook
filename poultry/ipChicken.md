@@ -25,11 +25,13 @@ I briefly considered Amy & Jacky's method of [poaching a whole chicken](https://
 3. Pat chicken dry.
 4. Stuff cavity with onion, citrus, and herbs.  Add anything that didn't fit to the pot.
 5. Rub chicken with spices.
-6. Place chicken on trivet.  Close vent and lid.  Select Poultry.  Set timer for 6 minutes per pound of chicken.
+6. Place chicken on trivet.  Close vent and lid.  Select Poultry or high pressure.  Set timer for 6 minutes per pound of chicken.
 7. Vent steam after 15 minutes.
 
 ## Variants
 
-My original spice blend was 1/2 tsp. smoked paprika, 1/4 tsp. dried thyme, 1/4 tsp. onion powder, 1/4 tsp. garlic powder, 1/4 tsp. safflower (optional), 1/4 tsp. black pepper, and 1/4 tsp. salt, but this was too mild for Peter and/or the Instant Pot approach, so I've upped it to something more like the spicy voriant of my [oven-roasted recipe](../poultry/roasted.md).
+My original spice blend was 1/2 tsp. smoked paprika, 1/4 tsp. dried thyme, 1/4 tsp. onion powder, 1/4 tsp. garlic powder, 1/4 tsp. safflower (optional), 1/4 tsp. black pepper, and 1/4 tsp. salt, but this was too mild for Peter and/or the Instant Pot approach, so I've upped it to something more like the spicy variant of my [oven-roasted recipe](../poultry/roasted.md).
 
 You can replace either set of spices with 2 tsp. or more of your favorite spice blend.  Add salt if the blend doesn't include it.
+
+Cook from frozen the same way for about 10 minutes per pound.  Omit stuffing the cavity if that's too difficult.

@@ -34,7 +34,7 @@ Serve hot with crusty bread.
 
 ## Variants
 
-You can add some soup-sized pasta, but be sure to add broth to compensate.
+You can add some soup-sized pasta or potatoes, but be sure to add broth to compensate.
 
 You can reduce broth in favor of more tomatoes.
 

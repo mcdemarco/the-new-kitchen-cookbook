@@ -40,4 +40,6 @@ Serve hot.
 
 There's definitely enough cooking time here for bone-in thighs, even if frozen.
 
+Add a potato, farro, barley, or wheat berries.
+
 Toss in a bag of baby spinach after releasing the pressure.
