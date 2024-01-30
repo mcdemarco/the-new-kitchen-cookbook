@@ -2,7 +2,7 @@
 
 # Applesauce Banana Bread
 
-Applesauce gets left over like bananas, and is also a common way to make banana bread non-dairy (though just using oil or shortening would also work).
+Applesauce gets left over like bananas, and is also a common way to make banana bread non-dairy (though just using oil or shortening would also work).  Note that this is not a quick quick bread.
 
 Makes one 9" x 5" loaf.
 
@@ -21,8 +21,8 @@ Makes one 9" x 5" loaf.
 * 2 c. flour
 * 1 tsp baking powder
 * 1 tsp baking soda
-* 1 tsp salt
-* 1/2 tsp [pumpkin spice](../appetizers/pumpkinSpice.md)
+* 1/2 tsp salt
+* 1 tsp [pumpkin spice](../appetizers/pumpkinSpice.md)
 
 ### Extras
 
@@ -34,7 +34,7 @@ Makes one 9" x 5" loaf.
 2. Grease a 9" x 5" loaf pan and dust with flour.
 3. Mash bananas (say, with a stand mixer).
 4. Optionally toast nuts 6--8 minutes in oven.
-5. Beat liquid ingredients and sugar, optionally in a stand mixer.
+5. Beat wet ingredients and sugar, optionally in a stand mixer.
 6. In another bowl, mix together dry ingredients.
 7. Add dry mixture to wet and mix.
 8. Stir in nuts.
@@ -48,4 +48,4 @@ You can restore the butter by substituting it in for some or all of the applesau
 
 There is apparently a party of putting chocolate chips into banana bread.
 
-You can use cinnamon or nutmeg in place of the spice mix.
+You can use cinnamon and/or nutmeg in place of the spice mix.

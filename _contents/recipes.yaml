@@ -264,7 +264,6 @@
   - name:  Applesauce Banana Bread
     filename: applesauceBananaBread
     new: 2024
-    hidden: true
   - name:  Butternut Squash Bread
     filename: squashBread
     new: 2024
