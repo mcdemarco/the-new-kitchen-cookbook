@@ -36,4 +36,4 @@ It would be handy to cook some vegetables in the stew, if they can hold up under
 
 Traditionally this would be made with butter instead of oil.
 
-Substitute stew meat for the ground beef.  Increase cooking time to 30 minutes.
+Substitute stew meat for the ground beef.  Increase cooking time to 20--30 minutes, depending on the size and tenderness of your chunks.

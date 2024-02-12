@@ -4,10 +4,15 @@ I based this recipe on one from [The Joy of Kosher site](http://www.joyofkosher.
 
 ## Ingredients
 
+### Dry
+
 * 1 c. cornmeal
 * 1 c. whole wheat flour or all-purpose flour
 * 1 T. baking powder
 * 1/2--1 tsp. salt
+
+### Wet
+
 * 1/4--1/3 c. sugar
 * 1 egg
 * 1 c. soymilk or water
@@ -27,7 +32,7 @@ I based this recipe on one from [The Joy of Kosher site](http://www.joyofkosher.
 
 The original recipe called for margarine.  I have never owned a stick of margarine, so I'm guessing I substituted oil for the margarine, but Crisco or coconut oil might also work.  I may have tried Crisco at some point.  Applesauce is another popular replacement for butter or oil.
 
-For a dairy cornbread or corn muffins, I use white flour, the lower sugar value, the lower oil value, the higher salt value, and lactose-free milk.
+For a dairy cornbread or corn muffins, I use white flour, the lower sugar value, the lower oil value, the higher salt value, and lactose-free milk.  [Smitten Kitchen recommends](https://smittenkitchen.com/2015/02/perfect-corn-muffins/) cooking the cornmeal in milk until it thickens, then cooling it down with the other liquids before adding egg.  (I'd pour it into a chilled bowl as well.)  You could also try soaking (in milk or water) if you have the time.
 
 With water, use the higher oil value.
 
