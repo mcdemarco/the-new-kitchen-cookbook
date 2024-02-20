@@ -1,6 +1,8 @@
 # Banana Cranberry Muffins
 
-This one is from allrecipes, also cut down to about 9 muffins.
+This one is from the old allrecipes, cut down from more than a single muffin pan.
+
+Makes: 9 muffins.
 
 ## Ingredients
 
@@ -23,10 +25,12 @@ This one is from allrecipes, also cut down to about 9 muffins.
 2. Simmer uncovered 5-7 minutes or until berries start to pop.
 3. Drain and set aside.
 3. Preheat oven to 400°.
+3. Prepare muffin pan with cups or spray.
 4. Combine the flour, baking powder, salt and baking soda, and set aside.
 5. Cream shortening and remaining sugar.
 6. Add egg and beat.
 7. Add flour mix to shortening mixture along with banana.
 8. Fold in cranberries and nuts.
-9. Bake for 15-20 minutes or until the toothpick test.
-10. Cool in pan 5 minutes then on wire racks.
+8. Divide batter between about 9 muffin cups.  Partly fill the other three with water.
+9. Bake for 15-20 minutes or to the toothpick test.
+10. Cool in pan 5 minutes, then on a wire rack.
