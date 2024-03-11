@@ -6,7 +6,8 @@ Serves 4.
 
 ## Ingredients
 
-* 2 c. heavy cream (whipping or otherwise)
+* 12 oz. to 1 lb. pasta, traditionally fettuccini
+* 2 c. (1 pint) heavy cream (whipping or otherwise)
 * 1/2 c. (1 stick) butter
 * 1 clove garlic, crushed
 * dash garlic powder to taste
@@ -19,7 +20,7 @@ Serves 4.
 
 ## Directions
 
-1. Boil pasta (about 1 lb.) with a generous amount of salt.
+1. Boil pasta with a generous amount of salt according to package directions.
 2. Melt butter in a heavy saucepan and fry the garlic in it briefly.
 3. Add all spices.
 4. Add cream.  Optionally, heat through.
@@ -33,5 +34,7 @@ Serves 4.
 Most recipes of this sort (including the source recipe) use one cup parmesan, or half parmesan and half romano.  Some use even more cheese.
 
 Add the typical Italian seasonings.
+
+Cook 2--3 diced zucchini separately and add for variety.
 
 Add a 14 oz. can of salmon (or a couple of fillets, cooked and chopped, or even some smoked salmon) and/or 2 c. peas, if you like that sort of thing.

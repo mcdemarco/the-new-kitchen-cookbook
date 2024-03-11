@@ -17,7 +17,7 @@ Serves 2--4.
 * 2 eggs
 * 2 T. sugar
 * 1 tsp. vanilla extract
-* 1/2 tsp. table salt
+* 1/4 tsp. salt
 
 ### Pan
 
@@ -47,3 +47,8 @@ Apparently you can add the fruit to the bottom of the pan before adding the batt
 
 I have seen pictures of poofs made in glass baking dishes or pie plates, so don't despair if you don't have an oven-proof skillet of the appropriate dimensions.
 
+Omit the sugar and vanilla, and top with savory ingredients, especially cheese.
+
+Replace 2 T. of flour with 1 1/2 T. cocoa (either kind), and optionally reduce the sugar to 1 T.
+
+For a 12" pan, double the recipe (per [the Smitten Kitchen](https://smittenkitchen.com/2017/01/chocolate-dutch-baby/)).

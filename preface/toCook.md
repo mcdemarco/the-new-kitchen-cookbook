@@ -26,7 +26,7 @@ This is my to-do list.
 * [IP Peanut Stew](https://www.paintthekitchenred.com/instant-pot-african-peanut-stew/) or [pareve](https://www.budgetbytes.com/african-peanut-stew-vegan/)
 * [Navy bean and feta stew](https://www.epicurious.com/recipes/food/views/navy-bean-escarole-stew-with-feta-and-olives)
 * [Finnish Salmon Soup - Lohikeitto](https://cookingtheglobe.com/finnish-salmon-soup-lohikeitto/)
-
+* [IP French Onion Soup](https://www.seriouseats.com/the-food-lab-pressure-cooker-caramelized-onions-onion-soup)
 
 
 ## Breakfast and Quick Bread
@@ -44,16 +44,17 @@ This is my to-do list.
 * [Plain rolls](http://web.archive.org/web/20210805145235/https://krausnickitchen.com/2012/01/18/no-knead-dinner-rolls-artisan-bread-in-five-minutes-a-day/)
 * [Jim Lahey's no knead style](http://cooking.nytimes.com/recipes/11376-no-knead-bread)
 * Garbage Bread
+* [Beer cheese pull-apart bread](https://smittenkitchen.com/2012/02/cheddar-beer-and-mustard-pull-apart-bread/) or more likely using [no-knead dough](https://artisanbreadinfive.com/2013/01/14/ham-and-cheese-pull-apart-bread-with-gold-medal-flour-2/)
 * rice flour crackers
 * [Parker House Rolls](https://www.foodandwine.com/recipes/parker-house-rolls) [KitchenAid]
 * [Croissants](https://www.foodandwine.com/recipes/all-butter-croissant-dough) [KitchenAid]
 * [Cardamom Knots](https://www.epicurious.com/recipes/food/views/cardamom-pastry-roll-knots) or just the filling in another brioche dough [KitchenAid]
 * [Leek bread](https://www.feastingathome.com/leek-bread/) [KitchenAid]
+* [ABin5 Broa](https://artisanbreadinfive.com/2021/01/15/broa-portuguese-corn-bread-with-caldierada-de-peixe-portuguese-fish-stew/)
 * [ABin5 Deep Dish Pizza](https://artisanbreadinfive.com/2016/03/30/deep-dish-pizza/) [KitchenAid]
 * [ABin5 Raisin Walnut Bread](https://artisanbreadinfive.com/2017/01/07/raisin-walnut-bread-emile-henry-bread-baker-red-star-platinum-yeast-and-new-abin5-giveaway/) or [this one](https://www.thisjess.com/no-knead-walnut-raisin-bread/) for a rounder dutch oven [KitchenAid]
 * [Jerusalem bagels](https://jamiegeller.com/recipes/jerusalem-bagel/) [KitchenAid]
 * [Malassadas](https://leitesculinaria.com/7777/recipes-portuguese-malassadas-azorean-doughnuts.html) [KitchenAid]
-
 
 
 ## Vegetables
@@ -88,9 +89,6 @@ This is my to-do list.
 * [Sweet Potato Latkes](https://www.epicurious.com/recipes/food/views/sweet-potato-latkes-105919)
 * [Ground-beef Stuffed Butternut Squash](https://www.allrecipes.com/recipe/279378/ground-beef-stuffed-butternut-squash/) (needs to be kashered) or [this one with kale](https://eatthegains.com/kale-beef-stuffed-butternut-squash/)
 * [Kadoo borani](https://afghancooks.com/kadoo-borani-sauteed-pumpkin/) (pumpkin)
-
-
-
 
 
 ## Meat

@@ -39,5 +39,3 @@ Instructions are provided for one big flatbread or more individual servings.
 The single-flatbread version is the traditional one; see the [original recipe](https://www.dimitrasdishes.com/greek-feta-bread-tiropsomo-soft-delicious/) for the squishier traditional dough.
 
 Add olives or spinach to the stuffing.
-
-Nigella would be a tasty addition or replacement for the sesame seeds.
