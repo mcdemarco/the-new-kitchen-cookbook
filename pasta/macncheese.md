@@ -2,10 +2,11 @@
 
 # Mac and Cheese
 
-The recipe was online briefly, but I assume it is gone already.
+The recipe was online briefly, but I assume it is gone already.  The recipe sounds quick because the time is all hidden in the bringing the milk to a full boil step.
+
+Serves: 4--6
 
 ![panko mac'n'cheese](../images/macNcheese3.png)
-
 
 ## Ingredients
 
@@ -20,14 +21,14 @@ The recipe was online briefly, but I assume it is gone already.
 * 1 lb. macaroni, cooked with 1 T. salt past al dente but not al squishy
 * 1 c. panko
 
-
 ## Directions
 
 1. Cook pasta.
 2. Work 3 T. of the butter into the panko with your fingers.
 2. In the pasta pan or Dutch oven, on medium-high, heat 5 T. butter to foaming. 
 3. Whisk in flour and spices. Whisk another minute. 
-4. Whisk in milk slowly. Bring to full boil stirring constantly. 
+4. Whisk in milk slowly.
+5. Bring to full boil, stirring constantly. 
 5. Simmer on medium 5 minutes until the thickness of heavy cream. 
 6. Remove from heat and add cheese and salt. 
 7. Add pasta and return to medium-low heat for 6 minutes.  ![in the pot](../images/macNcheese1.png)
@@ -47,3 +48,5 @@ I tried doubling the cayenne pepper, to little effect.  I may need some new caye
 You can substitute 8 oz. of Pepper Jack for the 8 oz. of Monterey Jack without making the mac'n'cheese obnoxiously spicy.
 
 If you're low on panko, you can replace some with almond flour, or, preferably, almond meal.
+
+You can leave the pasta *al dente* if you prefer it that way.

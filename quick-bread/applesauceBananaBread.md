@@ -34,7 +34,7 @@ Makes one 9" x 5" loaf.
 2. Grease a 9" x 5" loaf pan and dust with flour.
 3. Mash bananas (say, with a stand mixer).
 4. Optionally toast nuts 6--8 minutes in oven.
-5. Beat wet ingredients and sugar, optionally in a stand mixer.
+5. Beat wet ingredients (including sugar), optionally in a stand mixer.
 6. In another bowl, mix together dry ingredients.
 7. Add dry mixture to wet and mix.
 8. Stir in nuts.
@@ -44,8 +44,8 @@ Makes one 9" x 5" loaf.
 
 ## Variants
 
-You can restore the butter by substituting it in for some or all of the applesauce.
+You can restore the butter (or oil, or shortening) by substituting it in for some or all of the applesauce.  I often use 1/3 c. applesauce and 1/3 c. oil.
 
-There is apparently a party of putting chocolate chips into banana bread.
+There is apparently a party of putting chocolate chips into banana bread.  I have tossed in some blueberries at the end when the bananas were small.
 
 You can use cinnamon and/or nutmeg in place of the spice mix.
