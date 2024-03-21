@@ -178,6 +178,7 @@
 - tagname: quick
   filename: quick
   paths:
+  - bread/tiropsomo.md
   - fish/broiledSalmon.md
   - fish/costcoSalmon.md
   - fish/ipSalmon.md
@@ -193,6 +194,7 @@
   - meat/ipGroundBeefStew.md
   - pasta/bolognese.md
   - pasta/chopsuey.md
+  - pasta/easymac.md
   - pasta/ipBeefPasta.md
   - pasta/ipTurkeyPasta.md
   - pasta/orecchiette.md
@@ -204,6 +206,7 @@
   - rice/ipRisotto.md
   - salad/mackerelSalad.md
   - salad/poke.md
+  - salad/riceSalad.md
   - soup/fazool.md
 - tagname: thanksgiving
   filename: thanksgiving

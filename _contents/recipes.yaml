@@ -88,7 +88,7 @@
     filename: carrotParsnip
   - name: Carrot and Radish Salad
     filename: carrotRadish
-  - name: Rice Salad
+  - name: Rice Salad (Insalata di Riso)
     filename: riceSalad
     favorite: true
   - name: Farro Salad
@@ -494,6 +494,9 @@
   - name: Mac and Cheese
     filename: macncheese
     favorite: true
+  - name: Easy Mac and Cheese
+    filename: easymac
+    new: 2024
   - name: Salmon Casserole
     filename: salmonCasserole
   - name: Soba Salad

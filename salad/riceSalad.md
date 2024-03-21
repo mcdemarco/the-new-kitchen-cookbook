@@ -1,4 +1,5 @@
 [Instant Pot]: ../indices/instantPot.html
+[quick]: ../indices/quick.html
 
 # Rice Salad (Insalata di Riso)
 

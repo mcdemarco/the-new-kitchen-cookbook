@@ -1,3 +1,4 @@
+[quick]: ../indices/quick.html
 [photographed]: ../indices/photographed.html
 
 # Tiropsomo (Feta-Stuffed Flatbread)
