@@ -45,4 +45,4 @@ You can replace some of the liquid with tomatoes.
 
 Some pressure cook for 6 minutes with 5 minutes of natural release.
 
-You can do the same sort of thing with farro in place of rice.  For Bob's Red Mill farro the proportions 1 c. farro to 1 1/2 c. stock worked for me, though the internet frequently recommends using more water and draining afterwards.  The internet also recommends rinsing the farro first, which I haven't tried.  Cook on high pressure for 12 minutes and release naturally.
+You can do the same sort of thing with farro in place of rice; see my [IP Farro Risotto](../rice/ipFarroRisotto.md) recipe.  For Bob's Red Mill farro the proportions 1 c. farro to 1 1/2 c. stock worked for me, though the internet frequently recommends using more water and draining afterwards.  The internet also recommends rinsing the farro first, which I haven't tried.  Cook on high pressure for 12 minutes and release naturally.

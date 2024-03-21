@@ -454,6 +454,9 @@
   - name: Instant Pot Risotto
     filename: ipRisotto
     favorite: true
+  - name: Instant Pot Farro Risotto
+    filename: ipFarroRisotto
+    new: 2024
   - name: Sushi Rice
     filename: sushi
   - name: Rice Salad

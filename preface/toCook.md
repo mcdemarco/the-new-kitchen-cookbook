@@ -15,6 +15,8 @@ This is my to-do list.
 * Garam masala
 * [Blendjet](https://www.epicurious.com/recipes-menus/11-frozen-blender-cocktails-gallery) [drinks](https://www.guysgab.com/step-up-your-frozen-drink-game-with-the-blendjet-2-portable-blender/), *e.g.*, [strawberry daquiri](https://www.food.com/recipe/strawberry-daiquiri-smoothie-alcoholic-423850)
 * [Marinated feta](https://www.thespruceeats.com/feta-with-olive-oil-and-herbs-591058)
+* [Cheese crackers](https://kathrynskitchenblog.com/homemade-cheese-crackers/) [KtichenAid]
+* [Bagna Cauda](https://www.epicurious.com/recipes/food/views/bagna-cauda-2827)
 
 ## Soup
 
@@ -27,6 +29,7 @@ This is my to-do list.
 * [Navy bean and feta stew](https://www.epicurious.com/recipes/food/views/navy-bean-escarole-stew-with-feta-and-olives)
 * [Finnish Salmon Soup - Lohikeitto](https://cookingtheglobe.com/finnish-salmon-soup-lohikeitto/)
 * [IP French Onion Soup](https://www.seriouseats.com/the-food-lab-pressure-cooker-caramelized-onions-onion-soup)
+* IP Avgolemono, with [rice and chicken thighs](https://poshjournal.com/instant-pot-greek-chicken-lemon-rice-soup-avgolemono) or just [broth and orzo](https://pressureluckcooking.com/instant-pot-egg-lemon-orzo-soup/)
 
 
 ## Breakfast and Quick Bread
@@ -37,7 +40,8 @@ This is my to-do list.
 * [Focaccia di recco](https://www.sugarsaltmagic.com/focaccia-di-recco/) (cheese flatbread)
 * [Pancake mix](https://www.simplyrecipes.com/recipes/homemade_pancake_mix/)
 * [Coffee cake](https://www.piesandtacos.com/coffee-cake/) [KitchenAid]
-* Banana bread (written up but not made due to banananapping)
+* [Cheese blintzes](https://jamiegeller.com/recipes/stage-delis-cheese-blintzes/)
+* [Quick garlic flatbread](https://spainonafork.com/incredible-5-minute-garlic-flatbread-recipe/)
 
 ## Slow Bread
 
@@ -64,6 +68,7 @@ This is my to-do list.
 * [Pasta with Italian Squash](https://2sistersrecipes.com/pasta-with-italian-squash-or-calabaza/)
 * *Hanukkah*: [Keftes de Prasa](https://rebekahlowin.com/keftes-de-prasa-recipe/) ([source](https://web.archive.org/web/20210426182553/https://www.seriouseats.com/recipes/2009/09/keftes-de-prasa-sephardic-style-leek-fritters-rosh-hashanah-jewish-recipe.html)) or a more complicated one from [Gil Marks](https://toriavey.com/gil-marks-keftes-de-prassa-sephardic-leek-patties/)
 * [Pickled okra](https://www.thespruceeats.com/pickled-okra-recipe-p2-2216859)
+* [Chana masala](https://smittenkitchen.com/2010/02/chana-masala/) --- chickpeas and tomatoes
 
 ## Starchs
 
@@ -71,8 +76,10 @@ This is my to-do list.
 
 ### Pasta
 
-* [Pasta](https://www.foodandwine.com/recipes/fresh-pasta-dough) (just the dough) [KitchenAid]
+* [Pasta (dough)](https://www.foodandwine.com/recipes/fresh-pasta-dough) (just the dough) [KitchenAid]
+* [Pumpkin spice pasta dough](https://thepracticalkitchen.com/pumpkin-spice-pasta-dough/) [KitchenAid]
 * [Pierogis](https://somuchfoodblog.com/potato-and-onion-pierogies-with-bacon/) [KitchenAid]
+* [Apple sage brown butter pasta with walnuts](https://thepracticalkitchen.com/apple-sage-brown-butter-pasta-walnuts/)
 
 
 ### Rice
@@ -84,8 +91,10 @@ This is my to-do list.
 * [IP Beef (Lamb) Rice Pilau](https://instantpoteats.com/instant-pot-rice-pilaf-ground-lamb-figs-almonds/)
 * [IP Beef Biryani](https://myheartbeets.com/instant-pot-keema-biryani-keema-pulao/)
 * [IP Chicken Biryani](https://ministryofcurry.com/chicken-biryani-instant-pot/#recipe)
+* [Japanese curry roux](https://www.196flavors.com/japan-japanese-curry/#recipe) or [powder](https://www.okonomikitchen.com/japanese-curry-powder/) or [both](https://www.justonecookbook.com/japanese-curry-powder/) or [Instant Pot](https://www.justonecookbook.com/pressure-cooker-japanese-curry/)
 
 ###  Roots
+
 * [Sweet Potato Latkes](https://www.epicurious.com/recipes/food/views/sweet-potato-latkes-105919)
 * [Ground-beef Stuffed Butternut Squash](https://www.allrecipes.com/recipe/279378/ground-beef-stuffed-butternut-squash/) (needs to be kashered) or [this one with kale](https://eatthegains.com/kale-beef-stuffed-butternut-squash/)
 * [Kadoo borani](https://afghancooks.com/kadoo-borani-sauteed-pumpkin/) (pumpkin)
@@ -140,6 +149,7 @@ This is my to-do list.
 
 * [Marbled Hamantachen](https://smittenkitchen.com/2021/02/marbled-cheesecake-hamantaschen/#comment-1931148)
 * [Almond Flour Hamantaschen](https://www.kosher.com/recipe/gluten-free-hamantaschen-1242)
+* [Nutella Hamantaschen](https://toriavey.com/hamantaschen-the-easiest-filling-of-all/) (dairy) 
 * [Rugelach](https://www.reddit.com/r/JewishCooking/comments/k5rzrs/made_rugelach_with_the_kids_grandma_goldies_recipe/)
 * [Biscochos](https://www.bostonjewishmusic.org/biscochos)
 * [Nutter Butters](https://www.epicurious.com/recipes/food/views/nutter-butter-cookies) [KitchenAid]
