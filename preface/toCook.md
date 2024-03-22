@@ -12,7 +12,8 @@ This is my to-do list.
 * [Heart of palm hand pies](https://www.iheartbrazil.com/hearts-of-palm-hand-pies/)
 * [Refogado](https://braziliankitchenabroad.com/brazilian-sofrito/), also [here](https://www.iheartbrazil.com/brazilian-sofrito-recipe/)
 * [Popped wild rice](https://jamiegeller.com/recipes/popped-wild-rice/)
-* Garam masala
+* [Garam masala](https://www.thespruceeats.com/what-is-garam-masala-995690)
+* [Ras el Hanout](https://www.anediblemosaic.com/ras-el-hanout-moroccan-spice-mix/#Ras_el_Hanout)
 * [Blendjet](https://www.epicurious.com/recipes-menus/11-frozen-blender-cocktails-gallery) [drinks](https://www.guysgab.com/step-up-your-frozen-drink-game-with-the-blendjet-2-portable-blender/), *e.g.*, [strawberry daquiri](https://www.food.com/recipe/strawberry-daiquiri-smoothie-alcoholic-423850)
 * [Marinated feta](https://www.thespruceeats.com/feta-with-olive-oil-and-herbs-591058)
 * [Cheese crackers](https://kathrynskitchenblog.com/homemade-cheese-crackers/) [KtichenAid]

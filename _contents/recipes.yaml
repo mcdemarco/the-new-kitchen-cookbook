@@ -500,6 +500,9 @@
   - name: Easy Mac and Cheese
     filename: easymac
     new: 2024
+  - name: Mini Noodle Kugel
+    filename: miniKugel
+    new: 2024
   - name: Salmon Casserole
     filename: salmonCasserole
   - name: Soba Salad
