@@ -748,6 +748,10 @@
     filename: riceFlour
   - name: Red Bean Paste Hamantaschen
     filename: redBeanHamantaschen
+  - name: Raisin-Walnut Yeast Dough Hamantaschen
+    filename: yeastHamantaschen
+    new: 2024
+    hidden: true
   - name: Suspiros (Meringues)
     filename: suspiros
   - name: Gingerbread House
