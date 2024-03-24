@@ -1,10 +1,12 @@
 [KitchenAid]: ../indices/kitchenAid.html
 
-# Raisin-Walnut Yeast Dough Hamantaschen
+# Raisin-Walnut Challahtaschen
 
-I'm not the biggest fan of hamantaschen, nor have I found the perfect recipe.  (You can read about my travails at my [red bean hamantaschen](../cookies/redBeanHamantaschen.md) recipe.)  But I am a fan of bread, so I decided to try [this yeast dough recipe from Jamie Geller](https://jamiegeller.com/recipes/yeast-dough-hamantaschen/), cut down to experimental size, with a side of [this filling from Sally Bernstein](https://sallybernstein.com/food/recipes/jewish/poppy-seed-hamantaschen.htm).
+I'm not the biggest fan of hamantaschen, nor have I found the perfect recipe.  (You can read about my travails at my [red bean hamantaschen](../cookies/redBeanHamantaschen.md) recipe.)  But I am a fan of bread, so I decided to try [this yeast dough hamantascchen recipe from Jamie Geller](https://jamiegeller.com/recipes/yeast-dough-hamantaschen/), cut down to experimental size, with a side of [this filling from Sally Bernstein](https://sallybernstein.com/food/recipes/jewish/poppy-seed-hamantaschen.htm).  It's definitely an *I-don't-actually-like-hamantaschen* base for more traditional fillings.  Cheese would be an ideal filling, but that's getting perilously close to a cheese danish instead of a hamantaschen.
 
-Makes 24 cookies.
+As for the name, challah-taschen was apparently all the rage a few years back; they could also be savory and stuffed rather than sweet and filled.
+
+Makes 36 cookies.
 
 ## Ingredients
 
@@ -18,15 +20,19 @@ Makes 24 cookies.
 * 6 tablespoons butter, margarine, or shortening
 * 1/3 c. sugar
 * zest of 1/4 orange
+* dash cardamom (optional)
 
-You will also need less than one beaten egg for brushing the tops, and optionally powdered sugar for decoration.
+### Topping
+
+* 1 egg, beaten
+* powdered sugar (optional)
 
 ### Filling
 
 * 1 c. raisins
 * 1/3 c. orange juice
 * 1/4 c. brown sugar
-* 1 T. cinnamon
+* 1/2 T. cinnamon
 * dash salt
 * 1/2 c. walnuts, chopped and toasted
 * 1/2 T. lemon or lime juice
@@ -60,12 +66,11 @@ You will also need less than one beaten egg for brushing the tops, and optionall
 6. Lower heat and simmer about 8 minutes until thick.
 7. Add lemon or lime juice and cook 3 more minutes.
 8. Remove from heat and pan to a cold bowl.
-9. Let cool.
-10. Mix in walnuts.
-11. Refrigerate until cold.
+9. Mix in walnuts.
+10. Refrigerate until ready to use.
 
 ## Variants
 
-The original filling recipe was written for a food processor.
+The original filling recipe was written for a food processor.  I also totally forgot the lime juice step and omitted a lot of cooling.
 
-Jam is the usual last-minute filling, but nutella is a good, if dairy, option.
+Jam is the usual last-minute filling, but nutella is a good, if dairy and crumbly, option.
