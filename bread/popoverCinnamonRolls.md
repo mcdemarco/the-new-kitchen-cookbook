@@ -10,7 +10,7 @@ Makes 6.
 
 ## Ingredients
 
-* 3/4 lb refrigerated Brioche dough
+* 3/4 lb refrigerated brioche dough
 * 1 T butter, melted and cooled
 * 1/4 c. brown sugar
 * 1/2 T cinnamon
@@ -38,8 +38,10 @@ Makes 6.
 
 ## Variants
 
-Use a batch of variant Brioche dough made with 1/4 tsp. saffron per pound/loaf, added in with the wet ingredients.
+Use a batch of variant brioche dough made with 1/4 tsp. saffron per pound/loaf, added in with the wet ingredients.
 
 When skipping the saffron, you can toss in some zest.
 
 These are pretty much the same as [their regular cinnamon rolls](https://artisanbreadinfive.com/2011/03/28/2897/), so if you have a whole pound of brioche to use up, scale up the filling and make a couple more freeform rolls.  For a quick rise, try [their cinnamon twists](https://artisanbreadinfive.com/2017/02/27/cinnamon-twists/) (but reduce the time and/or temperature).
+
+Another use for leftover brioche dough is [knots](https://www.epicurious.com/recipes/food/views/cardamom-pastry-roll-knots): roll out dough into a rectangle, coat with some leftover pie or hamantaschen filling, or cinnamon sugar, fold like a letter, cut into thin strips, twist or knot up, let rise 45 minutes, and bake at 400° about 15 minutes until golden.
