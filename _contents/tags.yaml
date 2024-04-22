@@ -10,6 +10,7 @@
   - pasta/ipBeefPasta.md
   - pasta/ipTurkeyPasta.md
   - pasta/israeliCouscous.md
+  - pasta/squashBolognese.md
   - poultry/cranberrySauce.md
   - poultry/crockpotChickenFarro.md
   - poultry/ipChicken.md
@@ -45,6 +46,7 @@
   - appetizers/easyPaoDeQueijo.md
   - appetizers/paoDeQueijo.md
   - bread/advice.md
+  - bread/challah.md
   - cookies/gingerbreadHouse.md
   - cookies/royalIcing.md
   - cookies/yeastHamantaschen.md
@@ -101,6 +103,7 @@
   - quick-bread/almondFlourMuffins.md
   - roots/tzimmes.md
   - soup/cilantro.md
+  - soup/ipChickenAndWildRice.md
   - soup/matzaball.md
   - soup/spinachWedding.md
   - sweets/grapefruitPeels.md
@@ -181,6 +184,7 @@
 - tagname: quick
   filename: quick
   paths:
+  - bread/frenchToast.md
   - bread/tiropsomo.md
   - fish/broiledSalmon.md
   - fish/costcoSalmon.md

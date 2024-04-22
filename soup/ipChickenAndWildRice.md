@@ -1,4 +1,5 @@
 [Instant Pot]: ../indices/instantPot.html
+[passover]: ../indices/passover.html
 
 # Instant Pot Chicken and Wild Rice Soup
 

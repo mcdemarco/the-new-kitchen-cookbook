@@ -47,7 +47,7 @@ Shredded carrot is a Moroccan favorite.
 
 Pine nuts or pecans are the best, but you can roast walnuts if that's all you have.
 
-You can add in some decorative rice like wild rice, though these usually take longer to cook.  If you're feeling flush, use arborio rice as the base
+You can add in some decorative rice like wild rice, though these usually take longer to cook.  If you're feeling flush, use arborio rice as the base.
 
 Going in a different direction, feta is probably the best cheese, but you can add mozzarella and other Italian soft cheeses.
 

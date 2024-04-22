@@ -1,3 +1,4 @@
+[KitchenAid]: ../indices/kitchenAid.html
 [photographed]: ../indices/photographed.html
 
 # Yes-Knead Challah
@@ -25,15 +26,15 @@ Makes 2 braided or round loaves.
 ## Directions
 
 1. Mix everything but the flour, raisins, and toppings well.
-2. Add flour gradually.
-3. Knead 15 minutes.  (You may need extra flour if you chose the honey option.)
+2. Add flour gradually, or all at once with a stand mixer and dough hook.
+3. Knead 15 minutes or until smooth.  (You may need extra flour if you chose the honey option.)
 4. Put in an oiled bowl and flip to coat with oil.
 5. Cover with plastic wrap and let double in size (2--3 hours).
 6. Punch down.
 7. Optionally spread and knead in raisins, or just knead.
 7. Divide dough in two.
 7. To shape each loaf, roll out that portion of dough into ropes (about 1 1/4" in diameter):  three ropes for a braided loaf or one for a round loaf.
-8. Braid from the middle.  (For a round loaf, coil around the thicker end.)
+8. Braid from the middle, flip, and braid the rest.  (For a round loaf, coil around the thicker end.)
 7. Let the shaped loaves rise another hour on an oiled cookie sheet or on parchment paper.
 8. Brush with the half egg and sprinkle with optional seeds.
 9. Bake at 350° for 30-40 minutes.

@@ -485,6 +485,9 @@
   - name: Italian Chop Suey
     filename: chopsuey
     favorite: true
+  - name: Squash Bolognese Sauce
+    filename: squashBolognese
+    new: 2024
   - name: Fake Bolognese Sauce
     filename: bolognese
   - name: Meat Sauce
