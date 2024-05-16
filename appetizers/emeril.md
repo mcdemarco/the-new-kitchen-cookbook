@@ -1,19 +1,21 @@
+[spiceMixes]: ../indices/spiceMix.html
+
 # Essence of Emeril
 
-Emeril's spice mix appears in a couple of "my" recipes, and Peter likes to put it into quesadillas and other flat cheese foods.  It has [fallen off the internet](http://web.archive.org/web/20161208051748/http://www.foodnetwork.com/recipes/emeril-lagasse/alains-sweet-and-spicy-asian-drumsticks-recipe.html) since I first linked it, so here it is for the record.  Besides "Essence" it is allegedly also called "Bayou Blast".
+Emeril's spice mix appears in a couple of "my" recipes, and Peter likes to put it into quesadillas and other flat cheese foods.  It has [fallen off the internet](http://web.archive.org/web/20161208051748/http://www.foodnetwork.com/recipes/emeril-lagasse/alains-sweet-and-spicy-asian-drumsticks-recipe.html) since I first linked it, so here it is for the record, cut down to a single spice jar.  Besides "Essence" it is allegedly also called "Bayou Blast".
 
-Fills 1 1/2 spice jars.
+Makes 1 jar.
 
 ## Ingredients
 
-* 2 1/2 T. paprika
-* 2 T. salt
-* 2 T. garlic powder
-* 1 T. black pepper
-* 1 T. onion powder
-* 1 T. cayenne pepper
-* 1 T. dried oregano
-* 1 T. dried thyme
+* 4 1/4 tsp. paprika
+* 4 tsp. salt
+* 4 tsp. garlic powder
+* 2 tsp. black pepper
+* 2 tsp. onion powder
+* 2 tsp. cayenne pepper
+* 2 tsp. dried oregano
+* 2 tsp. dried thyme
 
 ## Directions
 

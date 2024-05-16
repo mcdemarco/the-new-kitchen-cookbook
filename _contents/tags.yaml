@@ -217,6 +217,16 @@
   - salad/poke.md
   - salad/riceSalad.md
   - soup/fazool.md
+- tagname: spiceMixes
+  filename: spiceMixes
+  paths:
+  - appetizers/berbere.md
+  - appetizers/cinnamonSugar.md
+  - appetizers/emeril.md
+  - appetizers/moroccanSpiceMix.md
+  - appetizers/provence.md
+  - appetizers/pumpkinSpice.md
+  - appetizers/roastedCurryPowder.md
 - tagname: thanksgiving
   filename: thanksgiving
   paths:

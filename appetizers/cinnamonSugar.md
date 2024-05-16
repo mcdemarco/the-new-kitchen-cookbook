@@ -1,3 +1,4 @@
+[spiceMixes]: ../indices/spiceMix.html
 [photographed]: ../indices/photographed.html
 
 # Cinnamon Sugar

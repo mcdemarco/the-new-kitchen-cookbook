@@ -1,8 +1,12 @@
+[spiceMixes]: ../indices/spiceMix.html
+
 # Herbes de Provence (Spice Mix)
 
 I finally scored some savory, and have been using more spice mixes in general, so I decided to make my own Herbes de Provence.  Opinions vary wildly, and this is just my personal compromise between the interwebs and my spice drawer.
 
 All spices are dried leafy versions unless mentioned otherwise.  
+
+Makes 1 jar.
 
 ## Ingredients
 

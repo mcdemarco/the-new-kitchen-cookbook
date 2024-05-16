@@ -1,3 +1,4 @@
+[spiceMixes]: ../indices/spiceMix.html
 [photographed]: ../indices/photographed.html
 
 # Pumpkin Spice
@@ -6,6 +7,8 @@ For your seasonal needs, a pumpkin spice mix based on my [pumpkin](../pie/pumpki
 recipes.  Use about 1 tablespoon in a pie.
 
 Pumpkin spice lattes are more than just pie spice in a coffee; see, *e.g.,* [Starbucks' Pumpkin Spice Latte recipe](https://athome.starbucks.com/recipe/pumpkin-spice-latte).
+
+Makes 1 jar.
 
 ## Ingredients
 

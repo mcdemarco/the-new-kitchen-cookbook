@@ -1,10 +1,12 @@
+[spiceMixes]: ../indices/spiceMix.html
+
 # Sri Lankan Roasted Curry Powder
 
 Peter had a Sri Lankan cooking class for work (just another one of those coronavirus things), and this was one of the ingredients in [Sri Lankan Coconut Chicken Curry](../poultry/chickenCurry.md).  We made our own ahead of time, out of a bewildering variety of different recipes online.  (If you want one of those, I suppose you can't go wrong with [The BEST Sri Lankan Roasted Curry Powder](https://www.theflavorbender.com/sri-lankan-roasted-curry-powder/).)
 
 We later used it in [Sri Lankan Beef Curry](../meat/roastedCurry.md) and on [Spicy Salmon](../fish/spicySalmon.md).  It also seems like it would be good for roasting vegetables---especially ground up better than we managed to with the mortar and pestle.
 
-Fills 1 spice jar.
+Makes 1 jar.
 
 ## Ingredients
 
