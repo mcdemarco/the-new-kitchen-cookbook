@@ -1,3 +1,5 @@
+[photographed]: ../indices/photographed.html
+
 # Easy Sour Cream Biscuits
 
 The hard part of easy biscuit recipes is figuring out what self-rising flour is.  In my role of googling it for you, I've adapted [a sour cream "muffin" recipe](https://www.theseasonedmom.com/sour-cream-muffins/ ) to use a list of real ingredients.
@@ -20,8 +22,8 @@ Makes 9--12 small biscuits.
 3. Melt butter and bring sour cream to room temperature.
 3. Mix dry ingredients well.
 4. Mix in melted butter and sour cream without overmixing.
-5. Press gently into muffin pan.
-6. Bake for 25 minutes or until golden on top.
+5. Press gently into muffin pan.  ![raw](../images/esc_biscuits1.png)
+6. Bake for 25 minutes or until golden on top. ![golden](../images/esc_biscuits2.png)
 7. Optionally, brush tops with more melted butter.
 8. Cool in pan briefly then serve or transfer to a rack.
 

@@ -26,13 +26,13 @@ Serves: 2--3
 3. Drain pasta and, optionally, set it aside.
 4. Return pot to low heat.
 5. Add butter.  Stir until it melts.  ![butter](../images/easymac1.png)
-6. Add remaining ingredients and stir until smooth.   ![rough](../images/easymac2.png)   ![smooth](../images/easymac3.png)
+6. Add remaining ingredients and whisk until smooth.   ![rough](../images/easymac2.png)   ![smooth](../images/easymac3.png)
 7. If set aside, return pasta to the pot and mix to coat with cheese sauce.   ![coat](../images/easymac4.png)
 
 ## Variants
 
 These recipes frequently give volumes for pasta, which seems perilously inaccurate to me.  But if you need a volume, it's 2 cups.
 
-The traditional bex size is only 6 oz. of pasta (1 1/2 cups).
+The traditional box size is only 6 oz. of pasta (1 1/2 cups).
 
 You can stretch out the sauce with reserved pasta water.
