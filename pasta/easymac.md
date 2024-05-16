@@ -1,4 +1,5 @@
 [quick]: ../indices/quick.html
+[photographed]: ../indices/photographed.html
 
 # Easy Mac and Cheese
 
@@ -24,9 +25,9 @@ Serves: 2--3
 2. Mix dry ingredients.
 3. Drain pasta and, optionally, set it aside.
 4. Return pot to low heat.
-5. Add butter.  Stir until it melts.
-6. Add remaining ingredients and stir until smooth.
-7. If set aside, return pasta to the pot and mix to coat with cheese sauce.
+5. Add butter.  Stir until it melts.  ![butter](../images/easymac1.png)
+6. Add remaining ingredients and stir until smooth.   ![rough](../images/easymac2.png)   ![smooth](../images/easymac3.png)
+7. If set aside, return pasta to the pot and mix to coat with cheese sauce.   ![coat](../images/easymac4.png)
 
 ## Variants
 
