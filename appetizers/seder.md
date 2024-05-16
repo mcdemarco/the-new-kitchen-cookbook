@@ -36,7 +36,7 @@ Here's a pretty simple seder I put together for some Ashkenazi Jews with certain
 Most of the recipes mentioned serve 8.
 
 0. The seder plate (explained above), including haroset
-1. Gefilte fish (out of a jar, with prepared horseradish or any leftover seder horseradish)
+1. Gefilte fish (out of a jar, with prepared horseradish or any leftover seder horseradish), chilled if you like it that way
 2. [Matzo ball soup](../soup/matzaball.md) or matza ball mix and prepared broth.
 2. [Tzimmes](../roots/tzimmes.md)
 3. [Briskette](../meat/briskette.md) (about 1/3 lb. per person, more if you want any leftover)

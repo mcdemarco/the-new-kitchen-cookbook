@@ -1,6 +1,6 @@
 [quick]: ../indices/quick.html
 
- # Maple Broiled Salmon
+# Maple Broiled Salmon
 
 I saw this recipe on TV at my mother-in-law's and found an indirect link, [Jacques Pépin’s Broiled Salmon with Miso Glaze – for Two](http://inthekitchenwithkath.com/2015/10/28/jacques-pepins-broiled-salmon-with-miso-glaze-for-two/) to a cut-down version online.  I wasn't overwhelmed by the outcome but Peter liked it well enough.  I think it could stand to be spicier; the sriracha was drowned in the sweetness of the maple syrup.
 

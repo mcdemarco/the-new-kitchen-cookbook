@@ -37,7 +37,7 @@
   - name: Herbes de Provence (Spice Mix)
     filename: provence
     new: 2023
-  - name: Moroccan Spice Mix
+  - name: Moroccan Spice Mix (Ras el Hanout)
     filename: moroccanSpiceMix
   - name: Ethiopian Berbere
     filename: berbere
@@ -611,6 +611,9 @@
   - name: Chicken with Collards and Rice
     filename: chickenCollardRice
     favorite: true
+  - name: Chicken and Wild Rice for a Crowd
+    filename: wildRiceChicken
+    new: 2024
   - name: Sri Lankan Coconut Chicken Curry
     filename: chickenCurry
   - name: Instant Pot Chicken Vindaloo

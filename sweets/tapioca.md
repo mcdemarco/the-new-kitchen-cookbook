@@ -60,3 +60,6 @@ Serves 4.
 
 Serve warm or cold, decorated with any optional toppings.
 
+## Variants
+
+If you have canned coconut cream instead, mix it in a 1:1 ratio with water to get coconut milk.  There's no need to blend it before using.

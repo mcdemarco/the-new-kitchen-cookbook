@@ -1,12 +1,12 @@
 # Roasted Chickpeas
 
-The following is [the recipe](http://web.archive.org/web/20210422211134/https://kalynskitchen.com/crispy-roasted-chickpeas-garbanzo-beans/) that I got my [Moroccan Spice Mix](../appetizers/moroccanSpiceMix.md) from.  It sees more action in the veggies chapter of the cookbook.
+The following is [the recipe](http://web.archive.org/web/20210422211134/https://kalynskitchen.com/crispy-roasted-chickpeas-garbanzo-beans/) that inspired my [Moroccan Spice Mix](../appetizers/moroccanSpiceMix.md), though it sees more action in the veggies chapter of the cookbook.
 
 ## Ingredients
 
 * 1 can chickpeas (garbanzo beans)
 * 1 T olive oil
-* 1/4 - 1/2 tsp. Moroccan Spice Mix
+* 1/4 - 1/2 tsp. [Moroccan Spice Mix](../appetizers/moroccanSpiceMix.md)
 * 1/4 tsp. kosher salt to taste 
 
 ## Directions
