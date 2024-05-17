@@ -459,12 +459,17 @@
     new: 2024
   - name: Sushi Rice
     filename: sushi
+  - name: Instant Pot Brown Rice Cereal
+    filename: ipRiceCereal
+    new: 2024
+    hidden: true
   - name: Rice Salad
     filename: riceSalad
     redirect: salad
   - name: Farro Salad
     filename: farroSalad
     redirect: salad
+
 
 - name: Pasta
   filename: pasta
