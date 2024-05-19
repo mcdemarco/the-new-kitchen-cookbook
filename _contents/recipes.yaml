@@ -244,6 +244,15 @@
   - name: Popovers
     filename: popovers
     favorite: true
+  - name:  Applesauce Banana Bread
+    filename: applesauceBananaBread
+    new: 2024
+  - name:  Pumpkin Banana Bread
+    filename: pumpkinBananaBread
+    new: 2024
+  - name:  Butternut Squash Bread
+    filename: squashBread
+    new: 2024
   - name: Bran Muffins for Mom
     filename: branMuffins
     favorite: true
@@ -261,12 +270,6 @@
     filename: carrotSpice
   - name: Carrot Corn Mini Muffins
     filename: carrotCorn
-  - name:  Applesauce Banana Bread
-    filename: applesauceBananaBread
-    new: 2024
-  - name:  Butternut Squash Bread
-    filename: squashBread
-    new: 2024
   - name: Savory Zucchini Muffins
     filename: zucchini
   - name: Almond Flour Muffins

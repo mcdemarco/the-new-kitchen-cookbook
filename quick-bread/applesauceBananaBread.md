@@ -2,7 +2,7 @@
 
 # Applesauce Banana Bread
 
-Applesauce gets left over like bananas, and is also a common way to make banana bread non-dairy (though just using oil or shortening would also work).  Note that this is not a quick quick bread.
+Applesauce gets left over like bananas, and is also a common way to make banana bread non-dairy (though just using oil or shortening would also work).  Note that this is not a *quick* quick bread.
 
 Makes one 9" x 5" loaf.
 
