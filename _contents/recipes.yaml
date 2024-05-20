@@ -250,6 +250,7 @@
   - name:  Pumpkin Banana Bread
     filename: pumpkinBananaBread
     new: 2024
+    hidden: true
   - name:  Butternut Squash Bread
     filename: squashBread
     new: 2024

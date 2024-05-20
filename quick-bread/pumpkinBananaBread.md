@@ -55,3 +55,5 @@ Note the ratio of pumpkin to banana is 1:1; feel free to tweak the proportions a
 You can use cinnamon and/or nutmeg in place of the spice mix.
 
 You can replace a half cup of the flour with some other flour.
+
+You can leave the nuts out of the inside and use most of them as a topping.
