@@ -20,6 +20,7 @@ Makes 1 large serving.
 4. Pressure cook on high for 2 minutes.
 5. Turn off keep warm.
 6. Release steam naturally (after 10 minutes).
+7. Stir well to unstick from the bottom, and serve.
 
 ## Variants
 
