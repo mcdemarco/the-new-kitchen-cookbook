@@ -158,6 +158,9 @@
   - name: Parker House Rolls
     filename: parkerHouseRolls
     favorite: true
+  - name: Croissants
+    filename: croissants
+    hidden: true
   - name: Bread Advice
     filename: advice
   - name: Master No-Knead Recipe
