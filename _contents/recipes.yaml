@@ -22,6 +22,9 @@
     filename: devilled
   - name: Tuscan Bean Dip
     filename: tuscanBean
+  - name: Non-Greek Yogurt Dip
+    filename: yogurtDip
+    new: 2024
   - name: Hummus
     filename: hummus
   - name: Baba Ghanoush

@@ -30,7 +30,7 @@ Makes 15--20, best eaten hot out of the oven.
 2. Spray a mini muffin pan with cooking spray (or oil it).
 3. Mix dry ingredients.
 4. Mix wet ingredients.  Blend in cheese.  Blend in dry ingredients.
-5. Pour batter into wells.  Do not fill to the top.
+5. Pour batter into wells.  Fill almost, but not, to the top.
 6. Bake 15--20 minutes or until puffy and browned.
 
 ## Variants
