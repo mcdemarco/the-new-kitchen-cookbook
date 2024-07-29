@@ -36,7 +36,7 @@ Alternately, any 9" [single-crust pie shell](../pie/crust.md).
 
 ## Directions
 
-1. Mix up the dough for the crust in the usual way.  (See my [shortening crust recipe](../pie/crust.md) for detailed instructions.)
+1. Mix up the dough for the crust in the usual way.  (See my [crust recipe](../pie/crust.md) for detailed instructions.)
 2. Chill dough for 1 hour to 2 days.
 3. Roll out dough.
 4. Optionally, blind bake the shell at 375° for about 25 minutes, *filled* with pie weights and/or dried beans.  Be sure to protect the edge.

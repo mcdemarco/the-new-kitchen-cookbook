@@ -4,7 +4,7 @@
 
 ![watercolor pie](../images/piewc.png)
 
-First, the crust.  My crusts all started from the basic piecrust recipe in my old Better Homes and Gardens Cookbook (which my sister said to use), but have been adjusted so I don't have to keep doing the math.  They use shortening; for a butter crust, see my [pumpkin pie recipe](../pie/pumpkin.md).
+First, the crust.  My crusts started from the basic piecrust recipe in my old Better Homes and Gardens Cookbook (which my sister said to use), but have been adjusted so I don't have to keep doing the math.  They all use shortening, except for the butter crust from my [pumpkin pie recipe](../pie/pumpkin.md).
 
 ## Ingredients 
 
@@ -40,10 +40,17 @@ First, the crust.  My crusts all started from the basic piecrust recipe in my ol
 * 2/3 c. butter-flavored Crisco (or other shortening) 
 * 5-6 T. cold water
 
+### Single butter crust 
+
+* 1 1/4 sticks (10 T., 5 oz.) butter, chilled
+* 1 1/4 c. flour (150 g.)
+* 1/4 tsp. fine salt
+* 2--4 T. cold water
+
 ## Directions (All Crusts)
 
 1. Mix flour & salt.
-2. Cut in shortening with a pastry cutter until pieces are pea-sized.  
+2. Cut in shortening or butter with a pastry cutter until pieces are pea-sized.  
 3. Add water gradually (a teaspoon at a time) until just damp.  (You won't need all the water.)
 4. Squeeze into a ball.
 5. For a double crust, divide in half and use the larger half (if one is larger) for the bottom crust.

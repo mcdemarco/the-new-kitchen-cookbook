@@ -6,7 +6,7 @@ I used a small press from my old "crepe maker" turnover press set. (Here's [a si
 
 For some reason sanding sugar (coarse white sugar) is sold in craft stores instead of supermarkets.  Who knew?
 
-Yield: a baker's dozen or so.
+Makes a baker's dozen or so.
 
 ## Ingredients
 
