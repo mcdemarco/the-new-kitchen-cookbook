@@ -2,7 +2,7 @@
 
 This recipe came off a bag of Domino's sugar.
 
-Yield:  1 lb.
+Makes 1 lb.
 
 ## Ingredients
 

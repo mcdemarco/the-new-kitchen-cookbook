@@ -809,6 +809,9 @@
     filename: ndSweetPotato
     new: 2024
     hidden: true
+  - name: Galette
+    filename: galette
+    new: 2024
   - name: Blitz Puff Pastry
     filename: blitzPuff
   - name: Rough Puff Pastry
