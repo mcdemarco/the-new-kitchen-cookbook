@@ -13,11 +13,10 @@ This is my to-do list.
 * [Refogado](https://braziliankitchenabroad.com/brazilian-sofrito/), also [here](https://www.iheartbrazil.com/brazilian-sofrito-recipe/)
 * [Popped wild rice](https://jamiegeller.com/recipes/popped-wild-rice/)
 * [Garam masala](https://www.thespruceeats.com/what-is-garam-masala-995690)
-* [Ras el Hanout](https://www.anediblemosaic.com/ras-el-hanout-moroccan-spice-mix/#Ras_el_Hanout)
 * [Blendjet](https://www.epicurious.com/recipes-menus/11-frozen-blender-cocktails-gallery) [drinks](https://www.guysgab.com/step-up-your-frozen-drink-game-with-the-blendjet-2-portable-blender/), *e.g.*, [strawberry daquiri](https://www.food.com/recipe/strawberry-daiquiri-smoothie-alcoholic-423850)
 * [Marinated feta](https://www.thespruceeats.com/feta-with-olive-oil-and-herbs-591058)
 * [Cheese crackers](https://kathrynskitchenblog.com/homemade-cheese-crackers/) [KtichenAid]
-* [Bagna Cauda](https://www.epicurious.com/recipes/food/views/bagna-cauda-2827)
+* [Bagna Cauda](https://www.epicurious.com/recipes/food/views/bagna-cauda-2827) or [here](https://www.lacucinaitaliana.com/italian-food/italian-dishes/bagna-cauda-traditional-recipe-easy-steps)
 
 ## Soup
 
@@ -74,6 +73,7 @@ This is my to-do list.
 ## Starchs
 
 * [IP Dal](https://www.bonappetit.com/story/instant-pot-dal-formula)
+* [Potato galette](https://www.southernliving.com/recipes/crispy-potato-galette)
 
 ### Pasta
 
@@ -92,7 +92,7 @@ This is my to-do list.
 * [IP Beef (Lamb) Rice Pilau](https://instantpoteats.com/instant-pot-rice-pilaf-ground-lamb-figs-almonds/)
 * [IP Beef Biryani](https://myheartbeets.com/instant-pot-keema-biryani-keema-pulao/)
 * [IP Chicken Biryani](https://ministryofcurry.com/chicken-biryani-instant-pot/#recipe)
-* [Japanese curry roux](https://www.196flavors.com/japan-japanese-curry/#recipe) or [powder](https://www.okonomikitchen.com/japanese-curry-powder/) or [both](https://www.justonecookbook.com/japanese-curry-powder/) or [Instant Pot](https://www.justonecookbook.com/pressure-cooker-japanese-curry/)
+* [Japanese curry roux](https://www.196flavors.com/japan-japanese-curry/#recipe) or [powder](https://www.okonomikitchen.com/japanese-curry-powder/) or [both](https://www.justonecookbook.com/japanese-curry-powder/) or [Instant Pot](https://www.justonecookbook.com/pressure-cooker-japanese-curry/) (see also meat)
 
 ###  Roots
 
@@ -106,7 +106,7 @@ This is my to-do list.
 * [Jamaican Beef Patties](http://www.mylifeasamrs.com/2010/09/jamaican-beef-patties.html), also [from Emeril](http://www.foodnetwork.com/recipes/emeril-lagasse/jamaican-meat-patties-recipe.html)
 * "Make Mine a Double" Scotch Chili from _The Ultimate Guide to Chili_
 * [Mama Sophia's](https://sophiaroe.wordpress.com/2015/02/11/recipe-mama-sophias-dairy-free-lasagna/) dairy-free lasagna
-* [Japanese Curry](https://www.justonecookbook.com/japanese-beef-curry/) and [the roux](https://www.justonecookbook.com/how-to-make-curry-roux/)
+* [Japanese Curry](https://www.justonecookbook.com/japanese-beef-curry/) and [the roux](https://www.justonecookbook.com/how-to-make-curry-roux/)  (see also rice)
 * Vegan sausage: made from [tofu](https://minimalistbaker.com/vegan-pepperoni/) or [steamed](https://itdoesnttastelikechicken.com/easy-vegan-seitan-pepperoni/) or [baked seitan](https://www.noracooks.com/vegan-pepperoni/)
 * Stufadin, _Cucina Ebraica_ p.145
 * [IP Pasta Sauce](https://www.pressurecookrecipes.com/instant-pot-spaghetti-sauce/)
