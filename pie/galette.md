@@ -44,7 +44,7 @@ berries, sliced apples, zucchini, mushrooms, etc.)
 8. Fill approximately a 9 inch circle in the center.  If you have separate dry ingredients like cheese, spread those first and make a second layer of wetter ingredients.
 9. Fold the unfilled edge over onto the filling.
 10. Optionally brush the edges with egg/wash after folding them over.
-11. Optionally sprinkle the edges with sanding sugar (sweet) or coarse salt (savory).
+g11. Optionally sprinkle the edges with sanding sugar (sweet) or coarse salt (savory).
 12. Bake 30 minutes or more, depending on the filling.
 13. Cool on a rack 20 minutes.
 
@@ -63,6 +63,8 @@ To overfill a galette like her [blackberry cheesecake version](https://smittenki
 
 Umami Girl has a [detailed formula](https://umamigirl.com/chard-crostata-galette-corn-taleggio-olives/) for filling a savory galette.
 
-Galette is a more general term, but the only confusing use of it is the potato galette, which can be a pie-style galette with potato filling, or a round casserole of thinly sliced potatoes with no pie crust.
+For a smaller galette, use half a stick of butter, 2/3 c. flour, a quarter teaspoon sugar, a dash of table salt, and 2-3 T. cold water as needed.  Cut the quantity of filling in half as well.
+
+*Galette* is a more general term, but the only confusing use of it is the potato galette, which can be a pie-style galette with potato filling or a round casserole of thinly sliced potatoes with no pie crust.
 
 Italian crostatas are sometimes described as the same as galettes, but they're usually fancier and use a different style of pastry dough.

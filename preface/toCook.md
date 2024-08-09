@@ -17,6 +17,7 @@ This is my to-do list.
 * [Marinated feta](https://www.thespruceeats.com/feta-with-olive-oil-and-herbs-591058)
 * [Cheese crackers](https://kathrynskitchenblog.com/homemade-cheese-crackers/) [KtichenAid]
 * [Bagna Cauda](https://www.epicurious.com/recipes/food/views/bagna-cauda-2827) or [here](https://www.lacucinaitaliana.com/italian-food/italian-dishes/bagna-cauda-traditional-recipe-easy-steps)
+* [Watermelon agua fresca](https://www.isabeleats.com/mexican-watermelon-water-agua-de-sandia/)
 
 ## Soup
 
@@ -73,6 +74,7 @@ This is my to-do list.
 ## Starchs
 
 * [IP Dal](https://www.bonappetit.com/story/instant-pot-dal-formula)
+* [Red lentil dal](https://www.thespruceeats.com/spicy-lentil-dahl-recipe-1001539)
 * [Potato galette](https://www.southernliving.com/recipes/crispy-potato-galette)
 
 ### Pasta
@@ -187,9 +189,8 @@ This is my to-do list.
 
 ## To Write Up
 
-* [Toor Dal](http://chilliandmint.com/2013/12/02/indian-toor-dal-one-of-my-absolute-favourites/) / [Mint Dal](http://www.vegrecipesofindia.com/pudina-moong-dal/) (to write up and/or cook again)
+* [Toor Dal](http://chilliandmint.com/2013/12/02/indian-toor-dal-one-of-my-absolute-favourites/) / Pudina (Mint) Dal (to write up and/or cook again)
 * [Roasted Peppers](http://toriavey.com/how-to/2010/02/roasted-bell-peppers/)
 * [Caribbean BBQ Sauce](http://web.archive.org/web/20150915063423/http://forums.gardenweb.com/discussions/2098748/first-scotch-bonnets-what-sauce-recipes-can-i-make)
 * Persian rice, esp. with lentils (e.g., Reyna's cookbook p. 207)
 * [Rosemary Crescent Rolls](http://www.artisanbreadinfive.com/2011/09/21/rosemary-crescent-rolls#more-3285) with much less heat/time!
-
