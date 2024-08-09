@@ -28,7 +28,7 @@ berries, sliced apples, zucchini, mushrooms, etc.)
 
 ### Topping
 
-* egg or egg wash (optional)
+* egg, egg wash, or cream (optional)
 * sanding sugar or coarse salt (optional)
 
 
@@ -43,8 +43,7 @@ berries, sliced apples, zucchini, mushrooms, etc.)
 7. Roll out dough into approximately a 12 inch circle.
 8. Fill approximately a 9 inch circle in the center.  If you have separate dry ingredients like cheese, spread those first and make a second layer of wetter ingredients.
 9. Fold the unfilled edge over onto the filling.
-10. Optionally brush the edges with egg/wash after folding them over.
-g11. Optionally sprinkle the edges with sanding sugar (sweet) or coarse salt (savory).
+10. Optionally brush the edges with egg/wash or cream after folding them over.  Optionally sprinkle the edges with sanding sugar (sweet) or coarse salt (savory).
 12. Bake 30 minutes or more, depending on the filling.
 13. Cool on a rack 20 minutes.
 
