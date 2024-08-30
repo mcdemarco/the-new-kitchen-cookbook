@@ -12,7 +12,7 @@ Makes 10--12 croissants.
 
 ### Dough
 
-* 2 1/4 c. all-purpose flour
+* 2 2/3 c. all-purpose flour
 * 2 T. plus 2 tsp. butter, softened
 * 2 1/4 tsp. yeast
 * 2 T. sugar
@@ -35,11 +35,11 @@ Makes 10--12 croissants.
 2. Add milk slowly.
 3. Knead for five minutes with a dough hook until slightly springy.
 4. Flatten a bit and chill 1/2 hour.
-5. Roll the dough out into a 10x10 rectangle.
+5. Roll the dough out into a 10" x 10" rectangle.
 6. Traditionally, you would chill it at least 4 hours at this point.
-7. With a stand mixer, cream the butter and flour with a paddle.
-8. Traditionally, you would spread it into a 5x10 rectangle on a silpat for chilling for half an hour, then peel it back off to place it across the center of the dough.  Non-traditionally, smooth the butter out into a 5x10 rectangle directly onto the middle of the dough.
-9. Fold the dough over to cover the butter.  If the butter wasn't chilled already, you can chill the whole thing a bit now, or not.
+7. With a stand mixer, cream the butter and flour for the butter layer using a paddle.
+8. Traditionally, you would spread it into a 5" x 10" rectangle on a silpat for chilling for half an hour, then peel it back off to place it across the center of the dough.  Non-traditionally, smooth the butter out into a 5" x 10" rectangle directly onto the middle of the dough.
+9. Fold the dough over to cover the butter.  (The two edges should meet in the center over the butter.)  If the butter wasn't chilled already, you can chill the whole thing a bit now, or not.
 10. Roll out the folded dough and fold into thirds about three times, chilling a bit in between steps if the dough gets too warm or soft.
 11. Chill again until ready to shape, at least four hours or overnight.
 12. To shape, roll out on a lightly floured board into a 10" x 10" square or a 5" x 20" rectangle, then cut that into about 12 5" long triangles.
@@ -52,6 +52,8 @@ Makes 10--12 croissants.
 19. Bake 20 minutes until golden, rotating halfway through.  Reduce heat if they get too brown.
 
 ## Variants
+
+You can steal butter for the dough from the butter layer.
 
 Many recipes scald the milk and/or proof the yeast; this isn't necessary with modern ingredients.
 
