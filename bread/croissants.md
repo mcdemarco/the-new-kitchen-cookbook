@@ -37,9 +37,9 @@ Makes 10--12 croissants.
 4. Flatten a bit and chill 1/2 hour.
 5. Roll the dough out into a 10" x 10" rectangle.
 6. Traditionally, you would chill it at least 4 hours at this point.
-7. With a stand mixer, cream the butter and flour for the butter layer using a paddle.
+7. With a stand mixer and paddle attachment, cream the butter and flour for the butter layer.
 8. Traditionally, you would spread it into a 5" x 10" rectangle on a silpat for chilling for half an hour, then peel it back off to place it across the center of the dough.  Non-traditionally, smooth the butter out into a 5" x 10" rectangle directly onto the middle of the dough.
-9. Fold the dough over to cover the butter.  (The two edges should meet in the center over the butter.)  If the butter wasn't chilled already, you can chill the whole thing a bit now, or not.
+9. Fold the dough over the butter.  (The two edges should meet in the center over the butter.)  If the butter wasn't chilled already, you can chill the whole thing a bit now, or not.
 10. Roll out the folded dough and fold into thirds about three times, chilling a bit in between steps if the dough gets too warm or soft.
 11. Chill again until ready to shape, at least four hours or overnight.
 12. To shape, roll out on a lightly floured board into a 10" x 10" square or a 5" x 20" rectangle, then cut that into about 12 5" long triangles.
@@ -60,3 +60,5 @@ Many recipes scald the milk and/or proof the yeast; this isn't necessary with mo
 [Emma Fontanella](https://www.emmafontanella.com/the-easiest-croissants) has an interesting dosi-style approach to making croissants without all the folding and chilling.
 
 You can freeze the dough before shaping, or the shaped croissants after rising.  Defrost in the refrigerator before resuming where you left off.
+
+For mini croissants, cut the dough into about 18 triangles, chill the formed croissants only half an hour, and bake them about 15 minutes, reducing the temperature partway through.

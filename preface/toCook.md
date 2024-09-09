@@ -79,7 +79,7 @@ This is my to-do list.
 
 ### Pasta
 
-* [Pasta (dough)](https://www.foodandwine.com/recipes/fresh-pasta-dough) (just the dough) [KitchenAid]
+* Pasta dough [with lots of eggs](https://www.foodandwine.com/recipes/fresh-pasta-dough) (just the dough), [fewer egg, semi-semolina](https://www.confettiandbliss.com/fresh-homemade-pasta/), [plain or tomato](https://www.epicuricloud.com/recipe/stand-mixer-pasta-dough-plain-tomato-or-spinach/), [00/durum mix](https://www.recipesfromitaly.com/make-italian-homemade-pasta/) [KitchenAid]
 * [Pumpkin spice pasta dough](https://thepracticalkitchen.com/pumpkin-spice-pasta-dough/) [KitchenAid]
 * [Pierogis](https://somuchfoodblog.com/potato-and-onion-pierogies-with-bacon/) [KitchenAid]
 * [Apple sage brown butter pasta with walnuts](https://thepracticalkitchen.com/apple-sage-brown-butter-pasta-walnuts/)
