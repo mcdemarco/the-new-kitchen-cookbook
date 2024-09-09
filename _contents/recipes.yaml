@@ -163,7 +163,7 @@
     favorite: true
   - name: Croissants
     filename: croissants
-    hidden: true
+    new: 2024
   - name: Bread Advice
     filename: advice
   - name: Master No-Knead Recipe
