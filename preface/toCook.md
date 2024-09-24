@@ -71,16 +71,14 @@ This is my to-do list.
 * [Pickled okra](https://www.thespruceeats.com/pickled-okra-recipe-p2-2216859)
 * [Chana masala](https://smittenkitchen.com/2010/02/chana-masala/) --- chickpeas and tomatoes
 
-## Starchs
+## Starches
 
 * [IP Dal](https://www.bonappetit.com/story/instant-pot-dal-formula)
 * [Red lentil dal](https://www.thespruceeats.com/spicy-lentil-dahl-recipe-1001539)
-* [Potato galette](https://www.southernliving.com/recipes/crispy-potato-galette)
 
 ### Pasta
 
-* Pasta dough [with lots of eggs](https://www.foodandwine.com/recipes/fresh-pasta-dough) (just the dough), [fewer egg, semi-semolina](https://www.confettiandbliss.com/fresh-homemade-pasta/), [plain or tomato](https://www.epicuricloud.com/recipe/stand-mixer-pasta-dough-plain-tomato-or-spinach/), [00/durum mix](https://www.recipesfromitaly.com/make-italian-homemade-pasta/) [KitchenAid]
-* [Pumpkin spice pasta dough](https://thepracticalkitchen.com/pumpkin-spice-pasta-dough/) [KitchenAid]
+* Pasta dough: [basics for a machine](https://www.thespruceeats.com/how-to-use-a-pasta-machine-to-make-homemade-pasta-909023), [a dough with lots of eggs](https://www.foodandwine.com/recipes/fresh-pasta-dough), [fewer eggs and semi-semolina](https://www.confettiandbliss.com/fresh-homemade-pasta/), [plain or tomato](https://www.epicuricloud.com/recipe/stand-mixer-pasta-dough-plain-tomato-or-spinach/), [00/durum mix](https://www.recipesfromitaly.com/make-italian-homemade-pasta/), or [pumpkin spice](https://thepracticalkitchen.com/pumpkin-spice-pasta-dough/) [KitchenAid], plus [hydration advice](https://qbcucina.com/blogs/cooking/pasta-dough-troubleshooting)
 * [Pierogis](https://somuchfoodblog.com/potato-and-onion-pierogies-with-bacon/) [KitchenAid]
 * [Apple sage brown butter pasta with walnuts](https://thepracticalkitchen.com/apple-sage-brown-butter-pasta-walnuts/)
 * [Quick Pasta with Chickpeas](https://smittenkitchen.com/2017/10/quick-pasta-and-chickpeas-pasta-e-ceci/)
@@ -98,6 +96,7 @@ This is my to-do list.
 
 ###  Roots
 
+* [Potato galette](https://www.southernliving.com/recipes/crispy-potato-galette)
 * [Sweet Potato Latkes](https://www.epicurious.com/recipes/food/views/sweet-potato-latkes-105919)
 * [Ground-beef Stuffed Butternut Squash](https://www.allrecipes.com/recipe/279378/ground-beef-stuffed-butternut-squash/) (needs to be kashered) or [this one with kale](https://eatthegains.com/kale-beef-stuffed-butternut-squash/)
 * [Kadoo borani](https://afghancooks.com/kadoo-borani-sauteed-pumpkin/) (pumpkin)
@@ -177,6 +176,7 @@ This is my to-do list.
 
 * [Cranberry Raisin pie](https://www.afamilyfeast.com/cranberry-raisin-pie/)
 * Homemade phyllo dough [with a pasta maker](https://www.thespruceeats.com/homemade-phyllo-dough-1705600) (note that the comments say the recipe is way off) or [without](https://www.mygreekdish.com/recipe/easy-homemade-phyllo-recipe-beginners/).  See also My Greek Dish's [spanakopita recipe](https://www.mygreekdish.com/recipe/traditional-greek-spinach-pie-spanakopita-recipe-with-homemade-phyllo/).  Other promising recipes for the [dough](https://deliciousfromscratch.com/filo-dough-recipe/) and ["pie"](https://deliciousfromscratch.com/spinach-feta-pie-recipe/) include [a local effort](https://thegarumfactory.net/2020/03/27/saloniki-spanakopita/)
+* [Tyropita](https://www.mygreekdish.com/recipe/tiropita-greek-feta-cheese-pie/)
 * Sweet Potato Pie (written up but not made)
 
 

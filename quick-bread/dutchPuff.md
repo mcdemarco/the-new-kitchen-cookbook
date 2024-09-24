@@ -52,3 +52,7 @@ Omit the sugar and vanilla, and top with savory ingredients, especially cheese.
 Replace 2 T. of flour with 1 1/2 T. cocoa (either kind), and optionally reduce the sugar to 1 T.
 
 For a 12" pan, double the recipe (per [the Smitten Kitchen](https://smittenkitchen.com/2017/01/chocolate-dutch-baby/)).
+
+## See Also
+
+[Popovers](../quick-bread/popovers.md)

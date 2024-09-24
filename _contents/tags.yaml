@@ -1,6 +1,7 @@
 - tagname: Instant Pot
   filename: instantPot
   paths:
+  - appetizers/ipHardBoiledEggs.md
   - fish/ipSalmon.md
   - meat/ipEthBeefStew.md
   - meat/ipFriedRice.md
@@ -53,6 +54,7 @@
   - cookies/gingerbreadHouse.md
   - cookies/royalIcing.md
   - cookies/yeastHamantaschen.md
+  - pasta/fresh.md
   - pasta/miniKugel.md
   - preface/toCook.md
   - quick-bread/applesauceBananaBread.md

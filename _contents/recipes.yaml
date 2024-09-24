@@ -20,6 +20,9 @@
     filename: friedCheese
   - name: Devilled Eggs with Capers
     filename: devilled
+  - name: Instant Pot Hard Boiled Eggs
+    filename: ipHardBoiledEggs
+    new: 2024
   - name: Tuscan Bean Dip
     filename: tuscanBean
   - name: Non-Greek Yogurt Dip
@@ -483,6 +486,9 @@
 - name: Pasta
   filename: pasta
   files:
+  - name: Fresh Pasta
+    filename: fresh
+    new: 2024
   - name: Israeli Couscous
     filename: israeliCouscous
     new: 2023

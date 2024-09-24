@@ -41,3 +41,12 @@ plus some interesting variants involving cheese.
 I wouldn't take the advice too much to heart, since it's completely wrong about lactose-free milk not working.
 Neither heating nor chilling the batter (both are advised!) seemed necessary, either,
 though you might want to consider her advice if you're working with a substandard pan.
+
+In some sense, a [Dutch baby](../quick-bread/dutchPuff.md) is a variant of a popover, or more properly a cross between the narrow popover and the wide Yorkshire pudding, which is like a Dutch baby made with beef fat.
+
+The Internet recommends pre-heating the pan, greased with oil instead of butter, both to prevent sticking and for a higher oven spring, and also resting the batter as long as possible (even overnight) to increase the rise.
+
+## See Also
+
+[Dutch Puff](../quick-bread/dutchPuff.md)
+

@@ -23,7 +23,7 @@ Serves 1--2.
 
 1. Preheat oven to 350° with convection.
 2. Grease a small loaf pan.
-3. If the noodles are particularly stuck, warm them up in hot water and drain again.  Toss with the butter (instead of melting it).ndii
+3. If the noodles are particularly stuck, warm them up in hot water and drain again.  Toss with the butter (instead of melting it).
 4. Mix other ingredients.  Use a stand mixer with whisk attachment if you're using cream cheese or other thick ingredients.
 5. Bake 30 minutes, until lightly browned.  Cover if necessary.
 
