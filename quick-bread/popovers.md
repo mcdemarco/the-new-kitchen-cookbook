@@ -46,7 +46,7 @@ In some sense, a [Dutch baby](../quick-bread/dutchPuff.md) is a variant of a pop
 
 The Internet recommends pre-heating the pan, greased with oil instead of butter, both to prevent sticking and for a higher oven spring, and also resting the batter as long as possible (even overnight) to increase the rise.
 
-## See Also
+### See Also
 
 [Dutch Puff](../quick-bread/dutchPuff.md)
 
