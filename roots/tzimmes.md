@@ -4,7 +4,24 @@
 
 The main requirement was that the tzimmes be orange.  [This recipe](http://cooking.nytimes.com/recipes/1013447-sweet-potato-carrot-and-dried-fruit-casserole) had about my quantities of roots and [this one](http://www.tasteofhome.com/recipes/tzimmes) my preferred number of pots (only the casserole), so I combined them.
 
+Serves 6--8.
+
 ## Ingredients
+
+### Rosh Hashanah
+
+* 1 1/4 lbs. sweet potatoes or yams
+* 3--6 carrots (about 3/4 lb.)
+* about 6 oz. raisins, currants, or other dried fruit
+* 1 T. honey
+* 1/2 tsp. cinnamon
+* 1/4 tsp. nutmeg
+* 1/4 tsp. salt
+* 1/2 c. orange juice
+* 1/2 c. water
+* 1/2 T. oil (optional)
+
+### Passover
 
 * 3 mixed sweet potatoes/yams (about 2 1/2 lbs)
 * 6--9 carrots (about 1 1/2 lbs)
@@ -31,4 +48,4 @@ Steam the roots first for 10 minutes for quicker baking (1 hour), in which case 
 
 Prunes are the traditional fruit, but figs are more fun.
 
-For Rosh Hashanah, you can expand the list to include pumpkin (*i.e.,* gourd or any winter squash), beets, leeks, dates, black-eyed peas, or other traditional foods.  Except for squash and golden beets, it's easier to cook these separately and add them later.  You can also cut the recipe down, since the quantity above is more appropriate to Passover and the lack of other foods.
+For Rosh Hashanah, you can expand the list to include pumpkin (*i.e.,* gourd or any winter squash), beets, leeks, dates, black-eyed peas, or other traditional foods.  Except for winter squash and golden beets, it's easier to cook these separately and add them later.  The main recipe is also cut down from the Passover quantity (which is more appropriate for the lack of other foods).
