@@ -38,7 +38,7 @@ Serves 6--8.
 
 1. Peel and chop the roots.
 2. Combine with fruit in a large greased baking dish.
-3. Mix remaining ingredients and pour over the dish.
+3. Mix remaining ingredients except the oil and pour over the dish.
 4. Cook covered at 350° for one hour.
 5. Sprinkle with oil and cook uncovered for 45--60 more minutes.
 
