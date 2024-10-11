@@ -1,4 +1,5 @@
 [KitchenAid]: ../indices/kitchenAid.html
+[PastaMachine]: ../indices/pastaMachine.html
 
 # Fresh Pasta
 

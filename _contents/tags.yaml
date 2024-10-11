@@ -63,6 +63,11 @@
   - roots/nonDairyMashedPotatoes.md
   - sweets/ponchiki.md
   - sweets/sufganiyot.md
+- tagname: PastaMachine
+  filename: pastaMachine
+  paths:
+  - pasta/fresh.md
+  - preface/toCook.md
 - tagname: crockpot
   filename: crockpot
   paths:

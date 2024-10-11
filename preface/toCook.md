@@ -1,4 +1,5 @@
 [KitchenAid]: ../indices/kitchenAid.html
+[PastaMachine]: ../indices/pastaMachine.html
 
 # Things To Cook
 
@@ -15,7 +16,7 @@ This is my to-do list.
 * [Garam masala](https://www.thespruceeats.com/what-is-garam-masala-995690)
 * [Blendjet](https://www.epicurious.com/recipes-menus/11-frozen-blender-cocktails-gallery) [drinks](https://www.guysgab.com/step-up-your-frozen-drink-game-with-the-blendjet-2-portable-blender/), *e.g.*, [strawberry daquiri](https://www.food.com/recipe/strawberry-daiquiri-smoothie-alcoholic-423850)
 * [Marinated feta](https://www.thespruceeats.com/feta-with-olive-oil-and-herbs-591058)
-* [Cheese crackers](https://kathrynskitchenblog.com/homemade-cheese-crackers/) [KtichenAid]
+* [Cheese crackers](https://kathrynskitchenblog.com/homemade-cheese-crackers/) [KitchenAid]
 * [Bagna Cauda](https://www.epicurious.com/recipes/food/views/bagna-cauda-2827) or [here](https://www.lacucinaitaliana.com/italian-food/italian-dishes/bagna-cauda-traditional-recipe-easy-steps)
 * [Watermelon agua fresca](https://www.isabeleats.com/mexican-watermelon-water-agua-de-sandia/)
 
@@ -43,6 +44,9 @@ This is my to-do list.
 * [Coffee cake](https://www.piesandtacos.com/coffee-cake/) [KitchenAid]
 * [Cheese blintzes](https://jamiegeller.com/recipes/stage-delis-cheese-blintzes/)
 * [Quick garlic flatbread](https://spainonafork.com/incredible-5-minute-garlic-flatbread-recipe/)
+* [Cheese cornbread](https://www.foodnetwork.com/recipes/food-network-kitchen/cheese-cornbread-3520669)
+* [Everything crackers](https://www.loveandoliveoil.com/2021/02/homemade-everything-crackers.html) or [Smitten Kitchen's crackers](https://smittenkitchen.com/2008/08/crisp-rosemary-flatbread/) [KitchenAid] [PastaMachine]
+* [Papadums](https://foodpluswords.com/what-are-papadums-and-how-are-they-made/) [KitchenAid] [PastaMachine]
 
 ## Slow Bread
 
@@ -60,7 +64,7 @@ This is my to-do list.
 * [ABin5 Raisin Walnut Bread](https://artisanbreadinfive.com/2017/01/07/raisin-walnut-bread-emile-henry-bread-baker-red-star-platinum-yeast-and-new-abin5-giveaway/) or [this one](https://www.thisjess.com/no-knead-walnut-raisin-bread/) for a rounder dutch oven [KitchenAid]
 * [Jerusalem bagels](https://jamiegeller.com/recipes/jerusalem-bagel/) [KitchenAid]
 * [Malassadas](https://leitesculinaria.com/7777/recipes-portuguese-malassadas-azorean-doughnuts.html) [KitchenAid]
-
+* [Yeast very flat bread](https://theitaliandishblog.com/imported-20090913150324/2010/6/8/parmesan-rosemary-flatbreads.html)  [KitchenAid] [PastaMachine]
 
 ## Vegetables
 
