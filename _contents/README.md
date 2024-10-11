@@ -67,7 +67,7 @@ Currently you can see some manual links in `fish/ipSalmon.md`, or online at
 
 There is a script at the top level to gather tags (`tag.sh`)
 and write them to `tags.yaml` here.  The Liquid that uses the both YAML files to make tag index pages is in my fork of Left
-[here](https://github.com/mcdemarco/left/blob/website/_layouts/recipeTagIndex.html).  Note that new html targets need to be created for new tags.
+[here](https://github.com/mcdemarco/left/blob/website/_layouts/recipeTagIndex.html).  Note that new html targets need to be manually created for new tag (indicies) and added to `_includes/recipeIndices.html`.
 
 For reference, an example of the Liquid that makes index pages for flags is [here](https://github.com/mcdemarco/left/blob/website/recipes/indices/favorites.html),
 and some Liquid to just alphabetize the whole list is [here](https://github.com/mcdemarco/left/blob/website/recipes/indices/alphabetical.html).

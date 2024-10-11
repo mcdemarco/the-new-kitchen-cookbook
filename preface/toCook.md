@@ -45,8 +45,8 @@ This is my to-do list.
 * [Cheese blintzes](https://jamiegeller.com/recipes/stage-delis-cheese-blintzes/)
 * [Quick garlic flatbread](https://spainonafork.com/incredible-5-minute-garlic-flatbread-recipe/)
 * [Cheese cornbread](https://www.foodnetwork.com/recipes/food-network-kitchen/cheese-cornbread-3520669)
-* [Everything crackers](https://www.loveandoliveoil.com/2021/02/homemade-everything-crackers.html) or [Smitten Kitchen's crackers](https://smittenkitchen.com/2008/08/crisp-rosemary-flatbread/) [KitchenAid] [PastaMachine]
-* [Papadums](https://foodpluswords.com/what-are-papadums-and-how-are-they-made/) [KitchenAid] [PastaMachine]
+* [Everything crackers](https://www.loveandoliveoil.com/2021/02/homemade-everything-crackers.html) or [Smitten Kitchen's crackers](https://smittenkitchen.com/2008/08/crisp-rosemary-flatbread/) [KitchenAid], [PastaMachine]
+* [Papadums](https://foodpluswords.com/what-are-papadums-and-how-are-they-made/) [KitchenAid], [PastaMachine]
 
 ## Slow Bread
 
@@ -64,7 +64,7 @@ This is my to-do list.
 * [ABin5 Raisin Walnut Bread](https://artisanbreadinfive.com/2017/01/07/raisin-walnut-bread-emile-henry-bread-baker-red-star-platinum-yeast-and-new-abin5-giveaway/) or [this one](https://www.thisjess.com/no-knead-walnut-raisin-bread/) for a rounder dutch oven [KitchenAid]
 * [Jerusalem bagels](https://jamiegeller.com/recipes/jerusalem-bagel/) [KitchenAid]
 * [Malassadas](https://leitesculinaria.com/7777/recipes-portuguese-malassadas-azorean-doughnuts.html) [KitchenAid]
-* [Yeast very flat bread](https://theitaliandishblog.com/imported-20090913150324/2010/6/8/parmesan-rosemary-flatbreads.html)  [KitchenAid] [PastaMachine]
+* [Yeast very flat bread](https://theitaliandishblog.com/imported-20090913150324/2010/6/8/parmesan-rosemary-flatbreads.html)  [KitchenAid], [PastaMachine]
 
 ## Vegetables
 
