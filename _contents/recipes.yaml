@@ -186,10 +186,13 @@
     filename: rosemary
   - name: Marbled Rye
     filename: marble
-  - name: Baguette
-    filename: baguette
   - name: Healthy Rye
     filename: rye
+  - name: Pumpernickel Loaf
+    filename: pumpernickel
+    new: 2024
+  - name: Baguette
+    filename: baguette
   - name: Pagnotta
     filename: pagnotta
   - name: Ciabatta
