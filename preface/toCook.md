@@ -86,6 +86,7 @@ This is my to-do list.
 * [Pierogis](https://somuchfoodblog.com/potato-and-onion-pierogies-with-bacon/) [KitchenAid]
 * [Apple sage brown butter pasta with walnuts](https://thepracticalkitchen.com/apple-sage-brown-butter-pasta-walnuts/)
 * [Quick Pasta with Chickpeas](https://smittenkitchen.com/2017/10/quick-pasta-and-chickpeas-pasta-e-ceci/)
+* [Green Olive Pasta (sauce)](https://www.thekitchn.com/recipe-easy-green-olive-pasta-259032)
 
 ### Rice
 

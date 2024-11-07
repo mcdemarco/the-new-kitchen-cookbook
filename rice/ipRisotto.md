@@ -19,6 +19,7 @@ Serves two as a main meal with extras (one person per half cup of rice), or 3--4
 * 1 T. dry wine (optional)
 * 3/4 tsp. salt
 * 2 tsp. miso paste (optional)
+* 1 T. nutritional yeast (optional)
 * other spices to taste (*e.g.*, pepper, turmeric, sage, etc.)
 * optional extras (mushrooms, vegetables, etc.)
 
@@ -46,3 +47,5 @@ You can replace some of the liquid with tomatoes.
 Some pressure cook for 6 minutes with 5 minutes of natural release.
 
 You can do the same sort of thing with farro in place of rice; see my [IP Farro Risotto](../rice/ipFarroRisotto.md) recipe.  For Bob's Red Mill farro the proportions 1 c. farro to 1 1/2 c. stock worked for me, though the internet frequently recommends using more water and draining afterwards.  The internet also recommends rinsing the farro first, which I haven't tried.  Cook on high pressure for 12 minutes and release naturally.
+
+[According to Plant Whys](https://www.plantwhys.com/blog/mushroom-risotto-with-tofu), you can add 8 oz. of crumbled tofu to the onions and garlic.  Also add 2 T. of soy sauce and 2 T. nutritional yeast, then fry a bit before the raw rice step.
