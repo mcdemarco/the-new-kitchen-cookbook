@@ -256,6 +256,9 @@
   - name: Popovers
     filename: popovers
     favorite: true
+  - name: Scones
+    filename: scones
+    new: 2024
   - name:  Applesauce Banana Bread
     filename: applesauceBananaBread
     new: 2024
