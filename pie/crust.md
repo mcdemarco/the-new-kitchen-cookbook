@@ -47,10 +47,19 @@ First, the crust.  My crusts started from the basic piecrust recipe in my old Be
 * 1/4 tsp. fine salt
 * 2--4 T. cold water
 
+### Cheddar cheese crust
+
+* 1 stick butter, chilled
+* 3/4 c. grated cheddar cheese
+* 1 1/4 c. flour
+* 3/4 tsp. fine salt
+* 2--4 T. cold water
+
+
 ## Directions (All Crusts)
 
 1. Mix flour & salt.
-2. Cut in shortening or butter with a pastry cutter until pieces are pea-sized.  
+2. Cut in shortening, butter, and/or cheese with a pastry cutter until pieces are pea-sized.  (You can also use a food processor, but I don't.)
 3. Add water gradually (a teaspoon at a time) until just damp.  (You won't need all the water.)
 4. Squeeze into a ball.
 5. For a double crust, divide in half and use the larger half (if one is larger) for the bottom crust.
@@ -73,3 +82,5 @@ First, the crust.  My crusts started from the basic piecrust recipe in my old Be
 ## Variants
 
 For a lattice top, have a look at [this pictorial how-to](https://www.simplyrecipes.com/recipes/how_to_make_a_lattice_top_for_a_pie_crust/).  Note that you need to roll out the bottom crust big enough to fold over the lattice edges.
+
+The cheddar cheese crust is from a tip in [The New York Times](https://cooking.nytimes.com/recipes/448-all-butter-pie-crust), which recommends it for apple or savory pies.

@@ -2,7 +2,7 @@
 
 # Pumpkin Pie
 
-I make a lot of fruit pies from scratch, but there is much to be said for the "open some cans" simplicity of pumpkin pie.  Since I don't have pumpkin (pie) spice on hand, I followed [Modern Honey's recipe](https://www.modernhoney.com/perfect-pumpkin-pie/) and the classic [Eagle Brand recipe](https://www.eaglebrand.com/recipe-detail/perfectpumpkinpie-3929) for the spices.  (They are the same except for some variety in the spice lists.)
+I make a lot of fruit pies from scratch, but there is much to be said for the "open some cans" simplicity of pumpkin pie.  Once upon a time I didn't have [pumpkin (pie) spice](../appetizers/pumpkinSpice.md) on hand, I followed [Modern Honey's recipe](https://www.modernhoney.com/perfect-pumpkin-pie/) and the classic [Eagle Brand recipe](https://www.eaglebrand.com/recipe-detail/perfectpumpkinpie-3929) for the spices.  (They are the same except for some variety in the spice lists.)
 
 Since I usually make shortening crusts, I followed the New York Times' [single all-butter crust recipe](https://cooking.nytimes.com/recipes/448-all-butter-pie-crust), but you can use a single 9" [shortening crust](../pie/crust.md) instead or even a store-bought one.
 
@@ -53,7 +53,6 @@ Alternately, any 9" [single-crust pie shell](../pie/crust.md).
 
 ## Variants
 
-The New York Times crust recipe includes an interesting option for a cheddar cheese crust.
 
 Replace spices with 1 T. [pumpkin spice](../appetizers/pumpkinSpice.md).
 
