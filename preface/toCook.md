@@ -104,7 +104,7 @@ This is my to-do list.
 * [Potato galette](https://www.southernliving.com/recipes/crispy-potato-galette)
 * [Sweet Potato Latkes](https://www.epicurious.com/recipes/food/views/sweet-potato-latkes-105919)
 * [Ground-beef Stuffed Butternut Squash](https://www.allrecipes.com/recipe/279378/ground-beef-stuffed-butternut-squash/) (needs to be kashered) or [this one with kale](https://eatthegains.com/kale-beef-stuffed-butternut-squash/)
-* [Kadoo borani](https://afghancooks.com/kadoo-borani-sauteed-pumpkin/) (pumpkin)
+* [Kadoo borani](https://afghancooks.com/kadoo-borani-sauteed-pumpkin/) aka [Borani Kadoo](https://cookingwithzahra.com/authentic-afghani-pumpkin-borani-recipe/) (pumpkin)
 
 
 ## Meat

@@ -184,6 +184,9 @@
     filename: semolina
   - name: Rosemary Boule with Kalamata Olives
     filename: rosemary
+  - name: Pumpkin Yeast Bread
+    filename: pumpkin
+    new: 2024
   - name: Marbled Rye
     filename: marble
   - name: Healthy Rye
@@ -586,6 +589,9 @@
     filename: italianPotRoast
   - name: Molha Quase à Moda de Pico
     filename: molha
+  - name: Pumpkin Beef Stew
+    filename: pumpkinStew
+    new: 2024
   - name: Instant Pot Ground Beef Stew
     filename: ipGroundBeefStew
   - name: Instant Pot Ethiopian Beef Stew
