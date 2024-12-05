@@ -9,19 +9,26 @@ Serves 3--4.
 
 ## Ingredients
 
-* 3 large eggs (or one per serving)
-* about 110g durum wheat semolina (or about 35g per serving)
-* about 110g tipo 00 fine white flour (or about 35g per serving)
+### By volume
+
+* 3 large eggs
+* 3/4 c. + 2 T. durum wheat semolina
+* 3/4 c. + 2 T. tipo 00 fine white flour
+
+### By the egg
+
+* 1 large egg (about 50 g.)
+* 35g durum wheat semolina 
+* 35g tipo 00 fine white flour
 
 ## Directions
 
 ### The Dough
 
-1. Zero your scale with the KitchenAid bowl on it.
-2. Crack all the eggs into the bowl.  Weigh them in grams.
-3. Multiply this value by 0.7.  This is the weight you will use for each of the flours.
-4. Zero the scale and add that amount of semolina to the bowl.
-5. Zero again and add the same amount of tipo 00 flour.
+1. If weighing, zero your scale with the KitchenAid bowl on it.
+2. Crack all the eggs into the bowl.  
+3. Optionally, weigh the egg in grams and multiply the total by 0.7.  This is the weight you will use for **each** of the flours.
+4. If measuring the flour by volume, do it in another bowl and mix them together, then add to the eggs.  Otherwise, zero the scale and add the chosen weight of semolina to the KitchenAid bowl.  Zero again and add the same weight of tipo 00 flour. 
 6. Mix on setting 1 with the standard paddle attachment or a dough hook until the eggs are incorporated.
 7. Knead with a dough hook on setting 2 for five minutes, scraping the dough down from the hook as necessary.
 8. Remove and knead by hand for a minute.
@@ -40,11 +47,19 @@ Serves 3--4.
 8. Set your pasta machine to its next narrower setting (usually #2).
 9. Run the dough piece through once, without folding but dusting if necessary.
 10. Continue reducing the roller width and rolling once until you reach your desired thickness.  (Check your machine's manual for the recommended setting to use with its cutters.)  You may need to cut the piece to half its length if it's getting too long to handle (or to eat later).
-11. Dust the piece(s) with flour and run them through the cutter.  (If they stick to one another and/or accordion up under the cutters, try more dusting or some resting time.)
+13. Repeat the whole business with each piece of dough, letting the others rest on an adequately floured surface.
+
+You don't need to cut or boil fresh lasagna noodles, though some people do boil them.  Also stop here for ravioli; you're on your own until I write some up.
+
+### The Pasta Cutting
+
+1. Cut any really long strips in half.
+11. Dust the piece(s) with flour and run them through the cutter.  (If they stick to one another and/or accordion up under the cutters, try more dusting or resting time.) 
 12. Catch the pasta on the way out of the cutters, then hang it on a pasta rack or lay it on a cookie sheet with lots of semolina flour to keep it from sticking.
-13. Repeat the whole business with each piece of dough.
 14. Brush off any excess flour before cooking or freezing.
 
+For odd shapes, cut them with a knife instead.
+ 
 ### The Pot
 
 1. Boil adequate water and salt it well.
@@ -54,6 +69,8 @@ Serves 3--4.
 
 ## Variants
 
+Most recipes go all tipo 00, or all all-purpose flour.
+
 Ideally, you'd weigh the flours together separately and mix them before adding to the eggs.
 
 Ideally you'd use a spiral dough hook, but those only work with heavy-duty models of KitchenAid mixers.  The regular "C-shaped" hook works fine.
@@ -62,4 +79,5 @@ The original recipe said to dust with the semolina flour only, but I thought the
 
 You can try to form nests; they're handy for freezing.  Cook frozen pasta 5--6 minutes without defrosting.
 
-Spinach and tomato paste are popular additions, but I haven't found a good recipe; even when they sound precise there's still a step of winging it somehow.
+Spinach and tomato paste are popular additions, but I haven't found a good recipe; even when they *sound* precise there's still a step of winging it somehow.
+

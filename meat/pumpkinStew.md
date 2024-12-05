@@ -1,6 +1,6 @@
 [Instant Pot]: ../indices/instantPot.html
 
-# Beef and Pumpkin Stew
+# Pumpkin Beef Stew
 
 This recipe is cut down from a [beef pumpkin stew recipe](https://www.honeyandbirch.com/pumpkin-beef-stew-recipe/#recipe) and reflavored with Afgani spicing.  It was for an occasion when I would have liked to make [Ethiopian beef stew](../meat/ipEthBeefStew.md), but that would have been too spicy for the toddlers.  You can add potatoes to the stew, or serve it over noodles.
 
@@ -20,6 +20,7 @@ Serves 3--4.
 * 2 tsp. turmeric
 * 1 T ground coriander
 * 1 T cumin
+* dash pumpkin spice (optional)
 * salt to taste
 * black pepper to taste
 * 1 stick cinnamon
@@ -32,7 +33,7 @@ Serves 3--4.
 * 1 1/2 c. canned pumpkin (most of a can)
 * tomato paste to taste
 * 1/2 lb. carrots, cut to bite size
-* 2 T cornstarch
+* 2 T cornstarch (if needed)
 
 ## Directions
 
@@ -43,11 +44,11 @@ Serves 3--4.
 5. If it's in a crockpot, add the cooked beef to an Instant Pot or stovetop pot, along with the stew ingredients except the cornstarch.  Only add stock as necessary to achieve the desired consistency.
 6. Cook at least long enough to cook the carrots, about 20 minutes on the stovetop or 5 minutes in the Instant Pot.
 7. Simmer or "keep warm" until ready to serve.
-8. Remove some liquid to mix with the cornstarch, then return to the pot.
+8. Remove some liquid, mix it with the cornstarch (if needed), then return it to the pot.
 9. Serve over noodles or alone, as desired.
 
 ## Variants
 
-If you want to add more tomato it's touchy with the Instant Pot; the crockpot step is a good place to replace beef stock with canned tomatoes.
+If you want to add more tomato it's always touchy with the Instant Pot; the crockpot step is a good place to replace some beef stock with canned tomatoes.
 
 You can skim a half cup of pumpkin off the can for [pumpkin bread](../bread/pumpkin.md).
