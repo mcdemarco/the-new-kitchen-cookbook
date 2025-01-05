@@ -27,33 +27,22 @@ This is one of my favorite recipes, but I don't make it very often because of th
 
 ## Variants
 
-Rice salad is as flexible as risotto, with all the refrigerator-surprise potential of soup.  The secret is not to create too much in the way of conflict in your rice salad.  For this reason I usually leave out the tuna.
+Rice salad is as flexible as risotto, with all the refrigerator-surprise potential of soup or pasta salad.  The secret is not to create too much in the way of conflict in your rice salad.  For this reason I usually leave out the tuna.
 
-Hard-boiled egg is a good neutral protein, especially if you reserve the yolks for dressing (though this requires mixing it up separately.  
-
-Speaking of the dressing, lemon juice, lime juice, and/or mint go well in rice salad.  Some people even use mayonnaise.
+Hard-boiled egg is a good neutral protein, especially if you reserve the yolks for dressing (though this requires mixing it up separately, by mashing the yolks into some of your liquid ingredients).  Speaking of the dressing, lemon juice, lime juice, and/or mint go well in rice salad, or you can go with store-bought salad dressing.  Some people even use mayonnaise.
 
 You can also add half a can or more of a salad bean like cannellini or chickpeas.  Optionally, [roast the chickpeas](../appetizers/chickpeas.md).
-
 Frozen peas are also an option, preferably cooked and cooled down, though I've seen people recommend just defrosting them.
 
 Replace the cherry tomatoes with chopped whole tomatoes.
-
 Toss in any sort of salad vegetables: cucumber, bell pepper, fennel, firm tofu, etc.
+Shredded carrot is a Moroccan favorite.
 
 Toss in more little can foods, *e.g.,* marinated mushrooms, canned corn, hot peppers in a jar.
 
-Shredded carrot is a Moroccan favorite.
-
 Pine nuts or pecans are the best, but you can roast walnuts if that's all you have.
+You can add in some decorative rice like wild rice, though these usually take longer to cook.  If you're feeling flush, use arborio rice as the base.  Brown rice is also popular in Greek-leaning recipes.
 
-You can add in some decorative rice like wild rice, though these usually take longer to cook.  If you're feeling flush, use arborio rice as the base.
+Speaking of Greek-leaning, eta is probably the best cheese, but you can add mozzarella and other Italian soft cheeses.
 
-Going in a different direction, feta is probably the best cheese, but you can add mozzarella and other Italian soft cheeses.
-
-Going in yet another direction, hot dogs are an easy meat addition.
-
-
-
-
-
+Going in a different direction, hot dogs are an easy meat addition.

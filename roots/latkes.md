@@ -33,4 +33,4 @@ Serve hot with sour cream or applesauce.
 
 For sweet potato latkes, reduce to 1 lb. sweet potatoes per 2 eggs, skip the ice water steps, and, optionally, replace panko with 1/3 c. flour.  Optionally add scallions and 1/4 tsp. cayenne pepper.  Sweet potatoes can be harder to keep in one piece, so you may want to fry them more shallowly in a frying pan (rather than deep-frying them).
 
-
+[The Kitchn](https://www.thekitchn.com/crispy-cheesy-latkes-recipe-23450999) adds a baked-on cheese topping.  There are also schools of mixing in the cheese, stuffing with cheese, or [going Greek](https://honestcooking.com/spanolatkes-greek-twist-latkes-recipe/).
