@@ -19,9 +19,9 @@ Makes: 14--16 latkes.
 
 1. Peel and grate potatoes into ice water.  Let sit 20 minutes.
 2. Grate onion.
-3. Remove potatoes to a colander.
+3. Remove potatoes to a colander without draining the ice water.
 4. Squeeze potatoes and onion in a towel or cheesecloth to remove as much liquid as possible.
-3. Pour off ice water, reserving the starch.
+3. Carefully pour the water off the starch.  (You can leave it at the bottom and use the same bowl to mix in.)
 4. Combine all ingredients (including reserved or extra starch).
 5. Squeeze latkes some more into latke-shape, 3 T. at a time.
 6. Deep-fry 2--3 minutes per side at 360°--375°.
@@ -34,3 +34,8 @@ Serve hot with sour cream or applesauce.
 For sweet potato latkes, reduce to 1 lb. sweet potatoes per 2 eggs, skip the ice water steps, and, optionally, replace panko with 1/3 c. flour.  Optionally add scallions and 1/4 tsp. cayenne pepper.  Sweet potatoes can be harder to keep in one piece, so you may want to fry them more shallowly in a frying pan (rather than deep-frying them).
 
 [The Kitchn](https://www.thekitchn.com/crispy-cheesy-latkes-recipe-23450999) adds a baked-on cheese topping.  There are also schools of mixing in the cheese, stuffing with cheese, or [going Greek](https://honestcooking.com/spanolatkes-greek-twist-latkes-recipe/).
+
+I like to deep fry latkes in order to make donuts in the same oil for dessert, and because they hold together better on the way in, but it can lead to foaming as the oil gets dirtier.  
+
+If you have trouble with the oil foaming, you can shallow-fry the latkes and just eyeball them for color and crispiness. The original recipe called for very little oil, but I still use at least half an inch.
+
