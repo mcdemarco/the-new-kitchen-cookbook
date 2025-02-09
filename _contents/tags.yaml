@@ -52,6 +52,7 @@
   - bread/advice.md
   - bread/challah.md
   - bread/croissants.md
+  - bread/eliopsomo.md
   - bread/pumpernickel.md
   - bread/pumpkin.md
   - cookies/gingerbreadHouse.md
@@ -202,6 +203,7 @@
 - tagname: quick
   filename: quick
   paths:
+  - bread/eliopsomo.md
   - bread/frenchToast.md
   - bread/tiropsomo.md
   - fish/broiledSalmon.md

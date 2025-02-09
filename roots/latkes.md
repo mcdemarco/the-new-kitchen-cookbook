@@ -35,7 +35,5 @@ For sweet potato latkes, reduce to 1 lb. sweet potatoes per 2 eggs, skip the ice
 
 [The Kitchn](https://www.thekitchn.com/crispy-cheesy-latkes-recipe-23450999) adds a baked-on cheese topping.  There are also schools of mixing in the cheese, stuffing with cheese, or [going Greek](https://honestcooking.com/spanolatkes-greek-twist-latkes-recipe/).
 
-I like to deep fry latkes in order to make donuts in the same oil for dessert, and because they hold together better on the way in, but it can lead to foaming as the oil gets dirtier.  
-
-If you have trouble with the oil foaming, you can shallow-fry the latkes and just eyeball them for color and crispiness. The original recipe called for very little oil, but I still use at least half an inch.
+I like to deep fry latkes in order to make donuts in the same oil for dessert, and because they hold together better on the way in, but it can lead to foaming as the oil gets dirtier.  If you have trouble with the oil foaming, you can shallow-fry the latkes and just eyeball them for color and crispiness. The original recipe called for very little oil, but I still use at least half an inch.
 

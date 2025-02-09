@@ -218,6 +218,9 @@
   - name: Tiropsomo (Feta-Stuffed Flatbread)
     filename: tiropsomo
     new: 2023
+  - name: Eliopsomo Rolls
+    filename: eliopsomo
+    new: 2025
   - name: Spicy Cinnamon Flatbread
     filename: cinnamonFlatbread
   - name: Pizza Sauce

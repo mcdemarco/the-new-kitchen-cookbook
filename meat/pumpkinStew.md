@@ -30,7 +30,7 @@ Serves 3--4.
 ### Stew
 
 * 1 c. beef stock, approximately
-* 1 1/2 c. canned pumpkin (most of a can)
+* 1 1/2 c. canned pumpkin puree (most of a can)
 * tomato paste to taste
 * 1/2 lb. carrots, cut to bite size
 * 2 T cornstarch (if needed)
