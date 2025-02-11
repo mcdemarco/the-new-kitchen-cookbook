@@ -98,6 +98,30 @@
   - roots/spinachRicottaLatkes.md
   - sweets/ponchiki.md
   - sweets/sufganiyot.md
+- tagname: noKnead
+  filename: noKnead
+  paths:
+  - bread/artisanIndex.md
+  - bread/baguette.md
+  - bread/ciabatta.md
+  - bread/cinnamonFlatbread.md
+  - bread/fryDough.md
+  - bread/garlicBreadsticks.md
+  - bread/healthy.md
+  - bread/marble.md
+  - bread/master.md
+  - bread/math.md
+  - bread/naan.md
+  - bread/oliveFocaccia.md
+  - bread/oliveOil.md
+  - bread/panPizza.md
+  - bread/pizzaPizza.md
+  - bread/popoverCinnamonRolls.md
+  - bread/rosemary.md
+  - bread/rye.md
+  - bread/semolina.md
+  - bread/tiropsomo.md
+  - bread/zaatar.md
 - tagname: passover
   filename: passover
   paths:
