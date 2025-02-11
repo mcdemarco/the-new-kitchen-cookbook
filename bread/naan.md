@@ -1,3 +1,5 @@
+[noKnead]: ../indices/noKnead.html
+
 # Garlic Naan
 
 I was perusing the 5 Minutes a Day blog, probably in search of good rye bread, when I came across a mention of naan as being one of readers' favorites from the original book.  "There's naan in there?" I asked myself, and when I looked there was, indeed, naan in there.  I googled for more naan ingredients and decided to go with garlic, plus some other things I didn't measure very well. 

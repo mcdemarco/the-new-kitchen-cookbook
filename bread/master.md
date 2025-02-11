@@ -1,3 +1,5 @@
+[noKnead]: ../indices/noKnead.html
+
 # Master No-Knead Recipe
 
 You can get the *Artisan Bread in 5 Minutes a Day* master recipe online in the book's blog: [Master](http://www.artisanbreadinfive.com/2013/10/22/the-new-artisan-bread-in-five-minutes-a-day-is-launched-back-to-basics-updated) [Recipe](http://www.artisanbreadinfive.com/2008/04/27/great-coverage-in-the-week-magazine-but-there-was-one-little-problem), and elsewhere, or [by weight](https://artisanbreadinfive.com/2007/11/26/question-about-weighing-the-flour/#comment-249).

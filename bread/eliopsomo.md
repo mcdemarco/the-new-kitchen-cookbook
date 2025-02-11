@@ -2,7 +2,8 @@
 
 # Eliopsomo Rolls
 
-This is a dairy yeast roll recipe that's a variant of a couple of recipes at [Marilena's](https://marilenaskitchen.com/easy-greek-olive-bread/) [kitchen](https://marilenaskitchen.com/greek-feta-cheese-bread/), which called for a cast-iron pan that I don't have.  I considered pouring the dough onto my pizza stone, but I'm always looking for new uses for my popover pan so I tried that instead.  
+This is a dairy yeast roll recipe that was influenced by a couple of recipes at [Marilena's](https://marilenaskitchen.com/easy-greek-olive-bread/) [kitchen](https://marilenaskitchen.com/greek-feta-cheese-bread/).  She called for a cast-iron pan that I don't have.  
+I considered pouring the dough onto my pizza stone, but I'm always looking for new uses for my popover pan so I tried that instead.  
 
 Since I got the KitchenAid, I don't batch up as much no-knead bread; this is an individual no-knead recipe.
 

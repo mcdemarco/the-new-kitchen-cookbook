@@ -1,3 +1,5 @@
+[noKnead]: ../indices/noKnead.html
+
 # Fry Dough(nuts)
 
 You can fry no-knead dough just as it is, or you can fill it first.  The doughnut version below is cut down from the Artisan Bread in 5 recipe for [Savory Doughnuts](https://artisanbreadinfive.com/2011/12/20/savory-doughnuts/).  I used olive oil dough the first time because that was what I had around.

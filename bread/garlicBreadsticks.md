@@ -1,3 +1,5 @@
+[noKnead]: ../indices/noKnead.html
+
 # Garlic Breadsticks
 
 Having made cinnamon flatbreads that looked a lot like breadsticks, I wanted to make some actual breadsticks with my refrigerator dough.  The artisan bread in 5 blog had [several recipes](http://www.artisanbreadinfive.com/tag/breadsticks) for breadsticks; mostly I went with [Vote](https://artisanbreadinfive.com/2012/11/05/vote/).  For thinner ones, try their [Grissini](https://artisanbreadinfive.com/2007/11/07/grissini-olive-oil-breadsticks/) recipe.

@@ -1,3 +1,5 @@
+[noKnead]: ../indices/noKnead.html
+
 # Artisan Bread Index
 
 ![probably a sweet bread](../images/mysterybreadwc.png)

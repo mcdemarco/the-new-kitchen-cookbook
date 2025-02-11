@@ -32,7 +32,7 @@ This is my to-do list.
 * [Finnish Salmon Soup - Lohikeitto](https://cookingtheglobe.com/finnish-salmon-soup-lohikeitto/)
 * [IP French Onion Soup](https://www.seriouseats.com/the-food-lab-pressure-cooker-caramelized-onions-onion-soup)
 * IP Avgolemono, with [rice and chicken thighs](https://poshjournal.com/instant-pot-greek-chicken-lemon-rice-soup-avgolemono) or just [broth and orzo](https://pressureluckcooking.com/instant-pot-egg-lemon-orzo-soup/)
-
+* [Meatball Avgolemono](https://marilenaskitchen.com/greek-meatball-soup/)
 
 ## Breakfast and Quick Bread
 
@@ -91,6 +91,7 @@ This is my to-do list.
 
 ### Rice
 
+* [Spanakorizo](https://marilenaskitchen.com/easy-greek-spinach-and-rice-dish-spanakorizo/) (Greek spinach and rice)
 * [Wild rice and corn kugel](https://jamiegeller.com/recipes/corn-and-wild-rice-kugel/)
 * [Fennel Risotto](http://cooking.nytimes.com/recipes/1016978-caramelized-onion-and-fennel-risotto)
 * [IP Butternut Squash Risotto](https://theforkedspoon.com/wprm_print/49655/)
@@ -117,6 +118,7 @@ This is my to-do list.
 * Vegan sausage: made from [tofu](https://minimalistbaker.com/vegan-pepperoni/) or [steamed](https://itdoesnttastelikechicken.com/easy-vegan-seitan-pepperoni/) or [baked seitan](https://www.noracooks.com/vegan-pepperoni/)
 * Stufadin, _Cucina Ebraica_ p.145
 * [IP Pasta Sauce](https://www.pressurecookrecipes.com/instant-pot-spaghetti-sauce/)
+* [Greek beef stew and orzo](https://marilenaskitchen.com/greek-beef-stew-and-baked-orzo-recipe-yiouvetsi/)
 
 ## Poultry
 

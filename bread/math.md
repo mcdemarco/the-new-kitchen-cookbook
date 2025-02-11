@@ -1,3 +1,5 @@
+[noKnead]: ../indices/noKnead.html
+
 # Bread Math
 
 Sometimes you want a little less than the full *Artisan Bread in 5 Minutes a Day* [Master Recipe](../bread/master.md).  The basic unit here is a loaf.

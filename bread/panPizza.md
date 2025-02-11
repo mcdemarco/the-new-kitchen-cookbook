@@ -1,3 +1,5 @@
+[noKnead]: ../indices/noKnead.html
+
 # Pan Pizza
 
 The _Artisan Bread in 5_ book assumes you're going to cook your pizza at ∞° on your good bread stone, oiling up the stone and smoking up the house.  I wanted to cook mine at a more reasonable temperature on a cookie sheet, a la the BakerMama's recipe for [sheet pan pizza](http://thebakermama.com/recipes/sheet-pan-pizza/), so I came up with the following procedure.  (I have since gotten a pizza stone and [gone smoky](../bread/pizzaPizza.md).)

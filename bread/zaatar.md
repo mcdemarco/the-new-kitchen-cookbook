@@ -1,3 +1,5 @@
+[noKnead]: ../indices/noKnead.html
+
 # Za'atar Bread
 
 This is a yeast flatbread from the *Artisan Bread in 5* cookbook, using no-knead dough and za'atar.  Za'atar is a Middle Eastern spice mix named after one of its ingredients, though which one varies.  (And I thought "black cumin" was vague...)
