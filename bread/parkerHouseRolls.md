@@ -1,3 +1,5 @@
+[potluck]: ../indices/potluck.html
+
 # Parker House Rolls
 
 This is [Pioneer Woman's Parker House Roll recipe](http://thepioneerwoman.com/cooking/parker-house-rolls/), cut in half, which I made on request for Thanksgiving; everyone liked their buttery butteriness, so I'm sure they'll be back again.

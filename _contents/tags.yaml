@@ -230,11 +230,14 @@
   paths:
   - appetizers/mulledCider.md
   - appetizers/mulledWine.md
+  - bread/parkerHouseRolls.md
+  - cookies/pizzelles.md
   - pie/pasteisDeNata.md
   - poultry/bakedCoconutChicken.md
   - poultry/bakedTurkeyChicken.md
   - poultry/crowdCacciatore.md
   - poultry/wildRiceChicken.md
+  - roots/tzimmes.md
   - salad/cucumber.md
   - salad/farroSalad.md
   - sweets/tapioca.md

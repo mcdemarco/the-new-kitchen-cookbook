@@ -1,4 +1,5 @@
 [photographed]: ../indices/photographed.html
+[potluck]: ../indices/potluck.html
 
 # Pizzelles
 
