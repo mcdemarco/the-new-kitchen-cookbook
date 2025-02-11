@@ -1,4 +1,5 @@
 [passover]: ../indices/passover.html
+[potluck]: ../indices/potluck.html
 
 # Tapioca Pudding
 

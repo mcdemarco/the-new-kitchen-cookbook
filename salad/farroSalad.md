@@ -5,6 +5,7 @@
 
 I had an amazing cold farro salad at a potluck; this is my attempt to reproduce it, with some reference to an [Italian Farro Salad](https://www.wellplated.com/italian-farro-salad/) from Well Plated.  They insist on Bob's Red Mill farro, but since I've never found any other brand I can't comment on that.
 
+Serves 8.
 
 ## Ingredients
 
@@ -31,13 +32,12 @@ I had an amazing cold farro salad at a potluck; this is my attempt to reproduce 
 
 ## Directions
 
-1. Boil at least 3 cups of salted water.
-2. Add farro; cook at least 30 minutes.  Drain.
-3. Cool.
-4. Mix dressing.
+1. Boil farro 30 minutes in at least 3 cups of salted water, or pressure cook 12 minutes with 1 1/2 cups of water and release naturally.
+2. Mix dressing.
+3. Drain farro.
+4. Dress, then cool.
 5. Toss all ingredients.
 6. Serve at room temperature or cold.
-
 
 ## Variants
 
@@ -45,12 +45,10 @@ Fry the farro in oil with shallots before cooking in stock, risotto-style.
 
 Tahini is an interesting dressing variant.
 
-Sweet onion and sun-dried tomato appear frequently in farro recipes, as do nuts (usually pistachios or pecans, but I would keep it Italian with pine nuts).  Cannellini are another interesting option.
+Sweet onion and sun-dried tomato appear frequently in farro recipes, as do nuts (usually pistachios or pecans, but I would keep it Italian with pine nuts, or keep it cheap with walnuts).  Cannellini and/or frozen peas have also been suggested.
 
 Sometimes the cheese is parmesan instead of feta.
 
 Often a literal green salad is mixed with farro to make a farro salad.
 
 You can allegedly freeze farro (though not the rest of the salad), if that helps.
-
-Farro can be made in an [Instant Pot]; the internet is conflicted about proportions but 1 c. farro to 1 1/2 c. water or stock seems to work with Bob's, without much need for draining afterwards.  Cook on high pressure for 12 minutes, then natural release.

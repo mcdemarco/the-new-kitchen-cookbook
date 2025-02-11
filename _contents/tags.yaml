@@ -228,6 +228,8 @@
 - tagname: potluck
   filename: potluck
   paths:
+  - appetizers/mulledCider.md
+  - appetizers/mulledWine.md
   - pie/pasteisDeNata.md
   - poultry/bakedCoconutChicken.md
   - poultry/bakedTurkeyChicken.md
@@ -235,6 +237,7 @@
   - poultry/wildRiceChicken.md
   - salad/cucumber.md
   - salad/farroSalad.md
+  - sweets/tapioca.md
 - tagname: quick
   filename: quick
   paths:

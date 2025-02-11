@@ -1,4 +1,5 @@
 [crockpot]: ../indices/crockpot.html
+[potluck]: ../indices/potluck.html
 
 # Mulled Cider
 
