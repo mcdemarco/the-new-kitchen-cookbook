@@ -61,6 +61,7 @@
   - pasta/fresh.md
   - pasta/miniKugel.md
   - preface/toCook.md
+  - quick-bread/alevropita.md
   - quick-bread/applesauceBananaBread.md
   - quick-bread/pumpkinBananaBread.md
   - quick-bread/scones.md
@@ -203,7 +204,6 @@
 - tagname: quick
   filename: quick
   paths:
-  - bread/eliopsomo.md
   - bread/frenchToast.md
   - bread/tiropsomo.md
   - fish/broiledSalmon.md
@@ -229,6 +229,7 @@
   - poultry/scaloppini.md
   - poultry/turkeyChickenKing.md
   - poultry/turkeyChili.md
+  - quick-bread/alevropita.md
   - rice/ipFarroLentils.md
   - rice/ipFarroRisotto.md
   - rice/ipRisotto.md

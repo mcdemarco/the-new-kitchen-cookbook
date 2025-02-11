@@ -1,5 +1,4 @@
 [KitchenAid]: ../indices/kitchenAid.html
-[quick]: ../indices/quick.html
 
 # Eliopsomo Rolls
 
@@ -36,3 +35,5 @@ Serve warm.
 ## Variants
 
 For a similar recipe using non-dairy dough, see my [Tiropsomo](../bread/tiropsomo.md).
+
+For a similar recipe without yeast, see my [Alevropita](../quick-bread/alevropita.md).

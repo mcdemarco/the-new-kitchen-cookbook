@@ -262,6 +262,9 @@
   - name: Popovers
     filename: popovers
     favorite: true
+  - name: Alevropita (Quick Feta Flatbread)
+    filename: tiropsomo
+    new: 2025
   - name: Scones
     filename: scones
     new: 2024
