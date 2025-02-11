@@ -225,6 +225,16 @@
   - sweets/easyFudge.md
   - sweets/sonhos.md
   - vegetables/roastedOkra.md
+- tagname: potluck
+  filename: potluck
+  paths:
+  - pie/pasteisDeNata.md
+  - poultry/bakedCoconutChicken.md
+  - poultry/bakedTurkeyChicken.md
+  - poultry/crowdCacciatore.md
+  - poultry/wildRiceChicken.md
+  - salad/cucumber.md
+  - salad/farroSalad.md
 - tagname: quick
   filename: quick
   paths:

@@ -1,4 +1,5 @@
 [passover]: ../indices/passover.html
+[potluck]: ../indices/potluck.html
 
 # Coconut Curry Chicken for a Crowd
 

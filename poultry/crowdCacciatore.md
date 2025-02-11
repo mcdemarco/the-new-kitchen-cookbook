@@ -1,3 +1,5 @@
+[potluck]: ../indices/potluck.html
+
 # Chicken Cacciatore for a Crowd
 
 This recipe is similar in backstory to my [Turkey Chicken for a Crowd](../poultry/bakedTurkeyChicken.md), but based on [Chicken Cacciatore](../poultry/cacciatore.md) instead.  I added more ingredients for potluck interest, along the lines of [Lidia's Cacciatore](https://lidiasitaly.com/recipes/chicken-cacciatore/).

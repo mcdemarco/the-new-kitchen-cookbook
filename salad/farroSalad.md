@@ -1,4 +1,5 @@
 [Instant Pot]: ../indices/instantPot.html
+[potluck]: ../indices/potluck.html
 
 # Farro Salad
 

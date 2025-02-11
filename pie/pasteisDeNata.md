@@ -1,3 +1,5 @@
+[potluck]: ../indices/potluck.html
+
 # Pastéis de Nata
 
 I bought a mini-muffin tin a while back for the sole purpose of making pastéis de nata, a Portuguese egg custard tart that I used to eat in Lisbon.  In the meantime many mini-muffins have been baked in it, but on account of a brunch followed by back-to-back holiday parties this weekend it finally achieved its true purpose.  The tin is non-non-stick, but there's enough butter in this recipe to release a horse.
