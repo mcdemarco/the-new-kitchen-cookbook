@@ -9,7 +9,7 @@ This is close to the recipe that came with my original iron (which has long sinc
 
 ![pizzelle iron](../images/pizzelleiron_closed.png)
 
-Virginia Dare makes anise oil. Two teaspoons is a LOT of anise oil. You may want to cut back when serving non-Italians.
+LorAnn makes anise oil. Two teaspoons is a LOT of anise oil. You may want to cut back when serving non-Italians.
 
 ## Ingredients
 
@@ -22,7 +22,7 @@ Virginia Dare makes anise oil. Two teaspoons is a LOT of anise oil. You may want
 
 ## Directions
 
-1.  Plug in pizzelle iron. Grease and heat according to manufacturer's instructions.
+1. Plug in pizzelle iron. Grease and heat according to manufacturer's instructions.
 2. Beat eggs. 
 3. Beat in sugar. 
 4. Add oil and anise. 
