@@ -35,6 +35,6 @@ Serve warm.
 
 ## Variants
 
-For a similar recipe using non-dairy dough, see my [Tiropsomo](../bread/tiropsomo.md).
+For a similar recipe using non-dairy dough, see my [Tiropsomo](../bread/tiropsomo.md) or [Olive and Garlic Focaccia](../bread/oliveFocaccia.md).
 
-For a similar recipe without yeast, see my [Alevropita](../quick-bread/alevropita.md).
+For a similar recipe without yeast, see my [Alevropita](../quick-bread/alevropita.md).  Or make this, like that, in a preheated pie tin.

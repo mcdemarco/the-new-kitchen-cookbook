@@ -209,9 +209,12 @@
   - name: Garlic Naan
     filename: naan
   - name: Olive and Garlic Focaccia
-    filename: oliveFocaccia
+    filename: nkOliveFocaccia
     favorite: true
     new: 2022
+  - name: Olive and Rosemary Focaccia
+    filename: oliveFocaccia
+    new: 2025
   - name: Za'atar Bread
     filename: zaatar
     favorite: true
