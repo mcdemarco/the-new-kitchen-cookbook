@@ -349,6 +349,9 @@
     filename: ipArtichokes
   - name: Instant Pot Cannellini
     filename: ipCannellini
+  - name: Instant Pot Ad(z)uki Beans
+    filename: ipAdzuki
+    new: 2025
   - name: Crispy Baked Tofu
     filename: bakedTofu
     new: 2023
