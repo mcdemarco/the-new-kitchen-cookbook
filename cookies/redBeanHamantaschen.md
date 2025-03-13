@@ -70,9 +70,22 @@ Another plan for another year is Nutella hamantaschen, which I never seem to get
 
 ### Dough
 
-Jamie Geller uses [extra-virgin olive oil](https://jamiegeller.com/recipes/olive-oil-hamantaschen/).
+Jamie Geller uses [extra-virgin olive oil](https://jamiegeller.com/recipes/olive-oil-hamantaschen/).  Cut down to this recipe's size, it's
 
-I don't actually object to Crisco in my cookies (unlike Tori Avery), so I'll be on the lookout for yet another recipe.  I also hear good things about yeast dough hamantaschen.
+* 1 1/4 c. flour
+* 1 1/4 tsp. baking powder
+* 1 egg
+* 1/4 c. sugar
+* 1/4 c. oil
+* 1/4 tsp. lemon juice
+* 1/2 tsp. lemon zest
+* dash salt
+
+The directions are the same.
+
+
+I don't actually object to Crisco in my cookies (unlike Tori Avery), so I'll be on the lookout for yet another recipe.  
+I've also experimented with [yeast dough hamantaschen](../cookies/yeastHamantaschen.md).
 
 I initially tried to follow the hamantaschen recipe from my King Arthur cookie cookbook (which looks the same as the one [on their website](https://www.kingarthurflour.com/recipes/hamantaschen-recipe)), but it came out too dry so I had to gradually add water like for pastry.
 

@@ -2,11 +2,11 @@
 
 # Instant Pot Ad(z)uki Beans 
 
-I consulted [Adamant Kitchen's Adzuki bean recipe](https://adamantkitchen.com/instant-pot-adzuki-beans/) and [Just One Cookbook's Anko recipe](); there doesn't seem to be as much controversy online about pressure cooking red beans as there is about rice.  While some recipes offer pre-soaked and unsoaked advice, I can't imagine ever getting my beans soaked ahead of time so this recipe is for dry dry beans.
+I consulted [Adamant Kitchen's Adzuki bean recipe](https://adamantkitchen.com/instant-pot-adzuki-beans/) and [Just One Cookbook's Anko recipe](https://www.justonecookbook.com/pressure-cooker-anko-red-bean-paste/).  There doesn't seem to be as much controversy online about pressure cooking red beans as there is about rice.  While some recipes offer pre-soaked and unsoaked advice, I can't imagine ever getting my beans soaked ahead of time so this recipe is for dry dry beans.
 
-Anko is red bean paste; instructions are included for that highly likely target of my bean cooking.
+Anko is Japanese red bean paste; directions are included for that highly likely target of my bean cooking.
 
-Makes ?
+Makes 6 cups.
 
 ## Ingredients
 
@@ -34,4 +34,9 @@ Makes ?
 
 It's traditional to strain out the skins, but easier to immersion-blend them out of sight.
 
+There's also a chunky version of red bean paste, especially useful if you don't have a strainer.
+
 Sugar to taste.
+
+If you don't have a kitchen scale or metric measuring cup, see Just One Cookbook for imperial measures.
+
