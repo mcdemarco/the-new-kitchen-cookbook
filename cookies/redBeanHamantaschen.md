@@ -84,8 +84,7 @@ Jamie Geller uses [extra-virgin olive oil](https://jamiegeller.com/recipes/olive
 The directions are the same.
 
 
-I don't actually object to Crisco in my cookies (unlike Tori Avery), so I'll be on the lookout for yet another recipe.  
-I've also experimented with [yeast dough hamantaschen](../cookies/yeastHamantaschen.md).
+I don't actually object to Crisco in my cookies (unlike Tori Avery), so I'll be on the lookout for yet another recipe.  I've also experimented with [yeast dough hamantaschen](../cookies/yeastHamantaschen.md).
 
 I initially tried to follow the hamantaschen recipe from my King Arthur cookie cookbook (which looks the same as the one [on their website](https://www.kingarthurflour.com/recipes/hamantaschen-recipe)), but it came out too dry so I had to gradually add water like for pastry.
 

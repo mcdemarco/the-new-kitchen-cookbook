@@ -835,9 +835,9 @@
   - name: Non-Dairy Pumpkin Pie
     filename: nonDairyPumpkin
     favorite: true
-  - name: Non-Dairy Sweet Potato Pie
-    filename: ndSweetPotato
-    new: 2024
+  - name: Red Bean Pie
+    filename: redBean
+    new: 2025
     hidden: true
   - name: Galette
     filename: galette
