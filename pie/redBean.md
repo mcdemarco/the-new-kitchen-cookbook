@@ -1,7 +1,7 @@
 
 # Red Bean Pie
 
-Not to be confused with the popular [Korean Sweet Red Bean Pecan Pie](https://tastecooking.com/recipes/pecan-paht-pie/) or the Chinese and Japanese staple red bean hand pies, this red bean pie was an emergency Pi(e) Day recipe I interpolated between some [full-on bean custard](https://www.epicurious.com/recipes/food/views/bean-pie) recipes and [the claim](https://thepiejournal.com/anko-pie-japans-sweet-red-bean-delight/) thah you can put anko straight into a double pie crust and bake a pie.
+Not to be confused with the popular [Korean Sweet Red Bean Pecan Pie](https://tastecooking.com/recipes/pecan-paht-pie/) or the Chinese and Japanese staple red bean hand pies, this red bean pie was an emergency Pi(e) Day recipe I interpolated between some [full-on bean custard](https://www.epicurious.com/recipes/food/views/bean-pie) recipes and [the claim](https://thepiejournal.com/anko-pie-japans-sweet-red-bean-delight/) that you can put anko straight into a double pie crust and bake a pie.
 
 I usually make shortening crusts, so I just used a [single crust](../pie/crust.md).  You can also use a store-bought pie crust.
 
@@ -32,4 +32,4 @@ Replace nutmeg with [pumpkin spice](../appetizers/pumpkinSpice.md).
 
 A popular approach to bean pies is to add egg yolks to the recipe and meringue the top (partway through baking) with the whites.
 
-Try a double crust with anko, since it's already cooked down a bit.  Or add 1/2 c. milk to the anko filling to get more custardy.
+Try a double crust with anko, since it's already cooked down a bit.  Or add 1/2 c. milk to the anko filling to go more custardy.

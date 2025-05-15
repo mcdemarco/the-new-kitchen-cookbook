@@ -25,7 +25,7 @@ This is my to-do list.
 * [Roasted Cauliflower and Garlic Soup](http://cookingwithcurls.com/2017/01/09/roasted-cauliflower-garlic-soup/)
 * [Roasted Corn Chowda with Cotija](https://smittenkitchen.com/2017/08/corn-chowder-with-chile-lime-and-cotija/)
 * [Kreplach](https://www.epicurious.com/recipes/food/views/kreplach-236219)
-* Pumpkin and Chickpea soup (_Sephardic Cooking_ p.436)
+* Pumpkin and Chickpea soup (_Sephardic Cooking_ p.436 or [here](https://www.cookitrealgood.com/moroccan-pumpkin-chickpea-soup/))
 * [Moqueca (IP)](https://twosleevers.com/brazilian-moqueca/) (Brazilian whitefish stew)
 * [IP Peanut Stew](https://www.paintthekitchenred.com/instant-pot-african-peanut-stew/) or [pareve](https://www.budgetbytes.com/african-peanut-stew-vegan/)
 * [Navy bean and feta stew](https://www.epicurious.com/recipes/food/views/navy-bean-escarole-stew-with-feta-and-olives)
@@ -84,10 +84,12 @@ This is my to-do list.
 
 * Pasta dough: [basics for a machine](https://www.thespruceeats.com/how-to-use-a-pasta-machine-to-make-homemade-pasta-909023), [a dough with lots of eggs](https://www.foodandwine.com/recipes/fresh-pasta-dough), [fewer eggs and semi-semolina](https://www.confettiandbliss.com/fresh-homemade-pasta/), [plain or tomato](https://www.epicuricloud.com/recipe/stand-mixer-pasta-dough-plain-tomato-or-spinach/), [00/durum mix](https://www.recipesfromitaly.com/make-italian-homemade-pasta/), or [pumpkin spice](https://thepracticalkitchen.com/pumpkin-spice-pasta-dough/) [KitchenAid], plus [hydration advice](https://qbcucina.com/blogs/cooking/pasta-dough-troubleshooting)
 * [Pierogis](https://somuchfoodblog.com/potato-and-onion-pierogies-with-bacon/) [KitchenAid]
-* [Apple sage brown butter pasta with walnuts](https://thepracticalkitchen.com/apple-sage-brown-butter-pasta-walnuts/)
-* [Quick Pasta with Chickpeas](https://smittenkitchen.com/2017/10/quick-pasta-and-chickpeas-pasta-e-ceci/)
+* [Apple sage brown butter pasta with walnuts](https://thepracticalkitchen.com/apple-sage-brown-butter-pasta-walnuts/) or just [brown butter parmesan pasta](https://www.thekitchn.com/recipe-brown-butter-parmesan-pasta-246191)
 * [Green Olive Pasta (sauce)](https://www.thekitchn.com/recipe-easy-green-olive-pasta-259032)
 * [Non-dairy Chicken Caesar Pasta Salad](https://anourishingplate.com/chicken-caesar-pasta-salad/)
+* [Anchovy carbonara](https://www.thekitchn.com/anchovy-carbonara-recipe-23562754)
+* [Zucchini butter pasta](https://www.thekitchn.com/zucchini-butter-pasta-recipe-23662168)
+* [Walnut pesto pasta salad](https://smittenkitchen.com/2016/06/charred-eggplant-and-walnut-pesto-pasta-salad/)
 
 ### Rice
 

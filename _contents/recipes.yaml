@@ -538,6 +538,9 @@
   - name: Instant Pot Pasta with Ground Beef
     filename: ipBeefPasta
     new: 2022
+  - name: Instant Pot Pasta e Ceci
+    filename: ipPastaCeci
+    new: 2025
   - name: Mac and Cheese
     filename: macncheese
     favorite: true

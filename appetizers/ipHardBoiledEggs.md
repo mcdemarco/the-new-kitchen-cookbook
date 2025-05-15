@@ -27,4 +27,4 @@ Makes any reasonable quantity of eggs
 
 For a nice medium boiled egg, try 6 minutes.
 
-Don't toss the yolks!  Leftover yolks can be made into salad dressing, sauce gribiche, and mousse, in addition to the traditional devilling.  They can also be added to sauces, pasta salads, baby foods, pastry, and shortbread-style cookies.
+Don't toss the yolks!  Leftover yolks can be made into salad dressing, sauce gribiche, and mousse, in addition to the traditional devilling.  They can also be added to sauces, pasta salads, baby foods, pastry, and shortbread-style cookies.  There's a long thread [at reddit](https://www.reddit.com/r/AskCulinary/comments/1f87boi/use_for_hard_boiled_egg_yolks/) about it.
