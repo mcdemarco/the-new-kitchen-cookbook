@@ -21,7 +21,7 @@ Makes 8--10 biscuits.
 4. Mix in cream without overmixing.
 5. Knead gently, then roll out to 3/4" thick.
 6. Cut out with a biscuit cutter or a large cookie cutter and place on the prepared baking sheet.
-7. Bake for 12--14 minutes or until golden on top. ![golden](../images/esc_biscuits2.png)
+7. Bake for 12--14 minutes or until golden on top. 
 8. Brush tops with melted butter.
 
 Serve warm.
@@ -37,5 +37,3 @@ For sweet biscuits, up the sugar to 3 tablespoons and add pie spices.
 For savory biscuits, add herbs, spices, and/or up to a cup of shredded or grated cheese.
 
 You can bunch cold biscuits together in a greased pan to encourage them to rise higher.
-
-
