@@ -33,6 +33,8 @@ Makes 15--20, best eaten hot out of the oven.
 5. Pour batter into wells.  Fill almost, but not, to the top.
 6. Bake 15--20 minutes or until puffy and browned.
 
+Serve hot.
+
 ## Variants
 
 See [the hard recipe](../appetizers/paoDeQueijo.md) for the many cheese choices.

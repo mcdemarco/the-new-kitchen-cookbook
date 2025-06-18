@@ -37,16 +37,20 @@ Serves: 4--6
 
 ## Variants
 
+[Some people](https://www.southernliving.com/recipes/best-ever-macaroni-and-cheese-recipe) add nutmeg and black pepper, and even grated onion and Worcester sauce.
+
 The original recipe called for 5 slices bread pulsed with the butter in a food processor.  I have never made it that way.
 
 Don't put the pan too close to the broiler if using panko as a substitute for fresh breadcrumbs.  Also, note that the original recipe said not to do that (but I almost always do it).
+
+If you're low on panko, you can replace some with almond flour, or, preferably, almond meal.
 
 ![panko closeup](../images/macNcheese2.png)
 
 I tried doubling the cayenne pepper, to little effect.  I may need some new cayenne pepper...
 
-You can substitute 8 oz. of Pepper Jack for the 8 oz. of Monterey Jack without making the mac'n'cheese obnoxiously spicy.
-
-If you're low on panko, you can replace some with almond flour, or, preferably, almond meal.
+You can substitute 8 oz. of Pepper Jack for the 8 oz. of Monterey Jack without making the mac'n'cheese obnoxiously spicy.  [Other cheese substitutions](https://www.southernliving.com/recipes/best-ever-macaroni-and-cheese-recipe) are also possible, as long as the cheese melts well.
 
 You can leave the pasta *al dente* if you prefer it that way.
+
+You can replace up to 1 1/2 cups of the milk with (slightly more) heavy cream if you need to use some up.

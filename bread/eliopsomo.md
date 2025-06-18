@@ -38,3 +38,5 @@ Serve warm.
 For a similar recipe using non-dairy dough, see my [Tiropsomo](../bread/tiropsomo.md) or [Olive and Garlic Focaccia](../bread/oliveFocaccia.md).
 
 For a similar recipe without yeast, see my [Alevropita](../quick-bread/alevropita.md).  Or make this, like that, in a preheated pie tin.
+
+For enough to last longer than 30 seconds, double the recipe and make in a 12-muffin tin.
