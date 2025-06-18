@@ -309,6 +309,9 @@
     redirect: appetizers
   - name: Quick Breadsticks
     filename: quickBreadsticks
+  - name: Cream Biscuits
+    filename: creamBiscuits
+    new: 2025
   - name: Easy Sour Cream Biscuits
     filename: easySourCreamBiscuits
     new: 2024
