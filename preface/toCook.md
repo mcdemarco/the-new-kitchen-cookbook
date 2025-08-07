@@ -47,6 +47,7 @@ This is my to-do list.
 * [Cheese cornbread](https://www.foodnetwork.com/recipes/food-network-kitchen/cheese-cornbread-3520669)
 * [Everything crackers](https://www.loveandoliveoil.com/2021/02/homemade-everything-crackers.html) or [Smitten Kitchen's crackers](https://smittenkitchen.com/2008/08/crisp-rosemary-flatbread/) [KitchenAid], [PastaMachine]
 * [Papadums](https://foodpluswords.com/what-are-papadums-and-how-are-they-made/) [KitchenAid], [PastaMachine]
+* Peach Bread (already written down)
 
 ## Slow Bread
 
@@ -90,6 +91,7 @@ This is my to-do list.
 * [Anchovy carbonara](https://www.thekitchn.com/anchovy-carbonara-recipe-23562754)
 * [Zucchini butter pasta](https://www.thekitchn.com/zucchini-butter-pasta-recipe-23662168)
 * [Walnut pesto pasta salad](https://smittenkitchen.com/2016/06/charred-eggplant-and-walnut-pesto-pasta-salad/)
+* [Pesto tortellini salad](https://urbanfarmie.com/summer-tortellini-salad/)
 
 ### Rice
 
@@ -154,7 +156,6 @@ This is my to-do list.
 * [Marshmallows](https://www.tasteofhome.com/recipes/homemade-holiday-marshmallows/) [KitchenAid]
 * [Cheesecake](https://www.tasteofhome.com/recipes/ricotta-cheesecake/) [KitchenAid]
 * [Olive oil cake](https://www.bonappetit.com/recipe/olive-oil-cake) or [Chocolate olive oil cake](https://www.thekitchn.com/chocolate-olive-oil-cake-recipe-23075403) (both pareve) [KitchenAid]
-
 
 
 ### Cookies

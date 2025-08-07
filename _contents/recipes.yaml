@@ -281,6 +281,10 @@
   - name:  Butternut Squash Bread
     filename: squashBread
     new: 2024
+  - name:  Peach Quick Bread
+    filename: peach
+    new: 2025
+    hidden: true
   - name: Bran Muffins for Mom
     filename: branMuffins
     favorite: true
@@ -758,6 +762,9 @@
   - name: Vanilla Cupcakes
     filename: cupcakes
     new: 2023
+  - name: Peach Cake
+    filename: peachCake
+    new: 2025
   - name: Sonhos (Portuguese Doughnuts)
     filename: sonhos
   - name: Sufganiyot (Jelly Doughnuts)
