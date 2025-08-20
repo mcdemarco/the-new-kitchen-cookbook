@@ -35,3 +35,5 @@ My original spice blend was 1/2 tsp. smoked paprika, 1/4 tsp. dried thyme, 1/4 t
 You can replace either set of spices with 2 tsp. or more of your favorite spice blend.  Add salt if the blend doesn't include it.
 
 Cook from frozen the same way for about 10 minutes per pound.  Omit stuffing the cavity if that's too difficult.
+
+You can, allegedly, omit everything else if you [include two lemons](https://www.foodandwine.com/recipes/roast-chicken-lemons).

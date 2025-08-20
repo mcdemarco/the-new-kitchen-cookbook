@@ -29,3 +29,5 @@ Sometimes you don't want to wait the entire 50 minutes a pound to cook a chicken
 You can also apply the spice mixture to the slow recipe, with or without cheesecloth.  The original spice mixture was: 1 tsp. salt, 1 tsp. pepper, 1/2 tsp. oregano, 1 tsp. basil, 1 tsp. paprika.    A [turkey-chicken](../poultry/turkeyChicken.md) style spice mixture is: 1 tsp. salt, 1 tsp. marjoram, 1 tsp. rosemary, 1 tsp. sage, 2 tsp. garlic powder, and black pepper to taste.
 
 Sometimes you don't want to heat up or dirty up the oven.  At those times, I roast the chicken [in a crockpot](../poultry/crockpotRoastedChicken.md) or [Instant Pot](../poultry/ipChicken.md) instead.  Allegedly the former works for a turkey, too, but I've never personally seen either a turkey that would fit into a crockpot or a crockpot that would fit a whole turkey.
+
+You can, allegedly, omit everything else if you [include lemons](https://www.foodandwine.com/recipes/roast-chicken-lemons).

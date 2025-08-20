@@ -271,6 +271,9 @@
   - name: Scones
     filename: scones
     new: 2024
+  - name: Buttermilk Micro Donuts
+    filename: buttermilkMicroDonuts
+    new: 2025
   - name:  Applesauce Banana Bread
     filename: applesauceBananaBread
     new: 2024
