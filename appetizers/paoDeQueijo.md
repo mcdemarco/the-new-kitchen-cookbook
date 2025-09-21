@@ -48,15 +48,13 @@ Makes about 40, best eaten hot out of the oven.
 
 ## Variants
 
-Ideally, you would use a Brazilian hard cheese called *queijo Minas padrão* or *queijo Minas meia cura*.  (Minas is just the region, so check for the other words.)
+Ideally, you would use a Brazilian hard cheese called *queijo Minas padrão* or *queijo Minas meia cura*.  (Minas is just the region, so check for the other words.)  
 
-The most common pão de queijo cheese substitute recommendation seems to be [a mix of parmesan and mozarella](https://www.foodnetwork.com/recipes/food-network-kitchen/pao-de-queijo-3364982).  (A cup of packed mozzarella is about 130g.)  [Asiago](https://www.foodnetwork.com/recipes/pao-de-queijo-brazilian-cheese-bread-3303576) is another option, as, apparently, are [feta or farmer's cheese](https://www.simplyrecipes.com/recipes/easy_brazilian_cheese_bread/).
+The most common pão de queijo cheese substitute recommendation seems to be [a mix of parmesan and mozarella](https://www.foodnetwork.com/recipes/food-network-kitchen/pao-de-queijo-3364982).  (A cup of packed mozzarella is about 130g.)  [Asiago](https://www.foodnetwork.com/recipes/pao-de-queijo-brazilian-cheese-bread-3303576) is another option, as, apparently, are [feta or farmer's cheese](https://www.simplyrecipes.com/recipes/easy_brazilian_cheese_bread/).  Cheddar also has its fans.  If using cottage cheese or another wet cheese, you may want to strain it first, or adjust the milk to compensate.
 
 I often use only a nominal T of grated Parmesan, plus about 250 g. of a mozzarella/asiago/cheddar mix from Costco.
 
-Most recipes in English replace the sour tapioca starch with sweet tapioca starch for lack of Brazilian grocery stores.  If following such a recipe, you can re-sour it by using 5 parts *azedo* to 3 parts *doce*.
-
-I guess they don't have Brazilian groceries in Japan, because [expatriate Brazilians make cheese bread with potato there](https://www.justhungry.com/very-easy-pao-de-queijo-brazilian-cheese-bread-japan).
+Most recipes in English omit the sour tapioca starch for lack of Brazilian grocery stores.  If following such a recipe (for example, The Spruce Eats [a large batch](https://www.thespruceeats.com/pao-de-queijo-brazilian-cheese-bread-3028981)), you can re-sour it by using 5 parts *azedo* to 3 parts *doce*.
 
 Most recipes don't require that you pause to chill the dough.
 
@@ -68,7 +66,7 @@ On the other hand, you can just blend and pour [a watery dough](https://www.simp
 
 Some people bake the usual dough [in muffin tins](http://www.epicurious.com/recipes/member/views/pao-de-queijo-aka-brazilian-cheese-puffs-1266023), although that didn't seem to work for me.  ([My easy version](../appetizers/easyPaoDeQueijo.md) does use a muffin tin.)
 
-Some tame the dough with a bit of wheat flour, which is totally cheating.
+Some tame the dough with a bit of wheat flour, which is totally cheating.  I guess they don't have Brazilian groceries in Japan, because [expatriate Brazilians make cheese bread with potato there](https://www.justhungry.com/very-easy-pao-de-queijo-brazilian-cheese-bread-japan).
 
 Some recipes go as far as to [omit the cheese and milk](https://whatifgourmet.com/2013/11/19/pao-de-queijo-dairy-free-variations-part-i-the-savory-gfdf/) to make the recipe non-dairy.  This is not as wacky as you think; cheese and milk are thought to be relatively recent additions in the history of tapioca starch rolls.
 

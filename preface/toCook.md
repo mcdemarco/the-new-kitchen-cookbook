@@ -48,6 +48,9 @@ This is my to-do list.
 * [Everything crackers](https://www.loveandoliveoil.com/2021/02/homemade-everything-crackers.html) or [Smitten Kitchen's crackers](https://smittenkitchen.com/2008/08/crisp-rosemary-flatbread/) [KitchenAid], [PastaMachine]
 * [Papadums](https://foodpluswords.com/what-are-papadums-and-how-are-they-made/) [KitchenAid], [PastaMachine]
 * Peach Bread (already written down)
+* [Savory egg custard](https://www.pressurecookrecipes.com/steamed-eggs-savory-egg-custard/) [InstantPot]
+* [Ramen eggs](https://www.pressurecookrecipes.com/ramen-egg-japanese-soft-boiled-egg/) (note in the hard boiled egg recipe?) [InstantPot]
+* [Egg loaf](https://www.pressurecookrecipes.com/instant-pot-kathy-egg-loaf/) (note in the hard boiled egg recipe?) [InstantPot]
 
 ## Slow Bread
 

@@ -49,7 +49,6 @@
 - tagname: KitchenAid
   filename: kitchenAid
   paths:
-  - appetizers/easyPaoDeQueijo.md
   - appetizers/paoDeQueijo.md
   - bread/advice.md
   - bread/challah.md
