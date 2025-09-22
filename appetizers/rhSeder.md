@@ -39,7 +39,7 @@ Here are some menu ideas mixed together from various years.  Often my choice of 
 3. A seasonal starch of some sort such as [Couscous Stuffed Squash](../roots/stuffedSquash.md), [Carrot and Raisin Basmati Rice](https://jamiegeller.com/recipes/rosh-hashanah-carrot-and-raisin-basmati-rice/), [rice kugel](../rice/kugel.md), a wild rice pilaf like [Wild Rice with Carrots and Beets](https://jamiegeller.com/recipes/wild-rice-with-carrots-and-beets/), or [Stuffed peppers](../rice/stuffedPeppers.md)
 3. [Tzimmes](../roots/tzimmes.md) (the Rosh Hashanah variant)
 4. [Briskette](../meat/briskette.md) or [Crockpot Briskette](../meat/crockpotBriskette.md) (about 1/3 lb. per person, more if you want any leftover), or [Stufadin](https://www.epicurious.com/recipes/food/views/braised-meat-with-butternut-squash-15414) (_Cucina Ebraica_ p.145)
-5. [Non-dairy Pumpkin Pie](../pie/nonDairyPumpkin.md), [Apple pie](../pie/apple.md), [Apple cake](https://www.thespruceeats.com/kosher-apple-cake-2121494), or [honey cake](https://smittenkitchen.com/2008/09/majestic-and-moist-honey-cake/)
+5. [Non-dairy Pumpkin Pie](../pie/nonDairyPumpkin.md), [Apple pie](../pie/apple.md), [Apple cake](https://www.thespruceeats.com/kosher-apple-cake-2121494), or [honey cake](../sweets/honeyCake.md).
 
 If possible, make the brisket, dessert, and whatever else you can manage a day ahead.
 

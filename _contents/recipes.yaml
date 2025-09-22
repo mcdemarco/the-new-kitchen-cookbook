@@ -765,6 +765,9 @@
   - name: Vanilla Cupcakes
     filename: cupcakes
     new: 2023
+  - name: Honey Cake
+    filename: honeyCake
+    new: 2025
   - name: Peach Cake
     filename: peachCake
     new: 2025
