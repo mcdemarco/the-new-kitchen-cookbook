@@ -469,6 +469,9 @@
     favorite: true
   - name: Roz bil Shaghria
     filename: roz
+  - name: Instant Pot Rice and Raisins
+    filename: ipRiceAndRaisins
+    new: 2025
   - name: Instant Pot Rice and Red Lentils
     filename: ipRiceAndRedLentils
     new: 2022
