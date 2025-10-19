@@ -6,7 +6,7 @@ For an explanation of tapioca starch/flour, see [the hard recipe](../appetizers/
 
 Apparently if you're truly unlucky you can make a [non-Newtonian fluid](https://en.wikipedia.org/wiki/Non-Newtonian_fluid) out of tapioca starch and damage your blender.  To avoid this rare occurrence, be sure to follow the instructions and mix all wet ingredients first, then add the dry ingredients gradually.
 
-Makes 15--20 (24--30), best eaten hot out of the oven.
+Makes 15--20 (24--30, 30--40), best eaten hot out of the oven.
 
 ## Ingredients
 
@@ -17,14 +17,14 @@ Makes 15--20 (24--30), best eaten hot out of the oven.
 * 1/4 c. olive oil
 * 75 g. (2 1/2 oz.) grated (or soft) cheese, preferably something a bit salty like parmesan, asiago, or feta
 * 100 g. (or 1 c.) sour tapioca flour (*polvilho azedo*)
-* 70 g. (or 1/2 c.) sweet tapioca flour (*polvilho doce*)
+* 70 g. (or 2/3 c.) sweet tapioca flour (*polvilho doce*)
 * 1 tsp. kosher salt
 * dash black pepper (optional)
 * dash cayenne pepper (optional)
 * dash nutmeg (optional)
 * dash garlic powder (optional)
 
-### 1 Mini-muffin Tin
+### 1 Mini Muffin Tin
 
 * 1 egg plus one yolk
 * 1 c. milk
@@ -33,10 +33,24 @@ Makes 15--20 (24--30), best eaten hot out of the oven.
 * 150 g. (or 1 1/2 c.) sour tapioca flour (*polvilho azedo*)
 * 100 g. (or 3/4 c.) sweet tapioca flour (*polvilho doce*)
 * 1/2 T. kosher salt
-* dash black pepper (optional)
-* dash cayenne pepper (optional)
-* dash nutmeg (optional)
-* dash garlic powder (optional)
+* generous dash black pepper (optional)
+* generous dash cayenne pepper (optional)
+* generous dash nutmeg (optional)
+* generous dash garlic powder (optional)
+
+### 2 Eggs
+
+* 2 room temperature eggs
+* 1 1/3 c. milk, also at room temperature
+* 1/2 c. olive oil
+* 150 g. (5 oz.) grated (or soft) cheese, preferably something a bit salty like parmesan, asiago, or feta
+* 200 g. (or 2 c.) sour tapioca flour (*polvilho azedo*)
+* 140 g. (or 1 1/3 c.) sweet tapioca flour (*polvilho doce*)
+* 2 tsp. kosher salt
+* 1/4 tsp. black pepper (optional)
+* 1/4 tsp. cayenne pepper (optional)
+* 1/4 tsp. nutmeg (optional)
+* 1/4 tsp. garlic powder (optional)
 
 ## Directions
 
@@ -70,6 +84,6 @@ You don't absolutely have to bring the cold ingredients to room temperature, esp
 
 You might be able to mix this in a stand mixer with just a paddle attachment with enough force (*i.e.*, speed).  Beware of non-Newtonian fluid formation.
 
-I have made the whole thing in a two-cup Pyrex measuring cup, but I don't recommend it, and the larger version will not fit.  If your stick blender came with a cup, that's another good option.
+I have made the whole thing in a two-cup Pyrex measuring cup, but I don't recommend it, and the larger versions will not fit.  If your stick blender came with a cup, that's another good option.
 
-For the larger recipe, if you don't want to split an egg just toss it all in and reduce the milk or oil to compensate.
+For the mini muffin tin version, if you don't want to split an egg just toss it all in and reduce the milk or oil to compensate.

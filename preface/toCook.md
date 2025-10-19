@@ -9,6 +9,7 @@ This is my to-do list.
 ## Appetizers, Spices, and Snacks
 
 * [Anchovy onion butter](http://food52.com/recipes/26778-anchovy-onion-butter)
+* [Brown butter butter](https://www.instagram.com/p/DOotaVEk6pU/) - whip and chill to rebutter
 * [Parmesan dip](https://www.thekitchn.com/entertaining-recipe-creamy-parmesan-dip-recipes-from-the-kitchn-187441)
 * [Heart of palm hand pies](https://www.iheartbrazil.com/hearts-of-palm-hand-pies/)
 * [Refogado](https://braziliankitchenabroad.com/brazilian-sofrito/), also [here](https://www.iheartbrazil.com/brazilian-sofrito-recipe/)
