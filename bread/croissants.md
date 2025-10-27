@@ -1,3 +1,4 @@
+[photographed]: ../indices/photographed.html
 [KitchenAid]: ../indices/kitchenAid.html
 
 # Croissants

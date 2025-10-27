@@ -47,3 +47,4 @@ For Rosh Hashana, include the optional raisins and make the loaves round.  You c
 
 ![baked](../images/challah_rh.png)
 
+Sprinkles are reasonably hardy at 350° and have become an unintentional tradition of the new kitchen: ![sprinkled](../images/challah_sprinkles.png)

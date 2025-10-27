@@ -2,8 +2,9 @@
 
 # Popovers
 
-This is more or less [the recipe](https://www.nordicware.com/recipe/rosemary-popovers/) that came with my six-popover [popover pan](https://www.nordicware.com/grand-popover-pan).
-I added the frozen herb cubes, though my experiments with several frozen spices have not yet made much of an impression on the outcome.
+This is more or less [the recipe](https://www.nordicware.com/recipe/rosemary-popovers/) that came with my six-popover [popover pan](https://www.nordicware.com/grand-popover-pan).  I added the frozen herb cubes, though my experiments with several frozen spices have not yet made much of an impression on the outcome.
+
+![a batch](../images/popovers_again.png)
 
 Note that you can make the batter ahead of time.
 
@@ -27,10 +28,13 @@ Makes 6 large popovers.
 4. Mix ingredients until smooth but don't overmix.  (Optionally, refrigerate overnight.)
 5. Fill popover cups halfway.
 6. Bake 20 minutes.
+   ![pre popping over](../images/popovers1.png)
 7. Reduce oven to 350° and bake up to 20 more minutes until golden.
-8. Serve hot.
-
-![post popping over](../images/popovers.png)
+   ![popping over](../images/popovers2.png)
+8. Remove carefully from pan.
+   ![cooling briefly](../images/popovers3.png)
+9. Serve hot.
+   ![ready to pop into mouths](../images/popovers4.png)
 
 ## Variants
 

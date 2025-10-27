@@ -1,6 +1,12 @@
+[photographed]: ../indices/photographed.html
+
 # No-Knead Pão de Queijo (Brazilian Cheese Bread)
 
-*Pão de queijo* isn't bread but it takes more kneading than bread, unless you do it the easy way with a thin batter made with a blender, immersion blender, or a stand mixer with a whisk attachment.  This recipe is modified from Simply Recipes' [Easy Brazilian Cheese Bread](https://www.simplyrecipes.com/recipes/easy_brazilian_cheese_bread/), which is not the only one out there but included weights and a long discussion about oil quantities and the emergency use of regular muffin tins.  Another no-knead dimension of this recipe (besides not kneading it) is that you can, allegedly, stick the batter in the fridge and keep making *pães* for a week.
+*Pão de queijo* isn't bread, but it takes more kneading than bread *unless* you do it the easy way with a thin batter, a blender, and a mini-muffin tin.
+
+![briefly cooling](../images/easypao2.png)
+
+This recipe is modified from Simply Recipes' [Easy Brazilian Cheese Bread](https://www.simplyrecipes.com/recipes/easy_brazilian_cheese_bread/), which is not the only one out there but included weights and a long discussion about oil quantities and the emergency use of regular muffin tins.  Another no-knead dimension of this recipe (besides not kneading it) is that you can, allegedly, stick the batter in the fridge and keep making *pães* for a week.
 
 For an explanation of tapioca starch/flour, see [the hard recipe](../appetizers/paoDeQueijo.md).
 
@@ -61,6 +67,7 @@ Makes 15--20 (24--30, 30--40), best eaten hot out of the oven.
 5. **Gradually** blend in the dry ingredients.
 6. Pour batter into wells.  Fill almost, but not, to the top.
 7. Bake 15--20 minutes or until puffy and browned.
+   ![puffing and browning](../images/easypao1.png)
 
 Serve hot.
 

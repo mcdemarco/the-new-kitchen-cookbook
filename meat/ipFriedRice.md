@@ -47,4 +47,6 @@ I happened to have fresh veggies around, but the recipe suggests adding frozen p
 
 The original recipe beat in two eggs at the end, which is not a bad idea.
 
-For more of a stir-fry, make the [rice in the Instant Pot](../rice/ipRice.md) and the rest on the stove.  If it gets too juicy, spoon out some liquid into a small bowl, thicken with cornstarch, and return to the pan.
+For more of a stir-fry, make the [rice in the Instant Pot](../rice/ipRice.md) and the rest on the stove.  If it gets too juicy, spoon out some liquid into a small bowl, thicken with cornstarch, and return to the pan:
+![raw on stovetop](../images/ipFriedRice_stovetop1.png)
+![cooked on stovetop](../images/ipFriedRice_stovetop2.png)

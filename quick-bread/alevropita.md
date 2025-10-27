@@ -3,9 +3,9 @@
 
 # Alevropita (Quick Feta Flatbread)
 
-This is a cut-down version of a traditional Greek "pie".  I made the full version from [Marilena's kitchen](https://marilenaskitchen.com/feta-cheese-flat-bread/)
-in a glass baking dish, but I thought it could use some baking powder and might crisp up better in a metal pie tin.  
-So some math and [other](https://www.kalofagas.ca/2024/03/17/alevropita/) [recipes](https://30daysofgreekfood.com/mediterranean-greek-flour-pie/) were used to devise my version.
+This chewy flatbread is a cut-down version of a traditional Greek "pie".  I made the full version from [Marilena's kitchen](https://marilenaskitchen.com/feta-cheese-flat-bread/) in a glass baking dish: ![large pie](../images/alevropita_large.png)
+
+I thought it could use some baking powder and might crisp up better in a metal pie tin, so I applied some math and [other](https://www.kalofagas.ca/2024/03/17/alevropita/) [recipes](https://30daysofgreekfood.com/mediterranean-greek-flour-pie/) to devise my smaller version.
 
 Serves 3--4.
 
@@ -41,7 +41,6 @@ Serves 3--4.
 Serve warm.
 
 ## Variants
-
 For a muffin-shaped version, see my [Eliopsomo](../bread/eliopsomo.md).
 
-Chop some olives and add them to the dough.
+I like to chop some olives and add them to the dough.  I also add some oregano and sometimes allspice to the dough.

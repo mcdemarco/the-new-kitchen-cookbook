@@ -1,4 +1,5 @@
 [spiceMixes]: ../indices/spiceMix.html
+[photographed]: ../indices/photographed.html
 
 # Moroccan Spice Mix (Ras el Hanout)
 
@@ -34,9 +35,15 @@ Makes 1 jar.
 
 ## Directions
 
-1. Optionally, toast whole ingredients (except saffron) for up to 10 minutes at 325° before grinding them.
-2. Mix all ingredients.
-3. Store in a spice jar.
+1. Optionally, toast whole ingredients (except saffron) for up to 10 minutes at 325° (or in a skillet) and let cool.
+   ![toasted](../images/moroccan1.png)
+2. Measure other ingredients.
+   ![measured](../images/moroccan2.png)
+3. Grind whole spices.
+   ![ground](../images/moroccan3.png)
+4. Mix.
+   ![mixed](../images/moroccan4.png)
+5. Store in a spice jar.
 
 ## Variants
 

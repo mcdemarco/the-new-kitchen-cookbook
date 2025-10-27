@@ -54,15 +54,25 @@ Makes 2--3 medium houses.
 1. Preheat oven to 375°, or 350° with convection.
 2. In a stand mixer with pastry cutter attachment **on low**, or by hand, cream granulated sugars and Crisco.
 3. Cream in eggs, then molasses.
-4. Mix other dry ingredients with a cup of the flour, and cream in. 
-5. Mix in four more cups of flour.
+   ![creaming](../images/gingerbread1.png)
+4. Mix other dry ingredients with a cup of the flour.
+   ![spice mix](../images/gingerbread2.png)
+5. Cream in, then mix in four more cups of flour.
+   ![flour in](../images/gingerbread3.png)
 6. If the dough is still sticky, add up to another cup of flour.
 7. Divide the dough in half and roll out onto parchment paper to 1/8" thickness.  (Note that this is thinner than most gingerbread house recipes.)
-8. For best results, cut shapes out in place, with about 1/2" spacing.  (Remove the spacing dough and optionally reroll to make any smaller parts.)  Don't forget to punch out any door and window holes at this point, and bake them separately or reroll.
-9. Bake 10--13 minutes.  If filling windows with crushed candy, pause at 7 minutes to do so, then stop baking when the windows look flat.  You may also want to remove small pieces like chimneys or cutout doors early. 
+   ![roll out](../images/gingerbread4.png)
+8. For best results, square up the dough and cut shapes out in place, with about 1/2" spacing.  Don't forget to punch out any door and window holes at this point, and bake them separately or reroll.
+   ![square up](../images/gingerbread5.png)
+8. Remove the spacing dough and optionally reroll to make any smaller parts.  
+9. Bake 10--13 minutes.  If filling windows with crushed candy, pause at 7 minutes to do so, then stop baking when the windows look flat.  You may also want to remove small pieces (like chimneys or cutout doors) early. 
+   ![bake](../images/gingerbread6.png)
 10. Let cool on the sheet(s) or on a rack.
 11. If making windows without crushed candy, leave windowed pieces face up on the parchment paper (or a silpat) and fill windows with the melted isomalt or sugar.  (See directions below.)  Cool again and carefully remove from parchment paper.
+   ![fill](../images/gingerbread7.png)
 12. Assemble the house on a sturdy base using [royal icing](../cookies/royalIcing.md) or melted sugar.
+   ![assemble](../images/gingerbread8.png)
+
 
 When filling windows, be careful to use enough crushed candy to account for settling, or, if using melted sugar, be careful not to overfill the holes.
 

@@ -64,6 +64,6 @@ The original recipe called for spreading the dough out to 8" x 10", but that see
 
 Focaccia doesn't need this much rising time, so feel free to cut some corners.
 
-If you get frustrated with the olives and garlic falling off, you can mix them into the dough.
+If you get frustrated with the olives and garlic falling off, you can mix them into the dough before or while kneading.
 
-For no-knead focaccia or for alternative toppings, see my [Olive and Garlic Focaccia recipe](../bread/nkOliveFocaccia.md).
+For no-knead focaccia and/or alternative toppings, see my [No-Knead Olive and Garlic Focaccia recipe](../bread/nkOliveFocaccia.md).

@@ -1,4 +1,5 @@
 [KitchenAid]: ../indices/kitchenAid.html
+[photographed]: ../indices/photographed.html
 
 # Applesauce Banana Bread
 
@@ -33,13 +34,16 @@ Makes one 9" x 5" loaf.
 1. Preheat oven to 350°.
 2. Grease a 9" x 5" loaf pan and dust with flour.
 3. Mash bananas (say, with a stand mixer).
+   ![mash bananas](../images/bananabread1.png)
 4. Optionally toast nuts 6--8 minutes in oven.
 5. Beat wet ingredients (including sugar), optionally in a stand mixer.
 6. In another bowl, mix together dry ingredients.
+   ![mix dry](../images/bananabread2.png)
 7. Add dry mixture to wet and mix.
 8. Stir in nuts.
 9. Fill loaf pan.
 10. Bake about 60 minutes until a wooden pick inserted in the center comes out clean.  If the top starts getting too dark, cover with foil.
+   ![bake](../images/bananabread3.png)
 11. Cool in the pan on a wire rack.
 
 ## Variants

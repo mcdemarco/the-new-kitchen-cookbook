@@ -1,4 +1,5 @@
 [KitchenAid]: ../indices/kitchenAid.html
+[photographed]: ../indices/photographed.html
 
 # Raisin-Walnut Challahtaschen
 
@@ -47,14 +48,20 @@ Makes 36 cookies.
 4. Line two cookie sheets with parchment paper.
 5. Roll out to 1/4" thick.
 6. Cut into 3" circles or hexagons.
+   ![cutting out](../images/challahtaschen1.png)
 7. Fill with a teaspoon of filling each.  Be careful not to overfill with something that will boil over, like jam.
 8. Pinch or fold into the triangular shape.
 9. Place on cookie sheets, spacing them an inch apart.
+   ![spacing out](../images/challahtaschen2.png)
 9. Brush with egg.
 10. Let rise 30 minutes.
+    ![rising](../images/challahtaschen3.png)
 11. Preheat oven to 350°.
 12. Bake 20 minutes until golden.
+    ![baking](../images/challahtaschen4.png)
 13. Optionally sprinkle with powdered sugar.
+    
+![done](../images/challahtaschen5.png)
 
 ### Filling
 

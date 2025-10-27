@@ -31,6 +31,7 @@ Serves 3--4.
 4. If measuring the flour by volume, do it in another bowl and mix them together, then add to the eggs.  Otherwise, zero the scale and add the chosen weight of semolina to the KitchenAid bowl.  Zero again and add the same weight of tipo 00 flour. 
 6. Mix on setting 1 with the standard paddle attachment or a dough hook until the eggs are incorporated.
 7. Knead with a dough hook on setting 2 for five minutes, scraping the dough down from the hook as necessary.
+   ![kneading with the dough hook](../images/pasta_hook.png)
 8. Remove and knead by hand for a minute.
 9. Knead in the mixer again for two minutes at setting 1.
 10. Wrap in plastic wrap and let rest about 20 minutes.

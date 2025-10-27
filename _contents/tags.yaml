@@ -112,6 +112,7 @@
   - bread/baguette.md
   - bread/ciabatta.md
   - bread/cinnamonFlatbread.md
+  - bread/eliopsomo.md
   - bread/fryDough.md
   - bread/garlicBreadsticks.md
   - bread/healthy.md
@@ -166,12 +167,16 @@
   - appetizers/berbere.md
   - appetizers/cinnamonSugar.md
   - appetizers/devilled.md
+  - appetizers/easyPaoDeQueijo.md
+  - appetizers/moroccanSpiceMix.md
   - appetizers/pumpkinSpice.md
   - appetizers/toddy.md
   - bread/baguette.md
   - bread/challah.md
   - bread/ciabatta.md
   - bread/cinnamonFlatbread.md
+  - bread/croissants.md
+  - bread/eliopsomo.md
   - bread/marble.md
   - bread/nkOliveFocaccia.md
   - bread/pizzaPizza.md
@@ -191,6 +196,7 @@
   - cookies/pizzellesByTheEgg.md
   - cookies/redBeanHamantaschen.md
   - cookies/riceFlour.md
+  - cookies/yeastHamantaschen.md
   - fish/kuku.md
   - fish/mackerel.md
   - fish/spicySalmon.md
@@ -209,12 +215,14 @@
   - pie/cherry.md
   - pie/crust.md
   - pie/fetaPuffs.md
+  - pie/galette.md
   - pie/nonDairyPumpkin.md
   - pie/pecan.md
   - poultry/chickenCurry.md
   - poultry/treda.md
   - poultry/turkeyChicken.md
   - poultry/tuscanChicken.md
+  - quick-bread/applesauceBananaBread.md
   - quick-bread/blueberryCornMuffins.md
   - quick-bread/blueberryPancakes.md
   - quick-bread/branMuffins.md
