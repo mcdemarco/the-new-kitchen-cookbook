@@ -39,18 +39,33 @@ Makes 10--12 croissants.
 5. Roll the dough out into a 10" x 10" rectangle.
 6. Traditionally, you would chill it at least 4 hours at this point.
 7. With a stand mixer and paddle attachment, cream the butter and flour for the butter layer.
+   ![cream butter](../images/croissants1.png)
 8. Traditionally, you would spread it into a 5" x 10" rectangle on a silpat for chilling for half an hour, then peel it back off to place it across the center of the dough.  Non-traditionally, smooth the butter out into a 5" x 10" rectangle directly onto the middle of the dough.
+   ![place butter](../images/croissants2.png)
+   ![spread butter](../images/croissants3.png)
 9. Fold the dough over the butter.  (The two edges should meet in the center over the butter.)  If the butter wasn't chilled already, you can chill the whole thing a bit now, or not.
+   ![fold](../images/croissants4.png)
 10. Roll out the folded dough and fold into thirds about three times, chilling a bit in between steps if the dough gets too warm or soft.
 11. Chill again until ready to shape, at least four hours or overnight.
 12. To shape, roll out on a lightly floured board into a 10" x 10" square or a 5" x 20" rectangle, then cut that into about 12 5" long triangles.
 13. Gently stretch triangles in both directions.  Notch the base (short) end of the triangle and roll up from there.  
 14. Curl slightly and place on a cookie sheet lined with parchment paper, with the point trapped underneath the croissant.
+   ![shaped](../images/croissants6.png)
 15. Let rise for one hour.
+   ![risen](../images/croissants7.png)
 16. Optionally, chill for another hour.
+   ![chillin'](../images/croissants8.png)
 17. Preheat oven to 400°F.
 18. Mix egg wash and brush croissants.
+   ![brush](../images/croissants9.png)
 19. Bake 20 minutes until golden, rotating halfway through.  Reduce heat if they get too brown.
+   ![bake](../images/croissants10.png)
+   ![bake more](../images/croissants11.png)
+20. Cool briefly on a rack.
+   ![cool](../images/croissants12.png)
+
+![the traditional crumb shot](../images/croissants13.png)
+
 
 ## Variants
 
