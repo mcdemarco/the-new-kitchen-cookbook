@@ -73,8 +73,8 @@ You can steal butter for the dough from the butter layer.
 
 Many recipes scald the milk and/or proof the yeast; this isn't necessary with modern ingredients.
 
-[Emma Fontanella](https://www.emmafontanella.com/the-easiest-croissants) has an interesting dosi-style approach to making croissants without all the folding and chilling.
-
 You can freeze the dough before shaping, or the shaped croissants after rising.  Defrost in the refrigerator before resuming where you left off.
 
 For mini croissants, cut the dough into about 18 triangles, chill the formed croissants only half an hour, and bake them about 15 minutes, reducing the temperature partway through.
+
+[Emma Fontanella](https://www.emmafontanella.com/the-easiest-croissants) has an interesting dosi-style approach to making croissants without all the folding and chilling.  In brief, after rising you divide the dough into 12 parts and the butter mix into 11 parts, roll the dough into circles, butter 11 sides and stack them up alternately.  Flatten the stack a bit and freeze for half an hour (or chill as desired).  Then roll out into a 15" circle, divide pizza-style into 12 triangles, and proceed as usual.

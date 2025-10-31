@@ -447,6 +447,9 @@
     new: 2023
   - name: Couscous Stuffed Squash
     filename: stuffedSquash
+  - name: Roasted Pumpkin Seeds
+    filename: pumpkinSeeds
+    new: 2025
   - name: Tzimmes
     filename: tzimmes
   - name: Root Roast
