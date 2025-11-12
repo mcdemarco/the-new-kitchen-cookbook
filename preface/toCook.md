@@ -70,6 +70,7 @@ This is my to-do list.
 * [Jerusalem bagels](https://jamiegeller.com/recipes/jerusalem-bagel/) [KitchenAid]
 * [Malassadas](https://leitesculinaria.com/7777/recipes-portuguese-malassadas-azorean-doughnuts.html) [KitchenAid]
 * [Yeast very flat bread](https://theitaliandishblog.com/imported-20090913150324/2010/6/8/parmesan-rosemary-flatbreads.html)  [KitchenAid], [PastaMachine]
+* [Olive Bread](https://www.themediterraneandish.com/olive-bread/#wprm-recipe-container-97096)
 
 ## Vegetables & Starches
 

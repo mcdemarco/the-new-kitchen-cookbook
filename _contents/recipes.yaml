@@ -681,6 +681,9 @@
     filename: chickenCurry
   - name: Instant Pot Chicken Vindaloo
     filename: ipChickenVindaloo
+  - name: Instant Pot Chicken Mole
+    filename: ipChickenMole
+    new: 2025
   - name: Treda
     filename: treda
     favorite: true
