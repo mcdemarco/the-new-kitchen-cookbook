@@ -35,7 +35,7 @@ Serves 3--4.
 ## Directions
 
 1. Start defrosting the chicken (just a bit) if it's frozen.
-2. Optionally toast the dried peppers, in a pan or the Instant Pot on sauté.  Remove and chop.
+2. Optionally toast the dried peppers, in a pan or the Instant Pot on sauté.  Remove and mince.
 3. Optionally, brown the onions in the oil on sauté.
 4. Optionally, add the chicken and brown to taste.
 5. Cancel sauté and deglaze the pot with the liquid ingredients (just pushing the chicken aside as needed).
@@ -47,4 +47,4 @@ Serves 3--4.
 
 ## Variants
 
-Ideally you should blend the sauce after cooking it, but I lack an appropriate tool for that step so I've omitted it.
+Ideally you should blend the sauce after cooking it, but I lack an appropriate tool for that step so I've omitted it.  Instead I use a spice grinder on the toasted peppers.

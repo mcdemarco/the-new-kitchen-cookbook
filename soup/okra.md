@@ -1,3 +1,5 @@
+[Instant Pot]: ../indices/instantPot.html
+
 # Okra Soup
 
 We had some fresh okra, cooked wild rice, store-bought chicken stock, and leftover chicken shreds lying around, so I made up a soup out of it.  It turned out to be a traditional way to prepare okra, though not one I'd tried before.  I really liked the effect of transferring the slime from the okra to the stock.
@@ -24,3 +26,5 @@ We had some fresh okra, cooked wild rice, store-bought chicken stock, and leftov
 Presumably regular rice would work as well as wild rice, and some celery wouldn't hurt.
 
 Traditional okra soups also include onion, garlic, red pepper, black pepper, and tomato.
+
+I've made this in the Instant Pot with a little optional sauteing of the okra and 7 minutes of cooking time (mainly chosen to cook some large couscous I threw in).  I also added half a can of tomatoes.
