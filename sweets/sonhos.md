@@ -1,3 +1,4 @@
+[hanukkah]: ../indices/hanukkah.html
 [photographed]: ../indices/photographed.html
 
 # Sonhos (Portuguese Doughnuts)

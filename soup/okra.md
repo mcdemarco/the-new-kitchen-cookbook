@@ -27,4 +27,4 @@ Presumably regular rice would work as well as wild rice, and some celery wouldn'
 
 Traditional okra soups also include onion, garlic, red pepper, black pepper, and tomato.
 
-I've made this in the Instant Pot with a little optional sauteing of the okra and 7 minutes of cooking time (mainly chosen to cook some large couscous I threw in).  I also added half a can of tomatoes.
+I've made this in the Instant Pot with a little optional sauteing of the okra and 7 minutes of cooking time (mainly chosen to cook some large couscous I threw in).  I also added half a can of tomatoes and a splash of vinegar.

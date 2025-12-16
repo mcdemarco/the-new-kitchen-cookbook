@@ -787,6 +787,9 @@
   - name: Ricotta Ponchiki (Russian Doughnuts)
     filename: ponchiki
     new: 2023
+  - name: Filhoses de Abóbora (Portuguese Pumpkin Fritters)
+    filename: filhoses
+    new: 2025
   - name: Crockpot Applesauce
     filename: crockpotApplesauce
   - name: Apple Crisp

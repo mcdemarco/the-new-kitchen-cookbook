@@ -45,6 +45,7 @@
   - soup/ipStock.md
   - soup/ipTomatoChicken.md
   - soup/mulligatawny.md
+  - soup/okra.md
   - vegetables/ipAdzuki.md
   - vegetables/ipArtichokes.md
   - vegetables/ipCannellini.md
@@ -73,6 +74,7 @@
   - quick-bread/scones.md
   - quick-bread/squashBread.md
   - roots/nonDairyMashedPotatoes.md
+  - sweets/filhoses.md
   - sweets/honeyCake.md
   - sweets/peachCake.md
   - sweets/ponchiki.md
@@ -104,7 +106,9 @@
   - quick-bread/ricottaPancakes.md
   - roots/latkes.md
   - roots/spinachRicottaLatkes.md
+  - sweets/filhoses.md
   - sweets/ponchiki.md
+  - sweets/sonhos.md
   - sweets/sufganiyot.md
 - tagname: noKnead
   filename: noKnead

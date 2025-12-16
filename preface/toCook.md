@@ -68,7 +68,7 @@ This is my to-do list.
 * [ABin5 Deep Dish Pizza](https://artisanbreadinfive.com/2016/03/30/deep-dish-pizza/) [KitchenAid]
 * [ABin5 Raisin Walnut Bread](https://artisanbreadinfive.com/2017/01/07/raisin-walnut-bread-emile-henry-bread-baker-red-star-platinum-yeast-and-new-abin5-giveaway/) or [this one](https://www.thisjess.com/no-knead-walnut-raisin-bread/) for a rounder dutch oven [KitchenAid]
 * [Jerusalem bagels](https://jamiegeller.com/recipes/jerusalem-bagel/) [KitchenAid]
-* [Malassadas](https://leitesculinaria.com/7777/recipes-portuguese-malassadas-azorean-doughnuts.html) [KitchenAid]
+* [Malassadas](https://leitesculinaria.com/7777/recipes-portuguese-malassadas-azorean-doughnuts.html) or [here](https://www.easyportugueserecipes.com/malassadas-fried-dough/) [KitchenAid]
 * [Yeast very flat bread](https://theitaliandishblog.com/imported-20090913150324/2010/6/8/parmesan-rosemary-flatbreads.html)  [KitchenAid], [PastaMachine]
 * [Olive Bread](https://www.themediterraneandish.com/olive-bread/#wprm-recipe-container-97096)
 
@@ -159,7 +159,7 @@ This is my to-do list.
 * [Marshmallows](https://www.tasteofhome.com/recipes/homemade-holiday-marshmallows/) [KitchenAid]
 * [Cheesecake](https://www.tasteofhome.com/recipes/ricotta-cheesecake/) [KitchenAid]
 * [Olive oil cake](https://www.bonappetit.com/recipe/olive-oil-cake) or [Chocolate olive oil cake](https://www.thekitchn.com/chocolate-olive-oil-cake-recipe-23075403) (both pareve) [KitchenAid]
-
+* *Hanukkah*: [Filhoses de Abóbora](https://portuguesebaking.com/wp-content/uploads/2022/12/Filhoses-de-abobora-class-recipe.pdf) 
 
 ### Cookies
 
@@ -193,7 +193,8 @@ This is my to-do list.
 * Homemade phyllo dough [with a pasta maker](https://www.thespruceeats.com/homemade-phyllo-dough-1705600) (note that the comments say the recipe is way off) or [without](https://www.mygreekdish.com/recipe/easy-homemade-phyllo-recipe-beginners/).  See also My Greek Dish's [spanakopita recipe](https://www.mygreekdish.com/recipe/traditional-greek-spinach-pie-spanakopita-recipe-with-homemade-phyllo/).  Other promising recipes for the [dough](https://deliciousfromscratch.com/filo-dough-recipe/) and ["pie"](https://deliciousfromscratch.com/spinach-feta-pie-recipe/) include [a local effort](https://thegarumfactory.net/2020/03/27/saloniki-spanakopita/)
 * [Tyropita](https://www.mygreekdish.com/recipe/tiropita-greek-feta-cheese-pie/)
 * Sweet Potato Pie (written up but not made)
-
+* [Chocolate Pie](https://www.thepioneerwoman.com/food-cooking/recipes/a11850/chocolate-pie/), per Zach (needs 6 1/2 oz bittersweet chocolate)
+* [Coconut cream chocolate pie](https://www.goya.com/en/recipes/coconut-cream-chocolate-pie/) (uses "dark" cocoa powder)
 
 
 ## Non-Food
