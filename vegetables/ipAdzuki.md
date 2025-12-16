@@ -1,6 +1,6 @@
 [Instant Pot]: ../indices/instantPot.html
 
-# Instant Pot Ad(z)uki Beans 
+# Instant Pot Ad(z)uki Beans
 
 I consulted [Adamant Kitchen's Adzuki bean recipe](https://adamantkitchen.com/instant-pot-adzuki-beans/) and [Just One Cookbook's Anko recipe](https://www.justonecookbook.com/pressure-cooker-anko-red-bean-paste/).  There doesn't seem to be as much controversy online about pressure cooking red beans as there is about rice.  While some recipes offer pre-soaked and unsoaked advice, I can't imagine ever getting my beans soaked ahead of time so this recipe is for dry dry beans.
 

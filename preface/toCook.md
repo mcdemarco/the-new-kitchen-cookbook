@@ -1,7 +1,7 @@
 [KitchenAid]: ../indices/kitchenAid.html
 [PastaMachine]: ../indices/pastaMachine.html
 
-# Things To Cook
+# Things to Cook
 
 This is my to-do list.
 

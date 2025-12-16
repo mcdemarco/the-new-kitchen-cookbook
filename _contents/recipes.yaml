@@ -128,7 +128,7 @@
     filename: spicyPumpkin
   - name: Sopa de Grao
     filename: chickpea
-  - name: Instant Pot Brown Lentil Soup
+  - name: Instant Pot Brown Lentil Stew
     filename: ipBrownLentil
   - name: Okra Soup
     filename: okra
@@ -274,17 +274,17 @@
   - name: Buttermilk Micro Donuts
     filename: buttermilkMicroDonuts
     new: 2025
-  - name:  Applesauce Banana Bread
+  - name: Applesauce Banana Bread
     filename: applesauceBananaBread
     new: 2024
-  - name:  Pumpkin Banana Bread
+  - name: Pumpkin Banana Bread
     filename: pumpkinBananaBread
     new: 2024
     hidden: true
-  - name:  Butternut Squash Bread
+  - name: Butternut Squash Bread
     filename: squashBread
     new: 2024
-  - name:  Peach Quick Bread
+  - name: Peach Quick Bread
     filename: peach
     new: 2025
     hidden: true
@@ -866,6 +866,10 @@
   - name: Non-Dairy Pumpkin Pie
     filename: nonDairyPumpkin
     favorite: true
+  - name: Non-Dairy Sweet Potato Pie
+    filename: ndSweetPotato
+    new: 2025
+    hidden: true
   - name: Red Bean Pie
     filename: redBean
     new: 2025
