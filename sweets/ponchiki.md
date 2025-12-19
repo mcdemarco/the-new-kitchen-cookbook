@@ -33,7 +33,7 @@ Makes 24--48 doughnut holes, depending on size.
 5. Fry up to 2 minutes per side (turning over halfway through if they don't turn themselves) until brown.  Keep the oil at 325°--350°F while cooking.
 6. Return oil to 375°F between batches.
 7. Drain on or over paper towels.
-8. Dust with sugar.  
+8. Dust with sugar.
 
 These can be served cool but should be eaten within two days.
 
@@ -41,4 +41,6 @@ These can be served cool but should be eaten within two days.
 
 Farmers cheese and cottage cheese are options, though the former is drier and the latter wetter so the recipe needs adjusting.
 
-I couldn't resist adding a dash of [pumpkin pie spice mix](../appetizers/pumpkinSpice.md).  Presumably you could add a larger quantity of cinnamon or another pie spice to the dough.  
+I couldn't resist adding a dash of [pumpkin pie spice mix](../appetizers/pumpkinSpice.md).  Presumably you could add a larger quantity of cinnamon or another pie spice to the dough.
+
+Here's [a similar recipe](https://www.myjewishlearning.com/the-nosher/lemon-ricotta-fritters-for-hanukkah/), but with lemon.

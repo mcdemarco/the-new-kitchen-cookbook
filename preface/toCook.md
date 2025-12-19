@@ -52,6 +52,7 @@ This is my to-do list.
 * [Savory egg custard](https://www.pressurecookrecipes.com/steamed-eggs-savory-egg-custard/) [InstantPot]
 * [Ramen eggs](https://www.pressurecookrecipes.com/ramen-egg-japanese-soft-boiled-egg/) (note in the hard boiled egg recipe?) [InstantPot]
 * [Egg loaf](https://www.pressurecookrecipes.com/instant-pot-kathy-egg-loaf/) (note in the hard boiled egg recipe?) [InstantPot]
+* *Hanukkah*: [Pão de queijo frito](https://www.tudogostoso.com.br/noticias/pao-de-queijo-frito-a3039.htm) (deep-fried pão de queijo) -- sadly I think this requires the non-easy recipe
 
 ## Slow Bread
 
@@ -77,7 +78,7 @@ This is my to-do list.
 * [Ful](http://web.archive.org/web/20161109062629/http://www.atasmanian.cooking/blog/2015/3/5/a-fool-for-ful)
 * [Beer Beans](https://www.markbittman.com/recipes-1/beer-glazed-black-beans)
 * [Pasta with Italian Squash](https://2sistersrecipes.com/pasta-with-italian-squash-or-calabaza/)
-* *Hanukkah*: [Keftes de Prasa](https://rebekahlowin.com/keftes-de-prasa-recipe/) ([source](https://web.archive.org/web/20210426182553/https://www.seriouseats.com/recipes/2009/09/keftes-de-prasa-sephardic-style-leek-fritters-rosh-hashanah-jewish-recipe.html)) or a more complicated one from [Gil Marks](https://toriavey.com/gil-marks-keftes-de-prassa-sephardic-leek-patties/)
+* *Hanukkah*: [Keftes de Prasa](https://rebekahlowin.com/keftes-de-prasa-recipe/) ([source](https://web.archive.org/web/20210426182553/https://www.seriouseats.com/recipes/2009/09/keftes-de-prasa-sephardic-style-leek-fritters-rosh-hashanah-jewish-recipe.html)) or a more complicated one from [Gil Marks](https://toriavey.com/gil-marks-keftes-de-prassa-sephardic-leek-patties/), or [this one](https://www.myjewishlearning.com/the-nosher/sephardic-leek-patties-for-hanukkah/) with optional feta
 * [Pickled okra](https://www.thespruceeats.com/pickled-okra-recipe-p2-2216859)
 * [Chana masala](https://smittenkitchen.com/2010/02/chana-masala/) --- chickpeas and tomatoes
 * [Chickpeas with greens](https://www.melbournefoodandwine.com.au/recipes/ella-mittass-chickpeas-baked-with-lemon-and-honey/)
@@ -171,6 +172,7 @@ This is my to-do list.
 * [Nutter Butters](https://www.epicurious.com/recipes/food/views/nutter-butter-cookies) [KitchenAid]
 * [Peppermint Meringues](https://www.upstateramblings.com/peppermint-meringues/) [KitchenAid]
 * [Ginger cookies](https://www.afarmgirlsdabbles.com/chewy-ginger-molasses-cookies/#recipe)
+* *Hanukkah:* [Kichels](https://www.myjewishlearning.com/the-nosher/kichels-recipe-jewish-bow-tie-cookies/) [PastaMachine] (the recipe does not promise to work in a pasta machine)
 
 #### Shortbread
 
