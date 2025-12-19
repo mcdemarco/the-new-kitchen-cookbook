@@ -25,7 +25,7 @@ If you have a 14" pizza stone, you can make _Artisan Bread in 5_ pizza from vari
 3. Transfer dough to a peel or flat cookie sheet.
 3. Spread sauce on pizza, not too thickly.  ![sauced](../images/pizza_sauced.png)
 4. Season to taste.  ![spiced](../images/pizza_spiced.png)
-5. Distribute cheese.  ![cheesed](../images/pizza_cheeed.png)
+5. Distribute cheese.  ![cheesed](../images/pizza_cheesed.png)
 6. Distribute remaining toppings.  ![topped](../images/pizza_topped.png)
 7. Transfer dough carefully to stone.
 7. Bake 10--15 minutes.  Use a knife to poke holes in any bubbles you may spot.

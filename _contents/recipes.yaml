@@ -790,6 +790,7 @@
   - name: Filhoses de Abóbora (Portuguese Pumpkin Fritters)
     filename: filhoses
     new: 2025
+    hidden: true
   - name: Crockpot Applesauce
     filename: crockpotApplesauce
   - name: Apple Crisp
