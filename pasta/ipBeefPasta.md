@@ -3,7 +3,7 @@
 
 # Instant Pot Pasta with Ground Beef
 
-I wasn't sure I believed the Instant Pot could make pasta, but I succeeded with [Instant Pot Pasta with Ground Turkey](../ipTurkeyPasta.md).  
+I wasn't sure I believed the Instant Pot could make pasta, but I succeeded with [Instant Pot Pasta with Ground Turkey](../pasta/ipTurkeyPasta.md).  
 I get beef in different quantities so I adjusted the recipe for that and spice, below (and for the flavor of cooking the pasta in the sauce).
 
 Serves 2.
@@ -47,6 +47,6 @@ You can use raw tomato sauce or prepackaged marinara.  If going raw, you may wan
 
 Green beans worked well as a vegetable.
 
-This recipe is a variant in size and meat of my [Instant Pot Pasta with Ground Turkey](../ipTurkeyPasta.md).
+This recipe is a variant in size and meat of my [Instant Pot Pasta with Ground Turkey](../pasta/ipTurkeyPasta.md).
 
 Instant pot [bolognese](https://www.pressurecookrecipes.com/instant-pot-spaghetti-bolognese/) or [American goulash](https://spicecravings.com/instant-pot-goulash-recipe) are similar adaptations of the [stovetop](../pasta/bolognese.md) [recipes](../pasta/chopsuey.md).

@@ -31,6 +31,6 @@ Makes 9--12 small biscuits.
 
 The original recipe suggested substituting full fat plain yogurt for the sour cream, but made no promises.  I tried a mix of sour cream and yogurt.
 
-For non-dairy biscuits see my [coconut oil](../coconutOilBiscuits.md) or [Guinness](../quick-bread/guinnessBiscuits.md) biscuits.
+For non-dairy biscuits see my [coconut oil](../quick-bread/coconutOilBiscuits.md) or [Guinness](../quick-bread/guinnessBiscuits.md) biscuits.
 
 I haven't tried it, but [this three-ingredient recipe](https://www.southernliving.com/food/bread/three-ingredient-sour-cream-biscuits) is the simplest.  Per cup of non-self-rising flour, you would also need 1 tsp. baking powder, 1/4 tsp. baking soda, and 1/2 tsp. salt.
