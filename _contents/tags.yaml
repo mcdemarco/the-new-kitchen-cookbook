@@ -103,6 +103,9 @@
 - tagname: hanukkah
   filename: hanukkah
   paths:
+  - appetizers/friedCheese.md
+  - appetizers/paoDeQueijoFrito.md
+  - bread/fryDough.md
   - quick-bread/ricottaPancakes.md
   - roots/latkes.md
   - roots/spinachRicottaLatkes.md

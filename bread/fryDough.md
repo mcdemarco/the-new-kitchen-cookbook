@@ -1,3 +1,4 @@
+[hanukkah]: ../indices/hanukkah.html
 [noKnead]: ../indices/noKnead.html
 
 # Fry Dough(nuts)

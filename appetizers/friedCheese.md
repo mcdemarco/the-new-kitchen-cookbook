@@ -1,3 +1,5 @@
+[hanukkah]: ../indices/hanukkah.html
+
 # Fried Cheese
 
 Get some frying cheese and [fry it](https://www.thespruceeats.com/fried-halloumi-cheese-meze-1705293)!  (It's even easier to grill frying cheese, but that would lead to a more ambiguous recipe title.)

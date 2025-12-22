@@ -59,6 +59,9 @@
   - name: No-Knead Pão de Queijo (Brazilian Cheese Bread)
     filename: easyPaoDeQueijo
     favorite: true
+  - name: Pão de Queijo Frito (Deep-Fried Brazilian Cheese Bread)
+    filename: paoDeQueijoFrito
+    new: 2025
   - name: Coffee
     filename: coffee
   - name: Fenugreek Tea

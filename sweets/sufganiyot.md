@@ -7,7 +7,7 @@ This recipe is adapted from various online recipes for yeast sufganiyot, such as
 
 There are non-dairy ingredient options to make the doughnuts non-dairy, but my frying oil was already dairy from making sonhos, so I didn't try that.  There is a break for (presumably overnight) refrigeration described at Leite's, if you need one.
 
-Makes 18 doughnuts.
+Makes 18 doughnuts
 
 ## Ingredients
 
@@ -21,6 +21,7 @@ Makes 18 doughnuts.
 * 1/2 tsp vanilla extract
 * 1/4 c. butter or oil
 * 3/4 tsp. salt
+* 1 tsp. cinnamon (optional)
 
 ### Nuts
 
@@ -43,9 +44,10 @@ Makes 18 doughnuts.
 
 ## Variants
 
-I haven't tried these variants, but they sound interesting.
+You can make the donuts smaller and get more.
 
-* Add 1 tsp. cinnamon to the dough.
+I haven't tried these variants, but they sound interesting:
+
 * Add 1/2 tsp. zest to the dough.
 * Replace some liquid with brandy or orange juice (also see Sfenj in The Book of Jewish Food).
 
