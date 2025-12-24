@@ -37,6 +37,15 @@ Peter is responsible for the eggnog variant.
 * 1 3/4 c. flour
 * 2 tsp. baking powder
 
+### Nine Eggs
+
+* 9 eggs
+* 2 1/4 c. sugar
+* 1 1/2 c. pure olive oil
+* 3 T extract (or 1 T flavor oil)
+* 5 1/4 c. flour
+* 2 T baking powder
+
 ## Directions
 
 See the [full pizzelle recipe](../cookies/pizzelles.md) for directions.
