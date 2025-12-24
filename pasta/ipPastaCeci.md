@@ -3,7 +3,7 @@
 
 # Instant Pot Pasta e Ceci
 
-I so believe in Instant Pot pasta after my [Instant Pot Pasta with Ground Turkey](../ipTurkeyPasta.md) and [Instant Pot Pasta with Ground Beef](../ipBeefPasta.md), that my first thought about Smitten Kitchen's [pasta e ceci recipe](https://smittenkitchen.com/2017/10/quick-pasta-and-chickpeas-pasta-e-ceci/) was *this would work in the Instant Pot*.  
+I so believe in Instant Pot pasta after my [Instant Pot Pasta with Ground Turkey](../ipTurkeyPasta.md) and [Instant Pot Pasta with Ground Beef](../ipBeefPasta.md), that my first thought about Smitten Kitchen's [pasta e ceci recipe](https://smittenkitchen.com/2017/10/quick-pasta-and-chickpeas-pasta-e-ceci/) was *this would work in the Instant Pot*. 
 The internet, in the person of Chhavi at YellowThyme, [agreed](https://www.yellowthyme.com/pasta-e-ceci/).
 
 *Ceci* is Italian for chickpeas, which is English for (the apparently Basque term) garbanzo beans, but feel free to substitute a white canned bean like cannellini.

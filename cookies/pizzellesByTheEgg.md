@@ -10,12 +10,32 @@ Peter is responsible for the eggnog variant.
 
 ## Ingredients
 
+### One Egg
+
 * 1 egg
 * 1/4 c. sugar
-* 1/6 c. pure olive oil (2 T. + 2 tsp)
+* 1/6 c. pure olive oil (2 T + 2 tsp.)
 * 1 tsp. extract (or 1/4 tsp. flavor oil)
 * scant 2/3 c. flour
 * 2/3 tsp. baking powder
+
+### Two Eggs
+
+* 2 eggs
+* 1/2 c. sugar
+* 1/3 c. pure olive oil
+* 2 tsp. extract (or 1/2 tsp. flavor oil)
+* 1 1/6 c. flour (1 c. + 2 T + 2 tsp.)
+* 1 1/4 tsp. baking powder
+
+### Three Eggs
+
+* 3 eggs
+* 3/4 c. sugar
+* 1/2 c. pure olive oil
+* 1 T. extract (or 1 tsp. flavor oil)
+* 1 3/4 c. flour
+* 2 tsp. baking powder
 
 ## Directions
 
@@ -27,7 +47,7 @@ See the [full pizzelle recipe](../cookies/pizzelles.md) for directions.
 
 For real pizzelles use anise extract or oil. 
 
-For chocolate pizzelles use vanilla extract and add 1 T. cocoa and 1 T. sugar.
+For chocolate pizzelles use vanilla extract and add 1 T. cocoa and 1 T. sugar per egg.
 
 For almond pizzelles use 1 tsp. almond extract.
 
