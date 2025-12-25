@@ -4,7 +4,7 @@
 
 ![watercolor pizzelle iron](../images/pizzelleironwc.png)
 
-This version of the recipe is for cookie math as well as variants like chocolate pizzelles, eggnog pizzelles, etc.  I sometimes go up to 8 eggs or experiment with a couple, so I broke down the pizzelle recipe to a single egg.
+This version of the recipe is for cookie math as well as variants like chocolate pizzelles, eggnog pizzelles, etc.  I sometimes go up to 8 eggs or experiment with a couple, so I broke down the pizzelle recipe to a single egg.  Some sizing up is also included.
 
 Peter is responsible for the eggnog variant.
 
