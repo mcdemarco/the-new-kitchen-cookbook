@@ -26,5 +26,5 @@ Serves 2.
 
 ## Variants
 
-You can bake this around 15 minutes at 375° instead.
+You can bake this around 15 minutes at 375° instead (or 20 minutes at 300°).
 

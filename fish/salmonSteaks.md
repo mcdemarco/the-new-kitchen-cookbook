@@ -2,7 +2,7 @@
 
 # Soy Sauce Salmon Steaks
 
-This recipe was inspired by an oversized 1.5 lb. salmon steak, which I cut in half down the spine line in order to put the skin side down.  Quantities are approximate.
+This recipe was inspired by an oversized 1.5 lb. salmon steak, which I cut in half down the spine line in order to put the skin side down.  I've also used it on sockeye filets; see the variants for cooking time.  Quantities are approximate.
 
 Serves 2.
 
@@ -31,4 +31,4 @@ Serves 2.
 
 If you don't have wasabi powder, powdered or fresh mustard will do.
 
-You can substitute maple syrup for the honey, making this a lot like my [Maple Broiled Salmon](../fish/broiledSalmon.md).
+You can substitute maple syrup for the honey, making this a lot like my [Maple Broiled Salmon](../fish/broiledSalmon.md).  This is the version I've used for sockeye; when cooking filets I do 15--20 minutes at 300°, depending on thickness.

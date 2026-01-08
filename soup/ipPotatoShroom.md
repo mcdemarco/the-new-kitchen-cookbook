@@ -4,7 +4,7 @@
 
 Potato mushroom is a popular vegetarian soup combo, but due to demands for *meat meat meat* this one includes chicken.  Most inspired by Raia's [Chunky Chicken Potato Soup in the Instant Pot](https://raiasrecipes.com/2024/11/chunky-chicken-potato-soup.html).  As usual, I tossed the chicken in still frozen.
 
-Serves 2--3.
+Serves 2--4.
 
 ## Ingredients
 
@@ -20,6 +20,7 @@ Serves 2--3.
 * 1 tsp. oregano
 * 1 bay leaf or 1/4 tsp. ground bay
 * 1/2 tsp. [Ras el Hanout](../appetizers/moroccanSpiceMix.md) (optional)
+* generoun dash smoked paprika
 * dash cayenne
 * salt and pepper to taste
 
