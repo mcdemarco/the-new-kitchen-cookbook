@@ -4,7 +4,7 @@
 # Moroccan Spice Mix (Ras el Hanout)
 
 This is good for putting on frozen vegetables, [roasted chickpeas](../appetizers/chickpeas.md), or [whiting](https://www.thespruceeats.com/whiting-moroccan-fried-fish-recipe-2394646) (1 tsp. per pound).
-I've revised it to include more spices, but not too much cinnamon, a la [MarocMama](https://marocmama.com/how-to-make-ras-el-hanout/).
+I've revised it to include more spices, but not too much cinnamon, a la [MarocMama](https://marocmama.com/how-to-make-ras-el-hanout/).  At some point I also looked at [Epicurious' recipe](https://www.epicurious.com/recipes/food/views/ras-el-hanout-101070).
 
 Makes 1 jar.
 
@@ -51,3 +51,5 @@ Some ingredients are optional because I don't keep them around.
 Rose petals, lavender, and orris root are other optional ingredients I also don't have around, and seemed rare enough not to bother listing.
 
 Feel free to move spices (in their whole versions) to the grinding portion of the recipe.  Quantities are flexible enough to just eyeball them.
+
+

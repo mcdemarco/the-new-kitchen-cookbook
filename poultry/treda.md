@@ -66,7 +66,7 @@ I served this with macaroni (in addition to the bread) the first time, and Peter
 
 I once substituted 1 lb boneless thighs for the 1 1/2 lbs bone-in thighs.
 
-More spice/herb options are discussed at [Taste of Maroc](https://tasteofmaroc.com/moroccan-chicken-rfissa/), most notably Ras el Hanout.
+More spice/herb options are discussed at [Taste of Maroc](https://tasteofmaroc.com/moroccan-chicken-rfissa/), most notably [Ras el Hanout](../appetizers/moroccanSpiceMix.md).
 
 You may want to increase the liquid by 1/2--1 cup if your Instant Pot tends to emit burn notices.
 

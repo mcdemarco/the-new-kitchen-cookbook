@@ -127,6 +127,9 @@
   - name: Instant Pot Potato Leek Soup
     filename: ipPotatoLeek
     new: 2023
+  - name: Instant Pot Potato Mushroom (Chicken) Soup
+    filename: ipPotatoShroom
+    new: 2026
   - name: Spicy Pumpkin Carrot Soup
     filename: spicyPumpkin
   - name: Sopa de Grao
