@@ -525,7 +525,6 @@
     filename: farroSalad
     redirect: salad
 
-
 - name: Pasta
   filename: pasta
   files:
@@ -537,6 +536,9 @@
     new: 2023
   - name: Orecchiette with Anchovy Sauce
     filename: orecchiette
+  - name: Pasta with Mushrooms and Olives 
+    filename: mushroomOlive
+    new: 2026    
   - name: Alfredo Sauce
     filename: alfredo
   - name: Pesto
